@@ -1,0 +1,3418 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "prek_count_001",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many apples?",
+      "visual": "🍎🍎🍎",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "Count each apple: 1, 2, 3."
+    },
+    {
+      "id": "prek_count_002",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many stars?",
+      "visual": "⭐⭐⭐⭐⭐",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "Count the stars — there are 5."
+    },
+    {
+      "id": "prek_count_003",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "How many hearts?",
+      "visual": "❤️❤️❤️❤️❤️❤️❤️",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "Count carefully — there are 7 hearts."
+    },
+    {
+      "id": "prek_shape_001",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which one is a circle?",
+      "visual": null,
+      "options": [
+        "⬜",
+        "🔺",
+        "⚫",
+        "⭐"
+      ],
+      "correct": 2,
+      "explain": "A circle is round — like a ball."
+    },
+    {
+      "id": "prek_shape_002",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which one is a triangle?",
+      "visual": null,
+      "options": [
+        "🔺",
+        "⬜",
+        "⚫",
+        "❤️"
+      ],
+      "correct": 0,
+      "explain": "A triangle has 3 sides and 3 points."
+    },
+    {
+      "id": "prek_color_001",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Colors",
+      "difficulty": 1,
+      "prompt": "Which one is red?",
+      "visual": null,
+      "options": [
+        "🟦",
+        "🟥",
+        "🟩",
+        "🟨"
+      ],
+      "correct": 1,
+      "explain": "Red is the color of a strawberry or a fire truck."
+    },
+    {
+      "id": "prek_letter_001",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which letter does APPLE start with?",
+      "visual": "🍎",
+      "options": [
+        "B",
+        "A",
+        "P",
+        "E"
+      ],
+      "correct": 1,
+      "explain": "Apple starts with the letter A."
+    },
+    {
+      "id": "prek_letter_002",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which letter does BALL start with?",
+      "visual": "⚽",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": 1,
+      "explain": "Ball starts with B."
+    },
+    {
+      "id": "prek_big_001",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 2,
+      "prompt": "Which is BIGGER?",
+      "visual": "🐘 🐜",
+      "options": [
+        "🐘",
+        "🐜",
+        "Same",
+        "I don't know"
+      ],
+      "correct": 0,
+      "explain": "An elephant is much bigger than an ant."
+    },
+    {
+      "id": "prek_add_001",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "1 + 1 = ?",
+      "visual": "🍎 + 🍎",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explain": "One apple plus one apple makes two apples."
+    },
+    {
+      "id": "prek_pic_001",
+      "grade": "prek",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the star! ⭐",
+      "visual": null,
+      "options": [
+        "star.fill",
+        "circle.fill",
+        "triangle.fill",
+        "square.fill"
+      ],
+      "correct": 0,
+      "explain": "A star has lots of points — like the one in the sky at night!"
+    },
+    {
+      "id": "prek_pic_002",
+      "grade": "prek",
+      "subject": "picture",
+      "topic": "Nature",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the sun! ☀️",
+      "visual": null,
+      "options": [
+        "moon.fill",
+        "cloud.fill",
+        "sun.max.fill",
+        "snowflake"
+      ],
+      "correct": 2,
+      "explain": "The sun shines bright during the day and keeps us warm!"
+    },
+    {
+      "id": "prek_pic_003",
+      "grade": "prek",
+      "subject": "picture",
+      "topic": "Animals",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the fish! 🐟",
+      "visual": null,
+      "options": [
+        "bird",
+        "ant",
+        "hare",
+        "fish"
+      ],
+      "correct": 3,
+      "explain": "Fish live in the water and use fins to swim."
+    },
+    {
+      "id": "prek_pic_004",
+      "grade": "prek",
+      "subject": "picture",
+      "topic": "Places",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the house! 🏠",
+      "visual": null,
+      "options": [
+        "house.fill",
+        "car.fill",
+        "airplane",
+        "bicycle"
+      ],
+      "correct": 0,
+      "explain": "A house is where people live — it has walls, a roof, and doors."
+    },
+    {
+      "id": "prek_pic_005",
+      "grade": "prek",
+      "subject": "picture",
+      "topic": "Nature",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the leaf! 🍃",
+      "visual": null,
+      "options": [
+        "drop.fill",
+        "flame.fill",
+        "leaf.fill",
+        "snowflake"
+      ],
+      "correct": 2,
+      "explain": "Leaves grow on trees and plants and are usually green."
+    },
+    {
+      "id": "prek_read_001",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 1,
+      "type": "reading",
+      "prompt": "The sky is ___ during the day.",
+      "visual": null,
+      "options": [
+        "black",
+        "blue",
+        "green",
+        "red"
+      ],
+      "correct": 1,
+      "explain": "The daytime sky looks blue because of the way sunlight travels through air."
+    },
+    {
+      "id": "prek_read_002",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 1,
+      "type": "reading",
+      "prompt": "A dog says ___.",
+      "visual": "🐶",
+      "options": [
+        "meow",
+        "moo",
+        "woof",
+        "quack"
+      ],
+      "correct": 2,
+      "explain": "Dogs bark and say woof! Cats say meow, cows say moo, and ducks say quack."
+    },
+    {
+      "id": "prek_read_003",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 1,
+      "type": "reading",
+      "prompt": "Fish live in the ___.",
+      "visual": "🐟",
+      "options": [
+        "sky",
+        "tree",
+        "water",
+        "desert"
+      ],
+      "correct": 2,
+      "explain": "Fish live in water — in oceans, lakes, and rivers."
+    },
+    {
+      "id": "prek_read_004",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "prompt": "We sleep at ___.",
+      "visual": "🌙",
+      "options": [
+        "noon",
+        "breakfast",
+        "night",
+        "school"
+      ],
+      "correct": 2,
+      "explain": "Most people go to sleep at night when it is dark outside."
+    },
+    {
+      "id": "prek_read_005",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "prompt": "The sun gives us light and ___.",
+      "visual": "☀️",
+      "options": [
+        "rain",
+        "cold",
+        "warmth",
+        "snow"
+      ],
+      "correct": 2,
+      "explain": "The sun gives off heat and light that keep Earth warm."
+    },
+    {
+      "id": "g12_add_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "7 + 5 = ?",
+      "visual": null,
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "explain": "7 + 5 = 12."
+    },
+    {
+      "id": "g12_add_002",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "14 + 8 = ?",
+      "visual": null,
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "correct": 2,
+      "explain": "14 + 8 = 22."
+    },
+    {
+      "id": "g12_sub_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "13 − 6 = ?",
+      "visual": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "13 − 6 = 7."
+    },
+    {
+      "id": "g12_sub_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "20 − 9 = ?",
+      "visual": null,
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "explain": "20 − 9 = 11."
+    },
+    {
+      "id": "g12_pv_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "In the number 47, what does the 4 mean?",
+      "visual": null,
+      "options": [
+        "4 ones",
+        "4 tens",
+        "4 hundreds",
+        "4 fours"
+      ],
+      "correct": 1,
+      "explain": "The 4 is in the tens place, so it means 40 — four tens."
+    },
+    {
+      "id": "g12_time_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "How many minutes are in one hour?",
+      "visual": "⏰",
+      "options": [
+        "30",
+        "45",
+        "60",
+        "100"
+      ],
+      "correct": 2,
+      "explain": "There are 60 minutes in an hour."
+    },
+    {
+      "id": "g12_money_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 2,
+      "prompt": "You have 3 dimes. How many cents is that?",
+      "visual": "🪙🪙🪙",
+      "options": [
+        "3¢",
+        "15¢",
+        "30¢",
+        "50¢"
+      ],
+      "correct": 2,
+      "explain": "Each dime is 10¢. 3 × 10 = 30¢."
+    },
+    {
+      "id": "g12_read_001",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "prompt": "Which word means the opposite of HOT?",
+      "visual": null,
+      "options": [
+        "Warm",
+        "Cold",
+        "Wet",
+        "Fast"
+      ],
+      "correct": 1,
+      "explain": "Cold is the opposite of hot."
+    },
+    {
+      "id": "g12_read_002",
+      "grade": "g2",
+      "subject": "spelling",
+      "topic": "Spelling",
+      "difficulty": 2,
+      "prompt": "Which is spelled correctly?",
+      "visual": null,
+      "options": [
+        "freind",
+        "friend",
+        "frend",
+        "friende"
+      ],
+      "correct": 1,
+      "explain": "The correct spelling is FRIEND — i before e."
+    },
+    {
+      "id": "g12_logic_001",
+      "grade": "g1",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "What comes next? 2, 4, 6, 8, ___",
+      "visual": null,
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 1,
+      "explain": "The pattern adds 2 each time: 8 + 2 = 10."
+    },
+    {
+      "id": "g12_pic_001",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Which shape has 3 sides?",
+      "visual": null,
+      "options": [
+        "square.fill",
+        "circle.fill",
+        "triangle.fill",
+        "hexagon.fill"
+      ],
+      "correct": 2,
+      "explain": "A triangle has exactly 3 sides and 3 corners."
+    },
+    {
+      "id": "g12_pic_002",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Animals",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Tap the animal that can fly!",
+      "visual": null,
+      "options": [
+        "fish",
+        "tortoise",
+        "bird",
+        "ant"
+      ],
+      "correct": 2,
+      "explain": "Most birds have wings and can fly. Fish, tortoises, and ants cannot."
+    },
+    {
+      "id": "g12_pic_003",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Nature",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Which comes out at night?",
+      "visual": null,
+      "options": [
+        "sun.max.fill",
+        "cloud.fill",
+        "moon.fill",
+        "drop.fill"
+      ],
+      "correct": 2,
+      "explain": "The moon rises in the sky at night after the sun sets."
+    },
+    {
+      "id": "g12_pic_004",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Weather",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Which weather brings rain?",
+      "visual": null,
+      "options": [
+        "sun.max.fill",
+        "snowflake",
+        "cloud.rain.fill",
+        "wind"
+      ],
+      "correct": 2,
+      "explain": "Rain comes from clouds — dark rain clouds drop water droplets to the ground."
+    },
+    {
+      "id": "g12_pic_005",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Vehicles",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the vehicle that flies in the sky!",
+      "visual": null,
+      "options": [
+        "car.fill",
+        "bicycle",
+        "airplane",
+        "bus"
+      ],
+      "correct": 2,
+      "explain": "Airplanes fly through the sky. Cars, bikes, and buses travel on roads."
+    },
+    {
+      "id": "g12_read_003",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Sam has a big red ball. He takes it to the park every day. His dog loves to chase the ball across the grass.",
+      "prompt": "What color is Sam's ball?",
+      "visual": null,
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 2,
+      "explain": "The passage says Sam has a 'big red ball' — so it's red!"
+    },
+    {
+      "id": "g12_read_004",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Birds have feathers and two wings. Most birds can fly, but penguins and ostriches cannot. All birds lay eggs to have babies.",
+      "prompt": "Which bird CANNOT fly?",
+      "visual": null,
+      "options": [
+        "Eagle",
+        "Robin",
+        "Penguin",
+        "Parrot"
+      ],
+      "correct": 2,
+      "explain": "The passage tells us penguins cannot fly — they use their wings to swim instead!"
+    },
+    {
+      "id": "g12_read_005",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Lily planted a seed in a pot. She watered it every morning. After two weeks, a small green sprout appeared in the soil.",
+      "prompt": "What did Lily do every morning?",
+      "visual": "🌱",
+      "options": [
+        "Read a book",
+        "Watered the plant",
+        "Fed her pet",
+        "Went for a walk"
+      ],
+      "correct": 1,
+      "explain": "The story says Lily watered the plant every morning until a sprout appeared."
+    },
+    {
+      "id": "g12_read_006",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "prompt": "A group of fish swimming together is called a ___.",
+      "visual": "🐟",
+      "options": [
+        "pack",
+        "flock",
+        "school",
+        "herd"
+      ],
+      "correct": 2,
+      "explain": "A group of fish is called a school. A pack is wolves, a flock is birds, a herd is cattle."
+    },
+    {
+      "id": "g12_read_007",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "The moon does not make its own light. It reflects light from the sun. That is why we can see the bright moon on dark nights.",
+      "prompt": "Where does moonlight actually come from?",
+      "visual": "🌙",
+      "options": [
+        "The moon itself",
+        "The stars",
+        "The sun",
+        "The Earth"
+      ],
+      "correct": 2,
+      "explain": "The moon reflects sunlight — it bounces the sun's light toward Earth so we can see it."
+    },
+    {
+      "id": "g35_mult_001",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "7 × 8 = ?",
+      "visual": null,
+      "options": [
+        "54",
+        "56",
+        "58",
+        "64"
+      ],
+      "correct": 1,
+      "explain": "7 × 8 = 56."
+    },
+    {
+      "id": "g35_mult_002",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "12 × 6 = ?",
+      "visual": null,
+      "options": [
+        "62",
+        "68",
+        "72",
+        "76"
+      ],
+      "correct": 2,
+      "explain": "12 × 6 = 72."
+    },
+    {
+      "id": "g35_div_001",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "45 ÷ 5 = ?",
+      "visual": null,
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explain": "5 × 9 = 45, so 45 ÷ 5 = 9."
+    },
+    {
+      "id": "g35_div_002",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "64 ÷ 8 = ?",
+      "visual": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "8 × 8 = 64, so 64 ÷ 8 = 8."
+    },
+    {
+      "id": "g35_frac_001",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which fraction is the largest?",
+      "visual": null,
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/8"
+      ],
+      "correct": 0,
+      "explain": "When the top number is the same, the smaller the bottom, the bigger the piece. 1/2 is largest."
+    },
+    {
+      "id": "g35_frac_002",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "1/2 of 20 = ?",
+      "visual": null,
+      "options": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 2,
+      "explain": "Half of 20 is 10."
+    },
+    {
+      "id": "g35_geom_001",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 3,
+      "prompt": "A rectangle has sides 4 and 6. What's its perimeter?",
+      "visual": null,
+      "options": [
+        "10",
+        "20",
+        "24",
+        "30"
+      ],
+      "correct": 1,
+      "explain": "Perimeter = 2×(4+6) = 2×10 = 20."
+    },
+    {
+      "id": "g35_word_001",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Ben has 24 stickers. He gives 3 friends 6 stickers each. How many are left?",
+      "visual": null,
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 1,
+      "explain": "3 × 6 = 18 given away. 24 − 18 = 6 stickers left."
+    },
+    {
+      "id": "g35_read_001",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "What does ENORMOUS mean?",
+      "visual": null,
+      "options": [
+        "Tiny",
+        "Very big",
+        "Loud",
+        "Fast"
+      ],
+      "correct": 1,
+      "explain": "Enormous means very big or huge."
+    },
+    {
+      "id": "g35_spell_001",
+      "grade": "g4",
+      "subject": "spelling",
+      "topic": "Spelling",
+      "difficulty": 3,
+      "prompt": "Which is spelled correctly?",
+      "visual": null,
+      "options": [
+        "beutiful",
+        "beautful",
+        "beautiful",
+        "beautifull"
+      ],
+      "correct": 2,
+      "explain": "Beautiful — b-e-a-u-t-i-f-u-l."
+    },
+    {
+      "id": "g35_logic_001",
+      "grade": "g4",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 3,
+      "prompt": "What number comes next? 3, 6, 12, 24, ___",
+      "visual": null,
+      "options": [
+        "30",
+        "36",
+        "48",
+        "60"
+      ],
+      "correct": 2,
+      "explain": "Each number doubles: 24 × 2 = 48."
+    },
+    {
+      "id": "g35_logic_002",
+      "grade": "g3",
+      "subject": "logic",
+      "topic": "Logic",
+      "difficulty": 3,
+      "prompt": "If all cats are animals, and Mia is a cat, then Mia is a ___?",
+      "visual": "🐱",
+      "options": [
+        "Dog",
+        "Animal",
+        "Plant",
+        "Fish"
+      ],
+      "correct": 1,
+      "explain": "Since Mia is a cat, and all cats are animals, Mia must be an animal."
+    },
+    {
+      "id": "g35_pic_001",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Geometry",
+      "difficulty": 3,
+      "type": "picture",
+      "prompt": "Which shape has 6 sides?",
+      "visual": null,
+      "options": [
+        "triangle.fill",
+        "square.fill",
+        "diamond.fill",
+        "hexagon.fill"
+      ],
+      "correct": 3,
+      "explain": "A hexagon has 6 sides — like a honeycomb cell or a stop sign in some countries."
+    },
+    {
+      "id": "g35_pic_002",
+      "grade": "g4",
+      "subject": "picture",
+      "topic": "Science",
+      "difficulty": 3,
+      "type": "picture",
+      "prompt": "Which symbol represents electricity?",
+      "visual": null,
+      "options": [
+        "drop.fill",
+        "flame.fill",
+        "bolt.fill",
+        "wind"
+      ],
+      "correct": 2,
+      "explain": "A lightning bolt is the universal symbol for electricity and electric power."
+    },
+    {
+      "id": "g35_pic_003",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Science",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Tap the symbol for frozen water!",
+      "visual": null,
+      "options": [
+        "drop.fill",
+        "flame.fill",
+        "snowflake",
+        "cloud.fill"
+      ],
+      "correct": 2,
+      "explain": "A snowflake represents frozen water — water turns to ice or snow when it gets cold enough."
+    },
+    {
+      "id": "g35_pic_004",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Animals",
+      "difficulty": 3,
+      "type": "picture",
+      "prompt": "Which animal is an insect?",
+      "visual": null,
+      "options": [
+        "bird",
+        "fish",
+        "hare",
+        "ant"
+      ],
+      "correct": 3,
+      "explain": "Ants are insects — they have 6 legs and 3 body parts. Birds, fish, and hares are not insects."
+    },
+    {
+      "id": "g35_pic_005",
+      "grade": "g4",
+      "subject": "picture",
+      "topic": "Geometry",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Which shape is a diamond (rhombus)?",
+      "visual": null,
+      "options": [
+        "triangle.fill",
+        "circle.fill",
+        "diamond.fill",
+        "hexagon.fill"
+      ],
+      "correct": 2,
+      "explain": "A diamond shape (rhombus) has 4 equal sides and sits tilted like a kite."
+    },
+    {
+      "id": "g35_read_002",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "The water cycle describes how water moves around Earth. Water evaporates from oceans and lakes into the air as vapor. It then cools, forms clouds, and falls back to Earth as rain or snow.",
+      "prompt": "What happens to water when it evaporates?",
+      "visual": null,
+      "options": [
+        "It freezes solid",
+        "It moves into the air",
+        "It falls as rain",
+        "It stays in the ocean"
+      ],
+      "correct": 1,
+      "explain": "Evaporation turns liquid water into vapor that rises into the air — the first step of the water cycle."
+    },
+    {
+      "id": "g35_read_003",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Photosynthesis is the process plants use to make their own food. Plants absorb sunlight, water, and carbon dioxide. They convert these into glucose (sugar) for energy and release oxygen as a byproduct.",
+      "prompt": "What gas do plants release during photosynthesis?",
+      "visual": "🌿",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "explain": "Plants release oxygen during photosynthesis — which is the air we breathe!"
+    },
+    {
+      "id": "g35_read_004",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 3,
+      "type": "reading",
+      "prompt": "The three branches of the U.S. government are executive, legislative, and ___.",
+      "visual": "🏛️",
+      "options": [
+        "judicial",
+        "financial",
+        "military",
+        "educational"
+      ],
+      "correct": 0,
+      "explain": "The three branches are executive (President), legislative (Congress), and judicial (Supreme Court)."
+    },
+    {
+      "id": "g35_read_005",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Fractions represent parts of a whole. The number on top is the numerator — it shows how many parts are selected. The number on the bottom is the denominator — it shows the total number of equal parts.",
+      "prompt": "What does the denominator tell you?",
+      "visual": null,
+      "options": [
+        "How many parts are selected",
+        "The total number of parts",
+        "The size of each piece",
+        "The whole number value"
+      ],
+      "correct": 1,
+      "explain": "The denominator (bottom number) tells you how many equal parts the whole is divided into."
+    },
+    {
+      "id": "g35_read_006",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Abraham Lincoln was the 16th President of the United States. He led the country through the Civil War and signed the Emancipation Proclamation in 1863, which declared enslaved people in Confederate states to be free.",
+      "prompt": "What did the Emancipation Proclamation do?",
+      "visual": null,
+      "options": [
+        "Started the Civil War",
+        "Ended World War I",
+        "Declared enslaved people free",
+        "Created the Constitution"
+      ],
+      "correct": 2,
+      "explain": "Lincoln's Emancipation Proclamation in 1863 declared enslaved people in rebel states to be free."
+    },
+    {
+      "id": "prek_count_004",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "There are 10 pigeons on the sidewalk. 3 more land. How many pigeons now?",
+      "visual": "🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦 + 🐦🐦🐦",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "explain": "10 pigeons + 3 more = 13 pigeons. Count on from 10: 11, 12, 13!"
+    },
+    {
+      "id": "prek_count_005",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "Which number is BIGGER?",
+      "visual": "8   vs   12",
+      "options": [
+        "8",
+        "12",
+        "They are the same",
+        "I don't know"
+      ],
+      "correct": 1,
+      "explain": "12 is bigger than 8. When we count, 12 comes after 8."
+    },
+    {
+      "id": "prek_pattern_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "🔴🔵🔴🔵🔴 ___ What color comes next?",
+      "visual": "🔴🔵🔴🔵🔴",
+      "options": [
+        "🔴",
+        "🟢",
+        "🔵",
+        "🟡"
+      ],
+      "correct": 2,
+      "explain": "The pattern is red, blue, red, blue... so after red comes BLUE!"
+    },
+    {
+      "id": "prek_pattern_002",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "🐱🐶🐱🐶🐱 ___ What comes next?",
+      "visual": "🐱🐶🐱🐶🐱",
+      "options": [
+        "🐶",
+        "🐱",
+        "🐰",
+        "🐸"
+      ],
+      "correct": 0,
+      "explain": "The pattern is cat, dog, cat, dog... so after cat comes DOG!"
+    },
+    {
+      "id": "prek_3d_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "Which shape looks like a ball? ⚽",
+      "visual": "⚽",
+      "options": [
+        "Cube",
+        "Sphere",
+        "Cylinder",
+        "Cone"
+      ],
+      "correct": 1,
+      "explain": "A sphere is perfectly round — just like a ball or an orange!"
+    },
+    {
+      "id": "prek_3d_002",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "Which shape looks like a can of soup? 🥫",
+      "visual": "🥫",
+      "options": [
+        "Sphere",
+        "Cube",
+        "Cylinder",
+        "Cone"
+      ],
+      "correct": 2,
+      "explain": "A cylinder is a shape with two round ends and a long middle — just like a soup can!"
+    },
+    {
+      "id": "prek_compare_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 2,
+      "prompt": "Which group has MORE?",
+      "visual": "15 apples   vs   9 apples",
+      "options": [
+        "9 apples",
+        "15 apples",
+        "They are the same",
+        "I don't know"
+      ],
+      "correct": 1,
+      "explain": "15 is more than 9. 15 apples is the bigger group."
+    },
+    {
+      "id": "prek_add_002",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "You have 3 🍎 apples. You get 2 more. How many do you have?",
+      "visual": "🍎🍎🍎 + 🍎🍎",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "explain": "3 apples + 2 apples = 5 apples. Count them all: 1, 2, 3, 4, 5!"
+    },
+    {
+      "id": "prek_nyc_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "What shape is a pizza slice? 🍕",
+      "visual": "🍕",
+      "options": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correct": 2,
+      "explain": "A pizza slice is shaped like a triangle — it has 3 sides that come to a point!"
+    },
+    {
+      "id": "prek_nyc_002",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "What shape is a manhole cover on the sidewalk? 🔘",
+      "visual": "🔘",
+      "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Rectangle"
+      ],
+      "correct": 2,
+      "explain": "Manhole covers are round — they are circles! You can see them on NYC streets."
+    },
+    {
+      "id": "prek_sound_001",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "What sound does 🐝 BEE start with?",
+      "visual": "🐝",
+      "options": [
+        "/d/",
+        "/b/",
+        "/p/",
+        "/m/"
+      ],
+      "correct": 1,
+      "explain": "BEE starts with the /b/ sound. B says /b/ — like Ball, Bear, and Bee!"
+    },
+    {
+      "id": "prek_sound_002",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which word starts with the SAME sound as 🐟 FISH?",
+      "visual": "🐟",
+      "options": [
+        "Dog",
+        "Cat",
+        "Frog",
+        "Bird"
+      ],
+      "correct": 2,
+      "explain": "FISH and FROG both start with the /f/ sound. F says /f/!"
+    },
+    {
+      "id": "prek_rhyme_001",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Rhyming",
+      "difficulty": 2,
+      "prompt": "Which word RHYMES with CAT? 🐱",
+      "visual": "🐱",
+      "options": [
+        "Car",
+        "Bat",
+        "Sit",
+        "Dog"
+      ],
+      "correct": 1,
+      "explain": "CAT and BAT rhyme — they both end with the -AT sound!"
+    },
+    {
+      "id": "prek_rhyme_002",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Rhyming",
+      "difficulty": 2,
+      "prompt": "Which word RHYMES with SUN? ☀️",
+      "visual": "☀️",
+      "options": [
+        "Run",
+        "Six",
+        "Cup",
+        "Blue"
+      ],
+      "correct": 0,
+      "explain": "SUN and RUN rhyme — they both end with the -UN sound!"
+    },
+    {
+      "id": "prek_syllab_001",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Syllables",
+      "difficulty": 3,
+      "prompt": "How many syllables (claps) in the word RAINBOW? 🌈 (RAIN-BOW)",
+      "visual": "🌈",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explain": "RAIN-BOW has 2 syllables. Clap as you say it: RAIN (clap) — BOW (clap)!"
+    },
+    {
+      "id": "prek_sci_001",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "Which animal would you most likely see in a New York City park? 🌳",
+      "visual": "🌳",
+      "options": [
+        "Elephant",
+        "Pigeon",
+        "Tiger",
+        "Shark"
+      ],
+      "correct": 1,
+      "explain": "Pigeons live in cities! You can spot them everywhere in NYC parks and sidewalks."
+    },
+    {
+      "id": "prek_sci_002",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "What do plants need to grow? 🌱",
+      "visual": "🌱",
+      "options": [
+        "Juice and candy",
+        "Sunlight and water",
+        "Toys and games",
+        "Wind only"
+      ],
+      "correct": 1,
+      "explain": "Plants need sunlight, water, and soil to grow big and strong!"
+    },
+    {
+      "id": "prek_sci_003",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "In which season does it snow in New York City? ❄️",
+      "visual": "❄️",
+      "options": [
+        "Summer",
+        "Spring",
+        "Winter",
+        "Fall"
+      ],
+      "correct": 2,
+      "explain": "Winter is the cold season! That's when NYC gets snow and icy weather."
+    },
+    {
+      "id": "prek_sci_004",
+      "grade": "prek",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "Which animal lives in the ocean? 🌊",
+      "visual": "🌊",
+      "options": [
+        "Cow",
+        "Dolphin",
+        "Rabbit",
+        "Squirrel"
+      ],
+      "correct": 1,
+      "explain": "Dolphins live in the ocean! They swim and jump through the waves."
+    },
+    {
+      "id": "prek_logic_001",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Sorting",
+      "difficulty": 2,
+      "prompt": "Which one does NOT belong? 🔴 🔵 🟢 🐶",
+      "visual": "🔴 🔵 🟢 🐶",
+      "options": [
+        "🔴",
+        "🔵",
+        "🟢",
+        "🐶"
+      ],
+      "correct": 3,
+      "explain": "The dog 🐶 doesn't belong — the other three are all colored circles! The dog is an animal, not a shape."
+    },
+    {
+      "id": "prek_logic_002",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "What number comes AFTER 14?",
+      "visual": "14 → ___",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "explain": "When we count, 15 comes right after 14. Count on: ...13, 14, 15!"
+    },
+    {
+      "id": "prek_pic_006",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the shape that looks like a ball! ⚽",
+      "visual": null,
+      "options": [
+        "circle.fill",
+        "square.fill",
+        "triangle.fill",
+        "rectangle.fill"
+      ],
+      "correct": 0,
+      "explain": "A circle is round — just like a ball! It has no corners and no straight sides."
+    },
+    {
+      "id": "prek_pic_007",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Weather",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap what you use when it rains! 🌧️",
+      "visual": null,
+      "options": [
+        "umbrella.fill",
+        "flame.fill",
+        "snowflake",
+        "sun.max.fill"
+      ],
+      "correct": 0,
+      "explain": "An umbrella keeps you dry when it rains! New Yorkers always carry one on rainy days."
+    },
+    {
+      "id": "prek_pic_008",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Animals",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Which animal lives in water? 🌊",
+      "visual": null,
+      "options": [
+        "bird",
+        "ant",
+        "fish",
+        "hare"
+      ],
+      "correct": 2,
+      "explain": "Fish live in water! They breathe through gills and swim with their fins."
+    },
+    {
+      "id": "prek_pic_009",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Tap the shape with 4 equal sides!",
+      "visual": null,
+      "options": [
+        "triangle.fill",
+        "square.fill",
+        "circle.fill",
+        "star.fill"
+      ],
+      "correct": 1,
+      "explain": "A square has 4 sides that are all the same length — that's what makes it special!"
+    },
+    {
+      "id": "prek_pic_010",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Nature",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap what gives us heat and light during the day! ☀️",
+      "visual": null,
+      "options": [
+        "moon.fill",
+        "cloud.fill",
+        "sun.max.fill",
+        "snowflake"
+      ],
+      "correct": 2,
+      "explain": "The sun gives us light and warmth during the day! Without it, Earth would be dark and cold."
+    },
+    {
+      "id": "prek_read_006",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "In New York City, people ride a big train called the subway. It travels underground through long tunnels. It stops at places called stations so riders can get on and off.",
+      "prompt": "Where does the subway train travel?",
+      "visual": "🚇",
+      "options": [
+        "On the water",
+        "Underground",
+        "In the sky",
+        "On a mountain"
+      ],
+      "correct": 1,
+      "explain": "The subway goes underground through tunnels beneath the city streets!"
+    },
+    {
+      "id": "prek_read_007",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 1,
+      "type": "reading",
+      "passage": "Mia has a pet cat. The cat is orange. It loves to sleep in a sunny spot by the window.",
+      "prompt": "What color is Mia's cat?",
+      "visual": "🐱",
+      "options": [
+        "White",
+        "Black",
+        "Orange",
+        "Brown"
+      ],
+      "correct": 2,
+      "explain": "The story says the cat is orange — so it's orange!"
+    },
+    {
+      "id": "prek_read_008",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "There are four seasons in a year: spring, summer, fall, and winter. In New York, summer is hot and winter can be very cold and snowy.",
+      "prompt": "How many seasons are in a year?",
+      "visual": null,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explain": "There are 4 seasons: spring, summer, fall, and winter!"
+    },
+    {
+      "id": "prek_read_009",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "A butterfly starts its life as a tiny egg. Next it hatches into a caterpillar. The caterpillar makes a cocoon and then becomes a beautiful butterfly.",
+      "prompt": "What does a caterpillar turn into?",
+      "visual": "🦋",
+      "options": [
+        "An egg",
+        "A bird",
+        "A butterfly",
+        "A flower"
+      ],
+      "correct": 2,
+      "explain": "The caterpillar makes a cocoon and then comes out as a beautiful butterfly!"
+    },
+    {
+      "id": "prek_read_010",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Leo lives in Brooklyn. Every morning he walks past the corner store to get to school. His school is on a big street with tall buildings all around.",
+      "prompt": "Where does Leo live?",
+      "visual": "🏙️",
+      "options": [
+        "Manhattan",
+        "Queens",
+        "Brooklyn",
+        "The Bronx"
+      ],
+      "correct": 2,
+      "explain": "The story says Leo lives in Brooklyn — one of NYC's five boroughs!"
+    },
+    {
+      "id": "g12_add_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "9 + 8 = ?",
+      "visual": null,
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct": 2,
+      "explain": "9 + 8 = 17. Tip: make a 10 first — 9 + 1 = 10, then 10 + 7 = 17."
+    },
+    {
+      "id": "g12_add_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "There are 8 kids on a subway car. At the next stop, 7 more get on. How many kids are on the car now?",
+      "visual": "🚇",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "explain": "8 + 7 = 15. Make a 10: 8 + 2 = 10, then 10 + 5 = 15 kids!"
+    },
+    {
+      "id": "g12_sub_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "17 − 9 = ?",
+      "visual": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "17 − 9 = 8. Think: 9 + ? = 17. Count up: 9 + 8 = 17, so the answer is 8."
+    },
+    {
+      "id": "g12_sub_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "You had 16 crayons. You lost 7. How many do you have left?",
+      "visual": "🖍️",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explain": "16 − 7 = 9. Count back 7 from 16: 15, 14, 13, 12, 11, 10, 9."
+    },
+    {
+      "id": "g12_add_005",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 3,
+      "prompt": "47 + 36 = ?",
+      "visual": null,
+      "options": [
+        "73",
+        "83",
+        "84",
+        "93"
+      ],
+      "correct": 1,
+      "explain": "47 + 36 = 83. Add the ones: 7 + 6 = 13 (write 3, carry 1). Add the tens: 4 + 3 + 1 = 8. Answer: 83."
+    },
+    {
+      "id": "g12_add_006",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "A bakery on 5th Avenue baked 58 bagels in the morning and 34 more in the afternoon. How many bagels did they bake in all?",
+      "visual": "🥯",
+      "options": [
+        "82",
+        "92",
+        "93",
+        "102"
+      ],
+      "correct": 1,
+      "explain": "58 + 34 = 92. Ones: 8 + 4 = 12 (write 2, carry 1). Tens: 5 + 3 + 1 = 9. Answer: 92 bagels!"
+    },
+    {
+      "id": "g12_sub_005",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 3,
+      "prompt": "82 − 47 = ?",
+      "visual": null,
+      "options": [
+        "35",
+        "36",
+        "45",
+        "46"
+      ],
+      "correct": 0,
+      "explain": "82 − 47 = 35. Regroup: borrow from the tens — 12 − 7 = 5, then 7 − 4 = 3. Answer: 35."
+    },
+    {
+      "id": "g12_pv_002",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "What is the value of the digit 3 in the number 385?",
+      "visual": null,
+      "options": [
+        "3",
+        "30",
+        "300",
+        "3,000"
+      ],
+      "correct": 2,
+      "explain": "In 385, the 3 is in the hundreds place. It means 300 — three hundreds!"
+    },
+    {
+      "id": "g12_pv_003",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "In the number 573, how many TENS are there?",
+      "visual": null,
+      "options": [
+        "5",
+        "7",
+        "3",
+        "57"
+      ],
+      "correct": 1,
+      "explain": "In 573: 5 is in the hundreds place, 7 is in the tens place, 3 is in the ones place. There are 7 tens."
+    },
+    {
+      "id": "g12_cmp_001",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 3,
+      "prompt": "Which comparison is TRUE?",
+      "visual": "🧮",
+      "options": [
+        "204 > 240",
+        "385 < 358",
+        "619 = 691",
+        "127 < 172"
+      ],
+      "correct": 3,
+      "explain": "127 < 172 is true! 127 has 1 hundred, but 172 has 1 hundred AND more tens (7 vs 2). So 127 is less."
+    },
+    {
+      "id": "g12_time_002",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "The minute hand points to the 9. The hour hand points to the 4. What time is it?",
+      "visual": "🕓",
+      "options": [
+        "4:09",
+        "4:45",
+        "9:04",
+        "9:45"
+      ],
+      "correct": 1,
+      "explain": "When the minute hand points to the 9, it means 45 minutes. The hour hand shows 4. So the time is 4:45!"
+    },
+    {
+      "id": "g12_time_003",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 3,
+      "prompt": "School starts at 8:15. How many minutes until 9:00?",
+      "visual": "⏰",
+      "options": [
+        "35 minutes",
+        "40 minutes",
+        "45 minutes",
+        "50 minutes"
+      ],
+      "correct": 2,
+      "explain": "From 8:15 to 9:00 is 45 minutes. Count: 8:15 → 8:30 (15 min) → 8:45 (15 more) → 9:00 (15 more) = 45 minutes."
+    },
+    {
+      "id": "g12_money_002",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 3,
+      "prompt": "You buy a juice for 65¢. You pay with $1.00. How much change do you get?",
+      "visual": "🧃",
+      "options": [
+        "25¢",
+        "30¢",
+        "35¢",
+        "45¢"
+      ],
+      "correct": 2,
+      "explain": "$1.00 − $0.65 = $0.35. Count up from 65¢: +5¢ = 70¢, +30¢ = $1.00. Total change: 35¢."
+    },
+    {
+      "id": "g12_money_003",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 2,
+      "prompt": "A MetroCard costs $3. Mom buys one for herself and one for you. How much does she pay?",
+      "visual": "🚇",
+      "options": [
+        "$4",
+        "$5",
+        "$6",
+        "$8"
+      ],
+      "correct": 2,
+      "explain": "$3 × 2 = $6. Two MetroCards at $3 each costs $6 total."
+    },
+    {
+      "id": "g12_array_001",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "There are 4 rows of seats on the school bus, with 5 seats in each row. How many seats in all?",
+      "visual": "🚌",
+      "options": [
+        "9",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct": 2,
+      "explain": "4 rows × 5 seats = 20 seats. You can add: 5 + 5 + 5 + 5 = 20!"
+    },
+    {
+      "id": "g12_skip_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "Skip count by 5s. What comes next? 25, 30, 35, ___",
+      "visual": null,
+      "options": [
+        "38",
+        "40",
+        "45",
+        "50"
+      ],
+      "correct": 1,
+      "explain": "Skip counting by 5s: 25, 30, 35, 40. Each number is 5 more than the last."
+    },
+    {
+      "id": "g12_skip_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "Skip count by 10s. What comes next? 60, 70, 80, ___",
+      "visual": null,
+      "options": [
+        "85",
+        "88",
+        "90",
+        "100"
+      ],
+      "correct": 2,
+      "explain": "Skip counting by 10s: 60, 70, 80, 90. Add 10 each time!"
+    },
+    {
+      "id": "g12_word_001",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Jake has 24 stickers. His friend gives him 18 more. He then gives 15 to his sister. How many stickers does Jake have now?",
+      "visual": "⭐",
+      "options": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "correct": 0,
+      "explain": "Step 1: 24 + 18 = 42 stickers. Step 2: 42 − 15 = 27 stickers left."
+    },
+    {
+      "id": "g12_pfx_001",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "The prefix UN- means 'not.' What does UNHAPPY mean?",
+      "visual": null,
+      "options": [
+        "Very happy",
+        "Not happy",
+        "Always happy",
+        "A little happy"
+      ],
+      "correct": 1,
+      "explain": "UN- means 'not,' so UNHAPPY means NOT happy. Like an umbrella un-covers your head!"
+    },
+    {
+      "id": "g12_pfx_002",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "The prefix RE- means 'again.' If PLAY means to play, what does REPLAY mean?",
+      "visual": null,
+      "options": [
+        "Never play",
+        "Play badly",
+        "Play again",
+        "Stop playing"
+      ],
+      "correct": 2,
+      "explain": "RE- means 'again,' so REPLAY means to play again. Like rewind, redo, and reuse!"
+    },
+    {
+      "id": "g12_ctx_001",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "Read this: 'The puppy was so tiny it could fit in the palm of your hand.' What does TINY mean?",
+      "visual": "🐶",
+      "options": [
+        "Very big",
+        "Very small",
+        "Very fast",
+        "Very loud"
+      ],
+      "correct": 1,
+      "explain": "If something fits in your palm, it must be very small! Tiny means very, very small."
+    },
+    {
+      "id": "g12_sci_001",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "What three things do most plants need to grow?",
+      "visual": "🌿",
+      "options": [
+        "Sunlight, water, and soil",
+        "Candy, soda, and TV",
+        "Just water",
+        "Only sunlight"
+      ],
+      "correct": 0,
+      "explain": "Plants need sunlight for energy, water to drink, and soil for nutrients and support!"
+    },
+    {
+      "id": "g12_sci_002",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "When you heat a solid like ice, it melts into a ___.",
+      "visual": "🧊",
+      "options": [
+        "Gas",
+        "Liquid",
+        "Plasma",
+        "Cloud"
+      ],
+      "correct": 1,
+      "explain": "When ice (a solid) heats up, it melts into liquid water. Heat changes solid → liquid!"
+    },
+    {
+      "id": "g12_sci_003",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "Which force pulls objects down toward the ground?",
+      "visual": "🍎",
+      "options": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Push"
+      ],
+      "correct": 2,
+      "explain": "Gravity pulls everything toward the Earth. That's why apples fall down and why we don't float away!"
+    },
+    {
+      "id": "g12_logic_002",
+      "grade": "g2",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 3,
+      "prompt": "What are the next two numbers? 3, 6, 9, 12, ___, ___",
+      "visual": null,
+      "options": [
+        "13, 14",
+        "14, 16",
+        "15, 18",
+        "15, 19"
+      ],
+      "correct": 2,
+      "explain": "This pattern counts by 3s! 12 + 3 = 15, and 15 + 3 = 18. The rule is +3 each time."
+    },
+    {
+      "id": "g12_logic_003",
+      "grade": "g2",
+      "subject": "logic",
+      "topic": "Algebra",
+      "difficulty": 3,
+      "prompt": "I'm thinking of a number. If you add 7 to it, you get 20. What is the number?",
+      "visual": "🔢",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "explain": "n + 7 = 20. Work backwards: 20 − 7 = 13. The mystery number is 13!"
+    },
+    {
+      "id": "g12_pic_006",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Which shape has 4 sides that are ALL equal in length?",
+      "visual": null,
+      "options": [
+        "rectangle.fill",
+        "triangle.fill",
+        "square.fill",
+        "circle.fill"
+      ],
+      "correct": 2,
+      "explain": "A square has 4 equal sides — all the same length! A rectangle has 4 sides but not all equal."
+    },
+    {
+      "id": "g12_pic_007",
+      "grade": "g1",
+      "subject": "picture",
+      "topic": "Weather",
+      "difficulty": 1,
+      "type": "picture",
+      "prompt": "Tap the symbol that shows RAIN! 🌧️",
+      "visual": null,
+      "options": [
+        "sun.max.fill",
+        "snowflake",
+        "cloud.rain.fill",
+        "wind"
+      ],
+      "correct": 2,
+      "explain": "A cloud with rain drops means rainy weather! Grab your umbrella when you see this symbol."
+    },
+    {
+      "id": "g12_mi_001",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Dogs make great pets. They are loyal and love to play. Dogs can be trained to help people who are blind or have disabilities. Many families enjoy having a dog as part of their home.",
+      "prompt": "What is the MAIN IDEA of this passage?",
+      "visual": "🐕",
+      "options": [
+        "Dogs are expensive",
+        "Dogs make great pets",
+        "Dogs eat a lot of food",
+        "All animals make good pets"
+      ],
+      "correct": 1,
+      "explain": "Every sentence supports the idea that dogs make great pets — that's the main idea the author wants us to know!"
+    },
+    {
+      "id": "g12_read_008",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "The Brooklyn Bridge connects the boroughs of Brooklyn and Manhattan. It was completed in 1883 after 14 years of construction. At the time, it was the longest suspension bridge in the world. Today, thousands of people walk, bike, or drive across it every day.",
+      "prompt": "How long did it take to build the Brooklyn Bridge?",
+      "visual": "🌉",
+      "options": [
+        "4 years",
+        "8 years",
+        "14 years",
+        "18 years"
+      ],
+      "correct": 2,
+      "explain": "The passage says the Brooklyn Bridge took 14 years to build — that's a long time to build one bridge!"
+    },
+    {
+      "id": "g35_mult_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "23 × 4 = ?",
+      "visual": null,
+      "options": [
+        "82",
+        "92",
+        "96",
+        "102"
+      ],
+      "correct": 1,
+      "explain": "23 × 4 = 92. Break it apart: (20 × 4) + (3 × 4) = 80 + 12 = 92."
+    },
+    {
+      "id": "g35_mult_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 4,
+      "prompt": "12 × 15 = ?",
+      "visual": null,
+      "options": [
+        "170",
+        "180",
+        "185",
+        "190"
+      ],
+      "correct": 1,
+      "explain": "12 × 15 = 180. Try: 12 × 10 = 120, then 12 × 5 = 60. Add: 120 + 60 = 180."
+    },
+    {
+      "id": "g35_div_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "78 ÷ 6 = ?",
+      "visual": null,
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "explain": "78 ÷ 6 = 13. Check: 6 × 13 = 78. Think: 6 × 10 = 60, 6 × 3 = 18, 60 + 18 = 78. ✓"
+    },
+    {
+      "id": "g35_div_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 4,
+      "prompt": "Which division problem has a remainder of 2?",
+      "visual": null,
+      "options": [
+        "20 ÷ 4",
+        "17 ÷ 3",
+        "15 ÷ 5",
+        "12 ÷ 6"
+      ],
+      "correct": 1,
+      "explain": "17 ÷ 3 = 5 remainder 2 (because 3 × 5 = 15, and 17 − 15 = 2). The others divide evenly."
+    },
+    {
+      "id": "g35_frac_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which fraction is equivalent (equal) to 2/4?",
+      "visual": null,
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "1/3"
+      ],
+      "correct": 0,
+      "explain": "2/4 = 1/2. Divide top and bottom by 2: 2÷2 = 1, 4÷2 = 2. Both fractions show the same amount!"
+    },
+    {
+      "id": "g35_frac_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "3/8 + 2/8 = ?",
+      "visual": null,
+      "options": [
+        "5/8",
+        "5/16",
+        "6/8",
+        "1/2"
+      ],
+      "correct": 0,
+      "explain": "When the denominators (bottom numbers) are the same, just add the tops: 3 + 2 = 5. Answer: 5/8."
+    },
+    {
+      "id": "g35_dec_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Which decimal is the LARGEST?",
+      "visual": null,
+      "options": [
+        "0.3",
+        "0.25",
+        "0.7",
+        "0.09"
+      ],
+      "correct": 2,
+      "explain": "0.7 is largest. Think of them as money: $0.70 > $0.30 > $0.25 > $0.09. Tenths are bigger than hundredths!"
+    },
+    {
+      "id": "g35_dec_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "A hot dog at Yankee Stadium costs $4.75 and a soda costs $2.50. What is the total?",
+      "visual": "⚾",
+      "options": [
+        "$6.25",
+        "$7.00",
+        "$7.25",
+        "$7.50"
+      ],
+      "correct": 2,
+      "explain": "$4.75 + $2.50 = $7.25. Add cents: 75¢ + 50¢ = 125¢ = $1.25. Add dollars: $4 + $2 + $1 = $7.25."
+    },
+    {
+      "id": "g35_area_002",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 3,
+      "prompt": "A rectangle is 7 cm long and 4 cm wide. What is its AREA?",
+      "visual": null,
+      "options": [
+        "11 sq cm",
+        "22 sq cm",
+        "28 sq cm",
+        "48 sq cm"
+      ],
+      "correct": 2,
+      "explain": "Area = length × width = 7 × 4 = 28 square cm. Area measures the space INSIDE a shape."
+    },
+    {
+      "id": "g35_round_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 3,
+      "prompt": "Round 4,738 to the nearest hundred.",
+      "visual": null,
+      "options": [
+        "4,700",
+        "4,800",
+        "4,000",
+        "5,000"
+      ],
+      "correct": 0,
+      "explain": "Look at the tens digit: it's 3 (less than 5), so round DOWN. 4,738 rounded to the nearest hundred is 4,700."
+    },
+    {
+      "id": "g35_word_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A subway train has 8 cars. Each car holds 45 passengers. Right now there are 298 passengers on the train. How many empty seats are there?",
+      "visual": "🚇",
+      "options": [
+        "22",
+        "52",
+        "62",
+        "72"
+      ],
+      "correct": 2,
+      "explain": "Total capacity: 8 × 45 = 360 seats. Empty seats: 360 − 298 = 62. Two-step problem — multiply first, then subtract!"
+    },
+    {
+      "id": "g35_word_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "Maya buys 3 books at $8.99 each. She pays with two $20 bills. How much change does she get?",
+      "visual": "📚",
+      "options": [
+        "$13.03",
+        "$13.97",
+        "$14.03",
+        "$14.97"
+      ],
+      "correct": 0,
+      "explain": "Cost: 3 × $8.99 = $26.97. She pays: 2 × $20 = $40. Change: $40.00 − $26.97 = $13.03."
+    },
+    {
+      "id": "g35_alg_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Algebra",
+      "difficulty": 3,
+      "prompt": "If n × 6 = 54, what is n?",
+      "visual": "🔢",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explain": "n × 6 = 54. Think: what times 6 equals 54? 9 × 6 = 54. So n = 9."
+    },
+    {
+      "id": "g35_iof_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 3,
+      "prompt": "Look at the pattern: 3→9, 5→15, 7→21. What is the rule?",
+      "visual": null,
+      "options": [
+        "Add 6",
+        "Multiply by 3",
+        "Add 12",
+        "Multiply by 5"
+      ],
+      "correct": 1,
+      "explain": "3×3=9 ✓, 5×3=15 ✓, 7×3=21 ✓. The rule is multiply by 3!"
+    },
+    {
+      "id": "g35_iof_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 4,
+      "prompt": "A machine uses the rule: multiply by 4, then subtract 1. If the input is 6, what is the output?",
+      "visual": "⚙️",
+      "options": [
+        "20",
+        "23",
+        "24",
+        "25"
+      ],
+      "correct": 1,
+      "explain": "Step 1: 6 × 4 = 24. Step 2: 24 − 1 = 23. Order of operations matters — multiply first, then subtract!"
+    },
+    {
+      "id": "g35_vocab_002",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 3,
+      "prompt": "The detective stared at the cryptic message — she had no idea what it meant. What does CRYPTIC mean?",
+      "visual": "🔍",
+      "options": [
+        "Easy to read",
+        "Mysterious and hard to understand",
+        "Long and detailed",
+        "Short and simple"
+      ],
+      "correct": 1,
+      "explain": "Cryptic means mysterious and hard to understand. A cryptic clue hides its meaning on purpose."
+    },
+    {
+      "id": "g35_vocab_003",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 3,
+      "prompt": "Which word is the best SYNONYM (same meaning) for COURAGEOUS?",
+      "visual": null,
+      "options": [
+        "Fearful",
+        "Brave",
+        "Tired",
+        "Clumsy"
+      ],
+      "correct": 1,
+      "explain": "Courageous means brave — willing to face danger or difficulty. A firefighter rushing into a building is courageous!"
+    },
+    {
+      "id": "g35_fig_001",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "'The classroom was a zoo.' What literary device is this?",
+      "visual": null,
+      "options": [
+        "Simile",
+        "Alliteration",
+        "Metaphor",
+        "Rhyme"
+      ],
+      "correct": 2,
+      "explain": "A metaphor compares two things WITHOUT using 'like' or 'as.' The classroom isn't actually a zoo — it's being compared to one to show it was chaotic!"
+    },
+    {
+      "id": "g35_fig_002",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "Which sentence contains a SIMILE?",
+      "visual": null,
+      "options": [
+        "The wind howled all night.",
+        "Her smile was a ray of sunshine.",
+        "The car was as fast as lightning.",
+        "The dog barked at the stranger."
+      ],
+      "correct": 2,
+      "explain": "A simile uses 'like' or 'as' to compare: 'as fast AS lightning.' Similes always use like or as!"
+    },
+    {
+      "id": "g35_grammar_001",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "Which sentence uses a POSSESSIVE APOSTROPHE correctly?",
+      "visual": null,
+      "options": [
+        "The dog's bone was buried.",
+        "The dogs bone was buried.",
+        "The dogs' bones was buried.",
+        "The dog's bones were buried."
+      ],
+      "correct": 0,
+      "explain": "'The dog's bone' is correct — the apostrophe + s shows that the bone belongs to the dog. Dog's = belonging to the dog."
+    },
+    {
+      "id": "g35_ap_001",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Author's Purpose",
+      "difficulty": 3,
+      "prompt": "A writer explains both the pros and cons of having longer school days. What is the author's MAIN PURPOSE?",
+      "visual": null,
+      "options": [
+        "To entertain with a story",
+        "To persuade readers against longer school days",
+        "To present both sides fairly so readers can decide",
+        "To explain the history of school schedules"
+      ],
+      "correct": 2,
+      "explain": "When a writer shows both sides without taking a position, the purpose is to inform fairly — letting the reader make up their own mind!"
+    },
+    {
+      "id": "g35_sci_001",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 3,
+      "prompt": "In a food chain, what do we call an animal that ONLY eats plants?",
+      "visual": "🌿",
+      "options": [
+        "Predator",
+        "Herbivore",
+        "Carnivore",
+        "Omnivore"
+      ],
+      "correct": 1,
+      "explain": "Herbivores only eat plants. Carnivores only eat meat. Omnivores eat both! Humans are omnivores."
+    },
+    {
+      "id": "g35_sci_002",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 3,
+      "prompt": "Water changes from liquid to gas through a process called ___.",
+      "visual": "💧",
+      "options": [
+        "Condensation",
+        "Precipitation",
+        "Evaporation",
+        "Freezing"
+      ],
+      "correct": 2,
+      "explain": "Evaporation turns liquid water into water vapor (gas). Heat causes the water molecules to rise into the air — it's part of the water cycle!"
+    },
+    {
+      "id": "g35_sci_003",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 3,
+      "prompt": "Which planet is CLOSEST to the Sun?",
+      "visual": "☀️",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mercury",
+        "Mars"
+      ],
+      "correct": 2,
+      "explain": "Mercury is the closest planet to the Sun. The order is: Mercury, Venus, Earth, Mars... My Very Eager Mother Just Served Us Nachos!"
+    },
+    {
+      "id": "g35_sci_004",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 4,
+      "prompt": "About 78% of Earth's atmosphere is made of which gas?",
+      "visual": "🌍",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "explain": "Nitrogen makes up about 78% of the air we breathe. Oxygen is only about 21% — but it's the one we need to survive!"
+    },
+    {
+      "id": "g35_infer_001",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Kenji always packed his umbrella and MetroCard before leaving his apartment in the Bronx. He knew the express train would be crowded, but it was still the fastest way to get to his office in Midtown Manhattan.",
+      "prompt": "What can you INFER about Kenji based on this passage?",
+      "visual": "🚇",
+      "options": [
+        "He owns a car",
+        "He lives and works in New York City",
+        "He is afraid of the rain",
+        "He works near his home"
+      ],
+      "correct": 1,
+      "explain": "We can infer Kenji lives and works in NYC — the Bronx, MetroCard, and Midtown Manhattan are all NYC clues. He doesn't drive (takes the train) and Midtown is far from the Bronx."
+    },
+    {
+      "id": "g35_theme_001",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Every day, Rosa practiced piano even when she felt tired or wanted to play outside. Some kids at school made fun of her for it. But on the night of the recital, she played a difficult piece perfectly while the audience gave her a standing ovation.",
+      "prompt": "What is the THEME of this story?",
+      "visual": "🎹",
+      "options": [
+        "Piano is hard to learn",
+        "Hard work and persistence lead to success",
+        "School can be unkind",
+        "Recitals are exciting events"
+      ],
+      "correct": 1,
+      "explain": "The theme is the life lesson the story teaches. Rosa's dedication paid off — the story shows that hard work and persistence lead to success!"
+    },
+    {
+      "id": "g35_nyc_001",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "NYC History",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "The Statue of Liberty stands on Liberty Island in New York Harbor. It was a gift of friendship from France to the United States, dedicated on October 28, 1886. The statue holds a torch in her right hand and a tablet in her left. Millions of visitors come to see it every year.",
+      "prompt": "Which country gave the Statue of Liberty to the United States?",
+      "visual": "🗽",
+      "options": [
+        "England",
+        "France",
+        "Spain",
+        "Germany"
+      ],
+      "correct": 1,
+      "explain": "France gave the Statue of Liberty to the United States as a gift of friendship in 1886. It's one of NYC's most famous landmarks!"
+    },
+    {
+      "id": "prek_sub_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "You have 5 🍎 apples. You eat 2. How many are left?",
+      "visual": "🍎🍎🍎🍎🍎",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "5 − 2 = 3. Cross out 2 apples and count what's left: 1, 2, 3!"
+    },
+    {
+      "id": "prek_sub_002",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "There are 6 pigeons on a ledge. 2 fly away. How many pigeons are left?",
+      "visual": "🐦🐦🐦🐦🐦🐦",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explain": "6 − 2 = 4. There are 4 pigeons left on the ledge. You can count them!"
+    },
+    {
+      "id": "prek_add_003",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "A hot dog cart has 4 hot dogs 🌭. The vendor makes 3 more. How many hot dogs now?",
+      "visual": "🌭🌭🌭🌭 + 🌭🌭🌭",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "4 + 3 = 7. Count on from 4: 5, 6, 7. Seven hot dogs!"
+    },
+    {
+      "id": "prek_count_006",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "Count by 2s. What comes next? 2, 4, 6, ___",
+      "visual": null,
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "explain": "Counting by 2s: 2, 4, 6, 8! Skip one number each time."
+    },
+    {
+      "id": "prek_ord_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Ordinal Numbers",
+      "difficulty": 2,
+      "prompt": "Three kids are in line: Mia is FIRST, then Leo, then Sam. Who is THIRD?",
+      "visual": "1️⃣ Mia  2️⃣ Leo  3️⃣ ?",
+      "options": [
+        "Mia",
+        "Leo",
+        "Sam",
+        "Nobody"
+      ],
+      "correct": 2,
+      "explain": "First = Mia, Second = Leo, Third = Sam. Sam is at the end of the line!"
+    },
+    {
+      "id": "prek_size_001",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "Which is TALLER — a house 🏠 or a skyscraper 🏙️?",
+      "visual": "🏠 vs 🏙️",
+      "options": [
+        "The house",
+        "The skyscraper",
+        "They are the same",
+        "Neither"
+      ],
+      "correct": 1,
+      "explain": "A skyscraper is much taller than a house. NYC has some of the tallest skyscrapers in the world!"
+    },
+    {
+      "id": "prek_pattern_003",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 3,
+      "prompt": "🔴🔵🟢🔴🔵 ___ What comes next?",
+      "visual": "🔴🔵🟢🔴🔵",
+      "options": [
+        "🔴",
+        "🔵",
+        "🟢",
+        "🟡"
+      ],
+      "correct": 2,
+      "explain": "The pattern repeats red, blue, green. After red and blue comes GREEN again!"
+    },
+    {
+      "id": "prek_sound_003",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "What sound does 🌙 MOON start with?",
+      "visual": "🌙",
+      "options": [
+        "/m/",
+        "/n/",
+        "/b/",
+        "/t/"
+      ],
+      "correct": 0,
+      "explain": "MOON starts with the /m/ sound. M says /m/ — like Mom, Milk, and Moon!"
+    },
+    {
+      "id": "prek_sound_004",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which word starts with the /s/ sound?",
+      "visual": "☀️",
+      "options": [
+        "Cat",
+        "Dog",
+        "Sun",
+        "Tree"
+      ],
+      "correct": 2,
+      "explain": "SUN starts with the /s/ sound. S says /s/ — like Snake, Sock, and Sun!"
+    },
+    {
+      "id": "prek_rhyme_003",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Rhyming",
+      "difficulty": 2,
+      "prompt": "Which word RHYMES with DOG? 🐶",
+      "visual": "🐶",
+      "options": [
+        "Cat",
+        "Log",
+        "Bird",
+        "Fish"
+      ],
+      "correct": 1,
+      "explain": "DOG and LOG rhyme — they both end with the -OG sound! Fog and hog rhyme too."
+    },
+    {
+      "id": "prek_sci_005",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "Which of these is ALIVE? 🌱",
+      "visual": null,
+      "options": [
+        "A rock",
+        "A chair",
+        "A tree",
+        "A shoe"
+      ],
+      "correct": 2,
+      "explain": "A tree is alive — it grows, needs water and sunlight, and makes seeds. Rocks and chairs are not alive."
+    },
+    {
+      "id": "prek_logic_003",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "What number comes BEFORE 9?",
+      "visual": "___ → 9",
+      "options": [
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "correct": 1,
+      "explain": "8 comes right before 9. Count: ...7, 8, 9, 10... So 8 is just before 9!"
+    },
+    {
+      "id": "prek_pic_011",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Tap the shape with exactly 3 sides! 🔺",
+      "visual": null,
+      "options": [
+        "square.fill",
+        "circle.fill",
+        "triangle.fill",
+        "hexagon.fill"
+      ],
+      "correct": 2,
+      "explain": "A triangle has 3 sides and 3 corners. Count the sides: 1, 2, 3!"
+    },
+    {
+      "id": "prek_read_011",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Central Park is a very large park right in the middle of New York City. Families go there to play, walk their dogs, and have picnics on the grass. In spring, beautiful pink and white flowers bloom on the trees.",
+      "prompt": "Where is Central Park?",
+      "visual": "🌳",
+      "options": [
+        "In New Jersey",
+        "In Brooklyn",
+        "In the middle of New York City",
+        "By the ocean"
+      ],
+      "correct": 2,
+      "explain": "Central Park is right in the middle of New York City — it's like a giant backyard for all New Yorkers!"
+    },
+    {
+      "id": "prek_read_012",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Sentence Completion",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "In winter, some animals go into a very deep sleep called hibernation. Bears eat a lot of food in the fall to get ready. Then they sleep in a cozy cave all winter long and wake up in spring.",
+      "prompt": "What do bears do during winter?",
+      "visual": "🐻",
+      "options": [
+        "They swim in the ocean",
+        "They fly south",
+        "They hibernate in a cave",
+        "They go to school"
+      ],
+      "correct": 2,
+      "explain": "Bears hibernate — they sleep all winter in a cave to stay safe and warm until spring!"
+    },
+    {
+      "id": "g12_meas_001",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 2,
+      "prompt": "A pencil is 7 inches long. A crayon is 4 inches long. How much longer is the pencil?",
+      "visual": "✏️",
+      "options": [
+        "2 inches",
+        "3 inches",
+        "4 inches",
+        "11 inches"
+      ],
+      "correct": 1,
+      "explain": "7 − 4 = 3. The pencil is 3 inches longer than the crayon."
+    },
+    {
+      "id": "g12_even_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Even and Odd",
+      "difficulty": 2,
+      "prompt": "Which number is EVEN?",
+      "visual": null,
+      "options": [
+        "13",
+        "17",
+        "24",
+        "31"
+      ],
+      "correct": 2,
+      "explain": "24 is even — it can be split into two equal groups of 12. Even numbers end in 0, 2, 4, 6, or 8."
+    },
+    {
+      "id": "g12_even_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Even and Odd",
+      "difficulty": 2,
+      "prompt": "Which number is ODD?",
+      "visual": null,
+      "options": [
+        "12",
+        "16",
+        "25",
+        "30"
+      ],
+      "correct": 2,
+      "explain": "25 is odd — it can't be split into two equal groups. Odd numbers end in 1, 3, 5, 7, or 9."
+    },
+    {
+      "id": "g12_data_001",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Data",
+      "difficulty": 3,
+      "prompt": "A class voted for their favorite fruit. Apples got 6 votes, oranges got 4, bananas got 8. How many MORE votes did bananas get than apples?",
+      "visual": "📊",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explain": "Bananas (8) − Apples (6) = 2. Bananas got 2 more votes than apples."
+    },
+    {
+      "id": "g12_add_007",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 3,
+      "prompt": "256 + 143 = ?",
+      "visual": null,
+      "options": [
+        "389",
+        "399",
+        "400",
+        "409"
+      ],
+      "correct": 1,
+      "explain": "256 + 143 = 399. Ones: 6+3=9. Tens: 5+4=9. Hundreds: 2+1=3. Answer: 399."
+    },
+    {
+      "id": "g12_word_002",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Three classes go on a field trip to the Bronx Zoo. Each class has 28 students. Bus tickets cost $2 each. What is the total cost of bus tickets for all the students?",
+      "visual": "🦒",
+      "options": [
+        "$84",
+        "$112",
+        "$168",
+        "$196"
+      ],
+      "correct": 2,
+      "explain": "Step 1: 3 classes × 28 students = 84 students total. Step 2: 84 × $2 = $168."
+    },
+    {
+      "id": "g12_contraction_001",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "IT'S is a contraction (short form). What two words does IT'S stand for?",
+      "visual": null,
+      "options": [
+        "It was",
+        "It is",
+        "Its own",
+        "It had"
+      ],
+      "correct": 1,
+      "explain": "IT'S = IT IS. The apostrophe replaces the letter 'i' in 'is.' Example: 'It's raining' = 'It is raining.'"
+    },
+    {
+      "id": "g12_compound_001",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "SUNSHINE is a compound word made of two smaller words. Which two words make it up?",
+      "visual": "☀️",
+      "options": [
+        "sun + shine",
+        "suns + hine",
+        "su + nshine",
+        "sun + ine"
+      ],
+      "correct": 0,
+      "explain": "SUN + SHINE = SUNSHINE! Compound words are two real words joined together, like RAINBOW (rain + bow) and BEDROOM (bed + room)."
+    },
+    {
+      "id": "g12_punct_001",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which sentence uses CORRECT punctuation?",
+      "visual": null,
+      "options": [
+        "Can you help me",
+        "Can you help me!",
+        "Can you help me?",
+        "can you help me?"
+      ],
+      "correct": 2,
+      "explain": "'Can you help me?' is correct — it's a question, so it needs a question mark. It also starts with a capital letter."
+    },
+    {
+      "id": "g12_sci_004",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "Which is an example of a PUSH force?",
+      "visual": "🛒",
+      "options": [
+        "Pulling open a door",
+        "Pushing a shopping cart",
+        "Picking up a backpack",
+        "Catching a baseball"
+      ],
+      "correct": 1,
+      "explain": "Pushing a shopping cart is a push force — you move it away from you. Pulling, picking up, and catching are different forces!"
+    },
+    {
+      "id": "g12_logic_004",
+      "grade": "g1",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 3,
+      "prompt": "Fill in the blank: 5, 10, 15, ___, 25",
+      "visual": null,
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct": 2,
+      "explain": "This is counting by 5s! 15 + 5 = 20, and 20 + 5 = 25. The missing number is 20."
+    },
+    {
+      "id": "g12_nyc_001",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "NYC",
+      "difficulty": 2,
+      "prompt": "New York City has 5 boroughs. Which of these is NOT one of them?",
+      "visual": "🗽",
+      "options": [
+        "Brooklyn",
+        "Queens",
+        "Newark",
+        "Manhattan"
+      ],
+      "correct": 2,
+      "explain": "Newark is a city in New Jersey — not a NYC borough! The 5 boroughs are Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+    },
+    {
+      "id": "g12_pic_008",
+      "grade": "g2",
+      "subject": "picture",
+      "topic": "Science",
+      "difficulty": 2,
+      "type": "picture",
+      "prompt": "Tap the symbol that represents ELECTRICITY! ⚡",
+      "visual": null,
+      "options": [
+        "drop.fill",
+        "flame.fill",
+        "bolt.fill",
+        "leaf.fill"
+      ],
+      "correct": 2,
+      "explain": "A lightning bolt symbol means electricity! You see it on power outlets and electric vehicles."
+    },
+    {
+      "id": "g12_read_009",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "The New York City subway is one of the largest transit systems in the world. It has 472 stations and runs 24 hours a day, 7 days a week — something most other cities can't do. Every day, millions of New Yorkers use it to travel to work, school, and everywhere in between.",
+      "prompt": "What makes the NYC subway unusual compared to most other cities?",
+      "visual": "🚇",
+      "options": [
+        "It is the only subway in the USA",
+        "It runs 24 hours a day, 7 days a week",
+        "It has exactly 100 stations",
+        "It is free to ride"
+      ],
+      "correct": 1,
+      "explain": "The passage says most other cities can't run their subway 24/7 — that's what makes NYC's subway unique!"
+    },
+    {
+      "id": "g12_read_010",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "New York City has four seasons. Summer is hot and humid — perfect for trips to the beach. Fall brings cool breezes and colorful leaves in Central Park. Winter can mean heavy snowstorms and icy sidewalks. Spring arrives with flowers and warmer days.",
+      "prompt": "In which season can you see colorful leaves in Central Park?",
+      "visual": "🍂",
+      "options": [
+        "Summer",
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "correct": 1,
+      "explain": "The passage says fall brings 'colorful leaves in Central Park.' Trees change color in autumn before the leaves drop!"
+    },
+    {
+      "id": "g35_frac_005",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 4,
+      "prompt": "2 1/2 + 1 1/2 = ?",
+      "visual": null,
+      "options": [
+        "3",
+        "4",
+        "3 1/2",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "Add the whole numbers: 2 + 1 = 3. Add the fractions: 1/2 + 1/2 = 1. Total: 3 + 1 = 4."
+    },
+    {
+      "id": "g35_pct_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Percentages",
+      "difficulty": 4,
+      "prompt": "What is 25% of 80?",
+      "visual": null,
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct": 1,
+      "explain": "25% = 1/4. One quarter of 80 = 80 ÷ 4 = 20."
+    },
+    {
+      "id": "g35_pct_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Percentages",
+      "difficulty": 4,
+      "prompt": "A $40 jacket at a NYC store is 10% off. How much money do you save?",
+      "visual": "🧥",
+      "options": [
+        "$2",
+        "$4",
+        "$10",
+        "$14"
+      ],
+      "correct": 1,
+      "explain": "10% of $40 = $40 ÷ 10 = $4. You save $4! The jacket would cost $36."
+    },
+    {
+      "id": "g35_vol_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 4,
+      "prompt": "A box is 5 cm long, 3 cm wide, and 2 cm tall. What is its VOLUME?",
+      "visual": null,
+      "options": [
+        "10 cubic cm",
+        "16 cubic cm",
+        "30 cubic cm",
+        "60 cubic cm"
+      ],
+      "correct": 2,
+      "explain": "Volume = length × width × height = 5 × 3 × 2 = 30 cubic cm. Volume measures the space INSIDE a 3D shape."
+    },
+    {
+      "id": "g35_ratio_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Ratios",
+      "difficulty": 4,
+      "prompt": "For every 3 red beads there are 5 blue beads. If there are 12 red beads, how many blue beads are there?",
+      "visual": null,
+      "options": [
+        "15",
+        "18",
+        "20",
+        "25"
+      ],
+      "correct": 2,
+      "explain": "The ratio is 3:5. If red goes from 3 to 12 (×4), blue also ×4: 5 × 4 = 20 blue beads."
+    },
+    {
+      "id": "g35_word_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "The Empire State Building has 102 floors. Each floor is about 12 feet tall. Approximately how many feet tall is the building?",
+      "visual": "🏙️",
+      "options": [
+        "1,100 feet",
+        "1,224 feet",
+        "1,300 feet",
+        "1,424 feet"
+      ],
+      "correct": 1,
+      "explain": "102 × 12: (100 × 12) + (2 × 12) = 1,200 + 24 = 1,224 feet. The Empire State Building is actually about 1,250 feet to the tip!"
+    },
+    {
+      "id": "g35_logic_003",
+      "grade": "g5",
+      "subject": "logic",
+      "topic": "Algebra",
+      "difficulty": 4,
+      "prompt": "Solve for n: 3n + 4 = 22",
+      "visual": "🔢",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "explain": "Subtract 4 from both sides: 3n = 18. Divide both sides by 3: n = 6. Check: 3(6) + 4 = 18 + 4 = 22 ✓"
+    },
+    {
+      "id": "g35_fig_003",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "Which sentence contains PERSONIFICATION (giving human qualities to a non-human thing)?",
+      "visual": null,
+      "options": [
+        "She ran like the wind.",
+        "The stars danced across the night sky.",
+        "His room was a total disaster.",
+        "He ate as fast as a cheetah."
+      ],
+      "correct": 1,
+      "explain": "Stars can't actually dance — that's personification! We're giving the stars a human action. 'Like the wind' and 'as fast as a cheetah' are similes."
+    },
+    {
+      "id": "g35_idiom_001",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "'It was raining cats and dogs outside.' What does this IDIOM mean?",
+      "visual": "🌧️",
+      "options": [
+        "Animals were falling from the sky",
+        "It was raining very heavily",
+        "Cats and dogs hate rain",
+        "It was just a light drizzle"
+      ],
+      "correct": 1,
+      "explain": "An idiom is a phrase that means something different from its literal words. 'Raining cats and dogs' means it's raining very, very hard!"
+    },
+    {
+      "id": "g35_text_001",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 4,
+      "prompt": "Which signal word best shows a CAUSE AND EFFECT relationship?",
+      "visual": null,
+      "options": [
+        "However",
+        "For example",
+        "Therefore",
+        "In contrast"
+      ],
+      "correct": 2,
+      "explain": "'Therefore' signals that what follows is the EFFECT of something — like 'It rained; therefore, the game was canceled.' 'However' and 'in contrast' show contrast; 'for example' shows illustration."
+    },
+    {
+      "id": "g35_infer_002",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Marisol always left her apartment in Harlem two hours before curtain time. She loved the electric energy of Times Square at night and always stopped to watch the street performers before heading underground to reach the theater district.",
+      "prompt": "What can you most likely INFER about what Marisol is doing?",
+      "visual": "🎭",
+      "options": [
+        "She is going to work at a restaurant",
+        "She is going to see a show on Broadway",
+        "She lives near Times Square",
+        "She is afraid of the subway"
+      ],
+      "correct": 1,
+      "explain": "'Curtain time' means a show is starting, and 'theater district' refers to Broadway. Marisol is heading to see a Broadway show — a classic NYC night out!"
+    },
+    {
+      "id": "g35_sci_005",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 4,
+      "prompt": "Earth has several layers. Which layer do we live on?",
+      "visual": "🌍",
+      "options": [
+        "Inner core",
+        "Outer core",
+        "Mantle",
+        "Crust"
+      ],
+      "correct": 3,
+      "explain": "We live on the crust — the thin, rocky outer layer of Earth. Beneath it is the mantle, then the outer core, then the solid inner core."
+    },
+    {
+      "id": "g35_sci_006",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Science",
+      "difficulty": 3,
+      "prompt": "During photosynthesis, plants use sunlight, water, and CO₂ to make ___.",
+      "visual": "🌿",
+      "options": [
+        "Protein",
+        "Glucose (sugar)",
+        "Minerals",
+        "Starch only"
+      ],
+      "correct": 1,
+      "explain": "Photosynthesis produces glucose — the sugar plants use for energy. Oxygen is released as a byproduct, which is the air we breathe!"
+    },
+    {
+      "id": "g35_nyc_002",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "NYC History",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "The Brooklyn Bridge was completed in 1883 after 14 years of work. Designed by John Roebling, it was the first steel-wire suspension bridge ever built. At the time it opened, it was the longest suspension bridge in the world. It still carries thousands of pedestrians, cyclists, and vehicles every day.",
+      "prompt": "What made the Brooklyn Bridge historic when it first opened?",
+      "visual": "🌉",
+      "options": [
+        "It was the first bridge in America",
+        "It was the longest suspension bridge in the world",
+        "It was built in only one year",
+        "It was made entirely of wood"
+      ],
+      "correct": 1,
+      "explain": "When it opened in 1883, the Brooklyn Bridge was the longest suspension bridge in the world — a true engineering achievement!"
+    },
+    {
+      "id": "g35_read_007",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "In 1969, astronaut Neil Armstrong became the first human to walk on the Moon. He said the famous words: 'That's one small step for man, one giant leap for mankind.' The Apollo 11 mission lasted 8 days, and the astronauts brought back 47 pounds of moon rock for scientists to study.",
+      "prompt": "Why did the Apollo 11 astronauts bring back moon rocks?",
+      "visual": "🌕",
+      "options": [
+        "To sell them as souvenirs",
+        "For scientists to study",
+        "To build a museum exhibit",
+        "To prove they had been there"
+      ],
+      "correct": 1,
+      "explain": "The passage says they brought back moon rocks 'for scientists to study.' Scientists analyzed them to learn about the Moon's history and formation."
+    }
+  ]
+}
