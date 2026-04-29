@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "questions": [
     {
       "id": "prek_count_001",
@@ -8173,6 +8173,4662 @@
       ],
       "correct": 1,
       "explain": "Slamming books and crossing arms are signs of anger or frustration — we infer Marco was upset."
+    },
+    {
+      "id": "k_v4_001",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "Count by 10s: 10, 20, 30, 40, 50, 60, 70, ___",
+      "visual": "🔢",
+      "options": [
+        "75",
+        "80",
+        "90",
+        "100"
+      ],
+      "correct": 1,
+      "standard": "K.CC.A.1",
+      "explain": "When counting by 10s the next number after 70 is 80."
+    },
+    {
+      "id": "k_v4_002",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "What number is missing? 87, 88, 89, ___, 91",
+      "visual": null,
+      "options": [
+        "86",
+        "90",
+        "92",
+        "80"
+      ],
+      "correct": 1,
+      "standard": "K.CC.A.2",
+      "explain": "Counting by 1s: after 89 comes 90."
+    },
+    {
+      "id": "k_v4_003",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "There are ⭐⭐⭐ and ⭐⭐ stars. How many stars in all?",
+      "visual": null,
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "standard": "K.CC.B.5",
+      "explain": "Count each star: 1, 2, 3, 4, 5. There are 5 stars in all."
+    },
+    {
+      "id": "k_v4_004",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "Which number is GREATER?",
+      "visual": "14 or 9",
+      "options": [
+        "9",
+        "14",
+        "They are equal",
+        "Can't tell"
+      ],
+      "correct": 1,
+      "standard": "K.CC.C.7",
+      "explain": "14 is greater than 9 because 14 comes later when counting."
+    },
+    {
+      "id": "k_v4_005",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "Count by 2s: 2, 4, 6, ___, 10",
+      "visual": null,
+      "options": [
+        "7",
+        "8",
+        "9",
+        "5"
+      ],
+      "correct": 1,
+      "standard": "K.CC.A.1",
+      "explain": "Skip-counting by 2s: after 6 comes 8."
+    },
+    {
+      "id": "k_v4_006",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 2,
+      "prompt": "Start at 7 and count up 4 more. What number do you reach?",
+      "visual": null,
+      "options": [
+        "10",
+        "11",
+        "12",
+        "3"
+      ],
+      "correct": 1,
+      "standard": "K.CC.A.2",
+      "explain": "7, 8, 9, 10, 11 — counting on 4 from 7 gives you 11."
+    },
+    {
+      "id": "k_v4_007",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "There are 🍎🍎🍎🍎🍎 apples and 🍊🍊🍊 oranges. Which group has MORE?",
+      "visual": null,
+      "options": [
+        "Oranges",
+        "Apples",
+        "They are the same",
+        "Can't tell"
+      ],
+      "correct": 1,
+      "standard": "K.CC.C.6",
+      "explain": "5 apples is more than 3 oranges."
+    },
+    {
+      "id": "k_v4_008",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "You counted 12 buttons and said '12' on the last button. How many buttons are there?",
+      "visual": null,
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "standard": "K.CC.B.4",
+      "explain": "The last number you say when counting tells you how many there are — that's 12."
+    },
+    {
+      "id": "k_v4_009",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "Maria has 4 crayons. She gets 3 more. How many crayons does she have?",
+      "visual": "🖍️",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "1"
+      ],
+      "correct": 1,
+      "standard": "K.OA.A.2",
+      "explain": "4 + 3 = 7 crayons."
+    },
+    {
+      "id": "k_v4_010",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "6 + 3 = ?",
+      "visual": null,
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "standard": "K.OA.A.1",
+      "explain": "6 + 3 = 9. Count on from 6: 7, 8, 9."
+    },
+    {
+      "id": "k_v4_011",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "5 - 2 = ?",
+      "visual": null,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "7"
+      ],
+      "correct": 1,
+      "standard": "K.OA.A.1",
+      "explain": "5 - 2 = 3. If you have 5 and take away 2, you have 3."
+    },
+    {
+      "id": "k_v4_012",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "There are 10 birds on a fence. 4 fly away. How many are left?",
+      "visual": "🐦",
+      "options": [
+        "14",
+        "6",
+        "4",
+        "8"
+      ],
+      "correct": 1,
+      "standard": "K.OA.A.2",
+      "explain": "10 - 4 = 6 birds remain."
+    },
+    {
+      "id": "k_v4_013",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "Tom has 8 stickers. Jan has 5 stickers. How many MORE does Tom have?",
+      "visual": "⭐",
+      "options": [
+        "13",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "standard": "K.OA.A.2",
+      "explain": "8 - 5 = 3. Tom has 3 more stickers than Jan."
+    },
+    {
+      "id": "k_v4_014",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "3 + ___ = 7. What is the missing number?",
+      "visual": null,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "standard": "K.OA.A.4",
+      "explain": "3 + 4 = 7. You need 4 more to get from 3 to 7."
+    },
+    {
+      "id": "k_v4_015",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "4 + 4 = ?",
+      "visual": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "standard": "K.OA.A.1",
+      "explain": "4 + 4 = 8. These are called doubles!"
+    },
+    {
+      "id": "k_v4_016",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "Which two numbers make 10? ___ + ___ = 10",
+      "visual": null,
+      "options": [
+        "4 + 5",
+        "3 + 6",
+        "6 + 4",
+        "4 + 7"
+      ],
+      "correct": 2,
+      "standard": "K.OA.A.3",
+      "explain": "6 + 4 = 10. Knowing pairs that make 10 helps you add fast!"
+    },
+    {
+      "id": "k_v4_017",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "The number 13 is the same as: 10 + ___",
+      "visual": null,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "standard": "K.NBT.A.1",
+      "explain": "13 = 10 + 3. The 1 in 13 stands for one ten, and 3 stands for three ones."
+    },
+    {
+      "id": "k_v4_018",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "15 is made of ___ ten and ___ ones.",
+      "visual": null,
+      "options": [
+        "2 tens and 5 ones",
+        "1 ten and 5 ones",
+        "5 tens and 1 one",
+        "1 ten and 0 ones"
+      ],
+      "correct": 1,
+      "standard": "K.NBT.A.1",
+      "explain": "15 = 1 ten (10) + 5 ones. The digit 1 is in the tens place."
+    },
+    {
+      "id": "k_v4_019",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 1,
+      "prompt": "10 + 7 = ?",
+      "visual": null,
+      "options": [
+        "17",
+        "71",
+        "107",
+        "70"
+      ],
+      "correct": 0,
+      "standard": "K.NBT.A.1",
+      "explain": "10 + 7 = 17. A ten plus 7 ones makes the teen number 17."
+    },
+    {
+      "id": "k_v4_020",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is the ones digit in the number 16?",
+      "visual": null,
+      "options": [
+        "1",
+        "6",
+        "16",
+        "0"
+      ],
+      "correct": 1,
+      "standard": "K.NBT.A.1",
+      "explain": "In 16, the digit 6 is in the ones place."
+    },
+    {
+      "id": "k_v4_021",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which shows the number 19?",
+      "visual": null,
+      "options": [
+        "1 ten and 8 ones",
+        "9 tens and 1 one",
+        "1 ten and 9 ones",
+        "2 tens and 9 ones"
+      ],
+      "correct": 2,
+      "standard": "K.NBT.A.1",
+      "explain": "19 = 1 ten + 9 ones."
+    },
+    {
+      "id": "k_v4_022",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 1,
+      "prompt": "Rosa's pencil is longer than Tom's pencil. Whose pencil is SHORTER?",
+      "visual": "✏️",
+      "options": [
+        "Rosa's",
+        "Tom's",
+        "They are the same",
+        "Can't tell"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.1",
+      "explain": "If Rosa's is longer, then Tom's must be shorter."
+    },
+    {
+      "id": "k_v4_023",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 2,
+      "prompt": "A book is 6 paper clips long. A box is 4 paper clips long. Which is LONGER?",
+      "visual": null,
+      "options": [
+        "The box",
+        "The book",
+        "They are the same",
+        "Can't tell"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "6 paper clips is longer than 4 paper clips, so the book is longer."
+    },
+    {
+      "id": "k_v4_024",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Apple, banana, and grapes all belong to which group?",
+      "visual": "🍎🍌🍇",
+      "options": [
+        "Vegetables",
+        "Fruits",
+        "Animals",
+        "Colors"
+      ],
+      "correct": 1,
+      "standard": "K.MD.B.3",
+      "explain": "Apple, banana, and grapes are all fruits."
+    },
+    {
+      "id": "k_v4_025",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Data",
+      "difficulty": 2,
+      "prompt": "A graph shows: 🐱 Cats: 4 votes, 🐶 Dogs: 6 votes, 🐟 Fish: 2 votes. Which pet got the MOST votes?",
+      "visual": null,
+      "options": [
+        "Cats",
+        "Dogs",
+        "Fish",
+        "They all got the same"
+      ],
+      "correct": 1,
+      "standard": "K.MD.B.3",
+      "explain": "Dogs got 6 votes — the highest number."
+    },
+    {
+      "id": "k_v4_026",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 1,
+      "prompt": "A watermelon is heavier than a grape. Which is LIGHTER?",
+      "visual": "🍇",
+      "options": [
+        "Watermelon",
+        "Grape",
+        "They weigh the same",
+        "Can't tell"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "If the watermelon is heavier, the grape must be lighter."
+    },
+    {
+      "id": "k_v4_027",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which 3D shape can you roll across the floor?",
+      "visual": null,
+      "options": [
+        "Cube",
+        "Cone",
+        "Pyramid",
+        "Rectangular prism"
+      ],
+      "correct": 1,
+      "standard": "K.G.B.4",
+      "explain": "A cone has a curved surface and can roll. A cube has only flat faces and cannot roll."
+    },
+    {
+      "id": "k_v4_028",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "The cat is ___ the box. 🐱📦",
+      "visual": null,
+      "options": [
+        "below",
+        "beside",
+        "above",
+        "inside"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.1",
+      "explain": "When something is on top, it is above."
+    },
+    {
+      "id": "k_v4_029",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "A cube has ___ flat faces.",
+      "visual": "📦",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "standard": "K.G.B.4",
+      "explain": "A cube has 6 flat square faces — top, bottom, front, back, left, right."
+    },
+    {
+      "id": "k_v4_030",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "The ball is INSIDE the basket. Where is the ball?",
+      "visual": "🧺",
+      "options": [
+        "above the basket",
+        "beside the basket",
+        "inside the basket",
+        "below the basket"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.1",
+      "explain": "Inside means the ball is within the basket."
+    },
+    {
+      "id": "k_v4_031",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "Which word has the short /a/ sound in the middle?",
+      "visual": null,
+      "options": [
+        "cute",
+        "cake",
+        "cat",
+        "cool"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'Cat' has the short /a/ sound: c-A-t. The others have long vowels."
+    },
+    {
+      "id": "k_v4_032",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "What letter makes the BEGINNING sound in '☀️ sun'?",
+      "visual": null,
+      "options": [
+        "N",
+        "U",
+        "S",
+        "T"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'Sun' starts with the letter S, which makes the /s/ sound."
+    },
+    {
+      "id": "k_v4_033",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "What letter makes the ENDING sound in 'dog 🐕'?",
+      "visual": null,
+      "options": [
+        "D",
+        "O",
+        "G",
+        "B"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'Dog' ends with the letter G, which makes the /g/ sound."
+    },
+    {
+      "id": "k_v4_034",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "Which word has the short /i/ sound? (like in 'sit')",
+      "visual": null,
+      "options": [
+        "mine",
+        "mice",
+        "miss",
+        "mile"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'Miss' has the short /i/ sound. The others have a long /i/ sound."
+    },
+    {
+      "id": "k_v4_035",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Put the sounds together: /c/ + /at/ = ?",
+      "visual": null,
+      "options": [
+        "bat",
+        "hat",
+        "cat",
+        "mat"
+      ],
+      "correct": 2,
+      "standard": "RF.K.2",
+      "explain": "Putting /k/ and /at/ together makes 'cat.'"
+    },
+    {
+      "id": "k_v4_036",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "Which word has the short /o/ sound? (like in 'hot')",
+      "visual": null,
+      "options": [
+        "hope",
+        "home",
+        "hop",
+        "hose"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'Hop' has the short /o/ sound: h-O-p."
+    },
+    {
+      "id": "k_v4_037",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "Which letter makes the /m/ sound?",
+      "visual": null,
+      "options": [
+        "N",
+        "W",
+        "H",
+        "M"
+      ],
+      "correct": 3,
+      "standard": "RF.K.3",
+      "explain": "The letter M makes the /m/ sound, like in 'moon' and 'mom'."
+    },
+    {
+      "id": "k_v4_038",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "prompt": "Which word is 'and'?",
+      "visual": null,
+      "options": [
+        "ant",
+        "add",
+        "and",
+        "an"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'And' is a sight word that connects two things together, like 'cats and dogs.'"
+    },
+    {
+      "id": "k_v4_039",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "prompt": "Which word is 'the'?",
+      "visual": null,
+      "options": [
+        "he",
+        "thee",
+        "the",
+        "they"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3",
+      "explain": "'The' is one of the most common sight words in English."
+    },
+    {
+      "id": "k_v4_040",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Syllables",
+      "difficulty": 2,
+      "prompt": "How many syllables are in the word 'rabbit'?",
+      "visual": "🐰",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "standard": "RF.K.2",
+      "explain": "Clap it out: RAB-bit = 2 syllables."
+    },
+    {
+      "id": "k_v4_041",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "type": "reading",
+      "passage": "Lily saw a frog by the pond. She smiled and sat down to watch it jump. She loved frogs!",
+      "prompt": "How does Lily feel about frogs?",
+      "visual": null,
+      "options": [
+        "She is scared of them",
+        "She is bored by them",
+        "She loves them",
+        "She has never seen one"
+      ],
+      "correct": 2,
+      "standard": "RL.K.3",
+      "explain": "The passage says 'She loved frogs!' which shows her feelings."
+    },
+    {
+      "id": "k_v4_042",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "type": "reading",
+      "passage": "Max played in the park. He went down the slide and swung on the swings. It was a fun day!",
+      "prompt": "Where does this story take place?",
+      "visual": null,
+      "options": [
+        "at school",
+        "at home",
+        "at the park",
+        "at the beach"
+      ],
+      "correct": 2,
+      "standard": "RL.K.3",
+      "explain": "The story says Max played in the park."
+    },
+    {
+      "id": "k_v4_043",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Sam woke up. Then he ate breakfast. Then he went to school.",
+      "prompt": "What did Sam do FIRST?",
+      "visual": null,
+      "options": [
+        "ate breakfast",
+        "went to school",
+        "woke up",
+        "brushed his teeth"
+      ],
+      "correct": 2,
+      "standard": "RL.K.2",
+      "explain": "The first thing the story says Sam did was wake up."
+    },
+    {
+      "id": "k_v4_044",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "type": "reading",
+      "passage": "Ben the dog loved to dig. He dug in the yard every single day.",
+      "prompt": "Who is this story mostly about?",
+      "visual": null,
+      "options": [
+        "a cat",
+        "a yard",
+        "Ben the dog",
+        "a boy"
+      ],
+      "correct": 2,
+      "standard": "RL.K.3",
+      "explain": "The whole story is about Ben the dog."
+    },
+    {
+      "id": "k_v4_045",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "The sun came out after the storm. The flowers opened up and the birds started to sing.",
+      "prompt": "What happened AFTER the sun came out?",
+      "visual": null,
+      "options": [
+        "the storm started",
+        "the flowers closed",
+        "the flowers opened and birds sang",
+        "it got dark"
+      ],
+      "correct": 2,
+      "standard": "RL.K.2",
+      "explain": "The story says after the sun came out, the flowers opened and birds began to sing."
+    },
+    {
+      "id": "k_v4_046",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Mia had a pet fish named Bubbles. Every morning she fed him and said 'Good morning, Bubbles!' Bubbles always swam to the top when he saw Mia.",
+      "prompt": "Why does Bubbles swim to the top when he sees Mia?",
+      "visual": null,
+      "options": [
+        "He is sleeping",
+        "He wants to eat and says hello to Mia",
+        "He is scared",
+        "He wants to hide"
+      ],
+      "correct": 1,
+      "standard": "RL.K.1",
+      "explain": "Mia feeds Bubbles every morning, so Bubbles swims up to be fed and to greet her."
+    },
+    {
+      "id": "k_v4_047",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Elephants are the biggest land animals. They eat plants. They live in Africa and Asia. Baby elephants are called calves.",
+      "prompt": "What is the MAIN TOPIC of this text?",
+      "visual": null,
+      "options": [
+        "Africa",
+        "Baby animals",
+        "Elephants",
+        "Plants"
+      ],
+      "correct": 2,
+      "standard": "RI.K.2",
+      "explain": "Every sentence gives facts about elephants, so elephants is the main topic."
+    },
+    {
+      "id": "k_v4_048",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 1,
+      "type": "reading",
+      "passage": "Water falls from clouds as rain. Plants need rain to grow. Animals drink rainwater too.",
+      "prompt": "What do plants need, according to this text?",
+      "visual": null,
+      "options": [
+        "sunlight",
+        "snow",
+        "rain",
+        "dirt"
+      ],
+      "correct": 2,
+      "standard": "RI.K.1",
+      "explain": "The text says 'Plants need rain to grow.'"
+    },
+    {
+      "id": "k_v4_049",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "type": "reading",
+      "passage": "A book says: 'Always wash your hands before you eat.'",
+      "prompt": "Why does the book tell you to wash your hands?",
+      "visual": null,
+      "options": [
+        "To make your hands wet",
+        "To stay healthy and clean",
+        "Because it is fun",
+        "To use soap"
+      ],
+      "correct": 1,
+      "standard": "RI.K.1",
+      "explain": "Washing hands before eating helps keep germs away so you stay healthy."
+    },
+    {
+      "id": "k_v4_050",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "prompt": "What does a PICTURE in a book help you do?",
+      "visual": null,
+      "options": [
+        "Count the pages",
+        "Understand what the words describe",
+        "Write letters",
+        "Hear the story"
+      ],
+      "correct": 1,
+      "standard": "RI.K.6",
+      "explain": "Pictures help readers understand and picture what the words are describing."
+    },
+    {
+      "id": "k_v4_051",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 1,
+      "prompt": "Which word is a PERSON?",
+      "visual": null,
+      "options": [
+        "run",
+        "happy",
+        "cat",
+        "teacher"
+      ],
+      "correct": 3,
+      "standard": "L.K.1",
+      "explain": "'Teacher' names a person. A noun that names a person, place, or thing is called a noun."
+    },
+    {
+      "id": "k_v4_052",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 1,
+      "prompt": "Which word shows an ACTION?",
+      "visual": null,
+      "options": [
+        "ball",
+        "jump",
+        "red",
+        "house"
+      ],
+      "correct": 1,
+      "standard": "L.K.1",
+      "explain": "'Jump' is an action word (verb). It tells what someone does."
+    },
+    {
+      "id": "k_v4_053",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What is the OPPOSITE of HOT?",
+      "visual": "🔥❄️",
+      "options": [
+        "warm",
+        "hot",
+        "cold",
+        "big"
+      ],
+      "correct": 2,
+      "standard": "L.K.5",
+      "explain": "The opposite of hot is cold."
+    },
+    {
+      "id": "k_v4_054",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "Apple, banana, and orange all belong to which group?",
+      "visual": "🍎🍌🍊",
+      "options": [
+        "Vegetables",
+        "Fruits",
+        "Animals",
+        "Colors"
+      ],
+      "correct": 1,
+      "standard": "L.K.5",
+      "explain": "Apples, bananas, and oranges are all fruits."
+    },
+    {
+      "id": "k_v4_055",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 1,
+      "prompt": "Which word names a PLACE?",
+      "visual": null,
+      "options": [
+        "run",
+        "blue",
+        "school",
+        "soft"
+      ],
+      "correct": 2,
+      "standard": "L.K.1",
+      "explain": "'School' names a place. It is a noun."
+    },
+    {
+      "id": "k_v4_056",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 1,
+      "prompt": "Which word DESCRIBES (tells about) the elephant? 🐘",
+      "visual": null,
+      "options": [
+        "run",
+        "and",
+        "big",
+        "for"
+      ],
+      "correct": 2,
+      "standard": "L.K.1",
+      "explain": "'Big' is a describing word (adjective). It tells what the elephant is like."
+    },
+    {
+      "id": "k_v4_057",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "Which of these is a LIVING thing?",
+      "visual": null,
+      "options": [
+        "rock",
+        "water",
+        "tree",
+        "cloud"
+      ],
+      "correct": 2,
+      "standard": "K-LS1-1",
+      "explain": "A tree is living — it grows, needs food and water, and can make new trees."
+    },
+    {
+      "id": "k_v4_058",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "What do plants need to grow? (choose the best answer)",
+      "visual": "🌱",
+      "options": [
+        "sand and ice",
+        "darkness and salt",
+        "sunlight and water",
+        "rocks and metal"
+      ],
+      "correct": 2,
+      "standard": "K-LS1-1",
+      "explain": "Plants need sunlight and water (plus air and soil) to grow and survive."
+    },
+    {
+      "id": "k_v4_059",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "Animals need ___ to live. Choose the best answer.",
+      "visual": "🐾",
+      "options": [
+        "only sunlight",
+        "rocks and sand",
+        "food and water",
+        "cold and dark"
+      ],
+      "correct": 2,
+      "standard": "K-LS1-1",
+      "explain": "All animals need food and water (and air and shelter) to survive."
+    },
+    {
+      "id": "k_v4_060",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 1,
+      "prompt": "What do you wear on a RAINY day? 🌧️",
+      "visual": null,
+      "options": [
+        "sunglasses and shorts",
+        "sandals and a swimsuit",
+        "a heavy winter coat",
+        "a raincoat and boots"
+      ],
+      "correct": 3,
+      "standard": "K-ESS2-1",
+      "explain": "A raincoat and boots keep you dry when it's raining."
+    },
+    {
+      "id": "k_v4_061",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "In which season do many trees lose their leaves?",
+      "visual": "🍂",
+      "options": [
+        "Spring",
+        "Summer",
+        "Winter",
+        "Fall"
+      ],
+      "correct": 3,
+      "standard": "K-ESS2-1",
+      "explain": "Trees lose their leaves in Fall (Autumn) as the weather gets colder."
+    },
+    {
+      "id": "k_v4_062",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "When you throw a ball, you are giving it a: ",
+      "visual": "⚽",
+      "options": [
+        "pull",
+        "twist",
+        "push",
+        "spin"
+      ],
+      "correct": 2,
+      "standard": "K-PS2-1",
+      "explain": "Throwing pushes the ball away from you. A push is a force that moves something away."
+    },
+    {
+      "id": "k_v4_063",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 1,
+      "prompt": "Opening a drawer uses a:",
+      "visual": "🗄️",
+      "options": [
+        "push",
+        "lift",
+        "toss",
+        "pull"
+      ],
+      "correct": 3,
+      "standard": "K-PS2-1",
+      "explain": "You pull a drawer to open it. A pull is a force that brings something toward you."
+    },
+    {
+      "id": "k_v4_064",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "What do ALL living things do?",
+      "visual": null,
+      "options": [
+        "talk and sing",
+        "sleep and dream",
+        "eat and grow",
+        "read and write"
+      ],
+      "correct": 2,
+      "standard": "K-LS1-1",
+      "explain": "All living things eat (take in energy) and grow. Plants, animals, and people all do this."
+    },
+    {
+      "id": "k_v4_065",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 1,
+      "prompt": "Who do you call when there is a FIRE? 🚒",
+      "visual": null,
+      "options": [
+        "teacher",
+        "chef",
+        "librarian",
+        "firefighter"
+      ],
+      "correct": 3,
+      "standard": "K-SS",
+      "explain": "Firefighters are community helpers whose job is to put out fires and keep people safe."
+    },
+    {
+      "id": "k_v4_066",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 1,
+      "prompt": "Why do we have RULES at school?",
+      "visual": null,
+      "options": [
+        "to make things harder",
+        "because it is fun",
+        "so teachers have power",
+        "to keep everyone safe and fair"
+      ],
+      "correct": 3,
+      "standard": "K-SS",
+      "explain": "Rules help everyone stay safe, be treated fairly, and learn together."
+    },
+    {
+      "id": "k_v4_067",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 2,
+      "prompt": "A COMMUNITY is:",
+      "visual": null,
+      "options": [
+        "a type of weather",
+        "a school subject",
+        "a kind of food",
+        "a group of people who live and work near each other"
+      ],
+      "correct": 3,
+      "standard": "K-SS",
+      "explain": "A community is a group of people who share the same neighborhood, town, or city."
+    },
+    {
+      "id": "k_v4_068",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 1,
+      "prompt": "What is a MAP?",
+      "visual": "🗺️",
+      "options": [
+        "a story in a book",
+        "a type of food",
+        "a kind of game",
+        "a picture that shows where places are"
+      ],
+      "correct": 3,
+      "standard": "K-SS",
+      "explain": "A map is a drawing that shows where places are located."
+    },
+    {
+      "id": "g3_v4_001",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "4 × 7 = 28. What does 7 × 4 equal?",
+      "visual": null,
+      "options": [
+        "11",
+        "21",
+        "28",
+        "47"
+      ],
+      "correct": 2,
+      "standard": "3.OA.B.5",
+      "explain": "The commutative property says you can multiply in any order: 4 × 7 = 7 × 4 = 28."
+    },
+    {
+      "id": "g3_v4_002",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "Which shows a way to find 6 × 8 by breaking it into smaller facts?",
+      "visual": null,
+      "options": [
+        "6 × 4 + 6 × 4",
+        "3 × 8 + 8",
+        "6 + 6 + 6 + 6",
+        "8 × 6 × 2"
+      ],
+      "correct": 0,
+      "standard": "3.OA.B.5",
+      "explain": "The distributive property: 6 × 8 = 6 × 4 + 6 × 4 = 24 + 24 = 48."
+    },
+    {
+      "id": "g3_v4_003",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "(2 × 3) × 4 = 2 × (3 × ___)",
+      "visual": null,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "standard": "3.OA.B.5",
+      "explain": "The associative property: you can regroup factors. (2×3)×4 = 2×(3×4) — the missing number is 4."
+    },
+    {
+      "id": "g3_v4_004",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 2,
+      "prompt": "8 × ___ = 56. What is the missing number?",
+      "visual": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "standard": "3.OA.B.6",
+      "explain": "Think: 56 ÷ 8 = 7. So 8 × 7 = 56."
+    },
+    {
+      "id": "g3_v4_005",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 2,
+      "prompt": "63 ÷ 9 = ?",
+      "visual": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "standard": "3.OA.C.7",
+      "explain": "9 × 7 = 63, so 63 ÷ 9 = 7."
+    },
+    {
+      "id": "g3_v4_006",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Alex has 3 bags with 5 apples each. He eats 4 apples. How many apples does he have left?",
+      "visual": "🍎",
+      "options": [
+        "7",
+        "11",
+        "15",
+        "19"
+      ],
+      "correct": 1,
+      "standard": "3.OA.D.8",
+      "explain": "3 × 5 = 15 apples total. 15 - 4 = 11 apples left."
+    },
+    {
+      "id": "g3_v4_007",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "What is the rule for the pattern? 3, 6, 9, 12, 15, ___",
+      "visual": null,
+      "options": [
+        "Multiply by 2",
+        "Add 6",
+        "Subtract 3",
+        "Add 3"
+      ],
+      "correct": 3,
+      "standard": "3.OA.D.9",
+      "explain": "Each number increases by 3: 3+3=6, 6+3=9, 9+3=12… the rule is Add 3."
+    },
+    {
+      "id": "g3_v4_008",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Maria earns $6 a day for 4 days. She spends $7. How much does she have left?",
+      "visual": "💰",
+      "options": [
+        "$17",
+        "$14",
+        "$10",
+        "$24"
+      ],
+      "correct": 0,
+      "standard": "3.OA.D.8",
+      "explain": "$6 × 4 = $24 earned. $24 - $7 = $17 remaining."
+    },
+    {
+      "id": "g3_v4_009",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 47 to the nearest ten.",
+      "visual": null,
+      "options": [
+        "40",
+        "45",
+        "50",
+        "57"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.1",
+      "explain": "47 is closer to 50 than to 40 (the digit in the ones place is 7, which is ≥ 5), so round up to 50."
+    },
+    {
+      "id": "g3_v4_010",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 362 to the nearest hundred.",
+      "visual": null,
+      "options": [
+        "300",
+        "360",
+        "370",
+        "400"
+      ],
+      "correct": 3,
+      "standard": "3.NBT.A.1",
+      "explain": "362: the tens digit is 6, which is ≥ 5, so round up to 400."
+    },
+    {
+      "id": "g3_v4_011",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "4 × 30 = ?",
+      "visual": null,
+      "options": [
+        "12",
+        "34",
+        "120",
+        "400"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.3",
+      "explain": "4 × 30 = 4 × 3 × 10 = 12 × 10 = 120."
+    },
+    {
+      "id": "g3_v4_012",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 3,
+      "prompt": "256 + 147 = ?",
+      "visual": null,
+      "options": [
+        "393",
+        "403",
+        "413",
+        "303"
+      ],
+      "correct": 1,
+      "standard": "3.NBT.A.2",
+      "explain": "256 + 147: 6+7=13 (write 3 carry 1), 5+4+1=10 (write 0 carry 1), 2+1+1=4. Answer: 403."
+    },
+    {
+      "id": "g3_v4_013",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 3,
+      "prompt": "503 - 278 = ?",
+      "visual": null,
+      "options": [
+        "215",
+        "225",
+        "235",
+        "325"
+      ],
+      "correct": 1,
+      "standard": "3.NBT.A.2",
+      "explain": "503 - 278 requires regrouping: 503 - 278 = 225."
+    },
+    {
+      "id": "g3_v4_014",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 1,
+      "prompt": "Which fraction shows ONE part out of THREE equal parts?",
+      "visual": null,
+      "options": [
+        "3/1",
+        "1/4",
+        "3/3",
+        "1/3"
+      ],
+      "correct": 3,
+      "standard": "3.NF.A.1",
+      "explain": "1/3 means 1 part out of 3 equal parts total."
+    },
+    {
+      "id": "g3_v4_015",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 1,
+      "prompt": "A pizza is cut into 4 equal slices. You eat 1 slice. What fraction did you eat?",
+      "visual": "🍕",
+      "options": [
+        "4/1",
+        "1/2",
+        "1/3",
+        "1/4"
+      ],
+      "correct": 3,
+      "standard": "3.NF.A.1",
+      "explain": "1 slice out of 4 equal slices = 1/4."
+    },
+    {
+      "id": "g3_v4_016",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "On a number line from 0 to 1, where is 1/2?",
+      "visual": null,
+      "options": [
+        "right next to 0",
+        "at the number 2",
+        "right next to 1",
+        "halfway between 0 and 1"
+      ],
+      "correct": 3,
+      "standard": "3.NF.A.2",
+      "explain": "1/2 is exactly halfway between 0 and 1 on the number line."
+    },
+    {
+      "id": "g3_v4_017",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "Which fraction is LARGER: 1/2 or 1/4?",
+      "visual": null,
+      "options": [
+        "1/4",
+        "They are equal",
+        "1/2",
+        "Can't compare"
+      ],
+      "correct": 2,
+      "standard": "3.NF.A.3",
+      "explain": "1/2 is larger. When the numerator is the same (1), the smaller denominator means bigger pieces."
+    },
+    {
+      "id": "g3_v4_018",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "2/4 is the same amount as:",
+      "visual": null,
+      "options": [
+        "3/4",
+        "2/3",
+        "1/4",
+        "1/2"
+      ],
+      "correct": 3,
+      "standard": "3.NF.A.3",
+      "explain": "2/4 = 1/2. Both represent the same amount — half of a whole."
+    },
+    {
+      "id": "g3_v4_019",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which fraction is SMALLER: 3/4 or 3/8?",
+      "visual": null,
+      "options": [
+        "3/4",
+        "They are equal",
+        "Can't tell",
+        "3/8"
+      ],
+      "correct": 3,
+      "standard": "3.NF.A.3",
+      "explain": "Same numerator (3): the bigger the denominator, the smaller each piece. So 3/8 < 3/4."
+    },
+    {
+      "id": "g3_v4_020",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "There are 8 students. Half of them are wearing hats. How many wear hats?",
+      "visual": "🎩",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "4"
+      ],
+      "correct": 3,
+      "standard": "3.NF.A.1",
+      "explain": "Half of 8 is 4. 8 ÷ 2 = 4 students are wearing hats."
+    },
+    {
+      "id": "g3_v4_021",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Jake ran 2/6 of a mile. Which fraction equals the same distance?",
+      "visual": null,
+      "options": [
+        "2/3",
+        "1/6",
+        "1/3",
+        "1/2"
+      ],
+      "correct": 2,
+      "standard": "3.NF.A.3",
+      "explain": "2/6 simplifies to 1/3 (divide both by 2): 2÷2 = 1, 6÷2 = 3."
+    },
+    {
+      "id": "g3_v4_022",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "A movie starts at 2:00 PM and ends at 3:45 PM. How long is the movie?",
+      "visual": "🎬",
+      "options": [
+        "1 hour 15 min",
+        "45 min",
+        "2 hours",
+        "1 hour 45 min"
+      ],
+      "correct": 3,
+      "standard": "3.MD.A.1",
+      "explain": "From 2:00 to 3:00 is 1 hour. From 3:00 to 3:45 is 45 more minutes. Total: 1 hour 45 minutes."
+    },
+    {
+      "id": "g3_v4_023",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "A clock shows the hour hand on 4 and the minute hand on 9. What time is it?",
+      "visual": "🕓",
+      "options": [
+        "9:04",
+        "9:45",
+        "4:09",
+        "4:45"
+      ],
+      "correct": 3,
+      "standard": "3.MD.A.1",
+      "explain": "The minute hand on 9 means 45 minutes past. The hour hand points to 4. So it's 4:45."
+    },
+    {
+      "id": "g3_v4_024",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 1,
+      "prompt": "Which unit would you use to measure the amount of water in a fish tank?",
+      "visual": "🐠",
+      "options": [
+        "grams",
+        "centimeters",
+        "seconds",
+        "liters"
+      ],
+      "correct": 3,
+      "standard": "3.MD.A.2",
+      "explain": "Liters measure liquid volume. A fish tank holds several liters of water."
+    },
+    {
+      "id": "g3_v4_025",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Area",
+      "difficulty": 2,
+      "prompt": "A rectangle has 4 rows of square tiles with 3 tiles in each row. What is the area?",
+      "visual": null,
+      "options": [
+        "7 sq units",
+        "14 sq units",
+        "10 sq units",
+        "12 sq units"
+      ],
+      "correct": 3,
+      "standard": "3.MD.C.7",
+      "explain": "Area = rows × columns = 4 × 3 = 12 square units."
+    },
+    {
+      "id": "g3_v4_026",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Perimeter",
+      "difficulty": 2,
+      "prompt": "A square garden has sides that are each 5 meters long. What is the perimeter?",
+      "visual": "🌿",
+      "options": [
+        "25 m",
+        "10 m",
+        "15 m",
+        "20 m"
+      ],
+      "correct": 3,
+      "standard": "3.MD.D.8",
+      "explain": "A square has 4 equal sides. Perimeter = 4 × 5 = 20 meters."
+    },
+    {
+      "id": "g3_v4_027",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Data",
+      "difficulty": 2,
+      "prompt": "A bar graph shows: Monday: 8 books, Tuesday: 5 books, Wednesday: 10 books. Which day had the MOST books?",
+      "visual": null,
+      "options": [
+        "Monday",
+        "Tuesday",
+        "They're all the same",
+        "Wednesday"
+      ],
+      "correct": 3,
+      "standard": "3.MD.B.3",
+      "explain": "Wednesday had 10 books, which is more than Monday (8) and Tuesday (5)."
+    },
+    {
+      "id": "g3_v4_028",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Data",
+      "difficulty": 2,
+      "prompt": "A picture graph shows each ⭐ = 2 kids. Soccer has 4 stars. How many kids play soccer?",
+      "visual": null,
+      "options": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ],
+      "correct": 3,
+      "standard": "3.MD.B.3",
+      "explain": "4 stars × 2 kids per star = 8 kids play soccer."
+    },
+    {
+      "id": "g3_v4_029",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 2,
+      "prompt": "Which shape is ALWAYS a quadrilateral?",
+      "visual": null,
+      "options": [
+        "triangle",
+        "pentagon",
+        "hexagon",
+        "rectangle"
+      ],
+      "correct": 3,
+      "standard": "3.G.A.1",
+      "explain": "A quadrilateral has 4 sides. A rectangle always has 4 sides, so it is always a quadrilateral."
+    },
+    {
+      "id": "g3_v4_030",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "A rectangle is divided into 4 equal parts. Each part is what fraction of the whole?",
+      "visual": null,
+      "options": [
+        "4/1",
+        "2/4",
+        "1/2",
+        "1/4"
+      ],
+      "correct": 3,
+      "standard": "3.G.A.2",
+      "explain": "4 equal parts means each part is 1/4 of the whole."
+    },
+    {
+      "id": "g3_v4_031",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 3,
+      "prompt": "All squares are rectangles, but not all rectangles are squares. What makes a square SPECIAL compared to other rectangles?",
+      "visual": null,
+      "options": [
+        "it has 4 right angles",
+        "it has 4 sides",
+        "it is a quadrilateral",
+        "all 4 sides are equal length"
+      ],
+      "correct": 3,
+      "standard": "3.G.A.1",
+      "explain": "A rectangle has 4 right angles but sides can be different lengths. A square has 4 right angles AND all sides equal."
+    },
+    {
+      "id": "g3_v4_032",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Nina always helped her neighbors carry groceries. When a big storm hit, she was the first one outside clearing snow from their steps.",
+      "prompt": "Which word BEST describes Nina?",
+      "visual": null,
+      "options": [
+        "shy",
+        "selfish",
+        "careless",
+        "kind"
+      ],
+      "correct": 3,
+      "standard": "RL.3.3",
+      "explain": "Nina helps her neighbors without being asked, which shows she is kind."
+    },
+    {
+      "id": "g3_v4_033",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Jake wanted to win the science fair more than anything. He stayed up late every night for two weeks working on his project.",
+      "prompt": "Why did Jake stay up late every night?",
+      "visual": null,
+      "options": [
+        "His parents made him",
+        "He couldn't sleep",
+        "He liked the dark",
+        "He wanted to win the science fair"
+      ],
+      "correct": 3,
+      "standard": "RL.3.3",
+      "explain": "The passage says Jake wanted to win the science fair, which is why he worked so hard."
+    },
+    {
+      "id": "g3_v4_034",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "prompt": "When a story is told using 'I' and 'me,' what is the narrator's point of view?",
+      "visual": null,
+      "options": [
+        "third person — an outsider watching",
+        "second person — talking to the reader",
+        "a character telling their own story (first person)",
+        "the author speaking directly"
+      ],
+      "correct": 2,
+      "standard": "RL.3.6",
+      "explain": "When a narrator uses 'I' and 'me,' it is first-person point of view — a character telling their own story."
+    },
+    {
+      "id": "g3_v4_035",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "prompt": "Which sentence uses a SIMILE?",
+      "visual": null,
+      "options": [
+        "She smiled brightly.",
+        "Her smile lit the room.",
+        "She was happy.",
+        "Her smile was like sunshine."
+      ],
+      "correct": 3,
+      "standard": "RL.3.4",
+      "explain": "A simile compares two things using 'like' or 'as.' 'Her smile was like sunshine' uses 'like.'"
+    },
+    {
+      "id": "g3_v4_036",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "prompt": "What does this METAPHOR mean? 'The classroom was a zoo.'",
+      "visual": null,
+      "options": [
+        "The classroom was boring",
+        "The classroom had animals in it",
+        "The classroom was on a zoo trip",
+        "The classroom was very wild and noisy"
+      ],
+      "correct": 3,
+      "standard": "RL.3.4",
+      "explain": "This metaphor compares the classroom to a zoo to say it was chaotic and out of control — not that animals were actually there."
+    },
+    {
+      "id": "g3_v4_037",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "prompt": "What does the IDIOM 'It's raining cats and dogs' mean?",
+      "visual": "🌧️",
+      "options": [
+        "Animals are falling from the sky",
+        "The weather is nice",
+        "Cats and dogs are getting wet",
+        "It's raining very heavily"
+      ],
+      "correct": 3,
+      "standard": "RL.3.4",
+      "explain": "'Raining cats and dogs' is an idiom meaning it is raining very, very hard."
+    },
+    {
+      "id": "g3_v4_038",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 2,
+      "prompt": "In 'The Three Little Pigs,' what is the main PROBLEM?",
+      "visual": null,
+      "options": [
+        "The pigs eat lunch",
+        "The pigs build houses",
+        "The wolf runs away",
+        "The wolf tries to blow down the houses"
+      ],
+      "correct": 3,
+      "standard": "RL.3.5",
+      "explain": "The story's problem (conflict) is that the wolf threatens the pigs by trying to blow their houses down."
+    },
+    {
+      "id": "g3_v4_039",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "After losing the big game, Carlos said, 'I'm going to practice every single day.' He practiced for weeks. Later that season, Carlos was the best player on his team.",
+      "prompt": "What is the THEME of this story?",
+      "visual": null,
+      "options": [
+        "Carlos is naturally talented",
+        "Sports are the most important thing",
+        "Winning is everything",
+        "Practice and hard work lead to improvement"
+      ],
+      "correct": 3,
+      "standard": "RL.3.2",
+      "explain": "The story shows that Carlos worked hard and improved — the theme is that dedication leads to growth."
+    },
+    {
+      "id": "g3_v4_040",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Bees are important insects. They carry pollen from flower to flower, helping plants make seeds. Without bees, many plants could not grow. Scientists are worried because bee populations are shrinking.",
+      "prompt": "What is the MAIN IDEA of this text?",
+      "visual": null,
+      "options": [
+        "Scientists study insects",
+        "Plants make seeds",
+        "Bees are shrinking",
+        "Bees are important for plants to grow"
+      ],
+      "correct": 3,
+      "standard": "RI.3.2",
+      "explain": "Every sentence supports the main idea that bees are important. Details like pollination and shrinking populations all connect to this."
+    },
+    {
+      "id": "g3_v4_041",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "The Amazon Rainforest is home to over half the world's animal species. It receives more than 100 inches of rain each year. Many important medicines come from rainforest plants.",
+      "prompt": "How much rain does the Amazon Rainforest get each year?",
+      "visual": null,
+      "options": [
+        "25 inches",
+        "50 inches",
+        "200 inches",
+        "more than 100 inches"
+      ],
+      "correct": 3,
+      "standard": "RI.3.1",
+      "explain": "The text states the Amazon 'receives more than 100 inches of rain each year.'"
+    },
+    {
+      "id": "g3_v4_042",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "First, plant the seed in soil. Second, water it every day. Third, place it in sunlight. Finally, watch it grow!",
+      "prompt": "What type of text structure is this?",
+      "visual": null,
+      "options": [
+        "Compare and contrast",
+        "Problem and solution",
+        "Cause and effect",
+        "Sequence / Steps in order"
+      ],
+      "correct": 3,
+      "standard": "RI.3.5",
+      "explain": "The words 'first, second, third, finally' signal a sequence structure — steps listed in order."
+    },
+    {
+      "id": "g3_v4_043",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "prompt": "An author writes a book to teach you how volcanoes work. What is the author's PURPOSE?",
+      "visual": null,
+      "options": [
+        "to entertain",
+        "to confuse",
+        "to persuade",
+        "to inform"
+      ],
+      "correct": 3,
+      "standard": "RI.3.6",
+      "explain": "When an author explains facts about the world, the purpose is to inform (teach) the reader."
+    },
+    {
+      "id": "g3_v4_044",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "The explorer ventured into the dense jungle, hacking through vines and pushing through thick plants.",
+      "prompt": "What does 'dense' most likely mean in this passage?",
+      "visual": null,
+      "options": [
+        "wet and muddy",
+        "thin and empty",
+        "bright and sunny",
+        "thick and crowded"
+      ],
+      "correct": 3,
+      "standard": "RI.3.4",
+      "explain": "Context clues like 'hacking through vines' and 'thick plants' suggest dense means packed tightly together."
+    },
+    {
+      "id": "g3_v4_045",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Dolphins and sharks both live in the ocean and have fins. But dolphins are mammals — they breathe air through a blowhole. Sharks are fish that breathe through gills.",
+      "prompt": "What is ONE way dolphins and sharks are DIFFERENT?",
+      "visual": null,
+      "options": [
+        "Both are fish",
+        "Both have fins",
+        "Both live in the ocean",
+        "Dolphins breathe air; sharks breathe through gills"
+      ],
+      "correct": 3,
+      "standard": "RI.3.9",
+      "explain": "The passage contrasts them: dolphins use a blowhole for air; sharks use gills. That is the key difference."
+    },
+    {
+      "id": "g3_v4_046",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "prompt": "An author writes: 'You should always eat breakfast. It helps your brain work better!' What is the author trying to do?",
+      "visual": null,
+      "options": [
+        "tell a story",
+        "describe a place",
+        "teach facts",
+        "persuade you"
+      ],
+      "correct": 3,
+      "standard": "RI.3.6",
+      "explain": "Saying 'you should' and giving reasons to convince the reader is the purpose of persuasion."
+    },
+    {
+      "id": "g3_v4_047",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 1,
+      "prompt": "In a nonfiction book, what does a HEADING help you do?",
+      "visual": null,
+      "options": [
+        "Count the pages",
+        "Know who wrote the book",
+        "See pictures better",
+        "Understand what a section is about"
+      ],
+      "correct": 3,
+      "standard": "RI.3.5",
+      "explain": "Headings are like titles for sections — they tell you what the next part of the text will be about."
+    },
+    {
+      "id": "g3_v4_048",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "What is the plural of 'child'?",
+      "visual": null,
+      "options": [
+        "childs",
+        "childes",
+        "childies",
+        "children"
+      ],
+      "correct": 3,
+      "standard": "L.3.1",
+      "explain": "'Children' is an irregular plural. You don't add -s or -es; the whole word changes."
+    },
+    {
+      "id": "g3_v4_049",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which word is an ADVERB?",
+      "visual": null,
+      "options": [
+        "happy",
+        "tree",
+        "blue",
+        "quickly"
+      ],
+      "correct": 3,
+      "standard": "L.3.1",
+      "explain": "'Quickly' is an adverb — it describes how an action is done. Most adverbs end in -ly."
+    },
+    {
+      "id": "g3_v4_050",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "The prefix 'un-' means:",
+      "visual": null,
+      "options": [
+        "before",
+        "under",
+        "again",
+        "not / opposite of"
+      ],
+      "correct": 3,
+      "standard": "L.3.4",
+      "explain": "'Un-' means not or opposite: unhappy = not happy, undo = reverse what was done."
+    },
+    {
+      "id": "g3_v4_051",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "The suffix '-ful' means:",
+      "visual": null,
+      "options": [
+        "without",
+        "like",
+        "again",
+        "full of"
+      ],
+      "correct": 3,
+      "standard": "L.3.4",
+      "explain": "'-ful' means full of: helpful = full of help, colorful = full of color."
+    },
+    {
+      "id": "g3_v4_052",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "What are TWO meanings of the word 'bat'?",
+      "visual": null,
+      "options": [
+        "a bug and a shoe",
+        "a bird and a ball",
+        "a cat and a stick",
+        "a flying animal and a stick used in baseball"
+      ],
+      "correct": 3,
+      "standard": "L.3.4",
+      "explain": "'Bat' is a multiple-meaning word: it can be the flying nocturnal mammal or the sports equipment used to hit a ball."
+    },
+    {
+      "id": "g3_v4_053",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which sentence uses CORRECT capitalization?",
+      "visual": null,
+      "options": [
+        "i love new york city.",
+        "I love new york city.",
+        "i Love New York City.",
+        "I love New York City."
+      ],
+      "correct": 3,
+      "standard": "L.3.2",
+      "explain": "The first word of a sentence and proper nouns (like New York City) must always be capitalized."
+    },
+    {
+      "id": "g3_v4_054",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "What is the CORRECT order of a butterfly's life cycle?",
+      "visual": "🦋",
+      "options": [
+        "adult → egg → larva → pupa",
+        "larva → egg → adult → pupa",
+        "egg → adult → larva → pupa",
+        "egg → larva (caterpillar) → pupa (chrysalis) → adult"
+      ],
+      "correct": 3,
+      "standard": "3-LS1-1",
+      "explain": "A butterfly starts as an egg, hatches into a caterpillar (larva), forms a chrysalis (pupa), then becomes an adult butterfly."
+    },
+    {
+      "id": "g3_v4_055",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "Emperor penguins huddle together in large groups to stay warm. This is an example of:",
+      "visual": "🐧",
+      "options": [
+        "migration",
+        "camouflage",
+        "hibernation",
+        "group behavior for survival"
+      ],
+      "correct": 3,
+      "standard": "3-LS2-1",
+      "explain": "Huddling is a social (group) behavior that helps penguins survive the cold — a key example of animals helping each other survive."
+    },
+    {
+      "id": "g3_v4_056",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 2,
+      "prompt": "'New York City gets cold, snowy winters every year.' This statement describes:",
+      "visual": "❄️",
+      "options": [
+        "today's weather",
+        "a weather emergency",
+        "next week's forecast",
+        "the city's climate"
+      ],
+      "correct": 3,
+      "standard": "3-ESS2-1",
+      "explain": "Climate is the typical weather pattern of a place over many years. Weather is what's happening right now."
+    },
+    {
+      "id": "g3_v4_057",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "A magnet pushes another magnet away when their ___ poles face each other.",
+      "visual": "🧲",
+      "options": [
+        "opposite",
+        "south",
+        "north",
+        "same"
+      ],
+      "correct": 3,
+      "standard": "3-PS2-3",
+      "explain": "Same poles (N-N or S-S) repel each other. Opposite poles (N-S) attract. Same poles push away."
+    },
+    {
+      "id": "g3_v4_058",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Science",
+      "difficulty": 2,
+      "prompt": "What is the correct order of a plant's life cycle?",
+      "visual": "🌱",
+      "options": [
+        "adult plant → seedling → seed → makes seeds",
+        "seed → adult plant → seedling → makes seeds",
+        "seedling → seed → adult plant → makes seeds",
+        "seed → seedling → adult plant → makes seeds"
+      ],
+      "correct": 3,
+      "standard": "3-LS1-1",
+      "explain": "A seed sprouts into a seedling, grows into an adult plant, then makes new seeds to start the cycle again."
+    },
+    {
+      "id": "g3_v4_059",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC",
+      "difficulty": 1,
+      "prompt": "Which of these is NOT one of New York City's 5 boroughs?",
+      "visual": "🗽",
+      "options": [
+        "Brooklyn",
+        "Manhattan",
+        "Staten Island",
+        "Albany"
+      ],
+      "correct": 3,
+      "standard": "G3-SS",
+      "explain": "Albany is the capital of New York State, but it is not one of NYC's 5 boroughs. The 5 boroughs are: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+    },
+    {
+      "id": "g3_v4_060",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC",
+      "difficulty": 1,
+      "prompt": "New York City is made up of how many boroughs?",
+      "visual": "🏙️",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correct": 3,
+      "standard": "G3-SS",
+      "explain": "NYC has 5 boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+    },
+    {
+      "id": "g3_v4_061",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 2,
+      "prompt": "A teacher provides a SERVICE. Which of these is also a SERVICE (not a good)?",
+      "visual": null,
+      "options": [
+        "a toy",
+        "a pizza",
+        "a book",
+        "a haircut"
+      ],
+      "correct": 3,
+      "standard": "G3-SS",
+      "explain": "A service is work done for others. A haircut is a service. Toys, pizza, and books are goods (physical things you can hold)."
+    },
+    {
+      "id": "prek_v4_001",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many dogs? 🐶🐶🐶🐶",
+      "visual": "🐶🐶🐶🐶",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explain": "Count each dog: 1, 2, 3, 4. There are 4 dogs.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_002",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many fish? 🐟🐟",
+      "visual": "🐟🐟",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explain": "Count each fish: 1, 2. There are 2 fish.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_003",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many flowers? 🌸🌸🌸🌸🌸🌸",
+      "visual": "🌸🌸🌸🌸🌸🌸",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "Count each flower: 1, 2, 3, 4, 5, 6. There are 6 flowers.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_004",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many cookies? 🍪🍪🍪🍪🍪🍪🍪",
+      "visual": "🍪🍪🍪🍪🍪🍪🍪",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "Count each cookie: 1, 2, 3, 4, 5, 6, 7. There are 7 cookies.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_005",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many butterflies? 🦋🦋🦋🦋🦋🦋🦋🦋",
+      "visual": "🦋🦋🦋🦋🦋🦋🦋🦋",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "Count each butterfly: 1, 2, 3, 4, 5, 6, 7, 8. There are 8 butterflies.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_006",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many trucks? 🚛🚛🚛🚛🚛🚛🚛🚛🚛",
+      "visual": "🚛🚛🚛🚛🚛🚛🚛🚛🚛",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explain": "Count each truck: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are 9 trucks.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_007",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many frogs? 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸",
+      "visual": "🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 2,
+      "explain": "Count each frog: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are 10 frogs.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_008",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "You have 2 pencils ✏️✏️. Your friend gives you 1 more ✏️. How many pencils do you have?",
+      "visual": "✏️✏️ + ✏️",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "2 pencils plus 1 more = 3 pencils.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_009",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "There are 4 birds on a tree 🐦🐦🐦🐦. 2 more birds land. How many birds are there now?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "4 birds plus 2 more = 6 birds.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_010",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "How many legs does a cat have? 🐱",
+      "visual": "🐱",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 1,
+      "explain": "Cats have 4 legs — 2 front and 2 back.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "prek_v4_011",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Order",
+      "difficulty": 1,
+      "prompt": "What number comes AFTER 7?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "After 7 comes 8: ... 6, 7, 8 ...",
+      "standard": "PK.CC.A.2"
+    },
+    {
+      "id": "prek_v4_012",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Order",
+      "difficulty": 1,
+      "prompt": "What number comes BEFORE 6?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "explain": "Before 6 comes 5: ... 4, 5, 6 ...",
+      "standard": "PK.CC.A.2"
+    },
+    {
+      "id": "prek_v4_013",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Order",
+      "difficulty": 1,
+      "prompt": "What number comes AFTER 9?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 2,
+      "explain": "After 9 comes 10. Ten is the next number after nine!",
+      "standard": "PK.CC.A.2"
+    },
+    {
+      "id": "prek_v4_014",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Order",
+      "difficulty": 1,
+      "prompt": "Which shows numbers in ORDER from smallest to biggest?",
+      "options": [
+        "3, 1, 2",
+        "1, 2, 3",
+        "2, 1, 3",
+        "3, 2, 1"
+      ],
+      "correct": 1,
+      "explain": "The order from smallest to biggest is 1, 2, 3.",
+      "standard": "PK.CC.A.2"
+    },
+    {
+      "id": "prek_v4_015",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Order",
+      "difficulty": 1,
+      "prompt": "What number comes BEFORE 10?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "correct": 2,
+      "explain": "Before 10 comes 9: ... 8, 9, 10.",
+      "standard": "PK.CC.A.2"
+    },
+    {
+      "id": "prek_v4_016",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which shape has 4 sides but the sides are NOT all the same length?",
+      "options": [
+        "Circle",
+        "Square",
+        "Rectangle",
+        "Triangle"
+      ],
+      "correct": 2,
+      "explain": "A rectangle has 4 sides, but the long and short sides have different lengths.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_017",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "How many corners does a square have? ▪️",
+      "visual": "▪️",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explain": "A square has 4 corners and 4 equal sides.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_018",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which shape is perfectly round with NO corners?",
+      "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Rectangle"
+      ],
+      "correct": 2,
+      "explain": "A circle is round with no flat sides or corners.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_019",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "A clock face is shaped like a ___.",
+      "options": [
+        "Triangle",
+        "Circle",
+        "Square",
+        "Rectangle"
+      ],
+      "correct": 1,
+      "explain": "A clock face is round — it is the shape of a circle.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_020",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which shape has exactly 3 sides and 3 corners?",
+      "options": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correct": 2,
+      "explain": "A triangle has 3 sides and 3 corners.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_021",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "A door is usually shaped like a ___.",
+      "options": [
+        "Circle",
+        "Triangle",
+        "Square",
+        "Rectangle"
+      ],
+      "correct": 3,
+      "explain": "A door is taller than it is wide — that shape is called a rectangle.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_022",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "How many sides does a square have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "A square has 4 equal sides.",
+      "standard": "PK.G.A.1"
+    },
+    {
+      "id": "prek_v4_023",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "Which number is BIGGER: 2 or 8?",
+      "options": [
+        "2",
+        "8",
+        "They are the same",
+        "I don't know"
+      ],
+      "correct": 1,
+      "explain": "8 is bigger than 2. Eight is farther along when you count.",
+      "standard": "PK.CC.C.6"
+    },
+    {
+      "id": "prek_v4_024",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "Which number is SMALLER: 5 or 1?",
+      "options": [
+        "5",
+        "1",
+        "They are the same",
+        "I don't know"
+      ],
+      "correct": 1,
+      "explain": "1 is smaller than 5. One comes first in counting.",
+      "standard": "PK.CC.C.6"
+    },
+    {
+      "id": "prek_v4_025",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "A whale 🐋 is ___ than a fish 🐟.",
+      "options": [
+        "smaller",
+        "faster",
+        "bigger",
+        "wetter"
+      ],
+      "correct": 2,
+      "explain": "A whale is much bigger than a fish. Whales are the largest animals in the ocean.",
+      "standard": "PK.MD.A.2"
+    },
+    {
+      "id": "prek_v4_026",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "Which group has FEWER: 3 cats 🐱🐱🐱 or 7 dogs 🐕🐕🐕🐕🐕🐕🐕?",
+      "options": [
+        "7 dogs",
+        "3 cats",
+        "They have the same",
+        "I don't know"
+      ],
+      "correct": 1,
+      "explain": "3 is fewer than 7. Three cats is the smaller group.",
+      "standard": "PK.CC.C.6"
+    },
+    {
+      "id": "prek_v4_027",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Compare",
+      "difficulty": 1,
+      "prompt": "Which is HEAVIER — a rock 🪨 or a feather 🪶?",
+      "options": [
+        "A feather",
+        "A rock",
+        "They weigh the same",
+        "I don't know"
+      ],
+      "correct": 1,
+      "explain": "A rock is heavier than a feather. A feather is very light.",
+      "standard": "PK.MD.A.2"
+    },
+    {
+      "id": "prek_v4_028",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "2 + 2 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explain": "2 + 2 = 4. Put 2 fingers up on each hand — that is 4 fingers!",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_029",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "3 + 1 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explain": "3 + 1 = 4. Start at 3 and count on 1 more: 4.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_030",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "4 + 1 = ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "4 + 1 = 5. Start at 4 and count on 1 more: 5.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_031",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "2 + 3 = ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "2 + 3 = 5. Count on from 2: three more steps = 3, 4, 5.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_032",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "3 + 3 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "3 + 3 = 6. Double 3 is 6!",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_033",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "4 + 2 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "4 + 2 = 6. Start at 4 and count on 2 more: 5, 6.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_034",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 1,
+      "prompt": "5 + 2 = ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "5 + 2 = 7. Start at 5 and count on 2 more: 6, 7.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_035",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "3 - 1 = ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explain": "3 - 1 = 2. Take away 1 from 3 and you have 2 left.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_036",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "5 - 2 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "5 - 2 = 3. Take away 2 from 5 and you have 3 left.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_037",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "4 - 1 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "4 - 1 = 3. Take away 1 from 4 and you have 3 left.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_038",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 1,
+      "prompt": "6 - 3 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explain": "6 - 3 = 3. Take away 3 from 6 and you have 3 left.",
+      "standard": "PK.OA.A.1"
+    },
+    {
+      "id": "prek_v4_039",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? 🔴🔴🔵🔴🔴___",
+      "options": [
+        "🔴",
+        "🔵",
+        "🟡",
+        "🟢"
+      ],
+      "correct": 1,
+      "explain": "The pattern is red-red-blue. After two reds comes blue.",
+      "standard": "PK.G.B.6"
+    },
+    {
+      "id": "prek_v4_040",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? ⭐🌙⭐🌙⭐___",
+      "options": [
+        "⭐",
+        "🌙",
+        "☀️",
+        "🌟"
+      ],
+      "correct": 1,
+      "explain": "The pattern is star-moon. After a star comes a moon.",
+      "standard": "PK.G.B.6"
+    },
+    {
+      "id": "prek_v4_041",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? 🐱🐶🐱🐶🐱___",
+      "options": [
+        "🐱",
+        "🐶",
+        "🐟",
+        "🐰"
+      ],
+      "correct": 1,
+      "explain": "The pattern is cat-dog. After a cat comes a dog.",
+      "standard": "PK.G.B.6"
+    },
+    {
+      "id": "prek_v4_042",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next in the pattern? 1, 2, 1, 2, ___",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "correct": 1,
+      "explain": "The pattern is 1, 2, 1, 2 — it repeats. After a 2 comes a 1.",
+      "standard": "PK.G.B.6"
+    },
+    {
+      "id": "prek_v4_043",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? 🔺🔵🔺🔵___",
+      "options": [
+        "🔵",
+        "🔺",
+        "🟡",
+        "🔴"
+      ],
+      "correct": 1,
+      "explain": "The pattern is triangle-circle. After a circle comes a triangle.",
+      "standard": "PK.G.B.6"
+    },
+    {
+      "id": "prek_v4_044",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Which one does NOT belong? 🍎 🍊 🍋 🚗",
+      "options": [
+        "🍎 Apple",
+        "🍊 Orange",
+        "🍋 Lemon",
+        "🚗 Car"
+      ],
+      "correct": 3,
+      "explain": "A car is not a fruit. The apple, orange, and lemon are all fruits.",
+      "standard": "PK.MD.B.3"
+    },
+    {
+      "id": "prek_v4_045",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Which one does NOT belong? 🐶 🐱 🐟 🏀",
+      "options": [
+        "🐶 Dog",
+        "🐱 Cat",
+        "🐟 Fish",
+        "🏀 Ball"
+      ],
+      "correct": 3,
+      "explain": "A ball is not an animal. The dog, cat, and fish are all animals.",
+      "standard": "PK.MD.B.3"
+    },
+    {
+      "id": "prek_v4_046",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Which of these is a FRUIT?",
+      "options": [
+        "🚗 Car",
+        "🍎 Apple",
+        "📚 Book",
+        "🪑 Chair"
+      ],
+      "correct": 1,
+      "explain": "An apple is a fruit. Cars, books, and chairs are not fruits.",
+      "standard": "PK.MD.B.3"
+    },
+    {
+      "id": "prek_v4_047",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Which of these is a TOY?",
+      "options": [
+        "🍕 Pizza",
+        "🧸 Teddy Bear",
+        "🌧️ Rain",
+        "🌳 Tree"
+      ],
+      "correct": 1,
+      "explain": "A teddy bear is a toy. Pizza, rain, and trees are not toys.",
+      "standard": "PK.MD.B.3"
+    },
+    {
+      "id": "prek_v4_048",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Which of these can you DRINK?",
+      "options": [
+        "🪨 Rock",
+        "💧 Water",
+        "📖 Book",
+        "🎈 Balloon"
+      ],
+      "correct": 1,
+      "explain": "Water is a drink. You cannot drink a rock, a book, or a balloon.",
+      "standard": "PK.MD.B.3"
+    },
+    {
+      "id": "prek_v4_049",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "What sound does the letter M make?",
+      "options": [
+        "/p/ like 'pat'",
+        "/s/ like 'sun'",
+        "/m/ like 'moon'",
+        "/b/ like 'ball'"
+      ],
+      "correct": 2,
+      "explain": "The letter M makes the /m/ sound, like in 'moon' and 'mom.'",
+      "standard": "RF.K.3"
+    },
+    {
+      "id": "prek_v4_050",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which word starts with the letter D?",
+      "options": [
+        "Cat",
+        "Dog",
+        "Fish",
+        "Hat"
+      ],
+      "correct": 1,
+      "explain": "Dog starts with the letter D. 'D' makes the /d/ sound.",
+      "standard": "RF.K.1"
+    },
+    {
+      "id": "prek_v4_051",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "What sound does the letter P make?",
+      "options": [
+        "/m/ like 'map'",
+        "/r/ like 'run'",
+        "/t/ like 'top'",
+        "/p/ like 'pie'"
+      ],
+      "correct": 3,
+      "explain": "The letter P makes the /p/ sound, like in 'pie' and 'pet.'",
+      "standard": "RF.K.3"
+    },
+    {
+      "id": "prek_v4_052",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which letter does CAT start with?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": 2,
+      "explain": "CAT starts with the letter C. 'C' makes the /k/ sound here.",
+      "standard": "RF.K.1"
+    },
+    {
+      "id": "prek_v4_053",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which letter does SUN start with?",
+      "options": [
+        "R",
+        "S",
+        "T",
+        "U"
+      ],
+      "correct": 1,
+      "explain": "SUN starts with the letter S. 'S' makes the /s/ sound.",
+      "standard": "RF.K.1"
+    },
+    {
+      "id": "prek_v4_054",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which letter does FROG start with?",
+      "options": [
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "correct": 2,
+      "explain": "FROG starts with the letter F. 'F' makes the /f/ sound.",
+      "standard": "RF.K.1"
+    },
+    {
+      "id": "prek_v4_055",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 1,
+      "prompt": "What sound does the letter T make?",
+      "options": [
+        "/t/ like 'top'",
+        "/p/ like 'pat'",
+        "/k/ like 'cat'",
+        "/n/ like 'no'"
+      ],
+      "correct": 0,
+      "explain": "The letter T makes the /t/ sound, like in 'top' and 'toy.'",
+      "standard": "RF.K.3"
+    },
+    {
+      "id": "prek_v4_056",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Letters",
+      "difficulty": 1,
+      "prompt": "Which word starts with the letter H?",
+      "options": [
+        "Ball",
+        "Car",
+        "Hat",
+        "Sun"
+      ],
+      "correct": 2,
+      "explain": "Hat starts with the letter H. 'H' makes the /h/ sound.",
+      "standard": "RF.K.1"
+    },
+    {
+      "id": "prek_v4_057",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Rhyming",
+      "difficulty": 1,
+      "prompt": "Which word RHYMES with PIG?",
+      "options": [
+        "Pan",
+        "Big",
+        "Pin",
+        "Pit"
+      ],
+      "correct": 1,
+      "explain": "PIG and BIG rhyme — they both end with the '-ig' sound.",
+      "standard": "RF.K.2"
+    },
+    {
+      "id": "prek_v4_058",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Rhyming",
+      "difficulty": 1,
+      "prompt": "Which word RHYMES with BUG?",
+      "options": [
+        "Bus",
+        "Mud",
+        "Mug",
+        "Bun"
+      ],
+      "correct": 2,
+      "explain": "BUG and MUG rhyme — they both end with the '-ug' sound.",
+      "standard": "RF.K.2"
+    },
+    {
+      "id": "prek_v4_059",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What is the OPPOSITE of HOT?",
+      "options": [
+        "Warm",
+        "Cold",
+        "Big",
+        "Fast"
+      ],
+      "correct": 1,
+      "explain": "Hot and cold are opposites. If something is not hot, it is cold.",
+      "standard": "L.K.5"
+    },
+    {
+      "id": "prek_v4_060",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What is the OPPOSITE of BIG?",
+      "options": [
+        "Tall",
+        "Round",
+        "Small",
+        "Loud"
+      ],
+      "correct": 2,
+      "explain": "Big and small are opposites. A mouse is small; an elephant is big.",
+      "standard": "L.K.5"
+    },
+    {
+      "id": "prek_v4_061",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What do you say when someone gives you something nice?",
+      "options": [
+        "Sorry",
+        "Please",
+        "Thank you",
+        "Hello"
+      ],
+      "correct": 2,
+      "explain": "We say 'Thank you' to show we are grateful when someone gives us something.",
+      "standard": "L.K.6"
+    },
+    {
+      "id": "prek_v4_062",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What do you use to clean your TEETH? 🦷",
+      "visual": "🦷",
+      "options": [
+        "A spoon",
+        "A toothbrush",
+        "A crayon",
+        "A fork"
+      ],
+      "correct": 1,
+      "explain": "We use a toothbrush with toothpaste to clean our teeth and keep them healthy.",
+      "standard": "L.K.6"
+    },
+    {
+      "id": "prek_v4_063",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What do you wear when it is RAINING? 🌧️",
+      "visual": "🌧️",
+      "options": [
+        "Sunglasses",
+        "Flip flops",
+        "A swimsuit",
+        "A raincoat"
+      ],
+      "correct": 3,
+      "explain": "A raincoat keeps you dry when it is raining.",
+      "standard": "L.K.6"
+    },
+    {
+      "id": "prek_v4_064",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "Which word means the same as HAPPY? 😊",
+      "visual": "😊",
+      "options": [
+        "Sad",
+        "Angry",
+        "Joyful",
+        "Tired"
+      ],
+      "correct": 2,
+      "explain": "Happy and joyful mean the same thing — feeling good inside.",
+      "standard": "L.K.5"
+    },
+    {
+      "id": "prek_v4_065",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Animals",
+      "difficulty": 1,
+      "prompt": "Which of these is an animal that many people keep as a PET? 🏠",
+      "options": [
+        "Lion 🦁",
+        "Dog 🐕",
+        "Elephant 🐘",
+        "Shark 🦈"
+      ],
+      "correct": 1,
+      "explain": "Dogs are common pets that live with people in their homes.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_066",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Living Things",
+      "difficulty": 1,
+      "prompt": "What do ALL animals need to stay alive?",
+      "options": [
+        "Toys and games",
+        "Food, water, and air",
+        "TV and phones",
+        "Books and school"
+      ],
+      "correct": 1,
+      "explain": "All animals — including people — need food, water, and air to survive.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_067",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "In which season does it get very COLD and snow may fall? ❄️",
+      "visual": "❄️",
+      "options": [
+        "Spring 🌸",
+        "Summer ☀️",
+        "Fall 🍂",
+        "Winter ❄️"
+      ],
+      "correct": 3,
+      "explain": "Winter is the coldest season. It often snows in New York in winter.",
+      "standard": "K-ESS2-1"
+    },
+    {
+      "id": "prek_v4_068",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 1,
+      "prompt": "What does the SUN give us? ☀️",
+      "visual": "☀️",
+      "options": [
+        "Rain and wind",
+        "Light and warmth",
+        "Snow and ice",
+        "Mud and dirt"
+      ],
+      "correct": 1,
+      "explain": "The sun gives us light and warmth. Without the sun, it would be dark and cold.",
+      "standard": "K-ESS2-1"
+    },
+    {
+      "id": "prek_v4_069",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Animals",
+      "difficulty": 1,
+      "prompt": "Which animal has WINGS and can fly? 🌤️",
+      "options": [
+        "Fish 🐟",
+        "Dog 🐕",
+        "Bird 🐦",
+        "Cat 🐱"
+      ],
+      "correct": 2,
+      "explain": "Birds have wings and most birds can fly.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_070",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Plants",
+      "difficulty": 1,
+      "prompt": "Plants need ___ and ___ to grow. 🌱",
+      "visual": "🌱",
+      "options": [
+        "Toys and books",
+        "Sunlight and water",
+        "Pizza and juice",
+        "Sand and rocks"
+      ],
+      "correct": 1,
+      "explain": "Plants need sunlight and water to grow and stay healthy.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_071",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Living Things",
+      "difficulty": 1,
+      "prompt": "Is a ROCK living or nonliving? 🪨",
+      "visual": "🪨",
+      "options": [
+        "Living — it grows",
+        "Nonliving — it does not grow or breathe",
+        "Living — it needs water",
+        "Nonliving — it is a plant"
+      ],
+      "correct": 1,
+      "explain": "A rock is nonliving. It does not grow, breathe, or need food and water.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_072",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Living Things",
+      "difficulty": 1,
+      "prompt": "Is a TREE living or nonliving? 🌳",
+      "visual": "🌳",
+      "options": [
+        "Nonliving — it cannot move",
+        "Living — it grows and needs water",
+        "Nonliving — it is made of wood",
+        "Living — it can talk"
+      ],
+      "correct": 1,
+      "explain": "A tree is living. It grows, needs water and sunlight, and makes seeds.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_073",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Senses",
+      "difficulty": 1,
+      "prompt": "What do you use your EYES for? 👀",
+      "visual": "👀",
+      "options": [
+        "To hear sounds",
+        "To smell flowers",
+        "To see things",
+        "To taste food"
+      ],
+      "correct": 2,
+      "explain": "Eyes are used to see. They help us look at the world around us.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_074",
+      "grade": "prek",
+      "subject": "science",
+      "topic": "Senses",
+      "difficulty": 1,
+      "prompt": "What do you use your EARS for? 👂",
+      "visual": "👂",
+      "options": [
+        "To see colors",
+        "To hear sounds",
+        "To taste food",
+        "To smell things"
+      ],
+      "correct": 1,
+      "explain": "Ears are used to hear. They help us listen to sounds, music, and voices.",
+      "standard": "K-LS1-1"
+    },
+    {
+      "id": "prek_v4_075",
+      "grade": "prek",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "Who helps PUT OUT FIRES and keeps people safe? 🚒",
+      "visual": "🚒",
+      "options": [
+        "A teacher",
+        "A firefighter",
+        "A chef",
+        "A doctor"
+      ],
+      "correct": 1,
+      "explain": "Firefighters put out fires and help keep our community safe.",
+      "standard": "NYS-SS-PK"
+    },
+    {
+      "id": "prek_v4_076",
+      "grade": "prek",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "Who helps SICK people feel better? 🏥",
+      "visual": "🏥",
+      "options": [
+        "A firefighter",
+        "A baker",
+        "A doctor",
+        "A mail carrier"
+      ],
+      "correct": 2,
+      "explain": "Doctors and nurses help sick people get healthy again.",
+      "standard": "NYS-SS-PK"
+    },
+    {
+      "id": "prek_v4_077",
+      "grade": "prek",
+      "subject": "social_studies",
+      "topic": "Rules",
+      "difficulty": 1,
+      "prompt": "What does a STOP sign tell you to do? 🛑",
+      "visual": "🛑",
+      "options": [
+        "Go fast",
+        "Turn left",
+        "Stop and look",
+        "Wave hello"
+      ],
+      "correct": 2,
+      "explain": "A stop sign means STOP. You must stop and check before going.",
+      "standard": "NYS-SS-PK"
+    },
+    {
+      "id": "prek_v4_078",
+      "grade": "prek",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 1,
+      "prompt": "Where do children go to LEARN and STUDY? 🏫",
+      "visual": "🏫",
+      "options": [
+        "Park",
+        "Hospital",
+        "School",
+        "Restaurant"
+      ],
+      "correct": 2,
+      "explain": "Children go to school to learn reading, math, science, and more.",
+      "standard": "NYS-SS-PK"
+    },
+    {
+      "id": "prek_v4_079",
+      "grade": "prek",
+      "subject": "social_studies",
+      "topic": "Rules",
+      "difficulty": 1,
+      "prompt": "Which is a GOOD RULE at school?",
+      "options": [
+        "Run in the hallway",
+        "Take other kids' things",
+        "Raise your hand before speaking",
+        "Leave trash on the floor"
+      ],
+      "correct": 2,
+      "explain": "Raising your hand before speaking shows respect and helps everyone take turns.",
+      "standard": "NYS-SS-PK"
+    },
+    {
+      "id": "prek_v4_080",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Position Words",
+      "difficulty": 1,
+      "prompt": "The cat is sitting ON TOP of the box 📦. Where is the cat?",
+      "options": [
+        "Under the box",
+        "Inside the box",
+        "On top of the box",
+        "Behind the box"
+      ],
+      "correct": 2,
+      "explain": "ON means resting on the surface. The cat is on top of the box.",
+      "standard": "L.K.6"
+    },
+    {
+      "id": "prek_v4_081",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Position Words",
+      "difficulty": 1,
+      "prompt": "The toy is UNDER the bed 🛏️. Where is the toy?",
+      "visual": "🛏️",
+      "options": [
+        "On the bed",
+        "Under the bed",
+        "Next to the bed",
+        "Inside the bed"
+      ],
+      "correct": 1,
+      "explain": "UNDER means below something. The toy is under the bed.",
+      "standard": "L.K.6"
+    },
+    {
+      "id": "prek_v4_082",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 1,
+      "prompt": "What is the OPPOSITE of OVER?",
+      "options": [
+        "On",
+        "Beside",
+        "Under",
+        "Around"
+      ],
+      "correct": 2,
+      "explain": "Over and under are opposites. Over is above; under is below.",
+      "standard": "L.K.5"
+    },
+    {
+      "id": "prek_v4_083",
+      "grade": "prek",
+      "subject": "literacy",
+      "topic": "Position Words",
+      "difficulty": 1,
+      "prompt": "The bird is INSIDE the nest 🐦🪺. Where is the bird?",
+      "options": [
+        "On top of the nest",
+        "Inside the nest",
+        "Under the nest",
+        "Beside the nest"
+      ],
+      "correct": 1,
+      "explain": "INSIDE means within something. The bird is inside the nest.",
+      "standard": "L.K.6"
+    },
+    {
+      "id": "prek_v4_084",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Recognition",
+      "difficulty": 1,
+      "prompt": "Which number is 5?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "This is the number 5. It comes after 4 and before 6.",
+      "standard": "PK.CC.A.3"
+    },
+    {
+      "id": "prek_v4_085",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Number Recognition",
+      "difficulty": 1,
+      "prompt": "Which number is 10?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 2,
+      "explain": "The number 10 comes after 9. It uses two digits: 1 and 0.",
+      "standard": "PK.CC.A.3"
+    },
+    {
+      "id": "prek_v4_086",
+      "grade": "prek",
+      "subject": "math",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "Count the stars: ★★★★. How many stars are there?",
+      "visual": "★★★★",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "explain": "Count each star: 1, 2, 3, 4. There are 4 stars.",
+      "standard": "PK.CC.B.4"
+    },
+    {
+      "id": "g1_v4_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "6 + 8 = ?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct": 2,
+      "explain": "6 + 8 = 14. Think: 6 + 4 = 10, then 10 + 4 more = 14.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v4_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 2,
+      "prompt": "What number makes this true? 7 + ___ = 13",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "7 + 6 = 13. You need 6 more to get from 7 to 13.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v4_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 2,
+      "prompt": "What number makes this true? ___ + 5 = 12",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "7 + 5 = 12. Count on from 5 seven more times to reach 12.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v4_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "11 + 9 = ?",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct": 2,
+      "explain": "11 + 9 = 20. Think: 11 + 9 = 20.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v4_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "18 - 7 = ?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "explain": "18 - 7 = 11. Count back 7 from 18: 17, 16, 15, 14, 13, 12, 11.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v4_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "14 - 8 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "14 - 8 = 6. Think: 8 + ? = 14. 8 + 6 = 14.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v4_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fact Families",
+      "difficulty": 2,
+      "prompt": "3 + 5 = 8. Which equation is ALSO in this fact family?",
+      "options": [
+        "3 + 8 = 11",
+        "8 - 3 = 5",
+        "5 - 3 = 2",
+        "8 + 3 = 11"
+      ],
+      "correct": 1,
+      "explain": "A fact family uses the same 3 numbers. 3, 5, and 8 belong together: 3+5=8, 5+3=8, 8-3=5, 8-5=3.",
+      "standard": "1.OA.B.3"
+    },
+    {
+      "id": "g1_v4_008",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 2,
+      "prompt": "5 + ___ = 10. What is the missing number?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "explain": "5 + 5 = 10. This is a doubles fact — 5 plus 5 makes 10!",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v4_009",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "There are 13 students in a class. 5 are absent. How many students are PRESENT?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "13 - 5 = 8. Take away 5 from 13: there are 8 students present.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v4_010",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "You had 10 grapes 🍇. You ate 4. How many grapes are LEFT?",
+      "visual": "🍇",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "10 - 4 = 6. You started with 10 and ate 4, so 6 are left.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v4_011",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Sam has 9 stickers. He gets 8 more. How many stickers does Sam have NOW?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct": 2,
+      "explain": "9 + 8 = 17. Think: 9 + 1 = 10, then 10 + 7 more = 17.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v4_012",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Maria had 16 crayons. She gave 9 to her friend. How many crayons does Maria have NOW?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "16 - 9 = 7. Think: 9 + 7 = 16, so 16 - 9 = 7.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v4_013",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which number has 5 TENS and 3 ONES?",
+      "options": [
+        "35",
+        "53",
+        "503",
+        "350"
+      ],
+      "correct": 1,
+      "explain": "5 tens = 50, and 3 ones = 3. 50 + 3 = 53.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v4_014",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is the TENS digit in the number 78?",
+      "options": [
+        "8",
+        "7",
+        "70",
+        "80"
+      ],
+      "correct": 1,
+      "explain": "In 78, the digit 7 is in the tens place. It means 7 tens, or 70.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v4_015",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 2,
+      "prompt": "Which number is GREATER: 45 or 54?",
+      "options": [
+        "45",
+        "54",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correct": 1,
+      "explain": "54 is greater than 45. Compare the tens: 5 tens is more than 4 tens.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v4_016",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 2,
+      "prompt": "Which number is LESS: 67 or 76?",
+      "options": [
+        "76",
+        "67",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correct": 1,
+      "explain": "67 is less than 76. Compare the tens: 6 tens is fewer than 7 tens.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v4_017",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is 10 MORE than 32?",
+      "options": [
+        "22",
+        "33",
+        "42",
+        "43"
+      ],
+      "correct": 2,
+      "explain": "10 more than 32 is 42. The tens digit goes from 3 to 4: 32 → 42.",
+      "standard": "1.NBT.C.5"
+    },
+    {
+      "id": "g1_v4_018",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is 10 LESS than 50?",
+      "options": [
+        "40",
+        "49",
+        "51",
+        "60"
+      ],
+      "correct": 0,
+      "explain": "10 less than 50 is 40. The tens digit goes from 5 to 4: 50 → 40.",
+      "standard": "1.NBT.C.5"
+    },
+    {
+      "id": "g1_v4_019",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 2,
+      "prompt": "Which set of numbers is in order from LEAST to GREATEST?",
+      "options": [
+        "52, 51, 25, 15",
+        "15, 51, 25, 52",
+        "15, 25, 51, 52",
+        "25, 15, 52, 51"
+      ],
+      "correct": 2,
+      "explain": "Least to greatest means smallest first: 15, 25, 51, 52.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v4_020",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Number Sequence",
+      "difficulty": 2,
+      "prompt": "Fill in the blank: 48, 49, ___, 51",
+      "options": [
+        "47",
+        "49",
+        "50",
+        "52"
+      ],
+      "correct": 2,
+      "explain": "The numbers count up by 1: 48, 49, 50, 51.",
+      "standard": "1.NBT.A.1"
+    },
+    {
+      "id": "g1_v4_021",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "What time does a clock show when BOTH hands point to 12?",
+      "options": [
+        "6:00",
+        "12:30",
+        "12:00",
+        "1:00"
+      ],
+      "correct": 2,
+      "explain": "When both hands point to 12, the clock shows 12:00 — noon or midnight.",
+      "standard": "1.MD.B.3"
+    },
+    {
+      "id": "g1_v4_022",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "School starts at 8:00. Lunch is 1 hour later. When is lunch?",
+      "options": [
+        "7:00",
+        "8:30",
+        "9:00",
+        "10:00"
+      ],
+      "correct": 2,
+      "explain": "8:00 + 1 hour = 9:00. One hour after 8 o'clock is 9 o'clock.",
+      "standard": "1.MD.B.3"
+    },
+    {
+      "id": "g1_v4_023",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 2,
+      "prompt": "Rosa's pencil is 7 inches long. Tom's pencil is 5 inches long. How much LONGER is Rosa's pencil?",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "3 inches",
+        "12 inches"
+      ],
+      "correct": 1,
+      "explain": "7 - 5 = 2. Rosa's pencil is 2 inches longer than Tom's.",
+      "standard": "1.MD.A.2"
+    },
+    {
+      "id": "g1_v4_024",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 2,
+      "prompt": "Which unit would you use to measure the length of your SHOE?",
+      "options": [
+        "Miles",
+        "Inches",
+        "Pounds",
+        "Gallons"
+      ],
+      "correct": 1,
+      "explain": "We measure short lengths like shoes in inches. Miles are used for long distances like roads.",
+      "standard": "1.MD.A.2"
+    },
+    {
+      "id": "g1_v4_025",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "The clock shows 9:30. How many minutes until 10:00?",
+      "options": [
+        "10 minutes",
+        "20 minutes",
+        "30 minutes",
+        "60 minutes"
+      ],
+      "correct": 2,
+      "explain": "From 9:30 to 10:00 is 30 minutes — half an hour.",
+      "standard": "1.MD.B.3"
+    },
+    {
+      "id": "g1_v4_026",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "A square is cut into 2 EQUAL parts. Each part is called a ___.",
+      "options": [
+        "Quarter",
+        "Half",
+        "Third",
+        "Whole"
+      ],
+      "correct": 1,
+      "explain": "When a shape is split into 2 equal parts, each part is called a HALF. Two halves make a whole.",
+      "standard": "1.G.A.3"
+    },
+    {
+      "id": "g1_v4_027",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "A circle is cut into 4 EQUAL parts. Each part is called a ___.",
+      "options": [
+        "Half",
+        "Third",
+        "Quarter",
+        "Whole"
+      ],
+      "correct": 2,
+      "explain": "When a shape is split into 4 equal parts, each part is called a QUARTER or a FOURTH.",
+      "standard": "1.G.A.3"
+    },
+    {
+      "id": "g1_v4_028",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "How many SIDES does a hexagon have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "A hexagon has 6 sides and 6 corners. The word 'hex' means six.",
+      "standard": "1.G.A.1"
+    },
+    {
+      "id": "g1_v4_029",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "Which shape has 4 sides that are NOT all the same length?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+      ],
+      "correct": 3,
+      "explain": "A rectangle has 4 sides, but the long sides and short sides have different lengths — unlike a square.",
+      "standard": "1.G.A.1"
+    },
+    {
+      "id": "g1_v4_030",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which word has a SHORT A sound?",
+      "options": [
+        "Cake",
+        "Rain",
+        "Cat",
+        "Say"
+      ],
+      "correct": 2,
+      "explain": "CAT has a short A sound. Cake, Rain, and Say all have a long A sound.",
+      "standard": "RF.1.3"
+    },
+    {
+      "id": "g1_v4_031",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which word has the CH digraph?",
+      "options": [
+        "Shoe",
+        "Chair",
+        "That",
+        "Tree"
+      ],
+      "correct": 1,
+      "explain": "CHAIR starts with the CH digraph. CH makes the /ch/ sound as in 'cheese.'",
+      "standard": "RF.1.3"
+    },
+    {
+      "id": "g1_v4_032",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which word starts with a consonant BLEND?",
+      "options": [
+        "Cat",
+        "Ship",
+        "Frog",
+        "Ball"
+      ],
+      "correct": 2,
+      "explain": "FROG starts with the blend FR — two consonants blended together. Ship has the SH digraph.",
+      "standard": "RF.1.3"
+    },
+    {
+      "id": "g1_v4_033",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which word ends with the SH sound?",
+      "options": [
+        "Chip",
+        "Fish",
+        "This",
+        "Cat"
+      ],
+      "correct": 1,
+      "explain": "FISH ends with the SH sound — /sh/. Say it: fi-SH.",
+      "standard": "RF.1.3"
+    },
+    {
+      "id": "g1_v4_034",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Word Study",
+      "difficulty": 2,
+      "prompt": "Add -ING to the word 'run.' What do you get?",
+      "options": [
+        "Runing",
+        "Running",
+        "Runned",
+        "Runs"
+      ],
+      "correct": 1,
+      "explain": "When a short-vowel word ends in one consonant, double the last letter before adding -ing: run → running.",
+      "standard": "L.1.1"
+    },
+    {
+      "id": "g1_v4_035",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "Which word means the SAME as BIG?",
+      "options": [
+        "Tiny",
+        "Large",
+        "Fast",
+        "Cold"
+      ],
+      "correct": 1,
+      "explain": "Big and large are synonyms — they mean the same thing.",
+      "standard": "L.1.5"
+    },
+    {
+      "id": "g1_v4_036",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "The word UNHAPPY has a prefix. What does UN- mean?",
+      "options": [
+        "Very",
+        "Again",
+        "Not",
+        "With"
+      ],
+      "correct": 2,
+      "explain": "The prefix UN- means 'not.' UNHAPPY means not happy.",
+      "standard": "L.1.4"
+    },
+    {
+      "id": "g1_v4_037",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which word is a NOUN — a person, place, or thing?",
+      "options": [
+        "Run",
+        "Happy",
+        "Library",
+        "Quickly"
+      ],
+      "correct": 2,
+      "explain": "A noun names a person, place, or thing. LIBRARY is a place — that makes it a noun.",
+      "standard": "L.1.1"
+    },
+    {
+      "id": "g1_v4_038",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "kind": "reading",
+      "passage": "Keisha loves rainy days. She puts on her yellow boots and splashes in puddles. She laughs as the water flies up.",
+      "prompt": "What does Keisha wear on rainy days?",
+      "options": [
+        "A hat",
+        "Yellow boots",
+        "A swimsuit",
+        "Sunglasses"
+      ],
+      "correct": 1,
+      "explain": "The passage says Keisha 'puts on her yellow boots.'",
+      "standard": "RL.1.1"
+    },
+    {
+      "id": "g1_v4_039",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "kind": "reading",
+      "passage": "Max had a little dog named Rex. Rex liked to chase squirrels in the park after school. He never caught one, but he always tried.",
+      "prompt": "What does Rex like to do?",
+      "options": [
+        "Sleep in the sun",
+        "Chase squirrels",
+        "Swim in the lake",
+        "Play with toys"
+      ],
+      "correct": 1,
+      "explain": "The passage says 'Rex liked to chase squirrels in the park.'",
+      "standard": "RL.1.3"
+    },
+    {
+      "id": "g1_v4_040",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "kind": "reading",
+      "passage": "The sun gives us light and heat. Plants use sunlight to make their own food. Without the sun, plants could not survive.",
+      "prompt": "According to the passage, what do plants USE the sun for?",
+      "options": [
+        "To keep warm at night",
+        "To make their own food",
+        "To get water",
+        "To grow roots"
+      ],
+      "correct": 1,
+      "explain": "The passage says 'Plants use sunlight to make their own food.'",
+      "standard": "RI.1.1"
+    },
+    {
+      "id": "g1_v4_041",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 2,
+      "kind": "reading",
+      "passage": "Birds build nests with twigs, leaves, and grass. Nests keep baby birds warm and safe from danger.",
+      "prompt": "What is the MAIN TOPIC of this passage?",
+      "options": [
+        "Types of birds",
+        "How birds build nests",
+        "Baby animals",
+        "Life in the forest"
+      ],
+      "correct": 1,
+      "explain": "Both sentences are about how birds build nests and what nests are used for.",
+      "standard": "RI.1.2"
+    },
+    {
+      "id": "g1_v4_042",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 2,
+      "kind": "reading",
+      "passage": "Sam woke up late. He grabbed his backpack and ran to school. He made it just in time for class.",
+      "prompt": "What happened FIRST in the story?",
+      "options": [
+        "Sam ran to school",
+        "Sam grabbed his backpack",
+        "Sam made it to class",
+        "Sam woke up late"
+      ],
+      "correct": 3,
+      "explain": "Sam woke up late first — that is what caused him to run.",
+      "standard": "RL.1.2"
+    },
+    {
+      "id": "g1_v4_043",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "kind": "reading",
+      "passage": "The boy was so tired that he fell asleep before dinner.",
+      "prompt": "What does the word TIRED mean in this sentence?",
+      "options": [
+        "Hungry",
+        "Angry",
+        "Sleepy",
+        "Happy"
+      ],
+      "correct": 2,
+      "explain": "The clue is that he 'fell asleep.' TIRED means needing sleep — sleepy.",
+      "standard": "L.1.4"
+    },
+    {
+      "id": "g1_v4_044",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Earth and Sky",
+      "difficulty": 2,
+      "prompt": "The sun rises in the ___ and sets in the west.",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correct": 2,
+      "explain": "The sun rises in the east every morning and sets in the west every evening.",
+      "standard": "1-ESS1-2"
+    },
+    {
+      "id": "g1_v4_045",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 2,
+      "prompt": "Which of these objects gives off its OWN light? ☀️",
+      "options": [
+        "The moon 🌕",
+        "A mirror 🪞",
+        "The sun ☀️",
+        "A window 🪟"
+      ],
+      "correct": 2,
+      "explain": "The sun makes its own light. The moon only reflects the sun's light — it does not make its own.",
+      "standard": "1-PS4-2"
+    },
+    {
+      "id": "g1_v4_046",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Forces",
+      "difficulty": 2,
+      "prompt": "When you PUSH a toy car, which way does it move?",
+      "options": [
+        "Toward you",
+        "Away from you",
+        "Straight up",
+        "In a circle"
+      ],
+      "correct": 1,
+      "explain": "A push moves an object away from you. A pull moves an object toward you.",
+      "standard": "K-PS2-1"
+    },
+    {
+      "id": "g1_v4_047",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animals",
+      "difficulty": 2,
+      "prompt": "Which of these animals started life INSIDE an egg?",
+      "options": [
+        "Dog 🐕",
+        "Horse 🐴",
+        "Chick 🐣",
+        "Cat 🐱"
+      ],
+      "correct": 2,
+      "explain": "A chick hatches from an egg laid by a hen. Dogs, horses, and cats are born live, not from eggs.",
+      "standard": "1-LS3-1"
     }
   ]
 }
