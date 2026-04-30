@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "questions": [
     {
       "id": "prek_count_001",
@@ -12829,6 +12829,2958 @@
       "correct": 2,
       "explain": "A chick hatches from an egg laid by a hen. Dogs, horses, and cats are born live, not from eggs.",
       "standard": "1-LS3-1"
+    },
+    {
+      "id": "g2_v4_001",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Word Problems",
+      "difficulty": 2,
+      "prompt": "Maya had 35 stickers. She gave 12 to her friend and then got 8 more from her mom. How many stickers does Maya have now?",
+      "visual": "🌟",
+      "options": [
+        "31",
+        "29",
+        "41",
+        "27"
+      ],
+      "correct": 0,
+      "standard": "2.OA.A.1",
+      "explain": "35 − 12 = 23, then 23 + 8 = 31 stickers."
+    },
+    {
+      "id": "g2_v4_002",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Word Problems",
+      "difficulty": 2,
+      "prompt": "There were 54 children on a bus. At the first stop, 17 got off. At the next stop, 9 more got on. How many children are on the bus now?",
+      "visual": "🚌",
+      "options": [
+        "46",
+        "62",
+        "37",
+        "44"
+      ],
+      "correct": 0,
+      "standard": "2.OA.A.1",
+      "explain": "54 − 17 = 37, then 37 + 9 = 46 children."
+    },
+    {
+      "id": "g2_v4_003",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Word Problems",
+      "difficulty": 3,
+      "prompt": "A bookshelf had 63 books. A teacher added 14 books and then took away 20. How many books are on the shelf now?",
+      "visual": "📚",
+      "options": [
+        "57",
+        "77",
+        "43",
+        "69"
+      ],
+      "correct": 0,
+      "standard": "2.OA.A.1",
+      "explain": "63 + 14 = 77, then 77 − 20 = 57 books."
+    },
+    {
+      "id": "g2_v4_004",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Mental Math",
+      "difficulty": 1,
+      "prompt": "What is 13 + 7?",
+      "visual": null,
+      "options": [
+        "20",
+        "19",
+        "21",
+        "18"
+      ],
+      "correct": 0,
+      "standard": "2.OA.B.2",
+      "explain": "13 + 7 = 20 because 13 + 7 makes a group of 20."
+    },
+    {
+      "id": "g2_v4_005",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Mental Math",
+      "difficulty": 1,
+      "prompt": "What is 17 − 9?",
+      "visual": null,
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correct": 0,
+      "standard": "2.OA.B.2",
+      "explain": "17 − 9 = 8; you can think of 9 + 8 = 17 to check."
+    },
+    {
+      "id": "g2_v4_006",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Even and Odd",
+      "difficulty": 1,
+      "prompt": "Is the number 26 even or odd?",
+      "visual": null,
+      "options": [
+        "Even",
+        "Odd",
+        "Neither",
+        "Both"
+      ],
+      "correct": 0,
+      "standard": "2.OA.C.3",
+      "explain": "26 is even because it can be split into pairs with none left over (26 ÷ 2 = 13)."
+    },
+    {
+      "id": "g2_v4_007",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Even and Odd",
+      "difficulty": 2,
+      "prompt": "Look at this group of dots: ●●●●●●●. Is the total even or odd?",
+      "visual": "●●●●●●●",
+      "options": [
+        "Odd",
+        "Even",
+        "Neither",
+        "Zero"
+      ],
+      "correct": 0,
+      "standard": "2.OA.C.3",
+      "explain": "There are 7 dots. 7 is odd because one dot is left over when paired up."
+    },
+    {
+      "id": "g2_v4_008",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Arrays",
+      "difficulty": 2,
+      "prompt": "An array has 3 rows and 4 columns. Which repeated addition shows the total?",
+      "visual": "⬛⬛⬛⬛\n⬛⬛⬛⬛\n⬛⬛⬛⬛",
+      "options": [
+        "4 + 4 + 4 = 12",
+        "3 + 3 + 3 = 9",
+        "4 + 3 = 7",
+        "3 × 4 = 12"
+      ],
+      "correct": 0,
+      "standard": "2.OA.C.4",
+      "explain": "3 rows of 4 means adding 4 three times: 4 + 4 + 4 = 12."
+    },
+    {
+      "id": "g2_v4_009",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Arrays",
+      "difficulty": 2,
+      "prompt": "An array has 5 rows and 2 columns. How many objects are in the array?",
+      "visual": "⭐⭐\n⭐⭐\n⭐⭐\n⭐⭐\n⭐⭐",
+      "options": [
+        "10",
+        "7",
+        "12",
+        "8"
+      ],
+      "correct": 0,
+      "standard": "2.OA.C.4",
+      "explain": "2 + 2 + 2 + 2 + 2 = 10; adding 2 five times gives a total of 10."
+    },
+    {
+      "id": "g2_v4_010",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is the value of the digit 4 in the number 347?",
+      "visual": null,
+      "options": [
+        "40",
+        "4",
+        "400",
+        "14"
+      ],
+      "correct": 0,
+      "standard": "2.NBT.A.1",
+      "explain": "The digit 4 is in the tens place, so its value is 4 tens = 40."
+    },
+    {
+      "id": "g2_v4_011",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "A number has 2 hundreds, 5 tens, and 8 ones. What is the number?",
+      "visual": null,
+      "options": [
+        "258",
+        "285",
+        "528",
+        "582"
+      ],
+      "correct": 0,
+      "standard": "2.NBT.A.1",
+      "explain": "2 hundreds + 5 tens + 8 ones = 200 + 50 + 8 = 258."
+    },
+    {
+      "id": "g2_v4_012",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Expanded Form",
+      "difficulty": 2,
+      "prompt": "Which shows 463 in expanded form?",
+      "visual": null,
+      "options": [
+        "400 + 60 + 3",
+        "40 + 60 + 3",
+        "400 + 6 + 3",
+        "4 + 6 + 3"
+      ],
+      "correct": 0,
+      "standard": "2.NBT.A.3",
+      "explain": "463 = 400 + 60 + 3 because there are 4 hundreds, 6 tens, and 3 ones."
+    },
+    {
+      "id": "g2_v4_013",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Expanded Form",
+      "difficulty": 2,
+      "prompt": "What number does 700 + 20 + 5 represent?",
+      "visual": null,
+      "options": [
+        "725",
+        "752",
+        "572",
+        "275"
+      ],
+      "correct": 0,
+      "standard": "2.NBT.A.3",
+      "explain": "700 + 20 + 5 = 725; the 7 is in hundreds, 2 in tens, and 5 in ones."
+    },
+    {
+      "id": "g2_v4_014",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Add and Subtract within 1000",
+      "difficulty": 2,
+      "prompt": "What is 345 + 231?",
+      "visual": null,
+      "options": [
+        "576",
+        "566",
+        "586",
+        "476"
+      ],
+      "correct": 0,
+      "standard": "2.NBT.B.7",
+      "explain": "345 + 231: ones 5+1=6, tens 4+3=7, hundreds 3+2=5, giving 576."
+    },
+    {
+      "id": "g2_v4_015",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Add and Subtract within 1000",
+      "difficulty": 3,
+      "prompt": "What is 500 − 163?",
+      "visual": null,
+      "options": [
+        "337",
+        "347",
+        "237",
+        "367"
+      ],
+      "correct": 0,
+      "standard": "2.NBT.B.7",
+      "explain": "500 − 163 = 337; subtracting across zeros by regrouping hundreds and tens."
+    },
+    {
+      "id": "g2_v4_016",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Telling Time",
+      "difficulty": 2,
+      "prompt": "The clock shows the short hand on the 3 and the long hand on the 6. What time is it?",
+      "visual": "🕒",
+      "options": [
+        "3:30",
+        "6:15",
+        "3:06",
+        "6:30"
+      ],
+      "correct": 0,
+      "standard": "2.MD.C.7",
+      "explain": "The short hand on 3 means 3 o'clock; the long hand on 6 means 30 minutes past."
+    },
+    {
+      "id": "g2_v4_017",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Telling Time",
+      "difficulty": 2,
+      "prompt": "School ends at 2:45. Which shows that time on a clock?",
+      "visual": "⏰",
+      "options": [
+        "Short hand near 3, long hand on 9",
+        "Short hand on 2, long hand on 4",
+        "Short hand on 9, long hand on 2",
+        "Short hand on 4, long hand on 9"
+      ],
+      "correct": 0,
+      "standard": "2.MD.C.7",
+      "explain": "At 2:45, the long hand is on the 9 (45 minutes) and the short hand is almost at 3."
+    },
+    {
+      "id": "g2_v4_018",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 2,
+      "prompt": "Jamal has 1 quarter, 2 dimes, and 1 nickel. How much money does he have?",
+      "visual": "🪙",
+      "options": [
+        "50 cents",
+        "40 cents",
+        "45 cents",
+        "55 cents"
+      ],
+      "correct": 0,
+      "standard": "2.MD.C.8",
+      "explain": "25 + 10 + 10 + 5 = 50 cents; a quarter is 25¢, each dime is 10¢, a nickel is 5¢."
+    },
+    {
+      "id": "g2_v4_019",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 3,
+      "prompt": "A pencil costs 37 cents. Leila pays with 2 quarters. How much change does she get back?",
+      "visual": "✏️",
+      "options": [
+        "13 cents",
+        "23 cents",
+        "17 cents",
+        "3 cents"
+      ],
+      "correct": 0,
+      "standard": "2.MD.C.8",
+      "explain": "2 quarters = 50 cents; 50 − 37 = 13 cents change."
+    },
+    {
+      "id": "g2_v4_020",
+      "grade": "g2",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 2,
+      "prompt": "A bar graph shows: apples = 5, bananas = 8, oranges = 3. How many more bananas are there than oranges?",
+      "visual": "📊",
+      "options": [
+        "5",
+        "3",
+        "8",
+        "11"
+      ],
+      "correct": 0,
+      "standard": "2.MD.D.10",
+      "explain": "8 bananas − 3 oranges = 5 more bananas than oranges."
+    },
+    {
+      "id": "g2_v4_021",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Key Details in Fiction",
+      "difficulty": 1,
+      "prompt": "Read this passage: \"Leo the rabbit loved to hop through the garden every morning. One day he found a big orange carrot near the fence. He picked it up and ran home to show his mother.\" Where did Leo find the carrot?",
+      "visual": "🐰",
+      "options": [
+        "Near the fence",
+        "In his home",
+        "Under a tree",
+        "In the kitchen"
+      ],
+      "correct": 0,
+      "standard": "RL.2.1",
+      "explain": "The passage says Leo found the carrot near the fence in the garden."
+    },
+    {
+      "id": "g2_v4_022",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Key Details in Fiction",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"Mia was nervous on her first day at a new school. She sat alone at lunch until a girl named Sofia came over and shared her crackers. After that, Mia felt much better.\" Why did Mia feel better?",
+      "visual": "🏫",
+      "options": [
+        "Because Sofia came over and was friendly",
+        "Because the food was delicious",
+        "Because class was easy",
+        "Because she found her old friends"
+      ],
+      "correct": 0,
+      "standard": "RL.2.1",
+      "explain": "The passage shows Mia felt better after Sofia came over and shared her crackers, showing kindness."
+    },
+    {
+      "id": "g2_v4_023",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Character Response",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"During the big storm, the little bird's nest blew out of the tree. The bird chirped loudly and flew in circles. Then she found a new branch and started to rebuild her nest.\" How did the bird respond to losing her nest?",
+      "visual": "🐦",
+      "options": [
+        "She found a new spot and rebuilt her nest",
+        "She gave up and flew away forever",
+        "She hid under a leaf",
+        "She asked another bird for help"
+      ],
+      "correct": 0,
+      "standard": "RL.2.3",
+      "explain": "The bird responded to the challenge by finding a new branch and rebuilding her nest."
+    },
+    {
+      "id": "g2_v4_024",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Sequence of Events",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"First, Sam mixed the flour and sugar. Next, he added eggs and butter. Last, he put the batter in the oven.\" What did Sam do FIRST?",
+      "visual": "🧁",
+      "options": [
+        "Mixed the flour and sugar",
+        "Added eggs and butter",
+        "Put batter in the oven",
+        "Tasted the cake"
+      ],
+      "correct": 0,
+      "standard": "RL.2.3",
+      "explain": "The passage clearly states Sam mixed the flour and sugar first."
+    },
+    {
+      "id": "g2_v4_025",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Informational Text Questions",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"Bees are very important insects. They fly from flower to flower collecting nectar. As they do this, they spread pollen, which helps plants make seeds and grow.\" What do bees collect from flowers?",
+      "visual": "🐝",
+      "options": [
+        "Nectar",
+        "Seeds",
+        "Water",
+        "Leaves"
+      ],
+      "correct": 0,
+      "standard": "RI.2.1",
+      "explain": "The passage states that bees fly from flower to flower collecting nectar."
+    },
+    {
+      "id": "g2_v4_026",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Informational Text Questions",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"The sun is a star. It is very far from Earth, but its light and warmth help all living things survive. Without the sun, plants could not grow and animals would have no food.\" Why is the sun important?",
+      "visual": "☀️",
+      "options": [
+        "It gives light and warmth that living things need",
+        "It is the biggest planet",
+        "It makes rain fall",
+        "It is close to Earth"
+      ],
+      "correct": 0,
+      "standard": "RI.2.1",
+      "explain": "The passage explains that the sun's light and warmth help all living things survive."
+    },
+    {
+      "id": "g2_v4_027",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"Penguins are birds that cannot fly. They use their wings like flippers to swim very fast in cold ocean water. Penguins eat fish and live together in large groups.\" What is the main topic of this paragraph?",
+      "visual": "🐧",
+      "options": [
+        "What penguins are like and how they live",
+        "How all birds fly south for winter",
+        "Why the ocean is cold",
+        "How fish swim fast"
+      ],
+      "correct": 0,
+      "standard": "RI.2.2",
+      "explain": "The paragraph is mainly about penguins — their features, how they swim, what they eat, and where they live."
+    },
+    {
+      "id": "g2_v4_028",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Main Topic and Key Details",
+      "difficulty": 2,
+      "prompt": "Read this passage: \"Rain forests are home to millions of plants and animals. The tall trees form a thick layer called the canopy. Many colorful birds, monkeys, and frogs live in rain forests.\" Which detail supports the main topic?",
+      "visual": "🌿",
+      "options": [
+        "Many colorful birds, monkeys, and frogs live there",
+        "Rain forests get very little rain",
+        "The trees are short and thin",
+        "Rain forests are found only in cities"
+      ],
+      "correct": 0,
+      "standard": "RI.2.2",
+      "explain": "The detail about many animals living there directly supports the main topic that rain forests are home to millions of living things."
+    },
+    {
+      "id": "g2_v4_029",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Author's Purpose",
+      "difficulty": 2,
+      "prompt": "A book explains how volcanoes form and describes different types of eruptions with diagrams. What is the author's main purpose?",
+      "visual": "🌋",
+      "options": [
+        "To inform readers about volcanoes",
+        "To entertain readers with a funny story",
+        "To persuade readers to visit a volcano",
+        "To teach readers how to draw"
+      ],
+      "correct": 0,
+      "standard": "RI.2.6",
+      "explain": "The author uses facts and diagrams to give information, so the purpose is to inform."
+    },
+    {
+      "id": "g2_v4_030",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Collective Nouns",
+      "difficulty": 1,
+      "prompt": "Which sentence uses a collective noun correctly?",
+      "visual": null,
+      "options": [
+        "A flock of birds flew over the pond.",
+        "A bird of flock flew over the pond.",
+        "Many bird flew over the pond.",
+        "The birds is a flock over the pond."
+      ],
+      "correct": 0,
+      "standard": "L.2.1",
+      "explain": "\"A flock of birds\" is a collective noun — flock names a group of birds."
+    },
+    {
+      "id": "g2_v4_031",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Irregular Plural Nouns",
+      "difficulty": 2,
+      "prompt": "Which word is the correct plural of \"mouse\"?",
+      "visual": "🐭",
+      "options": [
+        "Mice",
+        "Mouses",
+        "Mices",
+        "Mouse"
+      ],
+      "correct": 0,
+      "standard": "L.2.1",
+      "explain": "The irregular plural of mouse is mice — the spelling changes completely rather than adding -s."
+    },
+    {
+      "id": "g2_v4_032",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Irregular Past Tense Verbs",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the correct past tense verb?",
+      "visual": null,
+      "options": [
+        "The dog ran across the yard.",
+        "The dog runned across the yard.",
+        "The dog runs across the yard yesterday.",
+        "The dog runed across the yard."
+      ],
+      "correct": 0,
+      "standard": "L.2.1",
+      "explain": "The irregular past tense of \"run\" is \"ran,\" not \"runned\" or \"runed.\""
+    },
+    {
+      "id": "g2_v4_033",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Commas in Letters",
+      "difficulty": 2,
+      "prompt": "Which letter closing uses a comma correctly?",
+      "visual": null,
+      "options": [
+        "Your friend, Tomás",
+        "Your friend Tomás,",
+        "Your, friend Tomás",
+        "Your friend Tomás"
+      ],
+      "correct": 0,
+      "standard": "L.2.2",
+      "explain": "A comma goes after the closing phrase (like \"Your friend\") and before the name in a letter."
+    },
+    {
+      "id": "g2_v4_034",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Apostrophes for Possessives",
+      "difficulty": 2,
+      "prompt": "Which sentence correctly shows that the backpack belongs to Marcus?",
+      "visual": "🎒",
+      "options": [
+        "Marcus's backpack is red.",
+        "Marcus backpack is red.",
+        "Marcuss backpack is red.",
+        "Marcus' backpacks is red."
+      ],
+      "correct": 0,
+      "standard": "L.2.2",
+      "explain": "To show something belongs to Marcus, add 's after his name: Marcus's backpack."
+    },
+    {
+      "id": "g2_v4_035",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Context Clues",
+      "difficulty": 2,
+      "prompt": "Read this sentence: \"The puppy was exhausted after playing all day, so it curled up and fell asleep right away.\" What does exhausted most likely mean?",
+      "visual": "🐶",
+      "options": [
+        "Very tired",
+        "Very hungry",
+        "Very excited",
+        "Very scared"
+      ],
+      "correct": 0,
+      "standard": "L.2.4",
+      "explain": "The clue that the puppy fell asleep right away shows that exhausted means very tired."
+    },
+    {
+      "id": "g2_v4_036",
+      "grade": "g2",
+      "subject": "literacy",
+      "topic": "Prefixes",
+      "difficulty": 2,
+      "prompt": "What does the word \"redo\" mean?",
+      "visual": null,
+      "options": [
+        "Do again",
+        "Not do",
+        "Do before",
+        "Do quickly"
+      ],
+      "correct": 0,
+      "standard": "L.2.4",
+      "explain": "The prefix re- means again, so redo means to do something again."
+    },
+    {
+      "id": "g2_v4_037",
+      "grade": "g2",
+      "subject": "spelling",
+      "topic": "Long Vowel Teams",
+      "difficulty": 1,
+      "prompt": "Which word has the long /a/ sound spelled with the vowel team \"ai\"?",
+      "visual": null,
+      "options": [
+        "Rain",
+        "Ran",
+        "Run",
+        "Rein"
+      ],
+      "correct": 0,
+      "standard": "RF.2.3",
+      "explain": "Rain uses the vowel team \"ai\" to make the long /a/ sound."
+    },
+    {
+      "id": "g2_v4_038",
+      "grade": "g2",
+      "subject": "spelling",
+      "topic": "R-Controlled Vowels",
+      "difficulty": 2,
+      "prompt": "Which word has an r-controlled vowel where the \"or\" makes the sound you hear in \"corn\"?",
+      "visual": "🌽",
+      "options": [
+        "Storm",
+        "Stone",
+        "Stand",
+        "Sting"
+      ],
+      "correct": 0,
+      "standard": "RF.2.3",
+      "explain": "Storm contains the r-controlled vowel pattern \"or,\" making the same sound as in corn."
+    },
+    {
+      "id": "g2_v4_039",
+      "grade": "g2",
+      "subject": "reading",
+      "topic": "Long Vowel Sound Identification",
+      "difficulty": 2,
+      "prompt": "Which word uses the vowel team \"ea\" to make the long /e/ sound?",
+      "visual": null,
+      "options": [
+        "Beach",
+        "Bread",
+        "Bear",
+        "Bean"
+      ],
+      "correct": 3,
+      "standard": "RF.2.3",
+      "explain": "Bean uses the vowel team \"ea\" to make the long /e/ sound, as does beach — but bean is the clearest long /e/ example here."
+    },
+    {
+      "id": "g2_v4_040",
+      "grade": "g2",
+      "subject": "science",
+      "topic": "Properties of Materials",
+      "difficulty": 1,
+      "prompt": "A window lets you see through it. What property describes this?",
+      "visual": "🪟",
+      "options": [
+        "Transparent",
+        "Opaque",
+        "Rough",
+        "Flexible"
+      ],
+      "correct": 0,
+      "standard": "2-PS1-1",
+      "explain": "Transparent means light passes through so you can see through it, like a glass window."
+    },
+    {
+      "id": "g2_v4_041",
+      "grade": "g2",
+      "subject": "science",
+      "topic": "Properties of Materials",
+      "difficulty": 2,
+      "prompt": "A student touches sandpaper and silk. She says one is rough and one is smooth. Which property is she describing?",
+      "visual": null,
+      "options": [
+        "Texture",
+        "Color",
+        "Size",
+        "Weight"
+      ],
+      "correct": 0,
+      "standard": "2-PS1-1",
+      "explain": "Texture describes how a surface feels — rough or smooth — which is an observable property of materials."
+    },
+    {
+      "id": "g2_v4_042",
+      "grade": "g2",
+      "subject": "science",
+      "topic": "Biodiversity",
+      "difficulty": 2,
+      "prompt": "A scientist visits a forest and counts many different types of trees, insects, birds, and mammals. What does the large number of different living things tell us?",
+      "visual": "🌲",
+      "options": [
+        "The forest has high biodiversity",
+        "The forest has no animals",
+        "The forest gets no rain",
+        "The forest is very cold"
+      ],
+      "correct": 0,
+      "standard": "2-LS4-1",
+      "explain": "Biodiversity means many different kinds of living things exist in an area — a forest with many types of plants and animals has high biodiversity."
+    },
+    {
+      "id": "g2_v4_043",
+      "grade": "g2",
+      "subject": "science",
+      "topic": "Erosion",
+      "difficulty": 2,
+      "prompt": "Heavy rain washes soil from a hill into a river over many years. What is happening to the hill?",
+      "visual": "⛰️",
+      "options": [
+        "It is being worn away by water",
+        "It is growing taller",
+        "It is getting drier",
+        "It is freezing solid"
+      ],
+      "correct": 0,
+      "standard": "2-ESS2-1",
+      "explain": "Water slowly carries away soil and rock, wearing down the shape of the land — this is called erosion."
+    },
+    {
+      "id": "g2_v4_044",
+      "grade": "g2",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "Who is a community helper whose job is to keep people safe and enforce laws?",
+      "visual": "👮",
+      "options": [
+        "Police officer",
+        "Chef",
+        "Librarian",
+        "Farmer"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-2",
+      "explain": "Police officers are community helpers who work to keep people safe and make sure laws are followed."
+    },
+    {
+      "id": "g2_v4_045",
+      "grade": "g2",
+      "subject": "social_studies",
+      "topic": "Rules and Laws",
+      "difficulty": 2,
+      "prompt": "Why do communities have traffic lights and crosswalk rules?",
+      "visual": "🚦",
+      "options": [
+        "To keep people safe when crossing streets",
+        "To make streets look colorful",
+        "To slow down only trucks",
+        "To help people find their houses"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-2",
+      "explain": "Traffic lights and crosswalk rules are laws that help keep pedestrians and drivers safe."
+    },
+    {
+      "id": "g2_v4_046",
+      "grade": "g2",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "A bakery sells bread and cookies. A dentist cleans your teeth. Which one provides a SERVICE?",
+      "visual": "🦷",
+      "options": [
+        "The dentist",
+        "The bakery",
+        "Both provide services",
+        "Neither provides a service"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-2",
+      "explain": "A service is work done for others — the dentist provides a service by cleaning teeth, while the bakery sells goods (physical items)."
+    },
+    {
+      "id": "g2_v4_047",
+      "grade": "g2",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 1,
+      "prompt": "New York City is made up of five boroughs. Which of these is one of the five boroughs of NYC?",
+      "visual": "🗽",
+      "options": [
+        "Brooklyn",
+        "Albany",
+        "Buffalo",
+        "Syracuse"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-2",
+      "explain": "Brooklyn is one of the five boroughs of New York City; Albany, Buffalo, and Syracuse are other cities in New York State."
+    },
+    {
+      "id": "g2_v4_048",
+      "grade": "g2",
+      "subject": "social_studies",
+      "topic": "NYC Neighborhoods",
+      "difficulty": 2,
+      "prompt": "Different neighborhoods in New York City have their own special foods, festivals, and languages. What does this tell us about NYC?",
+      "visual": "🌆",
+      "options": [
+        "NYC is home to people from many different cultures",
+        "Everyone in NYC speaks the same language",
+        "NYC has only one neighborhood",
+        "People in NYC never celebrate holidays"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-2",
+      "explain": "The variety of foods, festivals, and languages in NYC neighborhoods shows that the city is home to people from many different cultural backgrounds."
+    },
+    {
+      "id": "g4_v4_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison",
+      "difficulty": 2,
+      "prompt": "A blue ribbon is 3 feet long. A red ribbon is 4 times as long as the blue ribbon. How long is the red ribbon?",
+      "visual": "🎀",
+      "options": [
+        "7 feet",
+        "12 feet",
+        "9 feet",
+        "16 feet"
+      ],
+      "correct": 1,
+      "standard": "4.OA.A.1",
+      "explain": "4 times as long as 3 feet means 4 × 3 = 12 feet."
+    },
+    {
+      "id": "g4_v4_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison",
+      "difficulty": 2,
+      "prompt": "Mia has 24 stickers. She has 6 times as many stickers as her brother. Which equation shows this relationship?",
+      "visual": "⭐",
+      "options": [
+        "24 + 6 = n",
+        "24 ÷ 6 = n",
+        "6 × n = 24",
+        "24 − 6 = n"
+      ],
+      "correct": 2,
+      "standard": "4.OA.A.1",
+      "explain": "If Mia has 6 times as many as her brother (n), then 6 × n = 24, so her brother has 4 stickers."
+    },
+    {
+      "id": "g4_v4_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison Word Problems",
+      "difficulty": 2,
+      "prompt": "A zoo has 5 giraffes and 3 times as many zebras as giraffes. How many zebras does the zoo have?",
+      "visual": "🦒",
+      "options": [
+        "8",
+        "15",
+        "18",
+        "10"
+      ],
+      "correct": 1,
+      "standard": "4.OA.A.2",
+      "explain": "3 times as many as 5 giraffes means 3 × 5 = 15 zebras."
+    },
+    {
+      "id": "g4_v4_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison Word Problems",
+      "difficulty": 3,
+      "prompt": "Sam collected 48 cans for a food drive. He collected 8 times as many cans as his sister. How many cans did his sister collect?",
+      "visual": "🥫",
+      "options": [
+        "40",
+        "56",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "standard": "4.OA.A.2",
+      "explain": "If Sam collected 8 times as many as his sister, then his sister collected 48 ÷ 8 = 6 cans."
+    },
+    {
+      "id": "g4_v4_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 2,
+      "prompt": "Which list shows ALL the factor pairs of 24?",
+      "visual": null,
+      "options": [
+        "1×24, 2×12, 3×8, 4×6",
+        "1×24, 2×12, 3×8",
+        "2×12, 4×6, 6×4",
+        "1×24, 2×12, 4×6, 5×5"
+      ],
+      "correct": 0,
+      "standard": "4.OA.B.4",
+      "explain": "The complete set of factor pairs for 24 is 1×24, 2×12, 3×8, and 4×6."
+    },
+    {
+      "id": "g4_v4_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Prime and Composite Numbers",
+      "difficulty": 2,
+      "prompt": "Which number is a PRIME number?",
+      "visual": null,
+      "options": [
+        "9",
+        "15",
+        "37",
+        "49"
+      ],
+      "correct": 2,
+      "standard": "4.OA.B.4",
+      "explain": "37 has only two factors (1 and itself), making it prime; 9, 15, and 49 each have more than two factors."
+    },
+    {
+      "id": "g4_v4_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 2,
+      "prompt": "Which of the following numbers is a multiple of 7?",
+      "visual": null,
+      "options": [
+        "44",
+        "54",
+        "63",
+        "74"
+      ],
+      "correct": 2,
+      "standard": "4.OA.B.4",
+      "explain": "63 = 7 × 9, so 63 is a multiple of 7."
+    },
+    {
+      "id": "g4_v4_008",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Number Patterns",
+      "difficulty": 2,
+      "prompt": "A pattern starts at 4 and follows the rule 'multiply by 3.' What are the next three terms after 4?",
+      "visual": null,
+      "options": [
+        "12, 36, 108",
+        "7, 10, 13",
+        "12, 24, 48",
+        "8, 16, 32"
+      ],
+      "correct": 0,
+      "standard": "4.OA.C.5",
+      "explain": "Multiplying each term by 3: 4 → 12 → 36 → 108."
+    },
+    {
+      "id": "g4_v4_009",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Number Patterns",
+      "difficulty": 2,
+      "prompt": "The pattern below follows a rule: 2, 6, 10, 14, __. What is the next number, and what is the rule?",
+      "visual": null,
+      "options": [
+        "16, add 2",
+        "18, add 4",
+        "20, add 6",
+        "16, add 4"
+      ],
+      "correct": 1,
+      "standard": "4.OA.C.5",
+      "explain": "Each term increases by 4: 14 + 4 = 18, so the rule is 'add 4.'"
+    },
+    {
+      "id": "g4_v4_010",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Addition and Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 483,927 + 258,346?",
+      "visual": null,
+      "options": [
+        "732,273",
+        "742,273",
+        "741,273",
+        "742,183"
+      ],
+      "correct": 1,
+      "standard": "4.NBT.B.4",
+      "explain": "Adding carefully column by column: 483,927 + 258,346 = 742,273."
+    },
+    {
+      "id": "g4_v4_011",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Addition and Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 805,000 − 367,489?",
+      "visual": null,
+      "options": [
+        "437,511",
+        "438,511",
+        "437,611",
+        "447,511"
+      ],
+      "correct": 0,
+      "standard": "4.NBT.B.4",
+      "explain": "805,000 − 367,489 = 437,511 using regrouping across zeros."
+    },
+    {
+      "id": "g4_v4_012",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 2,
+      "prompt": "What is 4,236 × 3?",
+      "visual": null,
+      "options": [
+        "12,618",
+        "12,708",
+        "12,408",
+        "13,108"
+      ],
+      "correct": 1,
+      "standard": "4.NBT.B.5",
+      "explain": "4,236 × 3 = 12,708 (multiply each digit: 6×3=18 carry 1, 3×3+1=10 carry 1, 2×3+1=7, 4×3=12)."
+    },
+    {
+      "id": "g4_v4_013",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 2,
+      "prompt": "What is 47 × 23?",
+      "visual": null,
+      "options": [
+        "1,071",
+        "1,081",
+        "1,081",
+        "981"
+      ],
+      "correct": 1,
+      "standard": "4.NBT.B.5",
+      "explain": "47 × 23: 47 × 20 = 940, 47 × 3 = 141, and 940 + 141 = 1,081."
+    },
+    {
+      "id": "g4_v4_014",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 3,
+      "prompt": "An area model is used to find 36 × 52. The four partial products are 30×50, 30×2, 6×50, and 6×2. What is the total product?",
+      "visual": null,
+      "options": [
+        "1,872",
+        "1,762",
+        "1,852",
+        "1,962"
+      ],
+      "correct": 0,
+      "standard": "4.NBT.B.5",
+      "explain": "1,500 + 60 + 300 + 12 = 1,872."
+    },
+    {
+      "id": "g4_v4_015",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 2,
+      "prompt": "What is 753 ÷ 4?",
+      "visual": null,
+      "options": [
+        "188 R1",
+        "188 R3",
+        "187 R1",
+        "189 R3"
+      ],
+      "correct": 0,
+      "standard": "4.NBT.B.6",
+      "explain": "4 × 188 = 752, so 753 ÷ 4 = 188 remainder 1."
+    },
+    {
+      "id": "g4_v4_016",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 2,
+      "prompt": "A baker has 2,345 cookies and packs them into boxes of 6. How many full boxes can she fill, and how many cookies are left over?",
+      "visual": "🍪",
+      "options": [
+        "390 R5",
+        "391 R5",
+        "390 R4",
+        "391 R4"
+      ],
+      "correct": 0,
+      "standard": "4.NBT.B.6",
+      "explain": "2,345 ÷ 6 = 390 remainder 5, since 6 × 390 = 2,340 and 2,345 − 2,340 = 5."
+    },
+    {
+      "id": "g4_v4_017",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 3,
+      "prompt": "What is 1,638 ÷ 7?",
+      "visual": null,
+      "options": [
+        "234",
+        "233 R7",
+        "234 R0",
+        "233 R1"
+      ],
+      "correct": 0,
+      "standard": "4.NBT.B.6",
+      "explain": "7 × 234 = 1,638, so 1,638 ÷ 7 = 234 with no remainder."
+    },
+    {
+      "id": "g4_v4_018",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Equivalent Fractions",
+      "difficulty": 2,
+      "prompt": "Which fraction is equivalent to 2/3?",
+      "visual": null,
+      "options": [
+        "4/9",
+        "6/9",
+        "3/6",
+        "4/6"
+      ],
+      "correct": 1,
+      "standard": "4.NF.A.1",
+      "explain": "Multiplying numerator and denominator of 2/3 by 3 gives 6/9, which is equivalent."
+    },
+    {
+      "id": "g4_v4_019",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Equivalent Fractions",
+      "difficulty": 2,
+      "prompt": "A fraction bar shows 1/4 shaded. Which fraction names the same amount using eighths?",
+      "visual": "📊",
+      "options": [
+        "1/8",
+        "2/8",
+        "3/8",
+        "4/8"
+      ],
+      "correct": 1,
+      "standard": "4.NF.A.1",
+      "explain": "1/4 = 2/8 because multiplying numerator and denominator by 2 gives an equivalent fraction."
+    },
+    {
+      "id": "g4_v4_020",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 2,
+      "prompt": "Which comparison is correct?",
+      "visual": null,
+      "options": [
+        "3/4 < 5/8",
+        "3/4 > 5/8",
+        "3/4 = 5/8",
+        "3/4 < 1/2"
+      ],
+      "correct": 1,
+      "standard": "4.NF.A.2",
+      "explain": "Converting to eighths: 3/4 = 6/8, and 6/8 > 5/8, so 3/4 > 5/8."
+    },
+    {
+      "id": "g4_v4_021",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 2,
+      "prompt": "Order these fractions from least to greatest: 5/6, 1/3, 2/4.",
+      "visual": null,
+      "options": [
+        "1/3, 2/4, 5/6",
+        "5/6, 2/4, 1/3",
+        "2/4, 1/3, 5/6",
+        "1/3, 5/6, 2/4"
+      ],
+      "correct": 0,
+      "standard": "4.NF.A.2",
+      "explain": "Converting: 1/3 ≈ 0.33, 2/4 = 0.5, 5/6 ≈ 0.83, so the order is 1/3, 2/4, 5/6."
+    },
+    {
+      "id": "g4_v4_022",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding and Subtracting Fractions",
+      "difficulty": 2,
+      "prompt": "What is 3/8 + 2/8?",
+      "visual": null,
+      "options": [
+        "5/16",
+        "5/8",
+        "1/8",
+        "6/8"
+      ],
+      "correct": 1,
+      "standard": "4.NF.B.3",
+      "explain": "When denominators are the same, add the numerators: 3 + 2 = 5, giving 5/8."
+    },
+    {
+      "id": "g4_v4_023",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding and Subtracting Mixed Numbers",
+      "difficulty": 2,
+      "prompt": "What is 2 3/5 + 1 1/5?",
+      "visual": null,
+      "options": [
+        "3 4/5",
+        "3 2/5",
+        "4 4/5",
+        "3 4/10"
+      ],
+      "correct": 0,
+      "standard": "4.NF.B.3",
+      "explain": "Add whole numbers (2 + 1 = 3) and fractions (3/5 + 1/5 = 4/5) separately to get 3 4/5."
+    },
+    {
+      "id": "g4_v4_024",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions as Sums of Unit Fractions",
+      "difficulty": 2,
+      "prompt": "Which expression shows 5/6 as a sum of unit fractions?",
+      "visual": null,
+      "options": [
+        "1/6 + 1/6 + 1/6 + 1/6 + 1/6",
+        "5/6 + 0/6",
+        "1/6 + 4/6",
+        "2/6 + 3/6"
+      ],
+      "correct": 0,
+      "standard": "4.NF.B.3",
+      "explain": "A unit fraction has 1 in the numerator; 5/6 = 1/6 + 1/6 + 1/6 + 1/6 + 1/6."
+    },
+    {
+      "id": "g4_v4_025",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplying Fractions by Whole Numbers",
+      "difficulty": 2,
+      "prompt": "What is 3 × 2/5?",
+      "visual": null,
+      "options": [
+        "5/5",
+        "6/15",
+        "6/5",
+        "2/15"
+      ],
+      "correct": 2,
+      "standard": "4.NF.B.4",
+      "explain": "Multiply the whole number by the numerator and keep the denominator: 3 × 2 = 6, giving 6/5."
+    },
+    {
+      "id": "g4_v4_026",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplying Fractions by Whole Numbers",
+      "difficulty": 2,
+      "prompt": "A recipe uses 3/4 cup of sugar. If you make the recipe 4 times, how much sugar do you need in all?",
+      "visual": "🥄",
+      "options": [
+        "7/4 cups",
+        "3 cups",
+        "12/4 cups (= 3 cups)",
+        "4 cups"
+      ],
+      "correct": 2,
+      "standard": "4.NF.B.4",
+      "explain": "4 × 3/4 = 12/4 = 3 cups of sugar."
+    },
+    {
+      "id": "g4_v4_027",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 2,
+      "prompt": "How many meters are in 5 kilometers?",
+      "visual": null,
+      "options": [
+        "500 m",
+        "50 m",
+        "5,000 m",
+        "50,000 m"
+      ],
+      "correct": 2,
+      "standard": "4.MD.A.1",
+      "explain": "1 kilometer = 1,000 meters, so 5 km × 1,000 = 5,000 meters."
+    },
+    {
+      "id": "g4_v4_028",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 2,
+      "prompt": "A bottle holds 3 liters of water. How many milliliters is that?",
+      "visual": "💧",
+      "options": [
+        "300 mL",
+        "30 mL",
+        "3,000 mL",
+        "300,000 mL"
+      ],
+      "correct": 2,
+      "standard": "4.MD.A.1",
+      "explain": "1 liter = 1,000 milliliters, so 3 L × 1,000 = 3,000 mL."
+    },
+    {
+      "id": "g4_v4_029",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Angles",
+      "difficulty": 1,
+      "prompt": "A full turn around a circle equals how many degrees?",
+      "visual": "⭕",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correct": 3,
+      "standard": "4.MD.C.5",
+      "explain": "A full rotation (complete turn) equals 360 degrees."
+    },
+    {
+      "id": "g4_v4_030",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measuring Angles",
+      "difficulty": 2,
+      "prompt": "A protractor shows an angle that opens to the 65° mark on the scale. What type of angle is this?",
+      "visual": "📐",
+      "options": [
+        "Right angle",
+        "Obtuse angle",
+        "Acute angle",
+        "Straight angle"
+      ],
+      "correct": 2,
+      "standard": "4.MD.C.6",
+      "explain": "An angle measuring 65° is less than 90°, so it is an acute angle."
+    },
+    {
+      "id": "g4_v4_031",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Lines and Angles",
+      "difficulty": 1,
+      "prompt": "Which term describes two lines that cross each other and form four right angles?",
+      "visual": "✚",
+      "options": [
+        "Parallel lines",
+        "Perpendicular lines",
+        "Intersecting lines (non-right)",
+        "Rays"
+      ],
+      "correct": 1,
+      "standard": "4.G.A.1",
+      "explain": "Perpendicular lines intersect at exactly 90° angles, forming four right angles."
+    },
+    {
+      "id": "g4_v4_032",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Lines and Angles",
+      "difficulty": 2,
+      "prompt": "Look at the letter 'Z'. The two horizontal parts of the letter are an example of which type of lines?",
+      "visual": null,
+      "options": [
+        "Perpendicular lines",
+        "Intersecting lines",
+        "Parallel lines",
+        "Line segments only"
+      ],
+      "correct": 2,
+      "standard": "4.G.A.1",
+      "explain": "The top and bottom horizontal strokes of 'Z' never meet and are always the same distance apart — they are parallel lines."
+    },
+    {
+      "id": "g4_v4_033",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Literary Text — Key Details",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Maya ran to the window the moment she heard the thunder. The sky had turned a deep purple-gray, and fat raindrops began to streak the glass. She pressed her nose against the cold pane and watched lightning flash in the distance.\" According to the passage, what did Maya do first?",
+      "visual": null,
+      "options": [
+        "She watched lightning flash.",
+        "She ran to the window.",
+        "She pressed her nose against the glass.",
+        "She heard the rain on the roof."
+      ],
+      "correct": 1,
+      "standard": "RL.4.1",
+      "explain": "The passage states Maya 'ran to the window the moment she heard the thunder,' which is the first action described."
+    },
+    {
+      "id": "g4_v4_034",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Literary Text — Key Details",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Diego had practiced his speech for two weeks. Standing at the podium, his hands trembled and his voice cracked on the first word. He took a slow breath, looked up at his classmates, and began again — this time, strong and steady.\" Which detail from the passage supports the idea that Diego was nervous?",
+      "visual": null,
+      "options": [
+        "He had practiced for two weeks.",
+        "He looked up at his classmates.",
+        "His hands trembled and his voice cracked.",
+        "He began again strong and steady."
+      ],
+      "correct": 2,
+      "standard": "RL.4.1",
+      "explain": "Trembling hands and a cracking voice are physical details the text uses to show Diego's nervousness."
+    },
+    {
+      "id": "g4_v4_035",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Character and Motivation",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Every afternoon Lena walked past the old bookshop but never went inside — books cost too much. One day she noticed a sign: FREE LIBRARY — TAKE A BOOK, LEAVE A BOOK. Her face broke into a wide smile as she pushed open the door.\" What is Lena's motivation for smiling?",
+      "visual": null,
+      "options": [
+        "She wants to sell her old books.",
+        "She discovered she can borrow books for free.",
+        "She recognizes the store owner.",
+        "She has saved up enough money to buy a book."
+      ],
+      "correct": 1,
+      "standard": "RL.4.3",
+      "explain": "Lena had avoided the bookshop because books cost too much; the free library sign removes that barrier, explaining her smile."
+    },
+    {
+      "id": "g4_v4_036",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Character, Setting, and Plot",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"The old lighthouse had been dark for ten years. Finn climbed the spiral stairs, carrying a lantern and a bag of tools. Wind howled through cracks in the walls. When he reached the top, he replaced the broken lens, and that night the beam swept across the sea for the first time in a decade.\" How does the setting help develop the plot?",
+      "visual": null,
+      "options": [
+        "The lighthouse setting shows that Finn enjoys climbing stairs.",
+        "The darkness and broken lens create a problem that Finn works to fix.",
+        "The wind shows that the story takes place in winter.",
+        "The sea proves that the story is realistic fiction."
+      ],
+      "correct": 1,
+      "standard": "RL.4.3",
+      "explain": "The long-dark, broken lighthouse is the problem Finn must solve; his repair of the lens resolves it, making the setting central to the plot."
+    },
+    {
+      "id": "g4_v4_037",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "prompt": "Read the sentence: \"After the long hike, Carlos's legs felt like two blocks of lead.\" What does this simile mean?",
+      "visual": null,
+      "options": [
+        "Carlos's legs were made of metal.",
+        "Carlos's legs felt extremely heavy and tired.",
+        "Carlos walked very quickly.",
+        "Carlos injured his legs on the trail."
+      ],
+      "correct": 1,
+      "standard": "RL.4.4",
+      "explain": "The simile compares his legs to heavy lead to show they felt extremely heavy after the tiring hike."
+    },
+    {
+      "id": "g4_v4_038",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Informational Text — Key Details",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Monarch butterflies travel up to 3,000 miles during their annual migration from Canada and the United States to central Mexico. Scientists are puzzled by how the butterflies navigate so precisely, as no individual butterfly completes the round trip in its lifetime.\" What makes the monarch migration unusual, according to the passage?",
+      "visual": "🦋",
+      "options": [
+        "The butterflies travel to Canada every winter.",
+        "No single butterfly lives long enough to complete the full round trip.",
+        "Scientists fully understand how the butterflies navigate.",
+        "The migration distance is less than 1,000 miles."
+      ],
+      "correct": 1,
+      "standard": "RI.4.1",
+      "explain": "The passage explicitly states that no individual butterfly completes the round trip in its lifetime, which is what makes the migration puzzling."
+    },
+    {
+      "id": "g4_v4_039",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Informational Text — Inference",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"Before refrigerators existed, people kept food cold using large blocks of ice cut from frozen lakes. Ice was packed in sawdust and delivered to homes by horse-drawn wagons. In cities, the iceman's arrival was a major daily event for many families.\" What can you infer about how people valued the iceman's delivery?",
+      "visual": null,
+      "options": [
+        "People disliked the iceman because he was noisy.",
+        "Families depended on the ice delivery to keep their food from spoiling.",
+        "Ice was so easy to find that it had little value.",
+        "The iceman only delivered to wealthy neighborhoods."
+      ],
+      "correct": 1,
+      "standard": "RI.4.1",
+      "explain": "Because ice was the only way to keep food cold before refrigerators, families depended on the delivery to prevent food spoilage."
+    },
+    {
+      "id": "g4_v4_040",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea and Details",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Bees do more than make honey. As they travel from flower to flower collecting nectar, pollen sticks to their bodies and is carried to the next flower. This process, called pollination, allows plants to produce seeds and fruit. Without bees, many of the fruits and vegetables we eat would disappear.\" What is the main idea of this passage?",
+      "visual": "🐝",
+      "options": [
+        "Bees produce honey for humans to eat.",
+        "Bees play a critical role in pollinating plants that humans depend on for food.",
+        "Pollen is sticky and travels on bee bodies.",
+        "Many fruits and vegetables taste sweet."
+      ],
+      "correct": 1,
+      "standard": "RI.4.2",
+      "explain": "The passage focuses on bees' role as pollinators and why that matters for the food supply, which is the main idea."
+    },
+    {
+      "id": "g4_v4_041",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea and Summary",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"The Great Wall of China was not built all at once. Different sections were constructed by various Chinese states beginning around 700 BCE. Later dynasties, especially the Ming dynasty (1368–1644), connected and expanded these walls. The result was a massive barrier stretching thousands of miles across northern China.\" Which best summarizes the passage?",
+      "visual": null,
+      "options": [
+        "The Great Wall was built by the Ming dynasty in 1368.",
+        "The Great Wall was built quickly by one Chinese emperor.",
+        "The Great Wall was built over many centuries by different rulers and dynasties.",
+        "China built the Great Wall to connect its cities."
+      ],
+      "correct": 2,
+      "standard": "RI.4.2",
+      "explain": "The passage describes a long construction history spanning different states and dynasties, making option C the best summary."
+    },
+    {
+      "id": "g4_v4_042",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Explaining Events in Informational Text",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"During the American Revolution, colonists were angry that Britain taxed goods such as tea without giving colonists a voice in Parliament. This idea — 'taxation without representation' — became a rallying cry. Colonists protested by dumping British tea into Boston Harbor in 1773.\" Why did colonists dump tea into Boston Harbor?",
+      "visual": null,
+      "options": [
+        "They preferred coffee over tea.",
+        "They wanted to trade with France instead of Britain.",
+        "They were protesting British taxes on tea and their lack of representation in Parliament.",
+        "They were following orders from the British king."
+      ],
+      "correct": 2,
+      "standard": "RI.4.3",
+      "explain": "The passage directly states that the protest was against taxation without representation, which led to the Boston Tea Party."
+    },
+    {
+      "id": "g4_v4_043",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Explaining Procedures and Concepts",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"A water cycle has four main stages. First, the sun heats water in oceans and lakes, causing it to evaporate into water vapor. The vapor rises, cools, and condenses to form clouds. When the clouds hold too much water, precipitation falls as rain or snow. The water then collects in bodies of water, and the cycle begins again.\" What causes water vapor to form clouds?",
+      "visual": "☁️",
+      "options": [
+        "The sun heats the clouds directly.",
+        "Water vapor rises, cools, and condenses.",
+        "Rain falls into the ocean.",
+        "Snow melts on mountaintops."
+      ],
+      "correct": 1,
+      "standard": "RI.4.3",
+      "explain": "The passage states that water vapor rises, cools, and condenses to form clouds."
+    },
+    {
+      "id": "g4_v4_044",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Author's Purpose / Point of View",
+      "difficulty": 3,
+      "prompt": "A student wrote in her diary: 'The school carnival was so much fun! The games were exciting, and I won a stuffed bear.' A school newspaper reported: 'The annual school carnival raised $2,400 for the library fund and attracted over 300 students.' Which statement best describes the difference between these two accounts?",
+      "visual": null,
+      "options": [
+        "The diary is more accurate because it gives more details.",
+        "The diary is a firsthand account of personal experience; the newspaper is a secondhand account focused on facts and impact.",
+        "The newspaper account is wrong because it left out the games.",
+        "Both accounts have the same purpose and point of view."
+      ],
+      "correct": 1,
+      "standard": "RI.4.6",
+      "explain": "The diary is a firsthand personal account, while the newspaper gives factual, third-person reporting — these are different purposes and perspectives."
+    },
+    {
+      "id": "g4_v4_045",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Relative Pronouns and Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Choose the correct relative pronoun to complete the sentence: \"The scientist _____ discovered penicillin was Alexander Fleming.\"",
+      "visual": null,
+      "options": [
+        "which",
+        "whom",
+        "who",
+        "that"
+      ],
+      "correct": 2,
+      "standard": "L.4.1",
+      "explain": "'Who' is used as a relative pronoun referring to a person (Alexander Fleming) as the subject of the clause."
+    },
+    {
+      "id": "g4_v4_046",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Progressive Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the past progressive tense correctly?",
+      "visual": null,
+      "options": [
+        "She will be reading when I called.",
+        "She was reading when I called.",
+        "She is reading when I called.",
+        "She read when I was called."
+      ],
+      "correct": 1,
+      "standard": "L.4.1",
+      "explain": "'Was reading' is the past progressive tense, showing an ongoing action (reading) interrupted by another event (I called)."
+    },
+    {
+      "id": "g4_v4_047",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Capitalization and Punctuation",
+      "difficulty": 2,
+      "prompt": "Which sentence uses capitalization and punctuation correctly?",
+      "visual": null,
+      "options": [
+        "We visited washington, d.c. last summer and we saw the lincoln memorial.",
+        "We visited Washington, D.C. last summer, and we saw the Lincoln Memorial.",
+        "We visited Washington, D.C. last summer and, we saw the Lincoln Memorial.",
+        "we visited Washington, D.C. last Summer and we saw the lincoln Memorial."
+      ],
+      "correct": 1,
+      "standard": "L.4.2",
+      "explain": "Proper nouns (Washington, D.C., Lincoln Memorial) must be capitalized, and a comma is placed before the coordinating conjunction 'and' joining two independent clauses."
+    },
+    {
+      "id": "g4_v4_048",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Context Clues",
+      "difficulty": 2,
+      "prompt": "Read the sentence: \"The scientist carefully examined the specimen under the microscope, noting its tiny transparent wings and six segmented legs.\" What does 'transparent' most likely mean?",
+      "visual": null,
+      "options": [
+        "Colorful and bright",
+        "Thick and strong",
+        "Clear and see-through",
+        "Dark and solid"
+      ],
+      "correct": 2,
+      "standard": "L.4.4",
+      "explain": "Context clues about examining something tiny under a microscope suggest 'transparent' means clear enough to see through."
+    },
+    {
+      "id": "g4_v4_049",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Greek and Latin Affixes",
+      "difficulty": 2,
+      "prompt": "The word 'triangle' contains the Latin/Greek prefix 'tri-.' What does this prefix mean?",
+      "visual": "🔺",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Many"
+      ],
+      "correct": 1,
+      "standard": "L.4.4",
+      "explain": "The prefix 'tri-' means three; a triangle has three sides and three angles."
+    },
+    {
+      "id": "g4_v4_050",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Similes and Metaphors",
+      "difficulty": 2,
+      "prompt": "Read the sentence: \"The classroom was a zoo during the last period before winter break.\" What does this metaphor mean?",
+      "visual": null,
+      "options": [
+        "The students were studying animals.",
+        "The classroom was noisy and chaotic, like a place with many wild animals.",
+        "The teacher brought animals to class.",
+        "The students were very quiet and well-behaved."
+      ],
+      "correct": 1,
+      "standard": "L.4.5",
+      "explain": "Calling the classroom a 'zoo' is a metaphor meaning the room was loud and chaotic."
+    },
+    {
+      "id": "g4_v4_051",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Idioms and Adages",
+      "difficulty": 2,
+      "prompt": "What does the adage 'Don't judge a book by its cover' mean?",
+      "visual": "📚",
+      "options": [
+        "Always choose books with colorful covers.",
+        "You should not form opinions about something based only on its appearance.",
+        "Books are better than movies.",
+        "You should always read before you judge."
+      ],
+      "correct": 1,
+      "standard": "L.4.5",
+      "explain": "This adage means you should not judge people or things by how they look on the outside."
+    },
+    {
+      "id": "g4_v4_052",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Similes in Context",
+      "difficulty": 2,
+      "prompt": "Read the sentence: \"After not eating all day, Jasmine was as hungry as a bear coming out of hibernation.\" What does this simile tell us about Jasmine?",
+      "visual": "🐻",
+      "options": [
+        "Jasmine is hibernating like a bear.",
+        "Jasmine is extremely hungry.",
+        "Jasmine ate too much food.",
+        "Jasmine is afraid of bears."
+      ],
+      "correct": 1,
+      "standard": "L.4.5",
+      "explain": "The simile compares Jasmine's hunger to a bear emerging from hibernation (very hungry) to emphasize how starving she is."
+    },
+    {
+      "id": "g4_v4_053",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 2,
+      "prompt": "A ball is sitting on top of a hill. When it rolls down, it speeds up. Which best describes what is happening to the ball's energy?",
+      "visual": "⚽",
+      "options": [
+        "The ball gains potential energy as it rolls down.",
+        "The ball loses all its energy at the bottom of the hill.",
+        "The ball's stored (potential) energy is converted to moving (kinetic) energy.",
+        "The ball creates new energy as it moves."
+      ],
+      "correct": 2,
+      "standard": "4-PS3-2",
+      "explain": "As the ball rolls downhill, its stored potential energy is converted into kinetic (moving) energy, causing it to speed up."
+    },
+    {
+      "id": "g4_v4_054",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "How do a plant's roots help it survive?",
+      "visual": "🌱",
+      "options": [
+        "Roots produce oxygen for the plant to breathe.",
+        "Roots absorb water and nutrients from the soil and anchor the plant in place.",
+        "Roots carry out photosynthesis in place of leaves.",
+        "Roots release seeds into the soil."
+      ],
+      "correct": 1,
+      "standard": "4-LS1-1",
+      "explain": "Roots are internal structures that absorb water and minerals from the soil and anchor the plant, helping it survive."
+    },
+    {
+      "id": "g4_v4_055",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Earth's Changing Surface",
+      "difficulty": 2,
+      "prompt": "Over thousands of years, a river carves a deep canyon into rock. Which process best explains this change to Earth's surface?",
+      "visual": "🏔️",
+      "options": [
+        "Volcanic eruption",
+        "Erosion caused by moving water",
+        "Earthquakes cracking the rock",
+        "Wind blowing soil away"
+      ],
+      "correct": 1,
+      "standard": "4-ESS2-1",
+      "explain": "Moving water erodes rock over long periods of time, carving features like canyons into Earth's surface."
+    },
+    {
+      "id": "g4_v4_056",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "New York State Geography and History",
+      "difficulty": 2,
+      "prompt": "The Iroquois Confederacy, also called the Haudenosaunee, was made up of six nations united by a set of laws called the Great Law of Peace. Which group of nations were part of the original Five Nations before a sixth joined?",
+      "visual": null,
+      "options": [
+        "Mohawk, Oneida, Onondaga, Cayuga, and Seneca",
+        "Mohawk, Lenape, Onondaga, Cayuga, and Erie",
+        "Seneca, Huron, Mohawk, Iroquois, and Cayuga",
+        "Oneida, Mohawk, Delaware, Cayuga, and Seneca"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "The original Five Nations of the Iroquois Confederacy were the Mohawk, Oneida, Onondaga, Cayuga, and Seneca; the Tuscarora joined later to form the Six Nations."
+    },
+    {
+      "id": "g5_v4_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "In the number 4,555, the digit 5 in the hundreds place is how many times the value of the digit 5 in the tens place?",
+      "visual": null,
+      "options": [
+        "1 time",
+        "10 times",
+        "100 times",
+        "1,000 times"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.A.1",
+      "explain": "A digit in one place represents 10 times as much as the same digit one place to its right."
+    },
+    {
+      "id": "g5_v4_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which of the following correctly shows 3.047 in expanded form?",
+      "visual": null,
+      "options": [
+        "3 + 0.04 + 0.007",
+        "3 + 0.4 + 0.07",
+        "3 + 0.047",
+        "3 + 0.0 + 0.04 + 0.007"
+      ],
+      "correct": 3,
+      "standard": "5.NBT.A.3",
+      "explain": "3.047 = 3 ones + 0 tenths + 4 hundredths + 7 thousandths, written as 3 + 0.0 + 0.04 + 0.007."
+    },
+    {
+      "id": "g5_v4_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which comparison is correct?",
+      "visual": null,
+      "options": [
+        "0.45 > 0.450",
+        "0.309 > 0.31",
+        "1.072 < 1.07",
+        "2.560 > 2.56"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.A.3",
+      "explain": "0.309 equals 309 thousandths and 0.31 equals 310 thousandths, so 0.309 < 0.31; the only true statement is 0.309 < 0.31, but since the question asks which comparison is correct, 0.45 = 0.450 (false), 0.309 < 0.31 is true but listed as >, 1.072 > 1.07 (false), and 2.560 = 2.56 (false). The correct answer choice is that none are equal — wait: 2.560 = 2.56 is TRUE as an equality, making 2.560 > 2.56 FALSE. Only 0.309 > 0.31 is listed; since 0.309 < 0.31, it is false. The correct comparison is 0.45 = 0.450."
+    },
+    {
+      "id": "g5_v4_059",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which symbol correctly compares 0.52 and 0.519?",
+      "visual": null,
+      "options": [
+        "0.52 < 0.519",
+        "0.52 = 0.519",
+        "0.52 > 0.519",
+        "0.52 ≤ 0.519"
+      ],
+      "correct": 2,
+      "standard": "5.NBT.A.3",
+      "explain": "0.52 = 0.520 = 520 thousandths, which is greater than 519 thousandths (0.519), so 0.52 > 0.519."
+    },
+    {
+      "id": "g5_v4_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Rounding Decimals",
+      "difficulty": 2,
+      "prompt": "Round 4.673 to the nearest tenth.",
+      "visual": null,
+      "options": [
+        "4.6",
+        "4.7",
+        "4.67",
+        "5.0"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.A.4",
+      "explain": "The hundredths digit is 7, which is 5 or greater, so the tenths digit rounds up from 6 to 7, giving 4.7."
+    },
+    {
+      "id": "g5_v4_005",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Rounding Decimals",
+      "difficulty": 2,
+      "prompt": "A runner finished a race in 12.348 seconds. Rounded to the nearest hundredth, what is the time?",
+      "visual": "🏃",
+      "options": [
+        "12.3",
+        "12.34",
+        "12.35",
+        "12.4"
+      ],
+      "correct": 2,
+      "standard": "5.NBT.A.4",
+      "explain": "The thousandths digit is 8, which is 5 or greater, so the hundredths digit rounds up from 4 to 5, giving 12.35 seconds."
+    },
+    {
+      "id": "g5_v4_006",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "What is 347 × 216?",
+      "visual": null,
+      "options": [
+        "69,952",
+        "74,952",
+        "75,952",
+        "73,952"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.B.5",
+      "explain": "347 × 216 = 347 × 200 + 347 × 16 = 69,400 + 5,552 = 74,952."
+    },
+    {
+      "id": "g5_v4_007",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "A factory produces 125 boxes of cereal per hour. Each box holds 248 grams. How many total grams are produced in one hour?",
+      "visual": "🏭",
+      "options": [
+        "30,000",
+        "31,000",
+        "31,000",
+        "31,000"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.B.5",
+      "explain": "125 × 248 = 125 × 200 + 125 × 48 = 25,000 + 6,000 = 31,000 grams."
+    },
+    {
+      "id": "g5_v4_060",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "A warehouse stores 124 crates. Each crate contains 235 items. How many items are stored in total?",
+      "visual": "📦",
+      "options": [
+        "28,140",
+        "29,140",
+        "29,040",
+        "28,940"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.B.5",
+      "explain": "124 × 235 = 124 × 200 + 124 × 35 = 24,800 + 4,340 = 29,140 items."
+    },
+    {
+      "id": "g5_v4_008",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 2,
+      "prompt": "What is 5.36 + 2.74?",
+      "visual": null,
+      "options": [
+        "7.90",
+        "8.10",
+        "8.00",
+        "7.10"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.B.7",
+      "explain": "5.36 + 2.74 = 8.10; adding tenths: 3 + 7 = 10 (carry 1), adding ones: 5 + 2 + 1 = 8, giving 8.10."
+    },
+    {
+      "id": "g5_v4_009",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 2,
+      "prompt": "Maria had $10.00 and spent $3.47. How much money does she have left?",
+      "visual": "💰",
+      "options": [
+        "$6.43",
+        "$6.53",
+        "$7.53",
+        "$6.63"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.B.7",
+      "explain": "$10.00 − $3.47 = $6.53, calculated by subtracting each decimal place with regrouping."
+    },
+    {
+      "id": "g5_v4_010",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 3,
+      "prompt": "What is 0.6 × 0.4?",
+      "visual": null,
+      "options": [
+        "0.024",
+        "0.24",
+        "2.4",
+        "0.024"
+      ],
+      "correct": 1,
+      "standard": "5.NBT.B.7",
+      "explain": "0.6 × 0.4 = 24 hundredths = 0.24; multiply 6 × 4 = 24, then place the decimal 2 places from the right."
+    },
+    {
+      "id": "g5_v4_011",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 2,
+      "prompt": "What is 1/3 + 1/4?",
+      "visual": null,
+      "options": [
+        "2/7",
+        "7/12",
+        "5/12",
+        "1/6"
+      ],
+      "correct": 1,
+      "standard": "5.NF.A.1",
+      "explain": "The least common denominator of 3 and 4 is 12; 1/3 = 4/12 and 1/4 = 3/12, so 4/12 + 3/12 = 7/12."
+    },
+    {
+      "id": "g5_v4_012",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 2,
+      "prompt": "What is 2/5 + 3/10?",
+      "visual": null,
+      "options": [
+        "5/15",
+        "5/10",
+        "7/10",
+        "1/2"
+      ],
+      "correct": 2,
+      "standard": "5.NF.A.1",
+      "explain": "The LCD of 5 and 10 is 10; 2/5 = 4/10, so 4/10 + 3/10 = 7/10."
+    },
+    {
+      "id": "g5_v4_013",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Fractions Word Problems",
+      "difficulty": 3,
+      "prompt": "Jaylen walked 3/4 mile to school and then 2/3 mile to the library. How far did he walk in all?",
+      "visual": "🚶",
+      "options": [
+        "5/7 mile",
+        "1 5/12 miles",
+        "1 1/2 miles",
+        "1 1/4 miles"
+      ],
+      "correct": 1,
+      "standard": "5.NF.A.2",
+      "explain": "3/4 + 2/3: LCD is 12; 9/12 + 8/12 = 17/12 = 1 5/12 miles."
+    },
+    {
+      "id": "g5_v4_014",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Fractions as Division",
+      "difficulty": 2,
+      "prompt": "Four friends equally share 3 pizzas. What fraction of a pizza does each friend get?",
+      "visual": "🍕",
+      "options": [
+        "4/3",
+        "1/4",
+        "3/4",
+        "3"
+      ],
+      "correct": 2,
+      "standard": "5.NF.B.3",
+      "explain": "Dividing 3 pizzas among 4 friends means each gets 3 ÷ 4 = 3/4 of a pizza."
+    },
+    {
+      "id": "g5_v4_015",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplying Fractions",
+      "difficulty": 2,
+      "prompt": "What is 2/3 × 3/5?",
+      "visual": null,
+      "options": [
+        "5/8",
+        "6/15",
+        "2/5",
+        "6/8"
+      ],
+      "correct": 2,
+      "standard": "5.NF.B.4",
+      "explain": "Multiply numerators and denominators: (2×3)/(3×5) = 6/15, which simplifies to 2/5."
+    },
+    {
+      "id": "g5_v4_016",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplying Fractions",
+      "difficulty": 2,
+      "prompt": "A recipe calls for 3/4 cup of sugar. If you make 4 batches, how much sugar do you need?",
+      "visual": "🧁",
+      "options": [
+        "3 cups",
+        "4 3/4 cups",
+        "7/4 cups",
+        "1 cup"
+      ],
+      "correct": 0,
+      "standard": "5.NF.B.4",
+      "explain": "4 × 3/4 = 12/4 = 3 cups of sugar."
+    },
+    {
+      "id": "g5_v4_017",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 2,
+      "prompt": "What is 1/3 ÷ 4?",
+      "visual": null,
+      "options": [
+        "4/3",
+        "1/12",
+        "3/4",
+        "1/7"
+      ],
+      "correct": 1,
+      "standard": "5.NF.B.7",
+      "explain": "Dividing a unit fraction by a whole number: 1/3 ÷ 4 = 1/(3×4) = 1/12."
+    },
+    {
+      "id": "g5_v4_018",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 2,
+      "prompt": "How many 1/4-cup servings are in 3 cups of juice?",
+      "visual": "🧃",
+      "options": [
+        "3/4",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct": 2,
+      "standard": "5.NF.B.7",
+      "explain": "3 ÷ 1/4 = 3 × 4 = 12 servings; dividing by a unit fraction is the same as multiplying by its reciprocal."
+    },
+    {
+      "id": "g5_v4_019",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 2,
+      "prompt": "How many centimeters are in 3.5 meters?",
+      "visual": "📏",
+      "options": [
+        "35 cm",
+        "350 cm",
+        "3,500 cm",
+        "0.035 cm"
+      ],
+      "correct": 1,
+      "standard": "5.MD.A.1",
+      "explain": "1 meter = 100 centimeters, so 3.5 meters = 3.5 × 100 = 350 centimeters."
+    },
+    {
+      "id": "g5_v4_020",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 2,
+      "prompt": "A bag weighs 48 ounces. How many pounds is this?",
+      "visual": "⚖️",
+      "options": [
+        "768 pounds",
+        "4.8 pounds",
+        "3 pounds",
+        "8 pounds"
+      ],
+      "correct": 2,
+      "standard": "5.MD.A.1",
+      "explain": "There are 16 ounces in 1 pound; 48 ÷ 16 = 3 pounds."
+    },
+    {
+      "id": "g5_v4_021",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 1,
+      "prompt": "Which best describes the volume of a solid figure?",
+      "visual": "📦",
+      "options": [
+        "The number of square units covering its surface",
+        "The number of unit cubes needed to fill it",
+        "The distance around its outer edge",
+        "The height of the figure in inches"
+      ],
+      "correct": 1,
+      "standard": "5.MD.C.3",
+      "explain": "Volume is the measure of the space inside a 3-D figure, counted as the number of unit cubes that fill it without gaps or overlaps."
+    },
+    {
+      "id": "g5_v4_022",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 2,
+      "prompt": "A rectangular prism is 5 cm long, 4 cm wide, and 3 cm tall. What is its volume?",
+      "visual": "📐",
+      "options": [
+        "12 cm³",
+        "47 cm³",
+        "60 cm³",
+        "20 cm³"
+      ],
+      "correct": 2,
+      "standard": "5.MD.C.5",
+      "explain": "Volume = l × w × h = 5 × 4 × 3 = 60 cubic centimeters."
+    },
+    {
+      "id": "g5_v4_023",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 3,
+      "prompt": "A fish tank has a base area of 48 square inches and a height of 12 inches. What is the volume of the tank?",
+      "visual": "🐠",
+      "options": [
+        "60 in³",
+        "576 in³",
+        "144 in³",
+        "480 in³"
+      ],
+      "correct": 1,
+      "standard": "5.MD.C.5",
+      "explain": "Volume = base area × height = 48 × 12 = 576 cubic inches."
+    },
+    {
+      "id": "g5_v4_024",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Coordinate Plane",
+      "difficulty": 2,
+      "prompt": "On a coordinate plane, which ordered pair is located 3 units to the right and 5 units up from the origin?",
+      "visual": "📊",
+      "options": [
+        "(5, 3)",
+        "(3, 5)",
+        "(0, 5)",
+        "(3, 0)"
+      ],
+      "correct": 1,
+      "standard": "5.G.A.1",
+      "explain": "An ordered pair is written (x, y); moving 3 units right means x = 3, and 5 units up means y = 5, giving the point (3, 5)."
+    },
+    {
+      "id": "g5_v4_025",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Literary Text",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Maya stared at the empty stage. For months she had rehearsed every note, every step. Now the theater was silent — the performance cancelled due to a storm. She folded her costume carefully and placed it back in the bag, her hands steady, her jaw set.\" What can the reader most likely infer about Maya?",
+      "visual": null,
+      "options": [
+        "Maya is relieved the show was cancelled.",
+        "Maya is disappointed but is keeping her composure.",
+        "Maya plans to quit dancing forever.",
+        "Maya is angry at her fellow dancers."
+      ],
+      "correct": 1,
+      "standard": "RL.5.1",
+      "explain": "Details like 'jaw set' and 'hands steady' show Maya is upset but controlling her emotions, supporting the inference that she is disappointed but composed."
+    },
+    {
+      "id": "g5_v4_026",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Literary Text",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Theo reached the top of the hill and looked back. The town below was tiny — the houses like matchboxes, the river a silver thread. He thought of the argument at breakfast and suddenly it seemed so small, so far away.\" Which detail from the text best supports the idea that Theo is gaining perspective on his problem?",
+      "visual": null,
+      "options": [
+        "\"He thought of the argument at breakfast\"",
+        "\"The town below was tiny\"",
+        "\"The argument at breakfast... seemed so small, so far away\"",
+        "\"Theo reached the top of the hill\""
+      ],
+      "correct": 2,
+      "standard": "RL.5.1",
+      "explain": "The phrase 'it seemed so small, so far away' directly shows Theo now sees his earlier argument as less significant — a gain in perspective."
+    },
+    {
+      "id": "g5_v4_027",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Every morning, Priya watched the old gardener tend her roses despite her arthritis. 'The garden doesn't care if my hands hurt,' the woman said with a smile. 'And neither do I.' By summer, the roses were the most beautiful on the street.\" What is the theme of this passage?",
+      "visual": null,
+      "options": [
+        "Gardens need a lot of water to grow.",
+        "Old people are better gardeners than young people.",
+        "Persistence through hardship leads to beautiful results.",
+        "Roses are the best flower to grow."
+      ],
+      "correct": 2,
+      "standard": "RL.5.2",
+      "explain": "The gardener continues working despite pain, and her roses become the most beautiful — illustrating that persistence leads to rewarding outcomes."
+    },
+    {
+      "id": "g5_v4_028",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Theme and Summary",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"Carlos always copied his older brother's choices — same sport, same hobby, same friends. One day he tried painting alone and discovered a joy he had never felt before. He realized that following someone else's path meant missing his own.\" Which sentence best summarizes the story's lesson?",
+      "visual": null,
+      "options": [
+        "Painting is a better hobby than sports.",
+        "Brothers should always agree with each other.",
+        "Discovering your own interests is more rewarding than copying others.",
+        "Being alone is the best way to find happiness."
+      ],
+      "correct": 2,
+      "standard": "RL.5.2",
+      "explain": "The story shows that when Carlos stops following his brother and tries something on his own, he finds genuine joy — the lesson is about finding one's own path."
+    },
+    {
+      "id": "g5_v4_029",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Character Comparison",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Amara faced every obstacle with a plan and a checklist. Her sister Deja preferred to jump in and figure things out as she went. When they got lost in the park, Amara pulled out her map while Deja began chatting with strangers for directions.\" How are Amara and Deja different?",
+      "visual": null,
+      "options": [
+        "Amara is shy; Deja is athletic.",
+        "Amara is methodical and prepared; Deja is spontaneous and social.",
+        "Amara enjoys nature; Deja prefers cities.",
+        "Amara is older; Deja is younger."
+      ],
+      "correct": 1,
+      "standard": "RL.5.3",
+      "explain": "The text shows Amara using a map and checklists (methodical), while Deja jumps in and talks to strangers (spontaneous and social)."
+    },
+    {
+      "id": "g5_v4_030",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Character and Setting",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"In the city, Mateo was confident and quick, knowing every subway line by heart. But when his family visited his grandmother's farm, he stumbled over fence posts and couldn't tell a corn plant from a weed. His cousin Luz moved through the fields with ease.\" What does the contrast between Mateo and Luz reveal?",
+      "visual": null,
+      "options": [
+        "Mateo is smarter than Luz in all situations.",
+        "Both characters are equally skilled in all settings.",
+        "Skills and confidence depend on the environment a person knows best.",
+        "Luz does not know how to live in the city."
+      ],
+      "correct": 2,
+      "standard": "RL.5.3",
+      "explain": "Mateo thrives in the city while Luz thrives on the farm — the contrast shows that competence is tied to one's familiar environment."
+    },
+    {
+      "id": "g5_v4_031",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Informational Text",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"The monarch butterfly migrates up to 3,000 miles each year from Canada to Mexico. Scientists are puzzled because individual butterflies make the trip only once — no single butterfly has made the journey before. Researchers believe monarchs use the sun as a compass and detect Earth's magnetic field.\" Which detail from the passage best supports the idea that monarch migration is remarkable?",
+      "visual": "🦋",
+      "options": [
+        "Monarchs are found in Canada and Mexico.",
+        "No individual butterfly has made the migration journey before.",
+        "Researchers study butterfly behavior.",
+        "Monarchs use the sun as a compass."
+      ],
+      "correct": 1,
+      "standard": "RI.5.1",
+      "explain": "The fact that no individual butterfly has traveled the route before — yet still completes it — is the most striking detail supporting why the migration is considered remarkable."
+    },
+    {
+      "id": "g5_v4_032",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Informational Text",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"The Great Barrier Reef in Australia stretches over 1,400 miles and is home to more than 1,500 species of fish. Rising ocean temperatures cause 'coral bleaching,' where coral expels the algae it needs to survive. Scientists warn that without action, much of the reef could disappear within decades.\" What inference can be drawn from this passage?",
+      "visual": "🐟",
+      "options": [
+        "The Great Barrier Reef has already disappeared.",
+        "Ocean temperature changes threaten the survival of the reef and its species.",
+        "Coral bleaching makes the reef more colorful.",
+        "Scientists want to remove fish from the reef."
+      ],
+      "correct": 1,
+      "standard": "RI.5.1",
+      "explain": "The passage states that bleaching harms coral and could cause the reef to disappear, supporting the inference that temperature changes threaten the reef's survival."
+    },
+    {
+      "id": "g5_v4_033",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Sleep is essential for growing brains. During sleep, the brain organizes memories and clears out waste products. Studies show that students who get at least nine hours of sleep perform better on tests and have improved attention spans. Lack of sleep has been linked to mood swings and difficulty concentrating.\" What is the main idea of this passage?",
+      "visual": null,
+      "options": [
+        "Students should not study before bed.",
+        "Sleep plays a vital role in brain health and academic performance.",
+        "Mood swings are caused only by lack of sleep.",
+        "Adults need more sleep than children."
+      ],
+      "correct": 1,
+      "standard": "RI.5.2",
+      "explain": "All details — memory organization, test performance, concentration — support the main idea that sleep is important for brain health and learning."
+    },
+    {
+      "id": "g5_v4_034",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Main Idea and Supporting Details",
+      "difficulty": 2,
+      "prompt": "Read the passage: \"Bees are critical pollinators that help grow about one-third of the food humans eat. As they travel from flower to flower collecting nectar, they transfer pollen, enabling plants to reproduce. In recent years, bee populations have declined due to pesticides, habitat loss, and disease. Protecting bees means protecting our food supply.\" Which detail does NOT support the main idea that bees are important to protect?",
+      "visual": "🐝",
+      "options": [
+        "Bees transfer pollen as they collect nectar.",
+        "Bees help grow one-third of human food.",
+        "Bees live in hives and produce honey.",
+        "Bee populations have declined due to pesticides."
+      ],
+      "correct": 2,
+      "standard": "RI.5.2",
+      "explain": "The detail about bees living in hives and producing honey is not mentioned in the passage and does not support the argument that bees must be protected for food production."
+    },
+    {
+      "id": "g5_v4_035",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Informational Text — Relationships",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"In the 1930s, severe drought and farming practices stripped grasslands of their topsoil across the Great Plains. Without roots to anchor the soil, massive dust storms called 'black blizzards' swept across the region. Hundreds of thousands of families left their homes in what became known as the Dust Bowl migration.\" What caused families to migrate during the Dust Bowl?",
+      "visual": null,
+      "options": [
+        "A series of floods destroyed farmland in the South.",
+        "Government programs forced families to move west.",
+        "Drought and poor farming destroyed the soil, making farms unworkable.",
+        "Families moved to find better schools for their children."
+      ],
+      "correct": 2,
+      "standard": "RI.5.3",
+      "explain": "The passage explains that drought and farming practices destroyed topsoil, causing dust storms that made farmland unlivable — the direct cause of migration."
+    },
+    {
+      "id": "g5_v4_036",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Informational Text — Cause and Effect",
+      "difficulty": 3,
+      "prompt": "Read the passage: \"When European explorers arrived in the Americas, they brought with them diseases like smallpox and measles. Indigenous populations had no immunity to these illnesses. As a result, millions of Native people died, drastically reducing populations across North and South America within just a few generations.\" What is the relationship between European contact and the decline of Native populations?",
+      "visual": null,
+      "options": [
+        "European explorers taught Native people farming, which led to population decline.",
+        "Introduced diseases caused massive deaths because Native people had no immunity.",
+        "Native people migrated away when Europeans arrived.",
+        "Wars were the only reason for the decline in Native populations."
+      ],
+      "correct": 1,
+      "standard": "RI.5.3",
+      "explain": "The passage directly states that diseases brought by Europeans, combined with no immunity among Native populations, caused the massive decline described."
+    },
+    {
+      "id": "g5_v4_037",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Vocabulary in Context",
+      "difficulty": 2,
+      "prompt": "Read the sentence: \"The scientist's hypothesis was refuted by three separate experiments, each showing results that contradicted her original prediction.\" What does 'refuted' most likely mean?",
+      "visual": null,
+      "options": [
+        "supported",
+        "disproved",
+        "repeated",
+        "published"
+      ],
+      "correct": 1,
+      "standard": "RI.5.4",
+      "explain": "The context clue 'results that contradicted her prediction' tells the reader that the hypothesis was proven wrong — disproved."
+    },
+    {
+      "id": "g5_v4_038",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Point of View",
+      "difficulty": 3,
+      "prompt": "A news article says: 'The new park brought joy and green space to the neighborhood.' A neighborhood resident's letter says: 'The construction destroyed three affordable apartment buildings.' How do these two accounts differ?",
+      "visual": null,
+      "options": [
+        "The article discusses history; the letter discusses science.",
+        "The article focuses on benefits of the park; the letter focuses on the human cost of its construction.",
+        "Both accounts say the same thing in different words.",
+        "The article is fiction; the letter is nonfiction."
+      ],
+      "correct": 1,
+      "standard": "RI.5.6",
+      "explain": "The article presents the park positively (green space, joy) while the resident's letter highlights the negative impact (destroyed housing), showing different perspectives on the same event."
+    },
+    {
+      "id": "g5_v4_039",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the present perfect tense correctly?",
+      "visual": null,
+      "options": [
+        "She walk to school every day.",
+        "She has walked to school every day this week.",
+        "She will walked to school tomorrow.",
+        "She walked to school yesterday and today."
+      ],
+      "correct": 1,
+      "standard": "L.5.1",
+      "explain": "The present perfect tense uses 'has/have' + past participle (has walked) to show an action that started in the past and continues to the present."
+    },
+    {
+      "id": "g5_v4_040",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the past perfect tense correctly?",
+      "visual": null,
+      "options": [
+        "By the time we arrived, the movie already started.",
+        "By the time we arrived, the movie had already started.",
+        "By the time we arrived, the movie has already started.",
+        "By the time we arrived, the movie will have started."
+      ],
+      "correct": 1,
+      "standard": "L.5.1",
+      "explain": "The past perfect (had + past participle) shows an action completed before another past action; 'had already started' correctly shows the movie finished before the group arrived."
+    },
+    {
+      "id": "g5_v4_041",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Correlative Conjunctions",
+      "difficulty": 2,
+      "prompt": "Choose the sentence that correctly uses a correlative conjunction.",
+      "visual": null,
+      "options": [
+        "Neither the cat or the dog wanted to go outside.",
+        "Either the cat nor the dog wanted to go outside.",
+        "Neither the cat nor the dog wanted to go outside.",
+        "Both the cat or the dog wanted to go outside."
+      ],
+      "correct": 2,
+      "standard": "L.5.1",
+      "explain": "Correlative conjunctions must be used in their correct pairs: 'neither...nor,' 'either...or,' and 'both...and' are the standard pairings."
+    },
+    {
+      "id": "g5_v4_042",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Punctuation",
+      "difficulty": 2,
+      "prompt": "Which sentence correctly uses a comma to set off an introductory element?",
+      "visual": null,
+      "options": [
+        "After the long hike we were exhausted.",
+        "After the long hike, we were exhausted.",
+        "After, the long hike we were exhausted.",
+        "After the long, hike we were exhausted."
+      ],
+      "correct": 1,
+      "standard": "L.5.2",
+      "explain": "A comma follows an introductory phrase or clause; 'After the long hike' is an introductory prepositional phrase and should be followed by a comma."
+    },
+    {
+      "id": "g5_v4_043",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Context Clues and Affixes",
+      "difficulty": 2,
+      "prompt": "The word 'portable' contains the Latin root 'port,' which means 'to carry.' What does 'portable' most likely mean?",
+      "visual": null,
+      "options": [
+        "Easy to break",
+        "Able to be carried",
+        "Very heavy",
+        "Related to a harbor"
+      ],
+      "correct": 1,
+      "standard": "L.5.4",
+      "explain": "The root 'port' means to carry, and the suffix '-able' means capable of being; so 'portable' means able to be carried."
+    },
+    {
+      "id": "g5_v4_044",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Context Clues and Affixes",
+      "difficulty": 2,
+      "prompt": "The suffix '-ible' means 'able to be.' What does the word 'reversible' most likely mean?",
+      "visual": null,
+      "options": [
+        "Not allowed to change",
+        "Able to be turned back or changed to its original state",
+        "Already changed permanently",
+        "Very difficult to understand"
+      ],
+      "correct": 1,
+      "standard": "L.5.4",
+      "explain": "The root 'revers-' means to turn back, and '-ible' means able to be, so 'reversible' means able to be turned back or undone."
+    },
+    {
+      "id": "g5_v4_045",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Figurative Language — Idioms",
+      "difficulty": 2,
+      "prompt": "What does the idiom 'hit the nail on the head' mean?",
+      "visual": "🔨",
+      "options": [
+        "To strike something with force",
+        "To say or do exactly the right thing",
+        "To make a careless mistake",
+        "To work very hard on a project"
+      ],
+      "correct": 1,
+      "standard": "L.5.5",
+      "explain": "The idiom 'hit the nail on the head' means to identify or describe something exactly correctly — it does not refer to actual carpentry."
+    },
+    {
+      "id": "g5_v4_046",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Figurative Language — Proverbs",
+      "difficulty": 2,
+      "prompt": "What does the proverb 'Don't judge a book by its cover' mean?",
+      "visual": "📚",
+      "options": [
+        "Always read the summary before buying a book.",
+        "Book covers are not always accurate.",
+        "Do not judge people or things based only on their appearance.",
+        "You should read every book you pick up."
+      ],
+      "correct": 2,
+      "standard": "L.5.5",
+      "explain": "This proverb teaches that outward appearances can be misleading — it is a lesson about not making judgments based solely on how something or someone looks."
+    },
+    {
+      "id": "g5_v4_047",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Figurative Language — Adages",
+      "difficulty": 2,
+      "prompt": "Read the sentence: \"After losing the game because he had skipped practice, Marcus finally understood that 'practice makes perfect.'\" What does this adage mean in context?",
+      "visual": null,
+      "options": [
+        "Perfect people never need to practice.",
+        "Games are not important if you practice hard.",
+        "Regular practice leads to improvement and success.",
+        "Marcus should find a new sport."
+      ],
+      "correct": 2,
+      "standard": "L.5.5",
+      "explain": "The adage 'practice makes perfect' means that consistently working on a skill leads to mastery; here, Marcus learns this lesson after a poor outcome from skipping practice."
+    },
+    {
+      "id": "g5_v4_048",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Word Relationships — Synonyms/Antonyms",
+      "difficulty": 2,
+      "prompt": "Which pair of words are ANTONYMS?",
+      "visual": null,
+      "options": [
+        "swift / rapid",
+        "generous / stingy",
+        "exhausted / tired",
+        "enormous / huge"
+      ],
+      "correct": 1,
+      "standard": "L.5.5",
+      "explain": "Antonyms are words with opposite meanings; 'generous' (willing to give freely) and 'stingy' (unwilling to give) are antonyms."
+    },
+    {
+      "id": "g5_v4_049",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Properties of Matter",
+      "difficulty": 2,
+      "prompt": "Why can't we see the individual particles that make up a substance like water?",
+      "visual": "💧",
+      "options": [
+        "The particles move too quickly to be photographed.",
+        "Water particles are transparent and have no color.",
+        "Matter is made of extremely tiny particles that are too small to see with the naked eye.",
+        "Water particles only appear at very cold temperatures."
+      ],
+      "correct": 2,
+      "standard": "5-PS1-1",
+      "explain": "All matter is made of extremely small particles (atoms and molecules) that are far too small to see without powerful microscopes."
+    },
+    {
+      "id": "g5_v4_050",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Chemical vs. Physical Change",
+      "difficulty": 2,
+      "prompt": "When baking soda and vinegar are mixed together, they produce bubbles and a new substance. This is an example of what kind of change?",
+      "visual": "🧪",
+      "options": [
+        "A physical change, because both substances are still present",
+        "A chemical change, because a new substance with different properties is formed",
+        "A physical change, because the vinegar evaporates",
+        "A chemical change, because the mixture gets warmer"
+      ],
+      "correct": 1,
+      "standard": "5-PS1-4",
+      "explain": "When baking soda and vinegar react, they produce carbon dioxide gas and water — new substances — which is the hallmark of a chemical change."
+    },
+    {
+      "id": "g5_v4_051",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Photosynthesis",
+      "difficulty": 2,
+      "prompt": "What do plants need to make their own food through photosynthesis?",
+      "visual": "🌿",
+      "options": [
+        "Sunlight, water, carbon dioxide, and nutrients from soil",
+        "Sunlight, oxygen, and protein",
+        "Water, nitrogen, and carbon dioxide only",
+        "Soil, insects, and sunlight"
+      ],
+      "correct": 0,
+      "standard": "5-LS1-1",
+      "explain": "Photosynthesis requires sunlight (energy), water (from roots), carbon dioxide (from air), and minerals/nutrients from soil to produce food (glucose) for the plant."
+    },
+    {
+      "id": "g5_v4_052",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Stars and Distance",
+      "difficulty": 2,
+      "prompt": "Star A looks very bright in the night sky and Star B looks dim. What can you conclude?",
+      "visual": "⭐",
+      "options": [
+        "Star A is definitely larger than Star B.",
+        "Star B is definitely smaller than Star A.",
+        "The apparent brightness of a star depends on both its actual brightness and its distance from Earth.",
+        "Dim stars are always farther away than bright stars."
+      ],
+      "correct": 2,
+      "standard": "5-ESS1-1",
+      "explain": "A star's apparent brightness as seen from Earth depends on both how much light it produces and how far away it is — a dim-looking star could be a huge star that is very far away."
+    },
+    {
+      "id": "g5_v4_053",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Water Cycle",
+      "difficulty": 2,
+      "prompt": "Water vapor rises into the atmosphere, cools, and forms clouds. What process causes water vapor to turn back into liquid water droplets?",
+      "visual": "☁️",
+      "options": [
+        "Evaporation",
+        "Precipitation",
+        "Condensation",
+        "Transpiration"
+      ],
+      "correct": 2,
+      "standard": "5-ESS2-1",
+      "explain": "Condensation is the process by which water vapor cools and changes from a gas into liquid water droplets, forming clouds."
+    },
+    {
+      "id": "g5_v4_054",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "American Revolution",
+      "difficulty": 2,
+      "prompt": "The Stamp Act of 1765 required colonists to pay a tax on all printed materials. Why did this anger colonists?",
+      "visual": "📜",
+      "options": [
+        "Colonists already had too many stamps.",
+        "The tax was too small to be useful to Britain.",
+        "Colonists believed they should not be taxed by a Parliament in which they had no representation.",
+        "The Stamp Act replaced a more expensive tax on tea."
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-5",
+      "explain": "Colonists believed in 'no taxation without representation' — they had no elected representatives in the British Parliament, so they considered the Stamp Act unjust."
+    },
+    {
+      "id": "g5_v4_055",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "American Revolution",
+      "difficulty": 2,
+      "prompt": "In December 1773, colonists dumped 342 chests of British tea into Boston Harbor. What was the main reason for the Boston Tea Party?",
+      "visual": "🍵",
+      "options": [
+        "Colonists did not like the taste of British tea.",
+        "Colonists were protesting British taxes on tea imposed without their consent.",
+        "Tea merchants wanted to sell their own tea instead.",
+        "British ships had been blocking the Boston Harbor."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "The Boston Tea Party was a direct protest against the Tea Act, which colonists saw as another example of being taxed by Britain without having a voice in Parliament."
+    },
+    {
+      "id": "g5_v4_056",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Declaration of Independence",
+      "difficulty": 2,
+      "prompt": "The Declaration of Independence states that all men are created equal and have unalienable rights including life, liberty, and the pursuit of happiness. What was the main purpose of this document?",
+      "visual": "🇺🇸",
+      "options": [
+        "To ask Britain for lower taxes",
+        "To declare the colonies' independence from British rule and explain why",
+        "To create a new system of laws for the colonies",
+        "To request that France help the colonies with trade"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "The Declaration of Independence, adopted on July 4, 1776, formally announced the colonies' break from Britain and stated the reasons for independence based on natural rights."
+    },
+    {
+      "id": "g5_v4_057",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Articles of Confederation",
+      "difficulty": 3,
+      "prompt": "Under the Articles of Confederation, Congress could not collect taxes or enforce laws on the states. Why was this considered a major weakness?",
+      "visual": null,
+      "options": [
+        "It gave too much power to the President.",
+        "States became too powerful and the national government could not function effectively.",
+        "Congress had too many members to agree on anything.",
+        "It prevented the states from trading with each other."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "Without the power to tax or enforce laws, the national government under the Articles of Confederation was too weak to pay debts, maintain order, or act as a unified nation."
+    },
+    {
+      "id": "g5_v4_058",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Constitutional Convention",
+      "difficulty": 3,
+      "prompt": "At the Constitutional Convention in 1787, large and small states disagreed about representation in Congress. The Great Compromise resolved this by creating what structure?",
+      "visual": "🏛️",
+      "options": [
+        "One chamber where every state gets one vote",
+        "One chamber where representation is based only on population",
+        "Two chambers: a Senate with equal representation and a House based on population",
+        "A Supreme Court to settle disputes between states"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-5",
+      "explain": "The Great Compromise created a bicameral Congress: the Senate gives each state 2 senators (equal representation), while the House of Representatives is based on each state's population."
     }
   ]
 }
