@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "questions": [
     {
       "id": "prek_count_001",
@@ -21721,6 +21721,3606 @@
       "correct": 0,
       "standard": "NYS-SS-3",
       "explain": "The Statue of Liberty was a gift from the people of France to the United States, dedicated in 1886."
+    },
+    {
+      "id": "k_v4_219",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "Which season has the most snow?",
+      "visual": "❄️",
+      "options": [
+        "Summer",
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "correct": 2,
+      "standard": "K-ESS2-1",
+      "explain": "Winter is the coldest season — that is when it snows the most."
+    },
+    {
+      "id": "k_v4_220",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "Which season is the hottest?",
+      "visual": "☀️",
+      "options": [
+        "Winter",
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "correct": 3,
+      "standard": "K-ESS2-1",
+      "explain": "Summer is the hottest season. The sun stays out longer and it gets very warm."
+    },
+    {
+      "id": "k_v4_221",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 1,
+      "prompt": "What do we wear on a rainy day?",
+      "visual": "🌧️",
+      "options": [
+        "Shorts",
+        "Swimsuit",
+        "Rain boots",
+        "Sandals"
+      ],
+      "correct": 2,
+      "standard": "K-ESS2-1",
+      "explain": "Rain boots keep our feet dry when it rains outside."
+    },
+    {
+      "id": "k_v4_222",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "In which season do flowers start to bloom?",
+      "visual": "🌸",
+      "options": [
+        "Winter",
+        "Summer",
+        "Fall",
+        "Spring"
+      ],
+      "correct": 3,
+      "standard": "K-ESS2-1",
+      "explain": "Spring is when the weather gets warmer and flowers begin to grow and bloom."
+    },
+    {
+      "id": "k_v4_223",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "What happens to the leaves on trees in fall?",
+      "visual": "🍂",
+      "options": [
+        "They turn green",
+        "They stay the same",
+        "They fall off",
+        "They grow bigger"
+      ],
+      "correct": 2,
+      "standard": "K-ESS2-1",
+      "explain": "In fall, leaves change color and then fall off the trees before winter comes."
+    },
+    {
+      "id": "k_v4_224",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 1,
+      "prompt": "What do we use to stay dry when it rains?",
+      "visual": "☔",
+      "options": [
+        "Sunglasses",
+        "Scarf",
+        "Umbrella",
+        "Gloves"
+      ],
+      "correct": 2,
+      "standard": "K-ESS2-1",
+      "explain": "An umbrella opens up above your head to keep the rain off your body."
+    },
+    {
+      "id": "k_v4_225",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 1,
+      "prompt": "Which season comes right after summer?",
+      "visual": "🍁",
+      "options": [
+        "Winter",
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "correct": 1,
+      "standard": "K-ESS2-1",
+      "explain": "After summer comes fall (also called autumn). The weather gets cooler and leaves change color."
+    },
+    {
+      "id": "k_v4_226",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 1,
+      "prompt": "What does snow feel like when you touch it?",
+      "visual": "⛄",
+      "options": [
+        "Hot",
+        "Soft and warm",
+        "Cold and wet",
+        "Dry and scratchy"
+      ],
+      "correct": 2,
+      "standard": "K-ESS2-1",
+      "explain": "Snow is frozen water, so it feels cold and wet when you hold it."
+    },
+    {
+      "id": "k_v4_227",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 1,
+      "prompt": "When you push a toy car, what happens to it?",
+      "visual": "🚗",
+      "options": [
+        "It stays still",
+        "It moves away from you",
+        "It grows bigger",
+        "It disappears"
+      ],
+      "correct": 1,
+      "standard": "K-PS2-1",
+      "explain": "Pushing something makes it move away from you. A push is a force that moves things."
+    },
+    {
+      "id": "k_v4_228",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 1,
+      "prompt": "A dog is pulling its leash. Which way does the dog want to go?",
+      "visual": "🐕",
+      "options": [
+        "Backward",
+        "Forward",
+        "Sideways",
+        "Up"
+      ],
+      "correct": 1,
+      "standard": "K-PS2-1",
+      "explain": "When the dog pulls the leash, it is pulling it forward — away from you. A pull moves something toward the puller."
+    },
+    {
+      "id": "k_v4_229",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 1,
+      "prompt": "You kick a soccer ball. Is that a push or a pull?",
+      "visual": "⚽",
+      "options": [
+        "A pull",
+        "A push",
+        "Both",
+        "Neither"
+      ],
+      "correct": 1,
+      "standard": "K-PS2-1",
+      "explain": "Kicking is a push — your foot pushes the ball away from you."
+    },
+    {
+      "id": "k_v4_230",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 1,
+      "prompt": "Which action is a PULL?",
+      "visual": null,
+      "options": [
+        "Kicking a ball",
+        "Blowing bubbles",
+        "Opening a drawer toward you",
+        "Pushing a swing"
+      ],
+      "correct": 2,
+      "standard": "K-PS2-1",
+      "explain": "Pulling a drawer toward you is a pull. A pull brings something closer to you."
+    },
+    {
+      "id": "k_v4_231",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 2,
+      "prompt": "If you push a block harder, it will move...",
+      "visual": "🧱",
+      "options": [
+        "Slower",
+        "Exactly the same",
+        "Faster",
+        "Backward"
+      ],
+      "correct": 2,
+      "standard": "K-PS2-1",
+      "explain": "A harder push gives more force, making the object move faster or farther."
+    },
+    {
+      "id": "k_v4_232",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 1,
+      "prompt": "A magnet pulls a paperclip toward it. What type of force is this?",
+      "visual": "🧲",
+      "options": [
+        "A push",
+        "A pull",
+        "A kick",
+        "A throw"
+      ],
+      "correct": 1,
+      "standard": "K-PS2-1",
+      "explain": "The magnet is pulling the paperclip closer. That is a pull force."
+    },
+    {
+      "id": "k_v4_233",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 1,
+      "prompt": "You pull a friend in a wagon. What direction does the wagon go?",
+      "visual": null,
+      "options": [
+        "Away from you",
+        "Toward you",
+        "It stops",
+        "It goes sideways"
+      ],
+      "correct": 1,
+      "standard": "K-PS2-1",
+      "explain": "When you pull the wagon, it moves toward you. Pulling brings things closer."
+    },
+    {
+      "id": "k_v4_234",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Pushes and Pulls",
+      "difficulty": 2,
+      "prompt": "When you stop pushing a toy across the floor, what happens?",
+      "visual": "🧸",
+      "options": [
+        "It keeps going forever",
+        "It speeds up",
+        "It slows down and stops",
+        "It jumps up"
+      ],
+      "correct": 2,
+      "standard": "K-PS2-1",
+      "explain": "Without a push, friction slows the toy down until it stops."
+    },
+    {
+      "id": "k_v4_235",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather Safety",
+      "difficulty": 1,
+      "prompt": "On a very hot summer day, what is the best thing to wear?",
+      "visual": "☀️",
+      "options": [
+        "A thick coat",
+        "A light t-shirt",
+        "A wool sweater",
+        "Rain boots"
+      ],
+      "correct": 1,
+      "standard": "K-ESS3-1",
+      "explain": "A light t-shirt keeps you cool on hot days. Heavy clothes would make you too hot."
+    },
+    {
+      "id": "k_v4_236",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather Safety",
+      "difficulty": 1,
+      "prompt": "A big snowstorm is coming. What should families do?",
+      "visual": "❄️",
+      "options": [
+        "Go swimming",
+        "Stay safe inside",
+        "Go to the beach",
+        "Wear shorts outside"
+      ],
+      "correct": 1,
+      "standard": "K-ESS3-1",
+      "explain": "Snowstorms can be dangerous. Staying inside keeps people safe from the cold and slippery ice."
+    },
+    {
+      "id": "k_v4_237",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Natural Resources",
+      "difficulty": 1,
+      "prompt": "We need water to live. Where does most of our freshwater come from?",
+      "visual": "💧",
+      "options": [
+        "The sun",
+        "Rain and melted snow",
+        "Rocks",
+        "Air only"
+      ],
+      "correct": 1,
+      "standard": "K-ESS3-1",
+      "explain": "Rain and melted snow fill lakes, rivers, and reservoirs — our main sources of freshwater."
+    },
+    {
+      "id": "k_v4_238",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather Safety",
+      "difficulty": 1,
+      "prompt": "The sidewalk is icy. What should you wear on your feet?",
+      "visual": "🧊",
+      "options": [
+        "Flip flops",
+        "Rain boots",
+        "Warm boots with grip",
+        "Bare feet"
+      ],
+      "correct": 2,
+      "standard": "K-ESS3-1",
+      "explain": "Boots with grip (traction) keep you from slipping on ice. Flip flops and bare feet are not safe on ice."
+    },
+    {
+      "id": "k_v4_239",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Weather Safety",
+      "difficulty": 1,
+      "prompt": "There is a thunderstorm outside. The safest thing to do is...",
+      "visual": "⛈️",
+      "options": [
+        "Stand under a tall tree",
+        "Keep playing outside",
+        "Go inside a building",
+        "Swim in a pool"
+      ],
+      "correct": 2,
+      "standard": "K-ESS3-1",
+      "explain": "During a thunderstorm, going inside is safest. Tall trees and open water attract lightning."
+    },
+    {
+      "id": "k_v4_240",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Sunlight and Heat",
+      "difficulty": 1,
+      "prompt": "When the sun shines on a sidewalk all morning, the sidewalk becomes...",
+      "visual": "☀️",
+      "options": [
+        "Wet",
+        "Cold",
+        "Warm",
+        "Slippery"
+      ],
+      "correct": 2,
+      "standard": "K-PS3-1",
+      "explain": "Sunlight carries energy that warms surfaces it shines on. That is why sidewalks feel warm on a sunny day."
+    },
+    {
+      "id": "k_v4_241",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Sunlight and Heat",
+      "difficulty": 1,
+      "prompt": "Which spot will feel warmer on a sunny afternoon?",
+      "visual": "🌞",
+      "options": [
+        "A shaded bench",
+        "Under a big tree",
+        "Inside a dark shadow",
+        "An open sunny area"
+      ],
+      "correct": 3,
+      "standard": "K-PS3-1",
+      "explain": "Sunlight warms the surfaces it reaches. An open sunny area gets the most direct sunlight, so it is the warmest."
+    },
+    {
+      "id": "k_v4_242",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Sunlight and Heat",
+      "difficulty": 2,
+      "prompt": "Why does a black t-shirt feel hotter in the sun than a white one?",
+      "visual": "☀️",
+      "options": [
+        "Because it is dirty",
+        "Because dark colors absorb more sunlight",
+        "Because it is made of fire",
+        "Because it is heavier"
+      ],
+      "correct": 1,
+      "standard": "K-PS3-1",
+      "explain": "Dark colors absorb (soak up) more sunlight and get hotter. Light colors reflect sunlight and stay cooler."
+    },
+    {
+      "id": "k_v4_243",
+      "grade": "k",
+      "subject": "science",
+      "topic": "Sunlight and Heat",
+      "difficulty": 1,
+      "prompt": "At noon, when the sun is highest in the sky, the ground outside is usually...",
+      "visual": "🌞",
+      "options": [
+        "Coldest",
+        "Warmest",
+        "Wettest",
+        "Darkest"
+      ],
+      "correct": 1,
+      "standard": "K-PS3-1",
+      "explain": "The sun is highest at noon, so it shines most directly on the ground. More sunlight means more warmth."
+    },
+    {
+      "id": "g3_v4_242",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "A scientist records the temperature every day in NYC for 30 years. What is she studying?",
+      "visual": null,
+      "options": [
+        "Today's weather forecast",
+        "Climate",
+        "A single storm",
+        "Wind direction"
+      ],
+      "correct": 1,
+      "standard": "3-ESS2-1",
+      "explain": "Climate is the average weather pattern of a place over a very long time (30+ years). Weather is what happens day to day."
+    },
+    {
+      "id": "g3_v4_243",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "What is the difference between weather and climate?",
+      "visual": null,
+      "options": [
+        "There is no difference",
+        "Weather is what happens today; climate is patterns over many years",
+        "Climate is a type of violent storm",
+        "Weather happens underground"
+      ],
+      "correct": 1,
+      "standard": "3-ESS2-1",
+      "explain": "Weather describes current atmospheric conditions (rain, sun, wind). Climate describes the average of those conditions over decades."
+    },
+    {
+      "id": "g3_v4_244",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "NYC has cold winters and hot summers every year. This regular pattern is an example of NYC's...",
+      "visual": null,
+      "options": [
+        "Today's weather report",
+        "Daily wind forecast",
+        "Climate",
+        "A single weather event"
+      ],
+      "correct": 2,
+      "standard": "3-ESS2-1",
+      "explain": "A consistent pattern that repeats over many years describes the climate of a place, not just one day's weather."
+    },
+    {
+      "id": "g3_v4_245",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "A class collects weather data every day for one week. What did they collect?",
+      "visual": null,
+      "options": [
+        "Long-term climate data",
+        "A 100-year trend",
+        "Short-term weather data",
+        "Annual rainfall average"
+      ],
+      "correct": 2,
+      "standard": "3-ESS2-1",
+      "explain": "One week of data is short-term weather data. Climate data requires decades of records."
+    },
+    {
+      "id": "g3_v4_246",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "Scientists analyze 50 years of rainfall records for a region. They want the average. What are they studying?",
+      "visual": null,
+      "options": [
+        "This week's storm",
+        "The region's climate",
+        "Tomorrow's forecast",
+        "A single hurricane"
+      ],
+      "correct": 1,
+      "standard": "3-ESS2-1",
+      "explain": "Studying 50 years of rainfall to find an average is studying climate. Climate is long-term patterns."
+    },
+    {
+      "id": "g3_v4_247",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "Central Park was colder than usual this January. Does one cold month change NYC's climate?",
+      "visual": null,
+      "options": [
+        "Yes, one cold month changes the climate",
+        "No, climate is based on long-term patterns spanning many years",
+        "Yes, January weather always resets the climate",
+        "No, Central Park has no weather data"
+      ],
+      "correct": 1,
+      "standard": "3-ESS2-1",
+      "explain": "Climate is based on 30+ years of data. One unusually cold month does not change a region's climate."
+    },
+    {
+      "id": "g3_v4_248",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Climate vs. Weather",
+      "difficulty": 2,
+      "prompt": "Which data set would BEST describe a region's climate?",
+      "visual": null,
+      "options": [
+        "Temperature readings for one month",
+        "The weather on a single day",
+        "Average temperatures collected over 30 years",
+        "A single blizzard record"
+      ],
+      "correct": 2,
+      "standard": "3-ESS2-1",
+      "explain": "Climate requires long-term data. 30 years of average temperatures best captures the climate pattern of a region."
+    },
+    {
+      "id": "g3_v4_249",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "A wolf pack hunts together as a group. How does this help them survive?",
+      "visual": null,
+      "options": [
+        "It makes each wolf run slower",
+        "They can take down larger prey together",
+        "Wolves always compete for food",
+        "It is easier to hide when alone"
+      ],
+      "correct": 1,
+      "standard": "3-LS2-1",
+      "explain": "Group hunting allows wolves to take down prey much larger than any single wolf could catch alone."
+    },
+    {
+      "id": "g3_v4_250",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "Starlings fly in huge swirling flocks. What is one survival benefit of this behavior?",
+      "visual": null,
+      "options": [
+        "It makes them fly slower",
+        "Predators get confused and cannot easily single one bird out",
+        "Each bird works completely alone",
+        "They cannot change direction quickly"
+      ],
+      "correct": 1,
+      "standard": "3-LS2-1",
+      "explain": "Flying in a large flock confuses predators, making it hard to focus on one target. This is called predator confusion."
+    },
+    {
+      "id": "g3_v4_251",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "Meerkats take turns standing guard while others search for food. What does this show about group behavior?",
+      "visual": null,
+      "options": [
+        "Meerkats always work alone",
+        "Animals compete constantly in groups",
+        "Group cooperation protects the whole group",
+        "Only the leader is allowed to eat"
+      ],
+      "correct": 2,
+      "standard": "3-LS2-1",
+      "explain": "Meerkat sentinel behavior is an example of cooperative group living — individuals take risks for the benefit of the whole group."
+    },
+    {
+      "id": "g3_v4_252",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "In a beehive, the queen lays eggs, worker bees gather nectar, and guard bees protect the hive. What does this describe?",
+      "visual": null,
+      "options": [
+        "Animals competing for the same job",
+        "Group cooperation with divided roles",
+        "Bees working completely alone",
+        "Random animal behavior"
+      ],
+      "correct": 1,
+      "standard": "3-LS2-1",
+      "explain": "Bees show a highly organized group structure where individuals have specific roles that benefit the entire colony."
+    },
+    {
+      "id": "g3_v4_253",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "A fish swims in a school of thousands of fish. How does this help the fish survive?",
+      "visual": null,
+      "options": [
+        "Each fish swims faster alone",
+        "The large group confuses predators making it harder to target one fish",
+        "Fish in groups always go hungry",
+        "Each fish is easier for predators to spot"
+      ],
+      "correct": 1,
+      "standard": "3-LS2-1",
+      "explain": "Schooling behavior in fish is a defense strategy. The large moving group overwhelms and confuses predators."
+    },
+    {
+      "id": "g3_v4_254",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "When a predator approaches an elephant herd, the adult elephants form a protective circle around the calves. This is an example of...",
+      "visual": null,
+      "options": [
+        "Competition within the herd",
+        "Group defense to protect the young",
+        "Elephants trying to scare each other",
+        "Random movement with no purpose"
+      ],
+      "correct": 1,
+      "standard": "3-LS2-1",
+      "explain": "Elephant herds display strong protective group behavior. Adults cooperate to shield vulnerable young from danger."
+    },
+    {
+      "id": "g3_v4_255",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Animal Groups",
+      "difficulty": 2,
+      "prompt": "Ants leave chemical trails on the ground to show other ants where food is. This is an example of...",
+      "visual": null,
+      "options": [
+        "An ant working completely alone",
+        "Group communication that helps the whole colony find food",
+        "Ants competing to eat the trail",
+        "Ants building nests out of chemicals"
+      ],
+      "correct": 1,
+      "standard": "3-LS2-1",
+      "explain": "Ant pheromone trails are a form of group communication. Individual ants share information that benefits the entire colony."
+    },
+    {
+      "id": "g3_v4_256",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Forces at a Distance",
+      "difficulty": 2,
+      "prompt": "A magnet attracts an iron nail without touching it. This is an example of...",
+      "visual": "🧲",
+      "options": [
+        "Gravity only",
+        "A force that acts at a distance",
+        "A pushing force by hand",
+        "Heat transfer"
+      ],
+      "correct": 1,
+      "standard": "3-PS2-3",
+      "explain": "Magnetic force is a non-contact force — it acts across a distance without the magnet and nail touching."
+    },
+    {
+      "id": "g3_v4_257",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Forces at a Distance",
+      "difficulty": 2,
+      "prompt": "Two magnets are brought close together and push each other away without touching. What is happening?",
+      "visual": "🧲",
+      "options": [
+        "Gravity is pulling them apart",
+        "Electric current is flowing",
+        "Magnetic repulsion — like poles push away at a distance",
+        "Air pressure is separating them"
+      ],
+      "correct": 2,
+      "standard": "3-PS2-3",
+      "explain": "When two like poles (N-N or S-S) face each other, magnetic repulsion pushes them apart — even without contact."
+    },
+    {
+      "id": "g3_v4_258",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Forces at a Distance",
+      "difficulty": 2,
+      "prompt": "You rub a balloon on your hair and it sticks to the wall without glue. What force is at work?",
+      "visual": null,
+      "options": [
+        "Gravity pulling it upward",
+        "Static electricity — an electric force",
+        "Magnetic force from the wall",
+        "Wind pushing it against the wall"
+      ],
+      "correct": 1,
+      "standard": "3-PS2-3",
+      "explain": "Rubbing builds up static electricity (electric charge). The charged balloon is attracted to the wall by electric force — without touching it directly."
+    },
+    {
+      "id": "g3_v4_259",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Forces at a Distance",
+      "difficulty": 2,
+      "prompt": "A steel paper clip sits on a table. You hold a magnet 2 cm above it and the clip jumps up. Why?",
+      "visual": "🧲",
+      "options": [
+        "You pushed the clip with your hand",
+        "The magnet exerts a force through empty space",
+        "The clip has its own magnet inside",
+        "Gravity pulled the clip sideways"
+      ],
+      "correct": 1,
+      "standard": "3-PS2-3",
+      "explain": "Magnets exert force through space without touching. The magnetic force pulled the clip up from a distance."
+    },
+    {
+      "id": "g3_v4_260",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Forces at a Distance",
+      "difficulty": 2,
+      "prompt": "Which material would a magnet attract?",
+      "visual": "🧲",
+      "options": [
+        "Plastic ruler",
+        "Paper towel",
+        "Iron nail",
+        "Rubber eraser"
+      ],
+      "correct": 2,
+      "standard": "3-PS2-3",
+      "explain": "Magnets attract iron and steel. Plastic, paper, and rubber are not magnetic."
+    },
+    {
+      "id": "g3_v4_261",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Forces at a Distance",
+      "difficulty": 2,
+      "prompt": "As you move a magnet farther away from a paperclip, the magnetic force on the clip...",
+      "visual": "🧲",
+      "options": [
+        "Stays exactly the same",
+        "Gets stronger",
+        "Gets weaker",
+        "Switches to a repulsive force"
+      ],
+      "correct": 2,
+      "standard": "3-PS2-3",
+      "explain": "Magnetic force weakens as distance increases. The farther the magnet is from the clip, the less force acts on it."
+    },
+    {
+      "id": "g3_v4_262",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Life Cycles",
+      "difficulty": 2,
+      "prompt": "A butterfly's life cycle goes: egg → caterpillar → chrysalis → adult. What stage comes right after the egg?",
+      "visual": "🦋",
+      "options": [
+        "Adult butterfly",
+        "Chrysalis",
+        "Caterpillar",
+        "Flower"
+      ],
+      "correct": 2,
+      "standard": "3-LS1-1",
+      "explain": "After hatching from the egg, the butterfly is in its larva stage — a caterpillar. It later forms a chrysalis before becoming an adult."
+    },
+    {
+      "id": "g3_v4_263",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Life Cycles",
+      "difficulty": 2,
+      "prompt": "Which organism goes through four distinct life cycle stages including a pupa stage?",
+      "visual": null,
+      "options": [
+        "Dog",
+        "Cat",
+        "Butterfly",
+        "Fish"
+      ],
+      "correct": 2,
+      "standard": "3-LS1-1",
+      "explain": "Butterflies undergo complete metamorphosis: egg → larva (caterpillar) → pupa (chrysalis) → adult. This four-stage cycle is unique to insects like butterflies and beetles."
+    },
+    {
+      "id": "g3_v4_264",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Life Cycles",
+      "difficulty": 2,
+      "prompt": "A tadpole breathes through gills and lives in water. An adult frog breathes through lungs and lives on land. What does this show?",
+      "visual": "🐸",
+      "options": [
+        "Tadpoles and frogs are different species",
+        "An organism can change dramatically through its life cycle",
+        "Adult frogs have gills too",
+        "Tadpoles and frogs are exactly the same"
+      ],
+      "correct": 1,
+      "standard": "3-LS1-1",
+      "explain": "Frogs undergo metamorphosis — their body structure changes completely from tadpole to adult. The same organism lives differently at each stage."
+    },
+    {
+      "id": "g3_v4_265",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Life Cycles",
+      "difficulty": 2,
+      "prompt": "What is the main purpose of an organism's life cycle?",
+      "visual": null,
+      "options": [
+        "To grow as large as possible",
+        "To reproduce and pass traits to the next generation",
+        "To move to new locations",
+        "To change color with age"
+      ],
+      "correct": 1,
+      "standard": "3-LS1-1",
+      "explain": "All life cycles serve the same fundamental purpose: reproduction — to produce offspring and continue the species."
+    },
+    {
+      "id": "g3_v4_266",
+      "grade": "g3",
+      "subject": "science",
+      "topic": "Life Cycles",
+      "difficulty": 2,
+      "prompt": "In a plant's life cycle, what is the FIRST thing a seed grows into?",
+      "visual": "🌱",
+      "options": [
+        "A fruit",
+        "A flower",
+        "A seedling",
+        "A mature tree"
+      ],
+      "correct": 2,
+      "standard": "3-LS1-1",
+      "explain": "A seed germinates and first produces a seedling — a tiny young plant with a root and shoot. It grows into a mature plant over time."
+    },
+    {
+      "id": "k_v4_244",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "A firefighter's main job is to...",
+      "visual": "🚒",
+      "options": [
+        "Deliver mail",
+        "Put out fires and rescue people",
+        "Teach children at school",
+        "Drive the subway"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Firefighters respond to fires and other emergencies to keep people safe."
+    },
+    {
+      "id": "k_v4_245",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "A subway conductor drives the train in NYC. What does this person help people do?",
+      "visual": "🚇",
+      "options": [
+        "Cook food for people",
+        "Get from place to place",
+        "Fix buildings",
+        "Teach at school"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Subway conductors help millions of New Yorkers travel around the city every day."
+    },
+    {
+      "id": "k_v4_246",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "A crossing guard stands near school. What is their job?",
+      "visual": "🚸",
+      "options": [
+        "Selling food to children",
+        "Painting the street",
+        "Helping children cross the street safely",
+        "Directing subway trains"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-K",
+      "explain": "Crossing guards stop traffic so children can safely cross the street near school."
+    },
+    {
+      "id": "k_v4_247",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "When you are sick and need help, which community helper do you visit?",
+      "visual": "🏥",
+      "options": [
+        "A librarian",
+        "A firefighter",
+        "A doctor or nurse",
+        "A bus driver"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-K",
+      "explain": "Doctors and nurses help people when they are sick or injured."
+    },
+    {
+      "id": "k_v4_248",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "A sanitation worker collects garbage. Why is this job important for NYC?",
+      "visual": "🗑️",
+      "options": [
+        "It makes the city dirtier",
+        "It keeps the city clean and healthy",
+        "It puts out fires",
+        "It teaches children to read"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Sanitation workers remove garbage and recycling, keeping neighborhoods clean and preventing illness."
+    },
+    {
+      "id": "k_v4_249",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 1,
+      "prompt": "Who works at a library and helps you find books to read?",
+      "visual": "📚",
+      "options": [
+        "A librarian",
+        "A firefighter",
+        "A plumber",
+        "A chef"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-K",
+      "explain": "Librarians help people find books, answer questions, and learn new things."
+    },
+    {
+      "id": "k_v4_250",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Families",
+      "difficulty": 1,
+      "prompt": "Which of these is a type of family?",
+      "visual": "👨‍👩‍👧",
+      "options": [
+        "Only two parents with children",
+        "A single parent with children",
+        "Grandparents raising their grandchildren",
+        "All of these are families"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-K",
+      "explain": "Families come in many shapes. What makes a family is love and caring for one another."
+    },
+    {
+      "id": "k_v4_251",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Families",
+      "difficulty": 1,
+      "prompt": "What is one rule that helps family members live together happily?",
+      "visual": "🏠",
+      "options": [
+        "Take each other's things without asking",
+        "Never talk to each other",
+        "Treat each other with kindness",
+        "Do whatever you want, whenever you want"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-K",
+      "explain": "Treating family members with kindness and respect helps everyone feel safe and happy at home."
+    },
+    {
+      "id": "k_v4_252",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Families",
+      "difficulty": 1,
+      "prompt": "In a family, who might help take care of younger children?",
+      "visual": "👶",
+      "options": [
+        "Only babies can help babies",
+        "Parents, grandparents, or older siblings",
+        "No one helps; children do everything alone",
+        "Only schoolteachers"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "In families, adults and older children often help look after younger members."
+    },
+    {
+      "id": "k_v4_253",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Families",
+      "difficulty": 1,
+      "prompt": "Why is it important for families to have rules at home?",
+      "visual": "🏡",
+      "options": [
+        "To make children unhappy",
+        "Rules keep everyone safe and make things fair",
+        "Rules are not important at home",
+        "Only schools need rules"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Family rules help everyone know what is expected, stay safe, and treat each other fairly."
+    },
+    {
+      "id": "k_v4_254",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "School Rules",
+      "difficulty": 1,
+      "prompt": "Why do we have rules in school?",
+      "visual": "🏫",
+      "options": [
+        "To make learning harder for everyone",
+        "To keep everyone safe and treat each other fairly",
+        "To stop children from ever playing",
+        "Rules are not needed in school"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "School rules help everyone learn, stay safe, and treat each other with respect."
+    },
+    {
+      "id": "k_v4_255",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "School Rules",
+      "difficulty": 1,
+      "prompt": "What should you do when you want to share an idea during class?",
+      "visual": "✋",
+      "options": [
+        "Shout out the answer",
+        "Raise your hand and wait to be called on",
+        "Poke your neighbor",
+        "Walk to the front of the room"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Raising your hand shows respect for the teacher and gives everyone a chance to speak."
+    },
+    {
+      "id": "k_v4_256",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "School Rules",
+      "difficulty": 1,
+      "prompt": "Which is an example of FOLLOWING a school rule?",
+      "visual": "🎒",
+      "options": [
+        "Running in the hallway",
+        "Pushing in the lunch line",
+        "Waiting your turn on the playground swings",
+        "Taking a classmate's crayon without asking"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-K",
+      "explain": "Waiting your turn is fair and follows the rule of respecting others."
+    },
+    {
+      "id": "k_v4_257",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "School Rules",
+      "difficulty": 1,
+      "prompt": "A classroom rule says 'Respect others.' What does respecting others mean?",
+      "visual": "🤝",
+      "options": [
+        "Always getting your way",
+        "Treating others the way you want to be treated",
+        "Ignoring your classmates",
+        "Taking the best seat for yourself"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Respect means treating people kindly — the same way you hope they will treat you."
+    },
+    {
+      "id": "k_v4_258",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 1,
+      "prompt": "What does a map show us?",
+      "visual": "🗺️",
+      "options": [
+        "What the weather will be tomorrow",
+        "Where places are located",
+        "How to make food",
+        "When to go to sleep"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "A map is a drawing that shows where places are. Maps help us find our way around."
+    },
+    {
+      "id": "k_v4_259",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 1,
+      "prompt": "Which places might you find in a neighborhood?",
+      "visual": "🏙️",
+      "options": [
+        "Only forests and mountains",
+        "Schools, stores, parks, and homes",
+        "Only deserts",
+        "Only oceans and beaches"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "A neighborhood has many kinds of places where people live, learn, shop, and play."
+    },
+    {
+      "id": "k_v4_260",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 1,
+      "prompt": "On a map, the key or legend tells you...",
+      "visual": "🗺️",
+      "options": [
+        "The name of the person who drew the map",
+        "What the symbols and colors on the map mean",
+        "How old the map is",
+        "What the weather is like there"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "A map key (legend) explains what each symbol or color on the map stands for."
+    },
+    {
+      "id": "k_v4_261",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Community",
+      "difficulty": 1,
+      "prompt": "What does a community need to work well?",
+      "visual": "🏘️",
+      "options": [
+        "Only one type of worker doing all the jobs",
+        "Helpers with different jobs: teachers, doctors, firefighters, store owners",
+        "No rules at all",
+        "Only children living there"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-K",
+      "explain": "Communities work well when people have different jobs that help everyone else."
+    },
+    {
+      "id": "k_v4_262",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Calendar",
+      "difficulty": 1,
+      "prompt": "How many months are in one year?",
+      "visual": "📅",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "30"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-K",
+      "explain": "There are 12 months in a year: January through December."
+    },
+    {
+      "id": "k_v4_263",
+      "grade": "k",
+      "subject": "social_studies",
+      "topic": "Calendar",
+      "difficulty": 1,
+      "prompt": "Which month comes right after December?",
+      "visual": "📅",
+      "options": [
+        "November",
+        "February",
+        "March",
+        "January"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-K",
+      "explain": "After December comes January — the first month of the new year."
+    },
+    {
+      "id": "g3_v4_267",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 2,
+      "prompt": "How many boroughs make up New York City?",
+      "visual": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "NYC has 5 boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island."
+    },
+    {
+      "id": "g3_v4_268",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 2,
+      "prompt": "Which NYC borough is an island completely surrounded by water?",
+      "visual": null,
+      "options": [
+        "The Bronx",
+        "Queens",
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "Manhattan is an island bounded by the Hudson River, East River, and Harlem River. It is the only NYC borough that is entirely an island."
+    },
+    {
+      "id": "g3_v4_269",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 2,
+      "prompt": "The Bronx is the only NYC borough connected to the New York State mainland. The other four boroughs are...",
+      "visual": null,
+      "options": [
+        "All flat deserts",
+        "Islands or parts of islands surrounded by water",
+        "Part of New Jersey",
+        "All underground"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "Manhattan and Staten Island are full islands; Brooklyn and Queens are on Long Island. Only The Bronx is connected to the mainland."
+    },
+    {
+      "id": "g3_v4_270",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 2,
+      "prompt": "Which borough is the most populous — it has the most people living in it?",
+      "visual": null,
+      "options": [
+        "Staten Island",
+        "The Bronx",
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-3",
+      "explain": "Brooklyn (Kings County) has the largest population of any NYC borough, with over 2.5 million residents."
+    },
+    {
+      "id": "g3_v4_271",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 2,
+      "prompt": "Which NYC borough is the smallest in area and is the one you reach by taking the Staten Island Ferry?",
+      "visual": null,
+      "options": [
+        "Queens",
+        "Brooklyn",
+        "Staten Island",
+        "Manhattan"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "Staten Island is the smallest borough by population and is reached by the free Staten Island Ferry from Lower Manhattan."
+    },
+    {
+      "id": "g3_v4_272",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Boroughs",
+      "difficulty": 2,
+      "prompt": "Queens is the largest NYC borough by land area. Together with Brooklyn, it makes up the western end of which larger island?",
+      "visual": null,
+      "options": [
+        "Manhattan Island",
+        "Staten Island",
+        "Long Island",
+        "Ellis Island"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "Queens and Brooklyn share Long Island with Nassau and Suffolk counties. Long Island extends east from New York Harbor."
+    },
+    {
+      "id": "g3_v4_273",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Geography",
+      "difficulty": 2,
+      "prompt": "The Hudson River runs along NYC's western edge. On which side of Manhattan do you find it?",
+      "visual": null,
+      "options": [
+        "The east side",
+        "The north side",
+        "The west side",
+        "The south side"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "The Hudson River runs along Manhattan's west side, separating it from New Jersey."
+    },
+    {
+      "id": "g3_v4_274",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Landmarks",
+      "difficulty": 2,
+      "prompt": "Central Park is a large green park in the middle of which NYC borough?",
+      "visual": null,
+      "options": [
+        "Brooklyn",
+        "Queens",
+        "The Bronx",
+        "Manhattan"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-3",
+      "explain": "Central Park is located in the heart of Manhattan, stretching from 59th Street to 110th Street."
+    },
+    {
+      "id": "g3_v4_275",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC Landmarks",
+      "difficulty": 2,
+      "prompt": "The Brooklyn Bridge crosses the East River and connects which two boroughs?",
+      "visual": null,
+      "options": [
+        "Queens and The Bronx",
+        "Manhattan and Brooklyn",
+        "Staten Island and Manhattan",
+        "The Bronx and Queens"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "The Brooklyn Bridge, completed in 1883, spans the East River between Lower Manhattan and Brooklyn."
+    },
+    {
+      "id": "g3_v4_276",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "NYC History",
+      "difficulty": 2,
+      "prompt": "Ellis Island in New York Harbor was historically important because...",
+      "visual": null,
+      "options": [
+        "Wars were fought there",
+        "Millions of immigrants entered the United States through it",
+        "NYC's city government meets there",
+        "The Brooklyn Bridge starts there"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "From 1892 to 1954, Ellis Island was the main entry point for over 12 million immigrants coming to the United States."
+    },
+    {
+      "id": "g3_v4_277",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "A GOOD is something you can touch and take home. Which of the following is a good?",
+      "visual": null,
+      "options": [
+        "Getting a haircut",
+        "A doctor's check-up",
+        "A loaf of bread",
+        "Taking a music lesson"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "A loaf of bread is a physical item you can hold — that makes it a good. The other choices are services (work done for you)."
+    },
+    {
+      "id": "g3_v4_278",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "A SERVICE is work that someone does for you. Which of the following is a service?",
+      "visual": null,
+      "options": [
+        "A pair of sneakers",
+        "A pizza slice",
+        "A plumber fixing a broken pipe",
+        "A new backpack"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "A plumber does work (fixing pipes) for you — that is a service. The other choices are goods you can hold."
+    },
+    {
+      "id": "g3_v4_279",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "A bodega sells milk, bread, snacks, and newspapers. The items sold in the bodega are...",
+      "visual": null,
+      "options": [
+        "Services",
+        "Goods",
+        "Only fresh food",
+        "Neither goods nor services"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "Physical items you can buy and take home — like food — are goods. The store itself may also provide services, but the items sold are goods."
+    },
+    {
+      "id": "g3_v4_280",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "Your classroom teacher instructs students every day. Teaching is an example of...",
+      "visual": null,
+      "options": [
+        "A good",
+        "A service",
+        "A physical product",
+        "A trade route"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "Teaching is work done for someone — you cannot hold it or take it home. That makes it a service."
+    },
+    {
+      "id": "g3_v4_281",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "Which example includes BOTH a good AND a service?",
+      "visual": null,
+      "options": [
+        "Just buying apples at a market",
+        "Just getting a haircut",
+        "Buying a book at a store AND paying a tutor to teach from it",
+        "Just riding the subway"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "The book is a good (physical item), and the tutoring is a service (work done for you). Together they are both a good and a service."
+    },
+    {
+      "id": "g3_v4_282",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Producers and Consumers",
+      "difficulty": 2,
+      "prompt": "A PRODUCER makes or grows goods. Which person is a producer?",
+      "visual": null,
+      "options": [
+        "A student buying lunch at school",
+        "A family shopping at a grocery store",
+        "A farmer growing and harvesting vegetables",
+        "Someone riding the subway to work"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "A farmer creates (produces) food that others will buy. Producers make the goods that consumers use."
+    },
+    {
+      "id": "g3_v4_283",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Producers and Consumers",
+      "difficulty": 2,
+      "prompt": "A CONSUMER buys or uses goods and services. Which person is a consumer?",
+      "visual": null,
+      "options": [
+        "A baker baking and selling bread",
+        "A family buying groceries at a store",
+        "A factory assembling sneakers",
+        "An author writing and publishing a book"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "A family buying groceries is using money to get goods — that makes them consumers."
+    },
+    {
+      "id": "g3_v4_284",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Producers and Consumers",
+      "difficulty": 2,
+      "prompt": "Can the same person be BOTH a producer and a consumer?",
+      "visual": null,
+      "options": [
+        "No — you can only be one or the other",
+        "Yes — a baker produces bread to sell but also buys groceries to eat",
+        "Only adults can be producers",
+        "Children are never producers"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "Most people are both producers and consumers. A baker produces bread (producer) and also buys food for their family (consumer)."
+    },
+    {
+      "id": "g3_v4_285",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Producers and Consumers",
+      "difficulty": 2,
+      "prompt": "A sneaker factory makes 5,000 pairs of shoes each week to sell in stores. The factory is a...",
+      "visual": null,
+      "options": [
+        "Consumer",
+        "Service worker",
+        "Producer",
+        "Borrower"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-3",
+      "explain": "The factory creates (produces) goods — sneakers — for others to buy. That makes it a producer."
+    },
+    {
+      "id": "g3_v4_286",
+      "grade": "g3",
+      "subject": "social_studies",
+      "topic": "Producers and Consumers",
+      "difficulty": 2,
+      "prompt": "When NYC families pay for subway rides each day, they are acting as...",
+      "visual": null,
+      "options": [
+        "Producers of transportation",
+        "Consumers of a transportation service",
+        "Manufacturers",
+        "Traders of goods"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-3",
+      "explain": "Riders pay to use the subway — they are consuming a service provided by the MTA."
+    },
+    {
+      "id": "k_v4_264",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 1,
+      "prompt": "You want to measure how long a table is. Which tool would you use?",
+      "visual": "📏",
+      "options": [
+        "A scale",
+        "A ruler",
+        "A thermometer",
+        "A clock"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.1",
+      "explain": "A ruler measures length. We use it to find out how long or short something is."
+    },
+    {
+      "id": "k_v4_265",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Comparing",
+      "difficulty": 1,
+      "prompt": "You have a big rock and a tiny pebble. Which is HEAVIER?",
+      "visual": "🪨",
+      "options": [
+        "The pebble",
+        "The big rock",
+        "They weigh the same",
+        "Neither has weight"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "The big rock is heavier because it has more material in it than the tiny pebble."
+    },
+    {
+      "id": "k_v4_266",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Comparing",
+      "difficulty": 1,
+      "prompt": "Which animal is TALLER: a giraffe or a dog?",
+      "visual": "🦒🐕",
+      "options": [
+        "The dog",
+        "The giraffe",
+        "They are the same height",
+        "Neither is tall"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "A giraffe is much taller than a dog. Giraffes have very long necks that make them the tallest animals on land."
+    },
+    {
+      "id": "k_v4_267",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "You have an apple, a banana, a car, and a truck. How could you sort them into 2 groups?",
+      "visual": "🍎🚗",
+      "options": [
+        "Fruits and vehicles",
+        "Animals and plants",
+        "Hot things and cold things",
+        "Wet and dry"
+      ],
+      "correct": 0,
+      "standard": "K.MD.B.3",
+      "explain": "Apples and bananas are fruits; cars and trucks are vehicles. Sorting by what kind of thing they are makes sense."
+    },
+    {
+      "id": "k_v4_268",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "You sort crayons by color. A red crayon goes in the red group. Which group does a blue crayon go in?",
+      "visual": "🖍️",
+      "options": [
+        "The red group",
+        "The yellow group",
+        "The blue group",
+        "It does not belong anywhere"
+      ],
+      "correct": 2,
+      "standard": "K.MD.B.3",
+      "explain": "When sorting by color, each crayon goes into the group that matches its color. Blue goes in the blue group."
+    },
+    {
+      "id": "k_v4_269",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Comparing",
+      "difficulty": 1,
+      "prompt": "Which is LIGHTER: a feather or a book?",
+      "visual": "🪶📖",
+      "options": [
+        "The book",
+        "The feather",
+        "They weigh the same",
+        "Neither has weight"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "A feather is very light — much lighter than a book. Light objects feel almost weightless when you hold them."
+    },
+    {
+      "id": "k_v4_270",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "A class sorted students by eye color into groups: brown, blue, and green. What did they do?",
+      "visual": null,
+      "options": [
+        "Played a game",
+        "Made a sandwich",
+        "Sorted into groups by a shared attribute",
+        "Drew a picture"
+      ],
+      "correct": 2,
+      "standard": "K.MD.B.3",
+      "explain": "Sorting means putting things into groups based on something they share — like eye color."
+    },
+    {
+      "id": "k_v4_271",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Comparing",
+      "difficulty": 1,
+      "prompt": "One cup has 3 crayons and another has 5 crayons. Which cup has MORE crayons?",
+      "visual": "🖍️",
+      "options": [
+        "The cup with 3",
+        "The cup with 5",
+        "Both cups have the same",
+        "Neither cup has crayons"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "5 is greater than 3, so the cup with 5 crayons has more."
+    },
+    {
+      "id": "k_v4_272",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 1,
+      "prompt": "A table is 4 feet long. A desk is 3 feet long. Which one is SHORTER?",
+      "visual": "📏",
+      "options": [
+        "The table",
+        "The desk",
+        "Both are the same length",
+        "Neither can be measured"
+      ],
+      "correct": 1,
+      "standard": "K.MD.A.2",
+      "explain": "3 feet is less than 4 feet, so the desk is shorter than the table."
+    },
+    {
+      "id": "k_v4_273",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Sorting",
+      "difficulty": 2,
+      "prompt": "You sort shapes into two groups: shapes with 4 sides and shapes with NO sides. Which group does a circle belong in?",
+      "visual": "⭕",
+      "options": [
+        "4 sides",
+        "2 sides",
+        "No sides",
+        "3 sides"
+      ],
+      "correct": 2,
+      "standard": "K.MD.B.3",
+      "explain": "A circle is a perfectly round shape with no straight sides or corners. It goes in the 'no sides' group."
+    },
+    {
+      "id": "k_v4_274",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "How many corners (vertices) does a rectangle have?",
+      "visual": "▬",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.2",
+      "explain": "A rectangle has 4 corners — one at each of its 4 angles."
+    },
+    {
+      "id": "k_v4_275",
+      "grade": "k",
+      "subject": "math",
+      "topic": "3-D Shapes",
+      "difficulty": 1,
+      "prompt": "Which 3-D shape looks like a ball?",
+      "visual": "⚽",
+      "options": [
+        "A square",
+        "A cone",
+        "A sphere",
+        "A cube"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.3",
+      "explain": "A sphere is perfectly round like a ball. It has no flat sides."
+    },
+    {
+      "id": "k_v4_276",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "A stop sign has 8 sides and 8 corners. What shape is it?",
+      "visual": "🛑",
+      "options": [
+        "Square",
+        "Triangle",
+        "Hexagon",
+        "Octagon"
+      ],
+      "correct": 3,
+      "standard": "K.G.A.2",
+      "explain": "An octagon has 8 sides. 'Octo' means eight — like octopus (8 arms)!"
+    },
+    {
+      "id": "k_v4_277",
+      "grade": "k",
+      "subject": "math",
+      "topic": "3-D Shapes",
+      "difficulty": 1,
+      "prompt": "Which 3-D shape looks like a can of soup?",
+      "visual": "🥫",
+      "options": [
+        "Cube",
+        "Sphere",
+        "Cylinder",
+        "Cone"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.3",
+      "explain": "A cylinder has two flat circles on the ends and a curved side — just like a soup can."
+    },
+    {
+      "id": "k_v4_278",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Position Words",
+      "difficulty": 1,
+      "prompt": "A bird is sitting ON TOP of the box. Which position word describes where the bird is?",
+      "visual": "🐦📦",
+      "options": [
+        "Under",
+        "Behind",
+        "On top",
+        "Beside"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.1",
+      "explain": "'On top' means above something — the bird is sitting on the upper surface of the box."
+    },
+    {
+      "id": "k_v4_279",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Position Words",
+      "difficulty": 1,
+      "prompt": "The ball is UNDER the table. Where is the ball?",
+      "visual": "⚽",
+      "options": [
+        "On top of the table",
+        "Under the table",
+        "Next to the table",
+        "Inside the table"
+      ],
+      "correct": 1,
+      "standard": "K.G.A.1",
+      "explain": "Under means below something. The ball is lower than the table top — it is beneath the table."
+    },
+    {
+      "id": "k_v4_280",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "How many sides does a hexagon have?",
+      "visual": "⬡",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.2",
+      "explain": "A hexagon has 6 sides. A honeycomb is made of hexagon-shaped cells!"
+    },
+    {
+      "id": "k_v4_281",
+      "grade": "k",
+      "subject": "math",
+      "topic": "3-D Shapes",
+      "difficulty": 1,
+      "prompt": "Which 3-D shape has a flat circle on the bottom and a point at the top?",
+      "visual": "🍦",
+      "options": [
+        "Cube",
+        "Sphere",
+        "Cylinder",
+        "Cone"
+      ],
+      "correct": 3,
+      "standard": "K.G.A.3",
+      "explain": "A cone has a flat circular base and narrows to a point at the top — like an ice cream cone!"
+    },
+    {
+      "id": "k_v4_282",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "A door is shaped like a ___.",
+      "visual": "🚪",
+      "options": [
+        "Triangle",
+        "Circle",
+        "Rectangle",
+        "Hexagon"
+      ],
+      "correct": 2,
+      "standard": "K.G.A.2",
+      "explain": "A door has 4 sides and 4 right-angle corners — that makes it a rectangle."
+    },
+    {
+      "id": "k_v4_283",
+      "grade": "k",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 2,
+      "prompt": "Two squares look the same shape, but one is bigger. What is DIFFERENT about them?",
+      "visual": "🟦",
+      "options": [
+        "The number of sides",
+        "Their shape (one is not a square)",
+        "Their color",
+        "Their size"
+      ],
+      "correct": 3,
+      "standard": "K.G.B.4",
+      "explain": "Both shapes are squares — same shape, same number of sides. Only their size is different."
+    },
+    {
+      "id": "g3_v4_287",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Quadrilaterals",
+      "difficulty": 2,
+      "prompt": "A quadrilateral is a polygon with how many sides?",
+      "visual": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "standard": "3.G.A.1",
+      "explain": "'Quad' means four. A quadrilateral always has 4 sides and 4 angles."
+    },
+    {
+      "id": "g3_v4_288",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Quadrilaterals",
+      "difficulty": 2,
+      "prompt": "Which shape is NOT a quadrilateral?",
+      "visual": null,
+      "options": [
+        "Square",
+        "Rectangle",
+        "Triangle",
+        "Rhombus"
+      ],
+      "correct": 2,
+      "standard": "3.G.A.1",
+      "explain": "A triangle has only 3 sides. Squares, rectangles, and rhombuses all have 4 sides — they are all quadrilaterals."
+    },
+    {
+      "id": "g3_v4_289",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Quadrilaterals",
+      "difficulty": 2,
+      "prompt": "A square is a special kind of rectangle because...",
+      "visual": null,
+      "options": [
+        "It has more than 4 sides",
+        "All four of its sides are equal in length",
+        "It has no right angles",
+        "It is not a polygon"
+      ],
+      "correct": 1,
+      "standard": "3.G.A.1",
+      "explain": "A rectangle has 4 right angles. A square is a rectangle where all 4 sides are also equal. Every square is a rectangle, but not every rectangle is a square."
+    },
+    {
+      "id": "g3_v4_290",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions of Shapes",
+      "difficulty": 2,
+      "prompt": "A shape is divided into 3 equal parts. What do we call each part?",
+      "visual": null,
+      "options": [
+        "A half",
+        "A third",
+        "A quarter",
+        "A whole"
+      ],
+      "correct": 1,
+      "standard": "3.G.A.2",
+      "explain": "When something is divided into 3 equal parts, each part is called one third (1/3)."
+    },
+    {
+      "id": "g3_v4_291",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions of Shapes",
+      "difficulty": 2,
+      "prompt": "A pizza is cut into 4 equal slices. What fraction of the whole pizza is one slice?",
+      "visual": "🍕",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correct": 2,
+      "standard": "3.G.A.2",
+      "explain": "4 equal pieces means each piece is one fourth (1/4) of the whole pizza."
+    },
+    {
+      "id": "g3_v4_292",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Quadrilaterals",
+      "difficulty": 2,
+      "prompt": "A rhombus has 4 equal sides but its angles are not all right angles. Is a rhombus a quadrilateral?",
+      "visual": null,
+      "options": [
+        "No, it has too many sides",
+        "Yes, because it has 4 sides",
+        "No, only shapes with right angles are quadrilaterals",
+        "Only squares count as quadrilaterals"
+      ],
+      "correct": 1,
+      "standard": "3.G.A.1",
+      "explain": "Any 4-sided polygon is a quadrilateral. A rhombus qualifies because it has exactly 4 sides."
+    },
+    {
+      "id": "g3_v4_293",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions of Shapes",
+      "difficulty": 2,
+      "prompt": "A rectangle is divided into 6 equal parts. What fraction does each part represent?",
+      "visual": null,
+      "options": [
+        "1/4",
+        "1/6",
+        "1/3",
+        "1/5"
+      ],
+      "correct": 1,
+      "standard": "3.G.A.2",
+      "explain": "6 equal parts means each part is one sixth (1/6) of the whole rectangle."
+    },
+    {
+      "id": "g3_v4_294",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Polygons",
+      "difficulty": 2,
+      "prompt": "Which polygon has exactly 5 sides?",
+      "visual": null,
+      "options": [
+        "Hexagon",
+        "Quadrilateral",
+        "Pentagon",
+        "Triangle"
+      ],
+      "correct": 2,
+      "standard": "3.G.A.1",
+      "explain": "'Penta' means five. A pentagon has 5 sides and 5 angles."
+    },
+    {
+      "id": "g3_v4_295",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Quadrilaterals",
+      "difficulty": 2,
+      "prompt": "A shape has 4 right angles and all 4 sides are the same length. What is this shape?",
+      "visual": null,
+      "options": [
+        "Rectangle",
+        "Rhombus",
+        "Square",
+        "Trapezoid"
+      ],
+      "correct": 2,
+      "standard": "3.G.A.1",
+      "explain": "A shape with 4 right angles AND 4 equal sides is a square."
+    },
+    {
+      "id": "g3_v4_296",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions of Shapes",
+      "difficulty": 2,
+      "prompt": "A square divided into 2 equal parts has pieces of 1/2 each. The same square divided into 4 equal parts has pieces that are...",
+      "visual": null,
+      "options": [
+        "Bigger than 1/2",
+        "Exactly 1/2 each",
+        "Smaller — each is 1/4",
+        "Equal to the whole"
+      ],
+      "correct": 2,
+      "standard": "3.G.A.2",
+      "explain": "More equal parts means each part is smaller. 1/4 is smaller than 1/2 because you divided the same whole into more pieces."
+    },
+    {
+      "id": "g3_v4_297",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 47 to the nearest ten.",
+      "visual": null,
+      "options": [
+        "40",
+        "45",
+        "50",
+        "60"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.1",
+      "explain": "47 is closer to 50 than to 40. The digit in the ones place (7) is 5 or greater, so we round up to 50."
+    },
+    {
+      "id": "g3_v4_298",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 83 to the nearest ten.",
+      "visual": null,
+      "options": [
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correct": 1,
+      "standard": "3.NBT.A.1",
+      "explain": "83 is closer to 80 than to 90. The ones digit (3) is less than 5, so we round down to 80."
+    },
+    {
+      "id": "g3_v4_299",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 265 to the nearest hundred.",
+      "visual": null,
+      "options": [
+        "200",
+        "260",
+        "270",
+        "300"
+      ],
+      "correct": 3,
+      "standard": "3.NBT.A.1",
+      "explain": "265 is closer to 300 than to 200. The tens digit (6) is 5 or greater, so we round up to 300."
+    },
+    {
+      "id": "g3_v4_300",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "457 + 236 = ?",
+      "visual": null,
+      "options": [
+        "683",
+        "693",
+        "603",
+        "673"
+      ],
+      "correct": 1,
+      "standard": "3.NBT.A.2",
+      "explain": "Add the ones: 7+6=13, write 3 carry 1. Tens: 5+3+1=9. Hundreds: 4+2=6. Answer: 693."
+    },
+    {
+      "id": "g3_v4_301",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "621 − 384 = ?",
+      "visual": null,
+      "options": [
+        "237",
+        "247",
+        "337",
+        "227"
+      ],
+      "correct": 0,
+      "standard": "3.NBT.A.2",
+      "explain": "621 − 384: regroup as needed. 621 − 400 = 221, then + 16 = 237. Check: 384 + 237 = 621. ✓"
+    },
+    {
+      "id": "g3_v4_302",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "6 × 40 = ?",
+      "visual": null,
+      "options": [
+        "46",
+        "24",
+        "240",
+        "204"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.3",
+      "explain": "6 × 40 = 6 × 4 × 10 = 24 × 10 = 240. Multiplying by a multiple of 10 adds a zero to the product."
+    },
+    {
+      "id": "g3_v4_303",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "7 × 30 = ?",
+      "visual": null,
+      "options": [
+        "37",
+        "73",
+        "210",
+        "201"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.3",
+      "explain": "7 × 30 = 7 × 3 × 10 = 21 × 10 = 210."
+    },
+    {
+      "id": "g3_v4_304",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 145 to the nearest ten.",
+      "visual": null,
+      "options": [
+        "100",
+        "140",
+        "150",
+        "200"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.1",
+      "explain": "145 has a 5 in the ones place. When the ones digit is 5 or more, round up. 145 rounds up to 150."
+    },
+    {
+      "id": "g3_v4_305",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 2,
+      "prompt": "A store packs 8 boxes with 50 crayons each. How many crayons are there in all?",
+      "visual": "🖍️",
+      "options": [
+        "58",
+        "85",
+        "400",
+        "500"
+      ],
+      "correct": 2,
+      "standard": "3.NBT.A.3",
+      "explain": "8 × 50 = 8 × 5 × 10 = 40 × 10 = 400 crayons."
+    },
+    {
+      "id": "g3_v4_306",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "500 − 267 = ?",
+      "visual": null,
+      "options": [
+        "333",
+        "233",
+        "243",
+        "323"
+      ],
+      "correct": 1,
+      "standard": "3.NBT.A.2",
+      "explain": "500 − 267: think of it as 500 − 270 = 230, then + 3 = 233. Or check: 267 + 233 = 500. ✓"
+    },
+    {
+      "id": "k_v4_284",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Rhyming",
+      "difficulty": 1,
+      "prompt": "Which word RHYMES with 'hat'?",
+      "visual": "🎩",
+      "options": [
+        "dog",
+        "bat",
+        "cup",
+        "fish"
+      ],
+      "correct": 1,
+      "standard": "RF.K.2.A",
+      "explain": "'Hat' and 'bat' rhyme — they both end with the same -at sound."
+    },
+    {
+      "id": "k_v4_285",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Syllables",
+      "difficulty": 1,
+      "prompt": "Clap the syllables in 'but-ter.' How many syllables does it have?",
+      "visual": null,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "standard": "RF.K.2.B",
+      "explain": "'Butter' has 2 syllables: BUT-ter. Clap once for each part of the word."
+    },
+    {
+      "id": "k_v4_286",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Syllables",
+      "difficulty": 1,
+      "prompt": "Clap the syllables in 'el-e-phant.' How many syllables?",
+      "visual": "🐘",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "standard": "RF.K.2.B",
+      "explain": "'Elephant' has 3 syllables: EL-e-phant. Clap three times."
+    },
+    {
+      "id": "k_v4_287",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Beginning Sounds",
+      "difficulty": 1,
+      "prompt": "What is the FIRST sound you hear in the word 'sun'?",
+      "visual": "☀️",
+      "options": [
+        "/n/",
+        "/u/",
+        "/s/",
+        "/t/"
+      ],
+      "correct": 2,
+      "standard": "RF.K.2.D",
+      "explain": "The word 'sun' begins with the /s/ sound — the same sound as 'snake' and 'stop.'"
+    },
+    {
+      "id": "k_v4_288",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Beginning Sounds",
+      "difficulty": 1,
+      "prompt": "Which word starts with the /b/ sound?",
+      "visual": null,
+      "options": [
+        "dog",
+        "fish",
+        "ball",
+        "sun"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3.A",
+      "explain": "'Ball' starts with the /b/ sound. Put your lips together and let a little air out — that's /b/."
+    },
+    {
+      "id": "k_v4_289",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Blending",
+      "difficulty": 1,
+      "prompt": "Blend these sounds together: /c/ /a/ /t/. What word do they make?",
+      "visual": null,
+      "options": [
+        "cup",
+        "can",
+        "cat",
+        "car"
+      ],
+      "correct": 2,
+      "standard": "RF.K.2.C",
+      "explain": "/c/ + /a/ + /t/ blended together makes 'cat.'"
+    },
+    {
+      "id": "k_v4_290",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Vowel Sounds",
+      "difficulty": 1,
+      "prompt": "What vowel sound do you hear in the word 'pig'?",
+      "visual": "🐷",
+      "options": [
+        "Short /a/ as in 'cat'",
+        "Short /i/ as in 'sit'",
+        "Short /o/ as in 'hot'",
+        "Short /u/ as in 'cup'"
+      ],
+      "correct": 1,
+      "standard": "RF.K.3.B",
+      "explain": "'Pig' has the short /i/ sound in the middle — the same as 'sit,' 'lid,' and 'hill.'"
+    },
+    {
+      "id": "k_v4_291",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Vowel Sounds",
+      "difficulty": 1,
+      "prompt": "Which word has a SHORT /o/ sound?",
+      "visual": null,
+      "options": [
+        "cake",
+        "bug",
+        "hop",
+        "rain"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3.B",
+      "explain": "'Hop' has the short /o/ sound — like in 'hot,' 'mop,' and 'fox.'"
+    },
+    {
+      "id": "k_v4_292",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "prompt": "Which of these is a real sight word we read by memory?",
+      "visual": null,
+      "options": [
+        "gzx",
+        "the",
+        "qwp",
+        "vrm"
+      ],
+      "correct": 1,
+      "standard": "RF.K.3.C",
+      "explain": "'The' is one of the most common sight words. We see it in almost every sentence!"
+    },
+    {
+      "id": "k_v4_293",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "CVC Words",
+      "difficulty": 1,
+      "prompt": "Which word matches this picture: 🐖",
+      "visual": "🐖",
+      "options": [
+        "pop",
+        "pig",
+        "big",
+        "dig"
+      ],
+      "correct": 1,
+      "standard": "RF.K.3.B",
+      "explain": "The picture shows a pig. 'Pig' is spelled p-i-g and has a short /i/ in the middle."
+    },
+    {
+      "id": "k_v4_294",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "prompt": "Which sight word correctly completes the sentence: 'I ___ to school every day.'?",
+      "visual": "🏫",
+      "options": [
+        "goed",
+        "goe",
+        "go",
+        "gos"
+      ],
+      "correct": 2,
+      "standard": "RF.K.3.C",
+      "explain": "'Go' is the correct sight word. 'Goed' and 'gos' are not real words."
+    },
+    {
+      "id": "k_v4_295",
+      "grade": "k",
+      "subject": "literacy",
+      "topic": "Ending Sounds",
+      "difficulty": 1,
+      "prompt": "Which word ends with the /t/ sound?",
+      "visual": null,
+      "options": [
+        "mop",
+        "fan",
+        "lid",
+        "cat"
+      ],
+      "correct": 3,
+      "standard": "RF.K.3.A",
+      "explain": "'Cat' ends with the /t/ sound — c-a-T. 'Mop' ends in /p/, 'fan' in /n/, 'lid' in /d/."
+    },
+    {
+      "id": "k_v4_296",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Story Details",
+      "difficulty": 1,
+      "prompt": "In 'Goldilocks and the Three Bears,' Goldilocks tries three bowls of porridge. Why does she choose the third bowl?",
+      "visual": null,
+      "options": [
+        "It is too hot",
+        "It is too cold",
+        "It is too big",
+        "It is just right"
+      ],
+      "correct": 3,
+      "standard": "RL.K.1",
+      "explain": "Goldilocks picks the third bowl because it is not too hot or too cold — it is just right!"
+    },
+    {
+      "id": "k_v4_297",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Story Structure",
+      "difficulty": 1,
+      "prompt": "A story has a beginning, a middle, and an ___.",
+      "visual": null,
+      "options": [
+        "question",
+        "end",
+        "picture",
+        "color"
+      ],
+      "correct": 1,
+      "standard": "RL.K.5",
+      "explain": "All stories have three parts: a beginning (how it starts), a middle (what happens), and an end (how it finishes)."
+    },
+    {
+      "id": "k_v4_298",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Story Elements",
+      "difficulty": 1,
+      "prompt": "In a story, the SETTING is...",
+      "visual": null,
+      "options": [
+        "The main character",
+        "Where and when the story takes place",
+        "The problem in the story",
+        "The last page of the book"
+      ],
+      "correct": 1,
+      "standard": "RL.K.3",
+      "explain": "The setting tells us where the story happens (like a forest or a house) and when (day, night, summer)."
+    },
+    {
+      "id": "k_v4_299",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Characters",
+      "difficulty": 1,
+      "prompt": "In a story, a puppy gets lost in the park. The puppy is the main...",
+      "visual": "🐶",
+      "options": [
+        "Setting",
+        "Author",
+        "Character",
+        "Title"
+      ],
+      "correct": 2,
+      "standard": "RL.K.3",
+      "explain": "A character is a person or animal in a story. The puppy is the character who the story is about."
+    },
+    {
+      "id": "k_v4_300",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Story Details",
+      "difficulty": 1,
+      "prompt": "A story begins: 'Mia found a caterpillar in her garden.' What is Mia doing?",
+      "visual": "🐛",
+      "options": [
+        "Sleeping in bed",
+        "Finding a caterpillar in the garden",
+        "Cooking dinner",
+        "Going to school"
+      ],
+      "correct": 1,
+      "standard": "RL.K.1",
+      "explain": "The first sentence tells us exactly what Mia is doing — she found a caterpillar in her garden."
+    },
+    {
+      "id": "k_v4_301",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Story Message",
+      "difficulty": 1,
+      "prompt": "In 'The Little Red Hen,' the hen asks for help but nobody helps her bake bread. At the end, only she gets to eat it. What is the lesson?",
+      "visual": null,
+      "options": [
+        "Bread is delicious",
+        "If you help with the work, you share in the reward",
+        "Animals cannot bake bread",
+        "Hens live in barns"
+      ],
+      "correct": 1,
+      "standard": "RL.K.1",
+      "explain": "The story teaches that if you do not help with the work, you do not get to enjoy the reward."
+    },
+    {
+      "id": "k_v4_302",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Types of Books",
+      "difficulty": 1,
+      "prompt": "A book has pictures and tells a made-up story about talking animals. What type of book is it?",
+      "visual": "📚",
+      "options": [
+        "A dictionary",
+        "A science textbook",
+        "A fiction (made-up) storybook",
+        "A math workbook"
+      ],
+      "correct": 2,
+      "standard": "RL.K.5",
+      "explain": "Fiction books tell made-up (imaginary) stories. Nonfiction books share real facts."
+    },
+    {
+      "id": "k_v4_303",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Informational Text",
+      "difficulty": 1,
+      "prompt": "An informational book is a book that...",
+      "visual": null,
+      "options": [
+        "Tells a made-up story about dragons",
+        "Gives real facts and information about the world",
+        "Has only pictures and no words",
+        "Is written in a secret code"
+      ],
+      "correct": 1,
+      "standard": "RI.K.1",
+      "explain": "Informational (nonfiction) books share real, true facts. They help us learn about the world around us."
+    },
+    {
+      "id": "k_v4_304",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 1,
+      "prompt": "You read: 'Dogs are mammals. They have fur, four legs, and wag their tails.' What is the main topic?",
+      "visual": "🐶",
+      "options": [
+        "Cats",
+        "Dogs",
+        "Birds",
+        "Fish"
+      ],
+      "correct": 1,
+      "standard": "RI.K.2",
+      "explain": "Every sentence in the passage is about dogs — so dogs are the main topic."
+    },
+    {
+      "id": "k_v4_305",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 1,
+      "prompt": "You read: 'Bees collect nectar from flowers. They use it to make honey.' What do bees collect?",
+      "visual": "🐝",
+      "options": [
+        "Honey",
+        "Water",
+        "Nectar",
+        "Leaves"
+      ],
+      "correct": 2,
+      "standard": "RI.K.1",
+      "explain": "The text says bees collect nectar. They then use the nectar to make honey — but collecting comes first."
+    },
+    {
+      "id": "k_v4_306",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Author and Illustrator",
+      "difficulty": 1,
+      "prompt": "The AUTHOR of a book is...",
+      "visual": "📖",
+      "options": [
+        "The person who drew the pictures",
+        "The person who wrote the words",
+        "The person who printed the book",
+        "The person reading the book"
+      ],
+      "correct": 1,
+      "standard": "RI.K.6",
+      "explain": "The author writes the words in a book. The illustrator draws the pictures."
+    },
+    {
+      "id": "k_v4_307",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 1,
+      "prompt": "You read: 'In spring, flowers bloom and birds return from warm places.' What do birds do in spring?",
+      "visual": "🌸",
+      "options": [
+        "They sleep all day",
+        "They fly away to cold places",
+        "They return from warm places",
+        "They lose all their feathers"
+      ],
+      "correct": 2,
+      "standard": "RI.K.3",
+      "explain": "The text says birds return from warm places in spring — they come back to cooler areas after spending winter somewhere warm."
+    },
+    {
+      "id": "k_v4_308",
+      "grade": "k",
+      "subject": "reading",
+      "topic": "Informational Text",
+      "difficulty": 1,
+      "prompt": "An informational book about frogs would most likely include...",
+      "visual": "🐸",
+      "options": [
+        "A made-up story about a frog prince",
+        "Real facts about where frogs live and what they eat",
+        "A poem about a frog's feelings",
+        "A recipe for frog soup"
+      ],
+      "correct": 1,
+      "standard": "RI.K.1",
+      "explain": "Informational (nonfiction) texts share real facts. A book about frogs would give true information about their habitat and diet."
+    },
+    {
+      "id": "k_v4_309",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next in the pattern? 🔴🔵🔴🔵🔴___",
+      "visual": null,
+      "options": [
+        "🔴",
+        "🔵",
+        "🟡",
+        "🟢"
+      ],
+      "correct": 1,
+      "standard": null,
+      "explain": "The pattern alternates: red, blue, red, blue... so the next shape is blue 🔵."
+    },
+    {
+      "id": "k_v4_310",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? ⭐⭐🌙⭐⭐🌙⭐⭐___",
+      "visual": null,
+      "options": [
+        "⭐",
+        "🌙",
+        "☀️",
+        "💫"
+      ],
+      "correct": 1,
+      "standard": null,
+      "explain": "The pattern is: star, star, moon — repeating. After two stars comes a moon 🌙."
+    },
+    {
+      "id": "k_v4_311",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Number Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? 1, 2, 3, 4, 5, ___",
+      "visual": null,
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "We are counting up by 1 each time. After 5 comes 6."
+    },
+    {
+      "id": "k_v4_312",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Sorting",
+      "difficulty": 1,
+      "prompt": "Which one does NOT belong? 🐶 🐱 🐰 🚗",
+      "visual": null,
+      "options": [
+        "Dog 🐶",
+        "Cat 🐱",
+        "Rabbit 🐰",
+        "Car 🚗"
+      ],
+      "correct": 3,
+      "standard": null,
+      "explain": "Dogs, cats, and rabbits are all animals. A car is not an animal — it does not belong in the group."
+    },
+    {
+      "id": "k_v4_313",
+      "grade": "k",
+      "subject": "logic",
+      "topic": "Patterns",
+      "difficulty": 1,
+      "prompt": "What comes next? big, small, big, small, big, ___",
+      "visual": null,
+      "options": [
+        "big",
+        "small",
+        "medium",
+        "round"
+      ],
+      "correct": 1,
+      "standard": null,
+      "explain": "The pattern alternates big and small. After big comes small."
+    },
+    {
+      "id": "k_v4_314",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "Count the apples: 🍎🍎🍊🍎. How many APPLES are there?",
+      "visual": "🍎🍎🍊🍎",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "Count only the red apples 🍎. There are 3 apples. The orange 🍊 does not count."
+    },
+    {
+      "id": "k_v4_315",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "Count the dogs: 🐕🐕🐕🐈🐕. How many DOGS?",
+      "visual": "🐕🐕🐕🐈🐕",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "There are 4 dogs 🐕 and 1 cat 🐈. Count only the dogs — 4."
+    },
+    {
+      "id": "k_v4_316",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Comparing Groups",
+      "difficulty": 1,
+      "prompt": "You see 5 fish 🐟🐟🐟🐟🐟 and 3 crabs 🦀🦀🦀. Are there MORE fish or crabs?",
+      "visual": "🐟🐟🐟🐟🐟🦀🦀🦀",
+      "options": [
+        "More crabs",
+        "More fish",
+        "They are equal",
+        "Neither group"
+      ],
+      "correct": 1,
+      "standard": null,
+      "explain": "5 fish > 3 crabs. There are more fish."
+    },
+    {
+      "id": "k_v4_317",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Counting",
+      "difficulty": 1,
+      "prompt": "Count the stars: ⭐⭐⭐⭐⭐⭐⭐. How many?",
+      "visual": "⭐⭐⭐⭐⭐⭐⭐",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "Count carefully: 1-2-3-4-5-6-7. There are 7 stars."
+    },
+    {
+      "id": "k_v4_318",
+      "grade": "k",
+      "subject": "picture",
+      "topic": "Shapes",
+      "difficulty": 1,
+      "prompt": "Which has MORE sides — a triangle 🔺 or a square 🟦?",
+      "visual": "🔺🟦",
+      "options": [
+        "Triangle (3 sides)",
+        "They have the same number of sides",
+        "Square (4 sides)",
+        "Neither has any sides"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "A triangle has 3 sides. A square has 4 sides. The square has more sides."
+    },
+    {
+      "id": "g3_v4_307",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Prefixes",
+      "difficulty": 2,
+      "prompt": "What does the prefix 'un-' mean?",
+      "visual": null,
+      "options": [
+        "Again",
+        "Before",
+        "Not or the opposite of",
+        "Very much"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.A",
+      "explain": "The prefix 'un-' means 'not' or the opposite. 'Unhappy' = not happy; 'untie' = the opposite of tie."
+    },
+    {
+      "id": "g3_v4_308",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Prefixes",
+      "difficulty": 2,
+      "prompt": "What does the word 'unhappy' mean?",
+      "visual": null,
+      "options": [
+        "Very happy",
+        "Happy again",
+        "Not happy",
+        "Extremely happy"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.A",
+      "explain": "The prefix 'un-' means not. Un + happy = not happy."
+    },
+    {
+      "id": "g3_v4_309",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Prefixes",
+      "difficulty": 2,
+      "prompt": "The prefix 're-' means...",
+      "visual": null,
+      "options": [
+        "Against",
+        "Not",
+        "Again",
+        "Under"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.A",
+      "explain": "'Re-' means again. 'Redo' = do again; 'reread' = read again; 'rebuild' = build again."
+    },
+    {
+      "id": "g3_v4_310",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Prefixes",
+      "difficulty": 2,
+      "prompt": "What does the word 'rewrite' mean?",
+      "visual": null,
+      "options": [
+        "To write very quickly",
+        "To write again",
+        "To stop writing",
+        "To write badly"
+      ],
+      "correct": 1,
+      "standard": "RF.3.3.A",
+      "explain": "Re + write = to write again. If your teacher asks you to rewrite your essay, you write it a second time."
+    },
+    {
+      "id": "g3_v4_311",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Suffixes",
+      "difficulty": 2,
+      "prompt": "The suffix '-ful' means...",
+      "visual": null,
+      "options": [
+        "Without",
+        "Full of",
+        "Before",
+        "The opposite of"
+      ],
+      "correct": 1,
+      "standard": "RF.3.3.A",
+      "explain": "'-ful' means full of. 'Careful' = full of care; 'joyful' = full of joy; 'powerful' = full of power."
+    },
+    {
+      "id": "g3_v4_312",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Suffixes",
+      "difficulty": 2,
+      "prompt": "What does the word 'careful' mean?",
+      "visual": null,
+      "options": [
+        "Without care",
+        "Full of care and attention",
+        "Before taking care",
+        "After being careless"
+      ],
+      "correct": 1,
+      "standard": "RF.3.3.A",
+      "explain": "Care + ful = full of care. A careful person pays close attention to avoid mistakes."
+    },
+    {
+      "id": "g3_v4_313",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Suffixes",
+      "difficulty": 2,
+      "prompt": "The suffix '-less' means...",
+      "visual": null,
+      "options": [
+        "More",
+        "Full of",
+        "Without",
+        "Before"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.A",
+      "explain": "'-less' means without. 'Helpless' = without help; 'fearless' = without fear; 'careless' = without care."
+    },
+    {
+      "id": "g3_v4_314",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Suffixes",
+      "difficulty": 2,
+      "prompt": "What does the word 'helpless' mean?",
+      "visual": null,
+      "options": [
+        "Full of help",
+        "Able to help easily",
+        "Without the ability to help oneself",
+        "Helping others again"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.A",
+      "explain": "Help + less = without help. A helpless person cannot help themselves and needs assistance from others."
+    },
+    {
+      "id": "g3_v4_315",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Compound Words",
+      "difficulty": 2,
+      "prompt": "Break the word 'basketball' into its two smaller words.",
+      "visual": "🏀",
+      "options": [
+        "basket + ball",
+        "bas + ketball",
+        "b + asketball",
+        "bask + etball"
+      ],
+      "correct": 0,
+      "standard": "RF.3.3.C",
+      "explain": "'Basketball' is a compound word made of two smaller words: 'basket' + 'ball.'"
+    },
+    {
+      "id": "g3_v4_316",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Syllables",
+      "difficulty": 2,
+      "prompt": "Which word has exactly TWO syllables?",
+      "visual": null,
+      "options": [
+        "cat",
+        "elephant",
+        "happy",
+        "a"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.C",
+      "explain": "'Happy' has two syllables: HAP-py. 'Cat' has one, 'elephant' has three, and 'a' has one."
+    },
+    {
+      "id": "g3_v4_317",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Silent Letters",
+      "difficulty": 2,
+      "prompt": "The word 'sign' has a silent letter. Which letter is silent?",
+      "visual": null,
+      "options": [
+        "s",
+        "i",
+        "g",
+        "n"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.D",
+      "explain": "In 'sign,' the letter g is silent. It is pronounced 'sine' — you do not say the /g/ sound."
+    },
+    {
+      "id": "g3_v4_318",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Spelling",
+      "difficulty": 2,
+      "prompt": "Which word is spelled correctly?",
+      "visual": null,
+      "options": [
+        "frend",
+        "freind",
+        "friend",
+        "frind"
+      ],
+      "correct": 2,
+      "standard": "RF.3.3.D",
+      "explain": "The correct spelling is 'friend.' Remember: i before e except after c — but 'friend' is an exception: it's fri-END."
+    },
+    {
+      "id": "g3_v4_319",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Irregular Plurals",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the CORRECT plural form of 'mouse'?",
+      "visual": "🐭",
+      "options": [
+        "Three mouses ran away.",
+        "Three mice ran away.",
+        "Three mouths ran away.",
+        "Three mices ran away."
+      ],
+      "correct": 1,
+      "standard": "L.3.1.A",
+      "explain": "'Mouse' has an irregular plural: mice. You do not simply add -s or -es."
+    },
+    {
+      "id": "g3_v4_320",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Verb Tense",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the correct PAST tense?",
+      "visual": null,
+      "options": [
+        "Yesterday, she runned to the store.",
+        "Yesterday, she run to the store.",
+        "Yesterday, she ran to the store.",
+        "Yesterday, she ranned to the store."
+      ],
+      "correct": 2,
+      "standard": "L.3.1.E",
+      "explain": "'Run' is an irregular verb. Its past tense is 'ran,' not 'runned' or 'ranned.'"
+    },
+    {
+      "id": "g3_v4_321",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": 2,
+      "prompt": "Which sentence has correct SUBJECT-VERB agreement?",
+      "visual": null,
+      "options": [
+        "The dogs barks loudly.",
+        "The dogs bark loudly.",
+        "The dogs barking loudly.",
+        "The dog bark loudly."
+      ],
+      "correct": 1,
+      "standard": "L.3.1.F",
+      "explain": "Plural subject 'dogs' takes the plural verb 'bark' (no -s). Singular 'dog' would take 'barks.'"
+    },
+    {
+      "id": "g3_v4_322",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Comparative Adjectives",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the CORRECT comparative adjective?",
+      "visual": null,
+      "options": [
+        "Jake is more tall than Sam.",
+        "Jake is most tall than Sam.",
+        "Jake is taller than Sam.",
+        "Jake is tallest than Sam."
+      ],
+      "correct": 2,
+      "standard": "L.3.1.G",
+      "explain": "For most one-syllable adjectives, add '-er' to compare two things: tall → taller. 'More tall' is incorrect."
+    },
+    {
+      "id": "g3_v4_323",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Capitalization",
+      "difficulty": 2,
+      "prompt": "Which sentence uses CAPITAL LETTERS correctly?",
+      "visual": null,
+      "options": [
+        "I visited new york city last summer.",
+        "I visited New York City last summer.",
+        "i visited New York city last Summer.",
+        "I visited new York City last summer."
+      ],
+      "correct": 1,
+      "standard": "L.3.2.A",
+      "explain": "Proper nouns (names of specific places) are always capitalized: New York City. Common words like 'last' and 'summer' are not."
+    },
+    {
+      "id": "g3_v4_324",
+      "grade": "g3",
+      "subject": "literacy",
+      "topic": "Commas",
+      "difficulty": 2,
+      "prompt": "Which sentence uses COMMAS correctly in a list?",
+      "visual": null,
+      "options": [
+        "I bought apples, oranges and, bananas.",
+        "I bought apples oranges, and bananas.",
+        "I bought apples, oranges, and bananas.",
+        "I bought, apples, oranges and bananas."
+      ],
+      "correct": 2,
+      "standard": "L.3.2.C",
+      "explain": "In a list of three or more items, put a comma after each item: apples, oranges, and bananas."
+    },
+    {
+      "id": "g3_v4_325",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "What does the word 'enormous' mean?",
+      "visual": null,
+      "options": [
+        "Tiny",
+        "Ordinary",
+        "Very large",
+        "Colorful"
+      ],
+      "correct": 2,
+      "standard": "L.3.4.A",
+      "explain": "'Enormous' means very, very large. 'The enormous elephant could not fit through the gate.'"
+    },
+    {
+      "id": "g3_v4_326",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "Which sentence best describes someone who is 'exhausted'?",
+      "visual": null,
+      "options": [
+        "Full of energy and jumping around",
+        "Very tired after a long day of work",
+        "Angry and frustrated with someone",
+        "Confused and unsure what to do"
+      ],
+      "correct": 1,
+      "standard": "L.3.4.A",
+      "explain": "'Exhausted' means extremely tired. After running a race or working all day, you might feel exhausted."
+    },
+    {
+      "id": "g3_v4_327",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 2,
+      "prompt": "In a story, the THEME is...",
+      "visual": null,
+      "options": [
+        "The main character's name",
+        "The setting of the story",
+        "The lesson or message the author wants the reader to learn",
+        "The title printed on the cover"
+      ],
+      "correct": 2,
+      "standard": "RL.3.2",
+      "explain": "A theme is the big idea or life lesson in a story — like 'honesty is the best policy' or 'hard work pays off.'"
+    },
+    {
+      "id": "g3_v4_328",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 2,
+      "prompt": "A character in a story is kind to a stranger who later helps the character in a time of need. What is the THEME?",
+      "visual": null,
+      "options": [
+        "Strangers are always dangerous",
+        "Kindness is returned — what you give comes back to you",
+        "Always be suspicious of everyone",
+        "Never share with people you do not know"
+      ],
+      "correct": 1,
+      "standard": "RL.3.2",
+      "explain": "The events teach that showing kindness leads to kindness in return — a classic theme about generosity."
+    },
+    {
+      "id": "g3_v4_329",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "prompt": "'The snow fell like a blanket over the city.' This sentence uses a...",
+      "visual": null,
+      "options": [
+        "Fact about snow",
+        "Simile comparing snow to a blanket",
+        "Rhyme scheme",
+        "Definition of snow"
+      ],
+      "correct": 1,
+      "standard": "RL.3.4",
+      "explain": "A simile compares two unlike things using 'like' or 'as.' Here, snow is compared to a blanket because both cover and spread out."
+    },
+    {
+      "id": "g3_v4_330",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Point of View",
+      "difficulty": 2,
+      "prompt": "In a story, the way a CHARACTER thinks and feels about events is their...",
+      "visual": null,
+      "options": [
+        "Theme",
+        "Point of view",
+        "Setting",
+        "Illustration style"
+      ],
+      "correct": 1,
+      "standard": "RL.3.6",
+      "explain": "Point of view refers to a character's own thoughts, feelings, and opinions about what happens in the story."
+    },
+    {
+      "id": "g3_v4_331",
+      "grade": "g3",
+      "subject": "reading",
+      "topic": "Character Traits",
+      "difficulty": 2,
+      "prompt": "A character is described as 'brave and determined.' Which action BEST shows these traits?",
+      "visual": null,
+      "options": [
+        "The character hides every time danger approaches",
+        "The character gives up after the first try",
+        "The character keeps trying even when it becomes very difficult",
+        "The character always asks someone else to solve every problem"
+      ],
+      "correct": 2,
+      "standard": "RL.3.3",
+      "explain": "Brave and determined characters face challenges and do not give up. Continuing despite difficulty shows both traits."
+    },
+    {
+      "id": "g3_v4_332",
+      "grade": "g3",
+      "subject": "logic",
+      "topic": "Number Patterns",
+      "difficulty": 2,
+      "prompt": "What comes next in the pattern? 2, 4, 6, 8, ___",
+      "visual": null,
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 1,
+      "standard": null,
+      "explain": "The pattern adds 2 each time (skip counting by 2). After 8 comes 10."
+    },
+    {
+      "id": "g3_v4_333",
+      "grade": "g3",
+      "subject": "logic",
+      "topic": "Number Patterns",
+      "difficulty": 2,
+      "prompt": "What comes next? 3, 6, 9, 12, ___",
+      "visual": null,
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "This is skip counting by 3. After 12, add 3 more: 12 + 3 = 15."
+    },
+    {
+      "id": "g3_v4_334",
+      "grade": "g3",
+      "subject": "logic",
+      "topic": "Odd One Out",
+      "difficulty": 2,
+      "prompt": "Which number does NOT belong? 4, 8, 12, 17, 20",
+      "visual": null,
+      "options": [
+        "4",
+        "8",
+        "17",
+        "20"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "4, 8, 12, and 20 are all multiples of 4. 17 is not a multiple of 4, so it does not belong."
+    },
+    {
+      "id": "g3_v4_335",
+      "grade": "g3",
+      "subject": "logic",
+      "topic": "Visual Patterns",
+      "difficulty": 2,
+      "prompt": "If 🍕🍕 = 2 and 🍕🍕🍕🍕 = 4, what does 🍕🍕🍕🍕🍕🍕 equal?",
+      "visual": null,
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "standard": null,
+      "explain": "Each pizza slice 🍕 equals 1. Count the slices: 1-2-3-4-5-6. The answer is 6."
+    },
+    {
+      "id": "g3_v4_336",
+      "grade": "g3",
+      "subject": "logic",
+      "topic": "Number Patterns",
+      "difficulty": 2,
+      "prompt": "In this pattern, each number is doubled. What comes next? 1, 2, 4, ___",
+      "visual": null,
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 3,
+      "standard": null,
+      "explain": "1×2=2, 2×2=4, 4×2=8. Each number doubles. After 4 comes 8."
+    },
+    {
+      "id": "g3_v4_337",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Pictographs",
+      "difficulty": 2,
+      "prompt": "A pictograph shows: Apples = 🍎🍎🍎 (3), Oranges = 🍊🍊🍊🍊🍊 (5), Bananas = 🍌🍌 (2). Which fruit has the MOST?",
+      "visual": "🍎🍎🍎 | 🍊🍊🍊🍊🍊 | 🍌🍌",
+      "options": [
+        "Apples",
+        "Oranges",
+        "Bananas",
+        "All the same"
+      ],
+      "correct": 1,
+      "standard": "3.MD.B.3",
+      "explain": "Oranges have the most — 5 in total. Apples have 3 and bananas have 2."
+    },
+    {
+      "id": "g3_v4_338",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Pictographs",
+      "difficulty": 2,
+      "prompt": "The same pictograph: Apples=3, Oranges=5, Bananas=2. How many fruits are shown in all?",
+      "visual": null,
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correct": 2,
+      "standard": "3.MD.B.3",
+      "explain": "3 + 5 + 2 = 10 fruits in all."
+    },
+    {
+      "id": "g3_v4_339",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Bar Graphs",
+      "difficulty": 2,
+      "prompt": "A bar graph shows favorite colors: Blue=7, Red=4, Green=9, Yellow=2. How many MORE students chose Green over Red?",
+      "visual": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "standard": "3.MD.B.3",
+      "explain": "Green(9) − Red(4) = 5. Five more students chose green over red."
+    },
+    {
+      "id": "g3_v4_340",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Bar Graphs",
+      "difficulty": 2,
+      "prompt": "The same graph: Blue=7, Red=4, Green=9, Yellow=2. How many students answered in all?",
+      "visual": null,
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "correct": 2,
+      "standard": "3.MD.B.3",
+      "explain": "7 + 4 + 9 + 2 = 22 students answered in total."
+    },
+    {
+      "id": "g3_v4_341",
+      "grade": "g3",
+      "subject": "picture",
+      "topic": "Bar Graphs",
+      "difficulty": 2,
+      "prompt": "A bar graph shows books read per month: Jan=8, Feb=6, Mar=10, Apr=4. Which month had the FEWEST books read?",
+      "visual": null,
+      "options": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "correct": 3,
+      "standard": "3.MD.B.3",
+      "explain": "April had only 4 books — the lowest bar on the graph. March had the most (10)."
     }
   ]
 }
