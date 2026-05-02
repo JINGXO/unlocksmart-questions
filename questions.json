@@ -4950,16 +4950,16 @@
       "subject": "math",
       "topic": "Rounding",
       "difficulty": 2,
-      "prompt": "Round 347 to the nearest 100.",
+      "prompt": "Round 583 to the nearest hundred.",
       "visual": null,
       "options": [
-        "200",
-        "300",
-        "350",
-        "400"
+        "400",
+        "500",
+        "600",
+        "700"
       ],
-      "correct": 1,
-      "explain": "347 rounded to the nearest hundred is 300. The tens digit is 4 (less than 5), so round down."
+      "correct": 2,
+      "explain": "The tens digit is 8, which is 5 or greater, so round UP. 583 rounds up to 600."
     },
     {
       "id": "g3_v2_012",
@@ -7266,9 +7266,9 @@
       "visual": null,
       "options": [
         "300",
-        "350",
-        "340",
-        "400"
+        "400",
+        "200",
+        "500"
       ],
       "correct": 0,
       "explain": "The tens digit is 4 (less than 5), so round DOWN to 300."
@@ -7623,11 +7623,11 @@
       "visual": null,
       "options": [
         "4,000",
-        "4,600",
-        "4,700",
-        "5,000"
+        "5,000",
+        "3,000",
+        "6,000"
       ],
-      "correct": 3,
+      "correct": 1,
       "explain": "The hundreds digit is 6 (≥5), so round UP: 4,672 → 5,000."
     },
     {
@@ -9569,14 +9569,14 @@
       "prompt": "Round 47 to the nearest ten.",
       "visual": null,
       "options": [
+        "30",
         "40",
-        "45",
         "50",
-        "57"
+        "60"
       ],
       "correct": 2,
       "standard": "3.NBT.A.1",
-      "explain": "47 is closer to 50 than to 40 (the digit in the ones place is 7, which is ≥ 5), so round up to 50."
+      "explain": "47 is closer to 50 than to 40. The ones digit (7) is 5 or greater, so round UP to 50."
     },
     {
       "id": "g3_v4_010",
@@ -9587,14 +9587,14 @@
       "prompt": "Round 362 to the nearest hundred.",
       "visual": null,
       "options": [
+        "200",
         "300",
-        "360",
-        "370",
-        "400"
+        "400",
+        "500"
       ],
-      "correct": 3,
+      "correct": 2,
       "standard": "3.NBT.A.1",
-      "explain": "362: the tens digit is 6, which is ≥ 5, so round up to 400."
+      "explain": "The tens digit is 6, which is 5 or greater, so round UP. 362 rounds up to 400."
     },
     {
       "id": "g3_v4_011",
@@ -20777,14 +20777,14 @@
       "prompt": "Round 648 to the nearest hundred.",
       "visual": null,
       "options": [
+        "500",
         "600",
         "700",
-        "640",
-        "650"
+        "800"
       ],
-      "correct": 0,
+      "correct": 1,
       "standard": "3.NBT.A.1",
-      "explain": "648 is between 600 and 700. The tens digit is 4, which is less than 5, so we round down to 600."
+      "explain": "648 is between 600 and 700. The tens digit is 4, which is less than 5, so round DOWN to 600."
     },
     {
       "id": "g3_v4_190",
@@ -20802,7 +20802,7 @@
       ],
       "correct": 0,
       "standard": "3.NBT.A.1",
-      "explain": "475 is between 470 and 480. The ones digit is 5, so we round up to 480."
+      "explain": "The ones digit is 5. When the ones digit is 5 or more, we always round UP to the next ten. 475 rounds UP to 480."
     },
     {
       "id": "g3_v4_191",
@@ -23888,17 +23888,17 @@
       "subject": "math",
       "topic": "Rounding",
       "difficulty": 2,
-      "prompt": "Round 47 to the nearest ten.",
+      "prompt": "Round 64 to the nearest ten.",
       "visual": null,
       "options": [
-        "40",
-        "45",
         "50",
-        "60"
+        "60",
+        "70",
+        "80"
       ],
-      "correct": 2,
+      "correct": 1,
       "standard": "3.NBT.A.1",
-      "explain": "47 is closer to 50 than to 40. The digit in the ones place (7) is 5 or greater, so we round up to 50."
+      "explain": "The ones digit is 4, which is less than 5, so round DOWN. 64 rounds down to 60."
     },
     {
       "id": "g3_v4_298",
@@ -23927,14 +23927,14 @@
       "prompt": "Round 265 to the nearest hundred.",
       "visual": null,
       "options": [
+        "100",
         "200",
-        "260",
-        "270",
-        "300"
+        "300",
+        "400"
       ],
-      "correct": 3,
+      "correct": 2,
       "standard": "3.NBT.A.1",
-      "explain": "265 is closer to 300 than to 200. The tens digit (6) is 5 or greater, so we round up to 300."
+      "explain": "265 is closer to 300 than to 200. The tens digit (6) is 5 or greater, so round UP to 300."
     },
     {
       "id": "g3_v4_300",
@@ -24024,7 +24024,7 @@
       ],
       "correct": 2,
       "standard": "3.NBT.A.1",
-      "explain": "145 has a 5 in the ones place. When the ones digit is 5 or more, round up. 145 rounds up to 150."
+      "explain": "The ones digit is 5. When the ones digit is 5 or more, we always round UP. 145 rounds UP to 150."
     },
     {
       "id": "g3_v4_305",
@@ -25321,6 +25321,606 @@
       "correct": 3,
       "standard": "3.MD.B.3",
       "explain": "April had only 4 books — the lowest bar on the graph. March had the most (10)."
+    },
+    {
+      "id": "g3_v4_342",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "A bakery made 8 trays of muffins with 9 muffins on each tray. They sold 35 muffins. How many muffins are left?",
+      "visual": null,
+      "options": [
+        "37",
+        "43",
+        "72",
+        "53"
+      ],
+      "correct": 0,
+      "explain": "Step 1: 8 × 9 = 72 total muffins. Step 2: 72 − 35 = 37 muffins left.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_343",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "Maya has 6 bags of marbles. Each bag has 7 marbles. Her brother gives her 13 more. How many marbles does Maya have now?",
+      "visual": null,
+      "options": [
+        "55",
+        "42",
+        "13",
+        "26"
+      ],
+      "correct": 0,
+      "explain": "Step 1: 6 × 7 = 42. Step 2: 42 + 13 = 55 marbles total.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_344",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "A store has 4 shelves. Each shelf holds 9 books. They sell 14 books and then receive 20 new ones. How many books are there now?",
+      "visual": null,
+      "options": [
+        "42",
+        "36",
+        "20",
+        "56"
+      ],
+      "correct": 0,
+      "explain": "4 × 9 = 36 books. 36 − 14 = 22 sold. 22 + 20 = 42 books.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_345",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "Three friends each have 8 stickers. They put all their stickers into a box. Then they share the stickers equally with 4 kids total. How many does each kid get?",
+      "visual": null,
+      "options": [
+        "6",
+        "8",
+        "4",
+        "12"
+      ],
+      "correct": 0,
+      "explain": "Total: 3 × 8 = 24 stickers. Shared equally among 4: 24 ÷ 4 = 6 each.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_346",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "Carlos earns $7 a day doing chores. After 6 days, he buys a book for $18. How much money does Carlos have left?",
+      "visual": null,
+      "options": [
+        "$24",
+        "$42",
+        "$18",
+        "$30"
+      ],
+      "correct": 0,
+      "explain": "6 × $7 = $42. $42 − $18 = $24 remaining.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_347",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "A garden has 5 rows of flowers. Each row has 8 flowers. 12 flowers are red and the rest are yellow. How many yellow flowers are there?",
+      "visual": null,
+      "options": [
+        "28",
+        "40",
+        "20",
+        "32"
+      ],
+      "correct": 0,
+      "explain": "Total: 5 × 8 = 40. Yellow: 40 − 12 = 28 flowers.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_348",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "A class of 28 students splits into equal groups of 4. Each group needs 3 pencils. How many pencils are needed in all?",
+      "visual": null,
+      "options": [
+        "21",
+        "28",
+        "12",
+        "7"
+      ],
+      "correct": 0,
+      "explain": "28 ÷ 4 = 7 groups. 7 × 3 = 21 pencils total.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_349",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "A box holds 36 oranges. Half are sold on Monday. On Tuesday, 8 more are sold. How many oranges remain?",
+      "visual": null,
+      "options": [
+        "10",
+        "18",
+        "28",
+        "26"
+      ],
+      "correct": 0,
+      "explain": "Half of 36 = 18 sold Monday. 18 − 8 = 10 remaining.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_350",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "Aisha baked 48 cookies. She put them equally in 6 bags. She gave 2 full bags to her teacher. How many cookies does Aisha have left?",
+      "visual": null,
+      "options": [
+        "32",
+        "8",
+        "16",
+        "40"
+      ],
+      "correct": 0,
+      "explain": "48 ÷ 6 = 8 cookies per bag. She gave away 2 bags = 16 cookies. 48 − 16 = 32 remaining.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_351",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "A library gets 9 boxes of new books. Each box has 7 books. The library already had 215 books. How many books does the library have now?",
+      "visual": null,
+      "options": [
+        "278",
+        "215",
+        "63",
+        "290"
+      ],
+      "correct": 0,
+      "explain": "9 × 7 = 63 new books. 215 + 63 = 278 total books.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.D.8"
+    },
+    {
+      "id": "g3_v4_352",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 3,
+      "prompt": "Tanya collects 374 cans for a food drive. Her class collects 248 more. How many cans do they have in all?",
+      "visual": null,
+      "options": [
+        "622",
+        "612",
+        "632",
+        "600"
+      ],
+      "correct": 0,
+      "explain": "374 + 248: add ones (4+8=12, carry 1), tens (7+4+1=12, carry 1), hundreds (3+2+1=6). Total: 622.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_353",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 3,
+      "prompt": "A school had 503 students. 167 students left for a field trip. How many students are still at school?",
+      "visual": null,
+      "options": [
+        "336",
+        "346",
+        "363",
+        "364"
+      ],
+      "correct": 0,
+      "explain": "503 − 167: Regroup across zeros. 503 − 167 = 336.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_354",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 3,
+      "prompt": "What is 600 − 253?",
+      "visual": null,
+      "options": [
+        "347",
+        "357",
+        "353",
+        "447"
+      ],
+      "correct": 0,
+      "explain": "600 − 253: Regroup from the hundreds. 600 − 253 = 347.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_355",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 2,
+      "prompt": "What is 485 + 376?",
+      "visual": null,
+      "options": [
+        "861",
+        "851",
+        "871",
+        "761"
+      ],
+      "correct": 0,
+      "explain": "485 + 376: ones 5+6=11 (carry 1), tens 8+7+1=16 (carry 1), hundreds 4+3+1=8. Total: 861.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_356",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 3,
+      "prompt": "A town had 812 trees. A storm knocked down 175 trees. Then 93 new trees were planted. How many trees are there now?",
+      "visual": null,
+      "options": [
+        "730",
+        "637",
+        "812",
+        "268"
+      ],
+      "correct": 0,
+      "explain": "812 − 175 = 637. Then 637 + 93 = 730 trees.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_357",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 3,
+      "prompt": "Which expression has the same value as 500 − 168?",
+      "visual": null,
+      "options": [
+        "499 − 167",
+        "500 − 170",
+        "498 − 166",
+        "501 − 169"
+      ],
+      "correct": 0,
+      "explain": "Subtract 1 from both: (500−1) − (168−1) = 499 − 167. The difference stays the same.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_358",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 3,
+      "prompt": "Leo ran 247 meters on Monday and 389 meters on Tuesday. He wants to run 700 meters total this week. How many more meters does he need to run?",
+      "visual": null,
+      "options": [
+        "64",
+        "636",
+        "100",
+        "136"
+      ],
+      "correct": 0,
+      "explain": "247 + 389 = 636 meters so far. 700 − 636 = 64 more meters needed.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_359",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Addition & Subtraction within 1000",
+      "difficulty": 2,
+      "prompt": "Estimate: Which is the best estimate for 397 + 214?",
+      "visual": null,
+      "options": [
+        "600",
+        "500",
+        "700",
+        "400"
+      ],
+      "correct": 0,
+      "explain": "Round each: 397 ≈ 400, 214 ≈ 200. 400 + 200 = 600. The best estimate is 600.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NBT.A.2"
+    },
+    {
+      "id": "g3_v4_360",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Is 5/8 closer to 0, closer to 1/2, or closer to 1?",
+      "visual": null,
+      "options": [
+        "Closer to 1",
+        "Closer to 1/2",
+        "Closer to 0",
+        "Exactly 1/2"
+      ],
+      "correct": 0,
+      "explain": "1/2 = 4/8. Since 5/8 > 4/8, it is past the halfway mark and closer to 1 (= 8/8).",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NF.A.2"
+    },
+    {
+      "id": "g3_v4_361",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which fraction is equivalent to 2/4?",
+      "visual": null,
+      "options": [
+        "1/2",
+        "2/8",
+        "4/6",
+        "3/6"
+      ],
+      "correct": 0,
+      "explain": "2/4 = 1/2 because both halves are the same size. Divide both top and bottom by 2: 2÷2 = 1, 4÷2 = 2.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NF.A.3"
+    },
+    {
+      "id": "g3_v4_362",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "A pizza is cut into 6 equal slices. Leo eats 2 slices. What fraction of the pizza is left?",
+      "visual": null,
+      "options": [
+        "4/6",
+        "2/6",
+        "1/3",
+        "5/6"
+      ],
+      "correct": 0,
+      "explain": "6 slices total − 2 eaten = 4 slices left. That's 4 out of 6 equal parts, or 4/6.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NF.A.1"
+    },
+    {
+      "id": "g3_v4_363",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Put these fractions in order from least to greatest: 3/4, 1/4, 2/4",
+      "visual": null,
+      "options": [
+        "1/4, 2/4, 3/4",
+        "3/4, 2/4, 1/4",
+        "2/4, 1/4, 3/4",
+        "1/4, 3/4, 2/4"
+      ],
+      "correct": 0,
+      "explain": "All have the same denominator (4), so compare numerators: 1 < 2 < 3. Order: 1/4, 2/4, 3/4.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NF.A.3"
+    },
+    {
+      "id": "g3_v4_364",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which fraction is greater: 2/3 or 2/5? How do you know?",
+      "visual": null,
+      "options": [
+        "2/3, because thirds are bigger pieces than fifths",
+        "2/5, because 5 is bigger than 3",
+        "They are equal",
+        "2/5, because more pieces means more"
+      ],
+      "correct": 0,
+      "explain": "When numerators are the same, the fraction with the SMALLER denominator is larger (bigger pieces). 2/3 > 2/5.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NF.A.3"
+    },
+    {
+      "id": "g3_v4_365",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "A ribbon is 1 meter long. Sofia cuts off 3/8 of it. What fraction of the ribbon remains?",
+      "visual": null,
+      "options": [
+        "5/8",
+        "3/8",
+        "4/8",
+        "1/8"
+      ],
+      "correct": 0,
+      "explain": "The whole ribbon = 8/8. 8/8 − 3/8 = 5/8 of the ribbon is left.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.NF.A.1"
+    },
+    {
+      "id": "g3_v4_366",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "How does knowing 7 × 8 = 56 help you find 7 × 16?",
+      "visual": null,
+      "options": [
+        "7 × 16 = 7 × 8 + 7 × 8 = 56 + 56 = 112",
+        "7 × 16 = 56 × 2 = 102",
+        "7 × 16 = 7 × 8 × 8 = 448",
+        "7 × 16 = 56 + 16 = 72"
+      ],
+      "correct": 0,
+      "explain": "16 = 8 + 8, so 7 × 16 = 7 × 8 + 7 × 8 = 56 + 56 = 112. This uses the distributive property.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.B.5"
+    },
+    {
+      "id": "g3_v4_367",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "Which shows a way to find 6 × 9 by breaking it into smaller facts?",
+      "visual": null,
+      "options": [
+        "6 × 5 + 6 × 4",
+        "6 + 9",
+        "6 × 10 − 1",
+        "5 × 9 + 1"
+      ],
+      "correct": 0,
+      "explain": "6 × 9 = 6 × (5 + 4) = 6×5 + 6×4 = 30 + 24 = 54. This is the distributive property.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.B.5"
+    },
+    {
+      "id": "g3_v4_368",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "Mrs. Kim wants to divide 56 students equally into 8 teams. Which equation can help her find the number of students per team?",
+      "visual": null,
+      "options": [
+        "8 × ? = 56",
+        "56 + 8 = ?",
+        "56 × 8 = ?",
+        "56 − 8 = ?"
+      ],
+      "correct": 0,
+      "explain": "Division and multiplication are related. 56 ÷ 8 = 7, which is the same as asking 8 × ? = 56.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.B.6"
+    },
+    {
+      "id": "g3_v4_369",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "An array has 4 rows and 7 columns. Which equations describe this array?",
+      "visual": null,
+      "options": [
+        "4 × 7 = 28 and 7 × 4 = 28",
+        "4 + 7 = 11 and 7 + 4 = 11",
+        "4 × 7 = 28 and 28 ÷ 7 = 7",
+        "4 × 7 = 28 and 4 − 7 = −3"
+      ],
+      "correct": 0,
+      "explain": "An array shows rows × columns. 4 × 7 = 28. By the commutative property, 7 × 4 = 28 too.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.A.1"
+    },
+    {
+      "id": "g3_v4_370",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "Mandy has 45 marbles. She wants to put the same number in each of 9 bags. If she knows 9 × 5 = 45, how many go in each bag?",
+      "visual": null,
+      "options": [
+        "5",
+        "9",
+        "45",
+        "4"
+      ],
+      "correct": 0,
+      "explain": "45 ÷ 9 = 5, because 9 × 5 = 45. Knowing multiplication facts makes division easy!",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.B.6"
+    },
+    {
+      "id": "g3_v4_371",
+      "grade": "g3",
+      "subject": "math",
+      "topic": "Multiplication",
+      "difficulty": 3,
+      "prompt": "Which property does this equation show? (3 × 4) × 2 = 3 × (4 × 2)",
+      "visual": null,
+      "options": [
+        "Associative property of multiplication",
+        "Commutative property of multiplication",
+        "Distributive property",
+        "Identity property"
+      ],
+      "correct": 0,
+      "explain": "The associative property says you can change the grouping of factors without changing the product. (3×4)×2 = 12×2 = 24, and 3×(4×2) = 3×8 = 24.",
+      "kind": "mc",
+      "passage": null,
+      "standard": "3.OA.B.5"
     }
   ]
 }
