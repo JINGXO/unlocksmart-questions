@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 17,
   "questions": [
     {
       "id": "prek_count_001",
@@ -33999,6 +33999,4819 @@
       "correct": 1,
       "standard": "RI.3.3",
       "explain": "The key distinction: WEATHER = one specific day's conditions; CLIMATE = long-term average patterns (30 years). A single rainy day does NOT change the climate!"
+    },
+    {
+      "id": "g1_v6_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "There are 9 birds on a branch. 3 fly away. How many birds are left?",
+      "visual": "🐦",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "explain": "9 − 3 = 6. Start with 9 and take away 3."
+    },
+    {
+      "id": "g1_v6_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Sam has 7 crayons. He gets 5 more. How many does he have now?",
+      "visual": "🖍️",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "explain": "7 + 5 = 12. Add the crayons together."
+    },
+    {
+      "id": "g1_v6_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Mia picks 8 strawberries. She eats 2. How many are left?",
+      "visual": "🍓",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "8 − 2 = 6. Subtract what she ate."
+    },
+    {
+      "id": "g1_v6_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "There are 6 dogs and 4 cats at the shelter. How many animals in all?",
+      "visual": "🐶🐱",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 2,
+      "explain": "6 + 4 = 10. Add the dogs and cats together."
+    },
+    {
+      "id": "g1_v6_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "12 kids are in line. 4 go inside. How many kids are still in line?",
+      "visual": "🧒",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "12 − 4 = 8. Subtract the kids who left."
+    },
+    {
+      "id": "g1_v6_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Ana had 15 stickers. She gave 6 to her friend and got 4 more. How many does she have now?",
+      "visual": "⭐",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "explain": "First subtract: 15 − 6 = 9. Then add: 9 + 4 = 13. Two steps!"
+    },
+    {
+      "id": "g1_v6_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "There are 18 apples. 7 are red and the rest are green. How many are green?",
+      "visual": "🍎🍏",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "explain": "18 − 7 = 11. Subtract the red apples from the total."
+    },
+    {
+      "id": "g1_v6_008",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "A bag has 20 marbles. Leon takes 8 and then puts 3 back. How many marbles are in the bag now?",
+      "visual": "🔵",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "explain": "20 − 8 = 12, then 12 + 3 = 15. Two-step problem!"
+    },
+    {
+      "id": "g1_v6_009",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "There are 14 fish in a tank. A pet store gets 9 more and sells 5. How many fish are in the tank now?",
+      "visual": "🐟",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "correct": 2,
+      "explain": "14 + 9 = 23, then 23 − 5 = 18. Add then subtract!"
+    },
+    {
+      "id": "g1_v6_010",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Jess has 16 pennies. She finds 6 more under the couch. She needs 25 pennies total. How many more does she need?",
+      "visual": "🪙",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "explain": "16 + 6 = 22 pennies now. 25 − 22 = 3 more pennies needed."
+    },
+    {
+      "id": "g1_v6_011",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "The library has 20 books checked out. 9 come back on Monday and 4 more on Tuesday. How many books are still checked out?",
+      "visual": "📚",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "20 − 9 = 11, then 11 − 4 = 7. Subtract both returns!"
+    },
+    {
+      "id": "g1_v6_012",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is the value of the digit 3 in 35?",
+      "options": [
+        "3",
+        "5",
+        "30",
+        "50"
+      ],
+      "correct": 2,
+      "explain": "In 35, the 3 is in the tens place. Its value is 3 × 10 = 30."
+    },
+    {
+      "id": "g1_v6_013",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which number has 4 tens and 7 ones?",
+      "options": [
+        "74",
+        "47",
+        "40",
+        "7"
+      ],
+      "correct": 1,
+      "explain": "4 tens = 40, and 7 ones = 7. Together: 40 + 7 = 47."
+    },
+    {
+      "id": "g1_v6_014",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "How many tens are in the number 52?",
+      "options": [
+        "2",
+        "5",
+        "50",
+        "52"
+      ],
+      "correct": 1,
+      "explain": "In 52, the digit 5 is in the tens place. There are 5 tens."
+    },
+    {
+      "id": "g1_v6_015",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What number is the same as 6 tens and 3 ones?",
+      "options": [
+        "36",
+        "60",
+        "63",
+        "36"
+      ],
+      "correct": 2,
+      "explain": "6 tens = 60, plus 3 ones = 3. 60 + 3 = 63."
+    },
+    {
+      "id": "g1_v6_016",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "Which shows 48 in expanded form?",
+      "options": [
+        "4 + 8",
+        "40 + 8",
+        "40 + 80",
+        "4 + 80"
+      ],
+      "correct": 1,
+      "explain": "48 = 40 + 8. The 4 in the tens place is worth 40; the 8 is worth 8."
+    },
+    {
+      "id": "g1_v6_017",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "What is the value of the tens digit in 76?",
+      "options": [
+        "7",
+        "6",
+        "76",
+        "70"
+      ],
+      "correct": 3,
+      "explain": "In 76, the digit 7 is in the tens place. Its value is 7 × 10 = 70."
+    },
+    {
+      "id": "g1_v6_018",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 2,
+      "prompt": "A bar graph shows: Cats = 5, Dogs = 8, Fish = 3. Which pet is most popular?",
+      "visual": "📊",
+      "options": [
+        "Cats",
+        "Dogs",
+        "Fish",
+        "All equal"
+      ],
+      "correct": 1,
+      "explain": "Dogs have the tallest bar with 8 votes. 8 is more than 5 and 3."
+    },
+    {
+      "id": "g1_v6_019",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 2,
+      "prompt": "A pictograph shows 🍎🍎🍎 = 3 apples and 🍊🍊 = 2 oranges. How many fruits total?",
+      "visual": "📊",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "3 apples + 2 oranges = 5 fruits in all."
+    },
+    {
+      "id": "g1_v6_020",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 2,
+      "prompt": "A bar graph shows: Red = 4, Blue = 7, Green = 2. How many more blue than green?",
+      "visual": "📊",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "7 − 2 = 5. Blue has 5 more than green."
+    },
+    {
+      "id": "g1_v6_021",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 2,
+      "prompt": "A pictograph shows: ⭐⭐⭐⭐ for Monday and ⭐⭐ for Tuesday. How many stars total?",
+      "visual": "📊",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "4 stars + 2 stars = 6 stars total."
+    },
+    {
+      "id": "g1_v6_022",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 3,
+      "prompt": "A bar graph shows: Soccer = 9, Baseball = 6, Swimming = 4. How many kids chose soccer OR baseball?",
+      "visual": "📊",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correct": 2,
+      "explain": "Soccer (9) + Baseball (6) = 15 kids chose one of those two sports."
+    },
+    {
+      "id": "g1_v6_023",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "School starts at 8 o'clock. Lunch is 3 hours later. What time is lunch?",
+      "visual": "🕐",
+      "options": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "1:00"
+      ],
+      "correct": 1,
+      "explain": "8 + 3 = 11. Lunch is at 11 o'clock."
+    },
+    {
+      "id": "g1_v6_024",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "The movie starts at 2:00 and lasts 1 hour. When does it end?",
+      "visual": "🎬",
+      "options": [
+        "2:30",
+        "3:00",
+        "3:30",
+        "4:00"
+      ],
+      "correct": 1,
+      "explain": "2:00 + 1 hour = 3:00. The movie ends at 3 o'clock."
+    },
+    {
+      "id": "g1_v6_025",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 2,
+      "prompt": "Recess starts at 10:30 and lasts 30 minutes. When does recess end?",
+      "visual": "⏱️",
+      "options": [
+        "10:30",
+        "11:00",
+        "11:30",
+        "12:00"
+      ],
+      "correct": 1,
+      "explain": "10:30 + 30 minutes = 11:00. Recess ends at 11 o'clock."
+    },
+    {
+      "id": "g1_v6_026",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 3,
+      "prompt": "Art class starts at 1:00 and ends at 2:30. How long is art class?",
+      "visual": "🎨",
+      "options": [
+        "1 hour",
+        "1 hour 30 minutes",
+        "2 hours",
+        "30 minutes"
+      ],
+      "correct": 1,
+      "explain": "From 1:00 to 2:00 is 1 hour. From 2:00 to 2:30 is 30 more minutes. Total: 1 hour 30 minutes."
+    },
+    {
+      "id": "g1_v6_027",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 3,
+      "prompt": "A train leaves at 9:30 and arrives 2 hours later. What time does it arrive?",
+      "visual": "🚂",
+      "options": [
+        "10:30",
+        "11:00",
+        "11:30",
+        "12:00"
+      ],
+      "correct": 2,
+      "explain": "9:30 + 2 hours = 11:30. Add 2 hours to the minutes part too!"
+    },
+    {
+      "id": "g1_v6_028",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Area",
+      "difficulty": 2,
+      "prompt": "A rectangle is 3 squares wide and 2 squares tall. How many squares are inside?",
+      "visual": "⬛",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explain": "3 × 2 = 6 squares. Count all the squares inside the rectangle!"
+    },
+    {
+      "id": "g1_v6_029",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Area",
+      "difficulty": 2,
+      "prompt": "A shape is made of 2 rows with 4 squares in each row. How many squares in all?",
+      "visual": "⬛",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "2 rows × 4 squares = 8 squares total."
+    },
+    {
+      "id": "g1_v6_030",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Area",
+      "difficulty": 3,
+      "prompt": "A garden is 4 squares long and 3 squares wide. How many square tiles are needed to cover it?",
+      "visual": "🌱",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "explain": "4 × 3 = 12 square tiles. Multiply length by width to find area."
+    },
+    {
+      "id": "g1_v6_031",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Area",
+      "difficulty": 3,
+      "prompt": "Two rectangles each have 6 squares inside. How many squares do they have together?",
+      "visual": "⬛",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "explain": "6 + 6 = 12. Add the squares from both rectangles."
+    },
+    {
+      "id": "g1_v6_032",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 2,
+      "prompt": "You have 1 dime and 3 pennies. How many cents do you have?",
+      "visual": "🪙",
+      "options": [
+        "4¢",
+        "11¢",
+        "13¢",
+        "30¢"
+      ],
+      "correct": 2,
+      "explain": "1 dime = 10¢, and 3 pennies = 3¢. 10 + 3 = 13¢."
+    },
+    {
+      "id": "g1_v6_033",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 2,
+      "prompt": "You have 2 nickels and 2 pennies. How many cents is that?",
+      "visual": "🪙",
+      "options": [
+        "10¢",
+        "11¢",
+        "12¢",
+        "14¢"
+      ],
+      "correct": 2,
+      "explain": "2 nickels = 10¢, plus 2 pennies = 2¢. 10 + 2 = 12¢."
+    },
+    {
+      "id": "g1_v6_034",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 2,
+      "prompt": "A pencil costs 15¢. You pay with 1 dime and 1 nickel. How much change do you get?",
+      "visual": "✏️",
+      "options": [
+        "0¢",
+        "5¢",
+        "10¢",
+        "15¢"
+      ],
+      "correct": 0,
+      "explain": "1 dime = 10¢, 1 nickel = 5¢. 10 + 5 = 15¢. You pay exactly 15¢, so no change!"
+    },
+    {
+      "id": "g1_v6_035",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 3,
+      "prompt": "You have 1 quarter. You buy a sticker for 17¢. How much change do you get?",
+      "visual": "🪙",
+      "options": [
+        "6¢",
+        "7¢",
+        "8¢",
+        "9¢"
+      ],
+      "correct": 2,
+      "explain": "25¢ − 17¢ = 8¢. A quarter is 25 cents."
+    },
+    {
+      "id": "g1_v6_036",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Money",
+      "difficulty": 3,
+      "prompt": "Maria has 1 dime, 2 nickels, and 3 pennies. Does she have enough to buy a 25¢ eraser?",
+      "visual": "🪙",
+      "options": [
+        "Yes, she has exactly 25¢",
+        "Yes, she has 28¢",
+        "No, she has only 23¢",
+        "No, she has only 20¢"
+      ],
+      "correct": 2,
+      "explain": "1 dime=10¢, 2 nickels=10¢, 3 pennies=3¢. Total=23¢. She needs 25¢, so she is 2¢ short."
+    },
+    {
+      "id": "g1_v6_037",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Skip Counting",
+      "difficulty": 2,
+      "prompt": "Count by 2s: 4, 6, 8, ___, 12",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "13"
+      ],
+      "correct": 1,
+      "explain": "Each number goes up by 2. 8 + 2 = 10."
+    },
+    {
+      "id": "g1_v6_038",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Skip Counting",
+      "difficulty": 2,
+      "prompt": "Count by 5s: 5, 10, 15, ___, 25",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct": 2,
+      "explain": "Each number goes up by 5. 15 + 5 = 20."
+    },
+    {
+      "id": "g1_v6_039",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Skip Counting",
+      "difficulty": 2,
+      "prompt": "Count by 10s: 10, 20, 30, ___, 50",
+      "options": [
+        "35",
+        "38",
+        "40",
+        "45"
+      ],
+      "correct": 2,
+      "explain": "Each number goes up by 10. 30 + 10 = 40."
+    },
+    {
+      "id": "g1_v6_040",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Skip Counting",
+      "difficulty": 3,
+      "prompt": "Count by 2s starting at 3: 3, 5, 7, ___, 11",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "explain": "Counting by 2s from an odd number: 7 + 2 = 9."
+    },
+    {
+      "id": "g1_v6_041",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fact Families",
+      "difficulty": 2,
+      "prompt": "Which fact belongs to the same fact family as 4 + 5 = 9?",
+      "options": [
+        "9 + 4 = 13",
+        "9 − 5 = 4",
+        "5 − 4 = 1",
+        "4 + 4 = 8"
+      ],
+      "correct": 1,
+      "explain": "In the fact family for 4, 5, and 9: 4+5=9, 5+4=9, 9−4=5, 9−5=4."
+    },
+    {
+      "id": "g1_v6_042",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fact Families",
+      "difficulty": 2,
+      "prompt": "Complete the fact family: 6 + 7 = 13, 7 + 6 = 13, 13 − 6 = 7, 13 − ___ = 6",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "The four members of this fact family use 6, 7, and 13. 13 − 7 = 6."
+    },
+    {
+      "id": "g1_v6_043",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fact Families",
+      "difficulty": 3,
+      "prompt": "The numbers 8, 5, and 13 form a fact family. Which equation does NOT belong?",
+      "options": [
+        "8 + 5 = 13",
+        "13 − 8 = 5",
+        "13 − 5 = 8",
+        "8 + 8 = 16"
+      ],
+      "correct": 3,
+      "explain": "The fact family for 5, 8, 13 includes: 5+8=13, 8+5=13, 13−5=8, 13−8=5. The equation 8+8=16 uses different numbers!"
+    },
+    {
+      "id": "g1_v6_044",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "24 + 15 = ?",
+      "options": [
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "correct": 2,
+      "explain": "Ones: 4+5=9. Tens: 20+10=30. Total: 30+9=39."
+    },
+    {
+      "id": "g1_v6_045",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "31 + 23 = ?",
+      "options": [
+        "53",
+        "54",
+        "55",
+        "56"
+      ],
+      "correct": 1,
+      "explain": "Ones: 1+3=4. Tens: 30+20=50. Total: 50+4=54."
+    },
+    {
+      "id": "g1_v6_046",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 2,
+      "prompt": "42 + 16 = ?",
+      "options": [
+        "56",
+        "57",
+        "58",
+        "60"
+      ],
+      "correct": 2,
+      "explain": "Ones: 2+6=8. Tens: 40+10=50. Total: 50+8=58."
+    },
+    {
+      "id": "g1_v6_047",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 3,
+      "prompt": "37 + 25 = ?",
+      "options": [
+        "60",
+        "61",
+        "62",
+        "63"
+      ],
+      "correct": 2,
+      "explain": "Ones: 7+5=12 (write 2, carry 1). Tens: 3+2+1=6. Answer: 62."
+    },
+    {
+      "id": "g1_v6_048",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 3,
+      "prompt": "46 + 38 = ?",
+      "options": [
+        "82",
+        "83",
+        "84",
+        "85"
+      ],
+      "correct": 2,
+      "explain": "Ones: 6+8=14 (write 4, carry 1). Tens: 4+3+1=8. Answer: 84."
+    },
+    {
+      "id": "g1_v6_049",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "45 − 13 = ?",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correct": 2,
+      "explain": "Ones: 5−3=2. Tens: 40−10=30. Total: 32."
+    },
+    {
+      "id": "g1_v6_050",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "56 − 24 = ?",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correct": 2,
+      "explain": "Ones: 6−4=2. Tens: 50−20=30. Total: 32."
+    },
+    {
+      "id": "g1_v6_051",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "70 − 30 = ?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correct": 1,
+      "explain": "70 − 30 = 40. Subtract the tens: 7 − 3 = 4, so 70 − 30 = 40."
+    },
+    {
+      "id": "g1_v6_052",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 3,
+      "prompt": "63 − 27 = ?",
+      "options": [
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "correct": 2,
+      "explain": "Ones: 3−7 needs regrouping. Borrow 1 ten: 13−7=6. Tens: 5−2=3. Answer: 36."
+    },
+    {
+      "id": "g1_v6_053",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 3,
+      "prompt": "52 − 18 = ?",
+      "options": [
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "correct": 2,
+      "explain": "Regroup: 12−8=4 (ones). 4−1=3 (tens after borrowing). Answer: 34."
+    },
+    {
+      "id": "g1_v6_054",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 2,
+      "prompt": "Which symbol goes in the blank? 34 ___ 43",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "÷"
+      ],
+      "correct": 1,
+      "explain": "34 is LESS than 43. 34 < 43. Compare tens first: 3 < 4."
+    },
+    {
+      "id": "g1_v6_055",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 2,
+      "prompt": "Order from least to greatest: 57, 29, 42",
+      "options": [
+        "57, 42, 29",
+        "29, 42, 57",
+        "42, 29, 57",
+        "29, 57, 42"
+      ],
+      "correct": 1,
+      "explain": "Compare tens: 29 < 42 < 57. Least to greatest: 29, 42, 57."
+    },
+    {
+      "id": "g1_v6_056",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 3,
+      "prompt": "Which is true? 3 tens + 8 ones ___ 4 tens + 2 ones",
+      "options": [
+        "38 > 42",
+        "38 = 42",
+        "38 < 42",
+        "Cannot tell"
+      ],
+      "correct": 2,
+      "explain": "3 tens + 8 ones = 38. 4 tens + 2 ones = 42. Since 38 < 42, the answer is <."
+    },
+    {
+      "id": "g1_v6_057",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "What comes next? 🔴🔵🔴🔵🔴___",
+      "visual": "🔴🔵",
+      "options": [
+        "🔴",
+        "🔵",
+        "🟡",
+        "🟢"
+      ],
+      "correct": 1,
+      "explain": "The pattern repeats: red, blue, red, blue... After 🔴 comes 🔵."
+    },
+    {
+      "id": "g1_v6_058",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 2,
+      "prompt": "What is the rule? 2, 4, 6, 8, 10",
+      "options": [
+        "Add 1",
+        "Add 2",
+        "Add 3",
+        "Add 4"
+      ],
+      "correct": 1,
+      "explain": "Each number is 2 more than the last: 2+2=4, 4+2=6, 6+2=8, 8+2=10."
+    },
+    {
+      "id": "g1_v6_059",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 2,
+      "prompt": "It started to rain, so Maya ___ her umbrella.",
+      "options": [
+        "lost",
+        "opened",
+        "closed",
+        "threw away"
+      ],
+      "correct": 1,
+      "explain": "The CAUSE is rain. The EFFECT is Maya opened her umbrella to stay dry."
+    },
+    {
+      "id": "g1_v6_060",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 2,
+      "prompt": "Tom forgot to water his plant. What most likely happened to the plant?",
+      "visual": "🌱",
+      "options": [
+        "It grew taller",
+        "It turned blue",
+        "It wilted and dried out",
+        "It made flowers"
+      ],
+      "correct": 2,
+      "explain": "Plants need water to live. Without water, the plant would wilt and dry out."
+    },
+    {
+      "id": "g1_v6_061",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 2,
+      "prompt": "Lily practiced piano every day. What was most likely the effect?",
+      "visual": "🎹",
+      "options": [
+        "She got worse",
+        "She got tired of music",
+        "She got better at playing",
+        "She forgot how to read"
+      ],
+      "correct": 2,
+      "explain": "Practice leads to improvement. The EFFECT of daily practice is getting better."
+    },
+    {
+      "id": "g1_v6_062",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 2,
+      "prompt": "The dog barked loudly. What was most likely the cause?",
+      "visual": "🐕",
+      "options": [
+        "The dog was sleepy",
+        "The dog saw a stranger",
+        "The dog was eating",
+        "The dog was reading"
+      ],
+      "correct": 1,
+      "explain": "Dogs bark when they see something unusual. Seeing a stranger is the most likely cause."
+    },
+    {
+      "id": "g1_v6_063",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 3,
+      "prompt": "Read: 'Marco ate too much candy at the party. Later, his stomach hurt.' What is the CAUSE of his stomachache?",
+      "options": [
+        "Going to the party",
+        "Eating too much candy",
+        "Playing games",
+        "Staying up late"
+      ],
+      "correct": 1,
+      "explain": "The CAUSE is eating too much candy. The EFFECT is the stomachache that came later."
+    },
+    {
+      "id": "g1_v6_064",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 3,
+      "prompt": "'The sidewalk was icy. Ben slipped and fell.' Which event is the CAUSE?",
+      "options": [
+        "Ben fell",
+        "Ben slipped",
+        "The sidewalk was icy",
+        "Ben walked outside"
+      ],
+      "correct": 2,
+      "explain": "The icy sidewalk CAUSED Ben to slip and fall. Ice → slipping → falling."
+    },
+    {
+      "id": "g1_v6_065",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 2,
+      "prompt": "A butterfly and a bird both fly. How are they DIFFERENT?",
+      "visual": "🦋🐦",
+      "options": [
+        "Both have wings",
+        "A butterfly has antennae; a bird has a beak",
+        "Both eat flowers",
+        "Both live underground"
+      ],
+      "correct": 1,
+      "explain": "They both fly (alike), but a butterfly has antennae while a bird has a beak (different)."
+    },
+    {
+      "id": "g1_v6_066",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 2,
+      "prompt": "Apples and bananas are both fruits. How are they DIFFERENT?",
+      "visual": "🍎🍌",
+      "options": [
+        "Both are fruits",
+        "Both have seeds",
+        "Apples are round; bananas are long and curved",
+        "Both grow on trees"
+      ],
+      "correct": 2,
+      "explain": "Same: both are fruits. Different: apples are round and red/green; bananas are long and yellow."
+    },
+    {
+      "id": "g1_v6_067",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 2,
+      "prompt": "A cat and a fish are both animals. What is one way they are the SAME?",
+      "visual": "🐱🐟",
+      "options": [
+        "Both have fur",
+        "Both breathe and need food",
+        "Both live in water",
+        "Both have four legs"
+      ],
+      "correct": 1,
+      "explain": "All animals breathe and need food to survive. That makes them alike!"
+    },
+    {
+      "id": "g1_v6_068",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 3,
+      "prompt": "Summer and winter are different seasons. Which statement tells how they are ALIKE?",
+      "visual": "☀️❄️",
+      "options": [
+        "Both have snow",
+        "Both are part of a year that has 12 months",
+        "Both start in January",
+        "Both are warm"
+      ],
+      "correct": 1,
+      "explain": "Summer and winter are different (one warm, one cold), but BOTH are seasons within a 12-month year."
+    },
+    {
+      "id": "g1_v6_069",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "prompt": "Read: 'Dogs make great pets. They are loyal and loving. They play fetch and go on walks with you.' What is the MAIN IDEA?",
+      "options": [
+        "Dogs can play fetch",
+        "Dogs are great pets",
+        "Dogs go on walks",
+        "Dogs are loyal"
+      ],
+      "correct": 1,
+      "explain": "The main idea is the big topic: 'Dogs make great pets.' The other sentences give details."
+    },
+    {
+      "id": "g1_v6_070",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "prompt": "Read: 'Bees are very helpful. They carry pollen from flower to flower. Without bees, many plants could not grow.' What is the MAIN IDEA?",
+      "visual": "🐝",
+      "options": [
+        "Bees carry pollen",
+        "Bees sting people",
+        "Bees are very helpful",
+        "Plants need sun"
+      ],
+      "correct": 2,
+      "explain": "The main idea is 'Bees are very helpful.' The rest of the text gives supporting details."
+    },
+    {
+      "id": "g1_v6_071",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "prompt": "The title of a book is 'Amazing Oceans.' What is this book MOST LIKELY about?",
+      "visual": "🌊",
+      "options": [
+        "Rivers and lakes",
+        "Facts about the ocean",
+        "How to swim",
+        "Weather patterns"
+      ],
+      "correct": 1,
+      "explain": "The title 'Amazing Oceans' tells you the main topic is facts and information about the ocean."
+    },
+    {
+      "id": "g1_v6_072",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "prompt": "Read: 'Rain, snow, sleet, and hail are all types of precipitation. Precipitation falls from clouds.' What is the MAIN IDEA?",
+      "visual": "☁️",
+      "options": [
+        "Snow is cold",
+        "Rain falls from clouds",
+        "There are different types of precipitation",
+        "Hail is dangerous"
+      ],
+      "correct": 2,
+      "explain": "The main idea covers all the details: 'There are different types of precipitation.'"
+    },
+    {
+      "id": "g1_v6_073",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "prompt": "Read: 'Tigers are the biggest wild cats. They have orange fur with black stripes. Each tiger has its own pattern of stripes, like a fingerprint.' Which is the BEST main idea?",
+      "options": [
+        "Tiger stripes are like fingerprints",
+        "Tigers are large cats with unique stripe patterns",
+        "Tigers are orange",
+        "All wild cats are big"
+      ],
+      "correct": 1,
+      "explain": "The best main idea covers all the details: tigers' size, their stripes, and the uniqueness of their patterns."
+    },
+    {
+      "id": "g1_v6_074",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 2,
+      "prompt": "What happens FIRST when making a sandwich?",
+      "visual": "🥪",
+      "options": [
+        "Add toppings",
+        "Put on the top slice of bread",
+        "Get out the bread",
+        "Eat the sandwich"
+      ],
+      "correct": 2,
+      "explain": "You must get out the bread FIRST before you can add anything to it."
+    },
+    {
+      "id": "g1_v6_075",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 2,
+      "prompt": "Which word signals the LAST step in a sequence?",
+      "options": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "correct": 3,
+      "explain": "'Finally' signals the last or final step in a sequence. First → Next → Then → Finally."
+    },
+    {
+      "id": "g1_v6_076",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 2,
+      "prompt": "Read: 'First, plant the seed. Next, water it. Then, watch it grow.' What is the SECOND step?",
+      "visual": "🌱",
+      "options": [
+        "Plant the seed",
+        "Water it",
+        "Watch it grow",
+        "Pick the flower"
+      ],
+      "correct": 1,
+      "explain": "The order is: First (plant), SECOND (water), Third (watch it grow)."
+    },
+    {
+      "id": "g1_v6_077",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 2,
+      "prompt": "A caterpillar's life: egg → caterpillar → chrysalis → butterfly. What comes BEFORE the butterfly stage?",
+      "visual": "🦋",
+      "options": [
+        "Egg",
+        "Caterpillar",
+        "Chrysalis",
+        "Wings"
+      ],
+      "correct": 2,
+      "explain": "The order is: egg → caterpillar → chrysalis → butterfly. The chrysalis comes right before the butterfly."
+    },
+    {
+      "id": "g1_v6_078",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 3,
+      "prompt": "Read: 'Mia woke up, brushed her teeth, ate breakfast, and then ran to catch the bus.' Which event happened THIRD?",
+      "options": [
+        "Woke up",
+        "Brushed teeth",
+        "Ate breakfast",
+        "Ran to catch the bus"
+      ],
+      "correct": 2,
+      "explain": "First: woke up. Second: brushed teeth. THIRD: ate breakfast. Fourth: ran to catch the bus."
+    },
+    {
+      "id": "g1_v6_079",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Contractions",
+      "difficulty": 2,
+      "prompt": "What is the contraction for 'do not'?",
+      "options": [
+        "don't",
+        "dont",
+        "do'nt",
+        "dn't"
+      ],
+      "correct": 0,
+      "explain": "'do not' → 'don't'. The apostrophe replaces the letter 'o' in 'not'."
+    },
+    {
+      "id": "g1_v6_080",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Contractions",
+      "difficulty": 2,
+      "prompt": "What two words make the contraction 'can't'?",
+      "options": [
+        "can not",
+        "cannot",
+        "can not",
+        "ca not"
+      ],
+      "correct": 1,
+      "explain": "'can't' = 'cannot'. The apostrophe replaces the letters 'no' from 'cannot'."
+    },
+    {
+      "id": "g1_v6_081",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Contractions",
+      "difficulty": 3,
+      "prompt": "Which sentence uses a contraction CORRECTLY?",
+      "options": [
+        "She wont go to school.",
+        "She won't go to school.",
+        "She w'ont go to school.",
+        "She won't' go to school."
+      ],
+      "correct": 1,
+      "explain": "'won't' is the correct contraction of 'will not'. The apostrophe goes between 'n' and 't'."
+    },
+    {
+      "id": "g1_v6_082",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Possessives",
+      "difficulty": 2,
+      "prompt": "How do you write 'the hat that belongs to Jake'?",
+      "options": [
+        "Jakes hat",
+        "Jake's hat",
+        "Jakes' hat",
+        "Jakes hat's"
+      ],
+      "correct": 1,
+      "explain": "To show something belongs to one person, add 's. Jake + 's = Jake's hat."
+    },
+    {
+      "id": "g1_v6_083",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Possessives",
+      "difficulty": 2,
+      "prompt": "Which sentence shows a POSSESSIVE correctly?",
+      "options": [
+        "The dogs bone is big.",
+        "The dog's bone is big.",
+        "The dogs' bone is big.",
+        "The dog bone is big."
+      ],
+      "correct": 1,
+      "explain": "'dog's bone' uses 's to show the bone belongs to the dog. Correct possessive!"
+    },
+    {
+      "id": "g1_v6_084",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Possessives",
+      "difficulty": 3,
+      "prompt": "Two cats own toys. How would you write 'the toys that belong to the cats'?",
+      "options": [
+        "the cat's toys",
+        "the cats toy",
+        "the cats' toys",
+        "the cats's toys"
+      ],
+      "correct": 2,
+      "explain": "For a plural noun ending in 's', just add an apostrophe after: cats' toys. This shows multiple cats own the toys."
+    },
+    {
+      "id": "g1_v6_085",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Conjunctions",
+      "difficulty": 2,
+      "prompt": "Choose the BEST word: 'I like cats ___ dogs.'",
+      "options": [
+        "but",
+        "because",
+        "and",
+        "so"
+      ],
+      "correct": 2,
+      "explain": "'And' joins two similar things. 'I like cats AND dogs' — both are liked."
+    },
+    {
+      "id": "g1_v6_086",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Conjunctions",
+      "difficulty": 2,
+      "prompt": "Choose the BEST word: 'She wanted to go outside, ___ it was raining.'",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "or"
+      ],
+      "correct": 1,
+      "explain": "'But' shows a contrast. She wanted to go out, BUT rain stopped her."
+    },
+    {
+      "id": "g1_v6_087",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Adjectives",
+      "difficulty": 2,
+      "prompt": "Which word is the ADJECTIVE (describing word) in: 'The fluffy cat sat on the mat.'?",
+      "options": [
+        "cat",
+        "sat",
+        "fluffy",
+        "mat"
+      ],
+      "correct": 2,
+      "explain": "'Fluffy' describes the cat. Adjectives tell us WHAT KIND something is."
+    },
+    {
+      "id": "g1_v6_088",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Adjectives",
+      "difficulty": 3,
+      "prompt": "Which sentence adds the BEST adjective to give more detail?",
+      "options": [
+        "The bird sang.",
+        "The small, yellow bird sang.",
+        "The bird sang loudly.",
+        "A bird made sound."
+      ],
+      "correct": 1,
+      "explain": "'Small, yellow' are adjectives that tell us what the bird looks like — giving the most helpful detail!"
+    },
+    {
+      "id": "g1_v6_089",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Compound Words",
+      "difficulty": 2,
+      "prompt": "Which two words make the compound word 'sunshine'?",
+      "options": [
+        "sun + shine",
+        "sun + line",
+        "son + shine",
+        "sum + shine"
+      ],
+      "correct": 0,
+      "explain": "'Sunshine' = sun + shine. A compound word is two smaller words joined together."
+    },
+    {
+      "id": "g1_v6_090",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Compound Words",
+      "difficulty": 3,
+      "prompt": "Which word is a compound word?",
+      "options": [
+        "running",
+        "rainbow",
+        "jumping",
+        "slowly"
+      ],
+      "correct": 1,
+      "explain": "'Rainbow' = rain + bow. It is formed by joining two complete words together."
+    },
+    {
+      "id": "g1_v6_091",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Water Cycle",
+      "difficulty": 2,
+      "prompt": "What do we call it when water from puddles slowly disappears into the air?",
+      "visual": "💧",
+      "options": [
+        "Precipitation",
+        "Evaporation",
+        "Condensation",
+        "Absorption"
+      ],
+      "correct": 1,
+      "explain": "Evaporation is when liquid water turns into water vapor and rises into the air."
+    },
+    {
+      "id": "g1_v6_092",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Water Cycle",
+      "difficulty": 3,
+      "prompt": "Which is the correct ORDER of the water cycle?",
+      "visual": "💧",
+      "options": [
+        "Precipitation → Evaporation → Condensation",
+        "Evaporation → Condensation → Precipitation",
+        "Condensation → Precipitation → Evaporation",
+        "Precipitation → Condensation → Evaporation"
+      ],
+      "correct": 1,
+      "explain": "Water evaporates into vapor, vapor cools and condenses into clouds, then precipitation falls as rain or snow."
+    },
+    {
+      "id": "g1_v6_093",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animal Habitats",
+      "difficulty": 2,
+      "prompt": "Where does a polar bear MOST LIKELY live?",
+      "visual": "🐻‍❄️",
+      "options": [
+        "Desert",
+        "Rainforest",
+        "Arctic tundra",
+        "Ocean reef"
+      ],
+      "correct": 2,
+      "explain": "Polar bears live in the cold Arctic tundra. Their thick fur helps them survive in icy conditions."
+    },
+    {
+      "id": "g1_v6_094",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animal Habitats",
+      "difficulty": 3,
+      "prompt": "A fish, a frog, and a duck all live near water. What does this tell you about HABITAT?",
+      "visual": "🐸",
+      "options": [
+        "All animals need the same habitat",
+        "Animals are found in habitats that meet their needs",
+        "Water habitats are the best",
+        "Animals can live anywhere"
+      ],
+      "correct": 1,
+      "explain": "Animals live where they can find food, water, and shelter. Different animals may share the same habitat because it meets all their needs."
+    },
+    {
+      "id": "g1_v6_095",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant Needs",
+      "difficulty": 2,
+      "prompt": "What do plants need to make their own food?",
+      "visual": "🌿",
+      "options": [
+        "Water only",
+        "Sunlight and water and air",
+        "Soil only",
+        "Rain only"
+      ],
+      "correct": 1,
+      "explain": "Plants need sunlight, water, and air (carbon dioxide) to make food through photosynthesis."
+    },
+    {
+      "id": "g1_v6_096",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant Needs",
+      "difficulty": 3,
+      "prompt": "A student puts one plant in sunlight and one in a dark closet. Both get the same water. What will MOST LIKELY happen?",
+      "visual": "🌱",
+      "options": [
+        "Both grow the same",
+        "The dark plant grows taller",
+        "The sunlit plant grows better",
+        "The dark plant blooms first"
+      ],
+      "correct": 2,
+      "explain": "Plants need sunlight for photosynthesis. Without light, the plant in the closet cannot make food and will struggle to grow."
+    },
+    {
+      "id": "g1_v6_097",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Food Chains",
+      "difficulty": 2,
+      "prompt": "In a food chain: grass → grasshopper → frog → snake. What does the grasshopper EAT?",
+      "visual": "🦗",
+      "options": [
+        "Frog",
+        "Snake",
+        "Grass",
+        "Nothing"
+      ],
+      "correct": 2,
+      "explain": "In the chain grass → grasshopper → frog → snake, the grasshopper eats the grass (the thing before it)."
+    },
+    {
+      "id": "g1_v6_098",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 2,
+      "prompt": "Who helps put out fires and rescue people in emergencies?",
+      "visual": "🚒",
+      "options": [
+        "Teacher",
+        "Librarian",
+        "Firefighter",
+        "Chef"
+      ],
+      "correct": 2,
+      "explain": "Firefighters use fire trucks and hoses to put out fires and keep the community safe."
+    },
+    {
+      "id": "g1_v6_099",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Neighborhood",
+      "difficulty": 2,
+      "prompt": "Which place in a community would you go to borrow a book for free?",
+      "visual": "📚",
+      "options": [
+        "Bank",
+        "Library",
+        "Hospital",
+        "Fire Station"
+      ],
+      "correct": 1,
+      "explain": "A library is a community building where you can borrow books and other materials for free."
+    },
+    {
+      "id": "g1_v6_100",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 3,
+      "prompt": "What does a MAP KEY (legend) tell you?",
+      "visual": "🗺️",
+      "options": [
+        "How big the map is",
+        "What the symbols and colors on the map mean",
+        "Where north is",
+        "How far one place is from another"
+      ],
+      "correct": 1,
+      "explain": "The map key (or legend) explains what each symbol, color, or line on the map represents."
+    },
+    {
+      "id": "g4_v5_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "1/4 + 2/4 = ?",
+      "options": [
+        "2/8",
+        "3/4",
+        "3/8",
+        "2/4"
+      ],
+      "correct": 1,
+      "explain": "When denominators are the same, add numerators only: 1 + 2 = 3. Answer: 3/4."
+    },
+    {
+      "id": "g4_v5_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "5/8 − 2/8 = ?",
+      "options": [
+        "3/0",
+        "3/8",
+        "3/16",
+        "7/8"
+      ],
+      "correct": 1,
+      "explain": "Subtract numerators, keep the same denominator: 5 − 2 = 3. Answer: 3/8."
+    },
+    {
+      "id": "g4_v5_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "Which fraction is EQUIVALENT to 2/4?",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "2/8"
+      ],
+      "correct": 1,
+      "explain": "2/4 = 1/2. Divide both numerator and denominator by 2: 2÷2=1, 4÷2=2."
+    },
+    {
+      "id": "g4_v5_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "Which is GREATER: 3/5 or 2/5?",
+      "options": [
+        "2/5",
+        "3/5",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correct": 1,
+      "explain": "Same denominator: compare numerators. 3 > 2, so 3/5 > 2/5."
+    },
+    {
+      "id": "g4_v5_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "A pizza has 8 slices. Maya eats 3 slices. What fraction did she eat?",
+      "visual": "🍕",
+      "options": [
+        "3/5",
+        "5/8",
+        "3/8",
+        "8/3"
+      ],
+      "correct": 2,
+      "explain": "Maya ate 3 out of 8 slices = 3/8 of the pizza."
+    },
+    {
+      "id": "g4_v5_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "1/3 + 1/6 = ? (Hint: find a common denominator)",
+      "options": [
+        "2/9",
+        "2/6",
+        "3/6",
+        "1/2"
+      ],
+      "correct": 2,
+      "explain": "Convert 1/3 to 2/6. Now: 2/6 + 1/6 = 3/6 = 1/2."
+    },
+    {
+      "id": "g4_v5_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "A recipe needs 3/4 cup of flour. You only have 1/4 cup. How much MORE do you need?",
+      "visual": "🥣",
+      "options": [
+        "1/4",
+        "2/4",
+        "3/4",
+        "4/4"
+      ],
+      "correct": 1,
+      "explain": "3/4 − 1/4 = 2/4 = 1/2. You need 2/4 (or 1/2) cup more flour."
+    },
+    {
+      "id": "g4_v5_008",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Order from least to greatest: 3/4, 1/2, 1/4",
+      "options": [
+        "3/4, 1/2, 1/4",
+        "1/4, 1/2, 3/4",
+        "1/2, 1/4, 3/4",
+        "1/4, 3/4, 1/2"
+      ],
+      "correct": 1,
+      "explain": "Convert to same denominator (fourths): 1/4 < 2/4 < 3/4. So: 1/4, 1/2, 3/4."
+    },
+    {
+      "id": "g4_v5_009",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which mixed number equals 9/4?",
+      "options": [
+        "1 1/4",
+        "2 1/4",
+        "2 2/4",
+        "3 1/4"
+      ],
+      "correct": 1,
+      "explain": "9 ÷ 4 = 2 remainder 1. So 9/4 = 2 and 1/4 = 2 1/4."
+    },
+    {
+      "id": "g4_v5_010",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "A number line goes from 0 to 1. Where is 3/8 located compared to 1/2?",
+      "options": [
+        "3/8 is greater than 1/2",
+        "3/8 is less than 1/2",
+        "3/8 equals 1/2",
+        "Cannot compare"
+      ],
+      "correct": 1,
+      "explain": "1/2 = 4/8. Since 3 < 4, we have 3/8 < 4/8 = 1/2. So 3/8 is less than 1/2."
+    },
+    {
+      "id": "g4_v5_011",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 4,
+      "prompt": "Tom ran 1 2/3 miles on Monday and 2 1/3 miles on Tuesday. How far did he run in total?",
+      "visual": "🏃",
+      "options": [
+        "3 miles",
+        "3 1/3 miles",
+        "4 miles",
+        "3 2/3 miles"
+      ],
+      "correct": 2,
+      "explain": "1 2/3 + 2 1/3: whole numbers 1+2=3; fractions 2/3+1/3=3/3=1. Total: 3+1=4 miles."
+    },
+    {
+      "id": "g4_v5_012",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 4,
+      "prompt": "A baker uses 5/6 of a bag of sugar. He uses 1/3 for frosting. How much is left for the rest of the cake?",
+      "visual": "🎂",
+      "options": [
+        "1/6",
+        "2/6",
+        "3/6",
+        "4/6"
+      ],
+      "correct": 2,
+      "explain": "1/3 = 2/6. So 5/6 − 2/6 = 3/6 = 1/2 left for the rest of the cake."
+    },
+    {
+      "id": "g4_v5_013",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 4,
+      "prompt": "Which fraction is equivalent to 3/5 AND greater than 1/2?",
+      "options": [
+        "6/10",
+        "3/10",
+        "4/10",
+        "2/5"
+      ],
+      "correct": 0,
+      "explain": "3/5 = 6/10 (multiply by 2/2). Is 6/10 > 1/2 = 5/10? Yes! 6/10 > 5/10."
+    },
+    {
+      "id": "g4_v5_014",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "What decimal equals 7/10?",
+      "options": [
+        "7",
+        "0.07",
+        "0.7",
+        "70"
+      ],
+      "correct": 2,
+      "explain": "7/10 means 7 tenths. Written as a decimal: 0.7."
+    },
+    {
+      "id": "g4_v5_015",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which is GREATER: 0.6 or 0.4?",
+      "options": [
+        "0.4",
+        "0.6",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "correct": 1,
+      "explain": "Both are in the tenths place. 6 tenths > 4 tenths, so 0.6 > 0.4."
+    },
+    {
+      "id": "g4_v5_016",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "What is 3.4 + 1.2?",
+      "options": [
+        "4.2",
+        "4.5",
+        "4.6",
+        "4.8"
+      ],
+      "correct": 2,
+      "explain": "Tenths: 4 + 2 = 6. Ones: 3 + 1 = 4. Answer: 4.6."
+    },
+    {
+      "id": "g4_v5_017",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Order from least to greatest: 0.5, 0.25, 0.75",
+      "options": [
+        "0.75, 0.5, 0.25",
+        "0.25, 0.5, 0.75",
+        "0.5, 0.25, 0.75",
+        "0.25, 0.75, 0.5"
+      ],
+      "correct": 1,
+      "explain": "0.25 = 25 hundredths, 0.5 = 50 hundredths, 0.75 = 75 hundredths. Least to greatest: 0.25, 0.5, 0.75."
+    },
+    {
+      "id": "g4_v5_018",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "A bottle holds 1.75 liters. You drink 0.5 liters. How much is left?",
+      "visual": "🧴",
+      "options": [
+        "1.20",
+        "1.25",
+        "1.30",
+        "1.35"
+      ],
+      "correct": 1,
+      "explain": "1.75 − 0.50 = 1.25 liters remain."
+    },
+    {
+      "id": "g4_v5_019",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "What decimal is equivalent to 45/100?",
+      "options": [
+        "4.5",
+        "0.045",
+        "0.45",
+        "45"
+      ],
+      "correct": 2,
+      "explain": "45/100 = 45 hundredths = 0.45. Two decimal places for hundredths."
+    },
+    {
+      "id": "g4_v5_020",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 4,
+      "prompt": "Maria earns $8.75 per hour and works 4 hours. She spends $12.50. How much does she have left?",
+      "visual": "💰",
+      "options": [
+        "$22.00",
+        "$22.50",
+        "$23.00",
+        "$23.50"
+      ],
+      "correct": 1,
+      "explain": "$8.75 × 4 = $35.00. Then $35.00 − $12.50 = $22.50 left."
+    },
+    {
+      "id": "g4_v5_021",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 4,
+      "prompt": "A car travels 12.4 miles on Monday and 8.75 miles on Tuesday. How many miles in total?",
+      "visual": "🚗",
+      "options": [
+        "20.15",
+        "21.05",
+        "21.15",
+        "21.25"
+      ],
+      "correct": 2,
+      "explain": "12.40 + 8.75 = 21.15 miles. Align decimal points and add!"
+    },
+    {
+      "id": "g4_v5_022",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "There are 6 boxes with 9 crayons each. How many crayons in all?",
+      "visual": "🖍️",
+      "options": [
+        "48",
+        "52",
+        "54",
+        "56"
+      ],
+      "correct": 2,
+      "explain": "6 × 9 = 54 crayons total."
+    },
+    {
+      "id": "g4_v5_023",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "A store has 48 apples. They sell 16 and get a delivery of 24 more. How many apples now?",
+      "visual": "🍎",
+      "options": [
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "correct": 2,
+      "explain": "48 − 16 = 32, then 32 + 24 = 56 apples."
+    },
+    {
+      "id": "g4_v5_024",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Books cost $7 each. How much do 8 books cost?",
+      "visual": "📚",
+      "options": [
+        "$48",
+        "$54",
+        "$56",
+        "$63"
+      ],
+      "correct": 2,
+      "explain": "8 × $7 = $56. Multiply number of books by the price."
+    },
+    {
+      "id": "g4_v5_025",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "A school orders 15 boxes of pencils with 24 pencils each. They give 80 pencils to the art room. How many pencils remain?",
+      "visual": "✏️",
+      "options": [
+        "270",
+        "275",
+        "280",
+        "285"
+      ],
+      "correct": 2,
+      "explain": "15 × 24 = 360 pencils. Then 360 − 80 = 280 pencils remain."
+    },
+    {
+      "id": "g4_v5_026",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Three friends share $75 equally. Each then spends $8. How much does each have left?",
+      "visual": "💵",
+      "options": [
+        "$15",
+        "$17",
+        "$19",
+        "$21"
+      ],
+      "correct": 1,
+      "explain": "$75 ÷ 3 = $25 each. Then $25 − $8 = $17. Each friend has $17 left."
+    },
+    {
+      "id": "g4_v5_027",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "A train travels 240 miles in 4 hours. At the same speed, how far does it travel in 7 hours?",
+      "visual": "🚂",
+      "options": [
+        "380",
+        "400",
+        "420",
+        "440"
+      ],
+      "correct": 2,
+      "explain": "Speed = 240 ÷ 4 = 60 mph. Distance in 7 hours = 60 × 7 = 420 miles."
+    },
+    {
+      "id": "g4_v5_028",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Maya saves $12 per week. After 8 weeks she buys a book for $35. How much does she have left?",
+      "visual": "💰",
+      "options": [
+        "$58",
+        "$60",
+        "$61",
+        "$62"
+      ],
+      "correct": 2,
+      "explain": "$12 × 8 = $96 saved. $96 − $35 = $61 left."
+    },
+    {
+      "id": "g4_v5_029",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "A field is 32 meters long and 18 meters wide. What is its perimeter?",
+      "visual": "📐",
+      "options": [
+        "96 m",
+        "98 m",
+        "100 m",
+        "102 m"
+      ],
+      "correct": 2,
+      "explain": "Perimeter = 2 × (length + width) = 2 × (32 + 18) = 2 × 50 = 100 meters."
+    },
+    {
+      "id": "g4_v5_030",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A factory makes 1,248 toys in 8 hours. At the same rate, how many toys can it make in 5 hours?",
+      "visual": "🏭",
+      "options": [
+        "720",
+        "750",
+        "780",
+        "810"
+      ],
+      "correct": 2,
+      "explain": "Rate = 1,248 ÷ 8 = 156 toys/hour. In 5 hours: 156 × 5 = 780 toys."
+    },
+    {
+      "id": "g4_v5_031",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "There are 365 days in a year. 7 friends each pick a different day to bring snacks. How many weeks pass before all 7 have taken a turn? (Assume one turn per week.)",
+      "visual": "📅",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "If each friend takes one week's turn, 7 friends need 7 weeks to all take a turn."
+    },
+    {
+      "id": "g4_v5_032",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A rectangle has area 84 sq cm and width 7 cm. What is the perimeter?",
+      "visual": "📐",
+      "options": [
+        "34 cm",
+        "38 cm",
+        "40 cm",
+        "42 cm"
+      ],
+      "correct": 1,
+      "explain": "Area = l × w → 84 = l × 7 → l = 12 cm. Perimeter = 2(12 + 7) = 2 × 19 = 38 cm."
+    },
+    {
+      "id": "g4_v5_033",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 2,
+      "prompt": "27 ÷ 4 = ?",
+      "options": [
+        "5 R3",
+        "6 R3",
+        "6 R2",
+        "7 R1"
+      ],
+      "correct": 1,
+      "explain": "4 × 6 = 24. 27 − 24 = 3. So 27 ÷ 4 = 6 remainder 3."
+    },
+    {
+      "id": "g4_v5_034",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 2,
+      "prompt": "35 ÷ 6 = ?",
+      "options": [
+        "5 R4",
+        "5 R5",
+        "6 R1",
+        "6 R2"
+      ],
+      "correct": 1,
+      "explain": "6 × 5 = 30. 35 − 30 = 5. So 35 ÷ 6 = 5 remainder 5."
+    },
+    {
+      "id": "g4_v5_035",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 2,
+      "prompt": "42 cookies shared equally among 5 friends. How many cookies does each get, and how many are left?",
+      "visual": "🍪",
+      "options": [
+        "7 R3",
+        "8 R2",
+        "7 R7",
+        "8 R7"
+      ],
+      "correct": 1,
+      "explain": "5 × 8 = 40. 42 − 40 = 2. Each friend gets 8 cookies with 2 left over."
+    },
+    {
+      "id": "g4_v5_036",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "128 ÷ 8 = ?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct": 2,
+      "explain": "8 × 16 = 128. Check: 8 × 10 = 80, 8 × 6 = 48, 80 + 48 = 128. Answer: 16."
+    },
+    {
+      "id": "g4_v5_037",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "A teacher has 196 stickers to share among 7 classes equally. How many does each class get?",
+      "visual": "⭐",
+      "options": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "correct": 2,
+      "explain": "196 ÷ 7 = 28. Check: 7 × 28 = 196. Each class gets 28 stickers."
+    },
+    {
+      "id": "g4_v5_038",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "217 students need to be split into groups of 9. How many COMPLETE groups are there?",
+      "options": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "correct": 1,
+      "explain": "217 ÷ 9 = 24 remainder 1. So there are 24 complete groups (1 student is left over)."
+    },
+    {
+      "id": "g4_v5_039",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 3,
+      "prompt": "Which division problem has a remainder of 3?",
+      "options": [
+        "20 ÷ 5",
+        "27 ÷ 6",
+        "25 ÷ 4",
+        "18 ÷ 3"
+      ],
+      "correct": 1,
+      "explain": "27 ÷ 6 = 4 R3 (6 × 4 = 24, 27 − 24 = 3). Check others: 20÷5=4 R0, 25÷4=6 R1, 18÷3=6 R0."
+    },
+    {
+      "id": "g4_v5_040",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 4,
+      "prompt": "A school van holds 12 students. There are 185 students going on a trip. How many vans are needed so ALL students can go?",
+      "visual": "🚐",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct": 2,
+      "explain": "185 ÷ 12 = 15 R5. Since 5 students are left over, you need 1 more van. Total: 15 + 1 = 16 vans."
+    },
+    {
+      "id": "g4_v5_041",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 4,
+      "prompt": "A baker makes 756 muffins and packs them in boxes of 12. How many full boxes and how many muffins are left over?",
+      "visual": "🧁",
+      "options": [
+        "62 boxes, 8 left",
+        "63 boxes, 0 left",
+        "63 boxes, 6 left",
+        "64 boxes, 4 left"
+      ],
+      "correct": 1,
+      "explain": "756 ÷ 12 = 63 exactly. 12 × 63 = 756. So 63 full boxes with 0 left over."
+    },
+    {
+      "id": "g4_v5_042",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 2,
+      "prompt": "Which number is a PRIME number?",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "A prime number has exactly 2 factors: 1 and itself. 7 = 1 × 7 only. So 7 is prime."
+    },
+    {
+      "id": "g4_v5_043",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 2,
+      "prompt": "List all factors of 12.",
+      "options": [
+        "1, 2, 3, 4, 6, 12",
+        "1, 2, 4, 8, 12",
+        "1, 3, 4, 6, 12",
+        "2, 3, 4, 6, 12"
+      ],
+      "correct": 0,
+      "explain": "Factors of 12: 1×12, 2×6, 3×4. So factors are: 1, 2, 3, 4, 6, 12."
+    },
+    {
+      "id": "g4_v5_044",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 2,
+      "prompt": "Which is a multiple of 6?",
+      "options": [
+        "14",
+        "20",
+        "30",
+        "32"
+      ],
+      "correct": 2,
+      "explain": "Multiples of 6: 6, 12, 18, 24, 30... 30 ÷ 6 = 5. So 30 is a multiple of 6."
+    },
+    {
+      "id": "g4_v5_045",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 2,
+      "prompt": "Is 15 prime or composite?",
+      "options": [
+        "Prime — only 1 and 15 divide it",
+        "Composite — 3 and 5 also divide it",
+        "Prime — it ends in 5",
+        "Composite — all odd numbers are composite"
+      ],
+      "correct": 1,
+      "explain": "15 = 1 × 15 = 3 × 5. Since it has more than 2 factors, 15 is COMPOSITE."
+    },
+    {
+      "id": "g4_v5_046",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 3,
+      "prompt": "What is the Greatest Common Factor (GCF) of 16 and 24?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 2,
+      "explain": "Factors of 16: 1,2,4,8,16. Factors of 24: 1,2,3,4,6,8,12,24. Largest common factor: 8."
+    },
+    {
+      "id": "g4_v5_047",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 3,
+      "prompt": "What is the Least Common Multiple (LCM) of 4 and 6?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "24"
+      ],
+      "correct": 2,
+      "explain": "Multiples of 4: 4, 8, 12, 16... Multiples of 6: 6, 12, 18... First common: 12."
+    },
+    {
+      "id": "g4_v5_048",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 3,
+      "prompt": "A number between 30 and 40 is prime. Which number is it?",
+      "options": [
+        "32",
+        "35",
+        "37",
+        "39"
+      ],
+      "correct": 2,
+      "explain": "32=2×16, 35=5×7, 39=3×13, but 37 has only factors 1 and 37. So 37 is prime."
+    },
+    {
+      "id": "g4_v5_049",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 2,
+      "prompt": "'Jen pulled on her boots and grabbed an umbrella.' What can you INFER about the weather?",
+      "options": [
+        "It is sunny",
+        "It is raining or about to rain",
+        "It is snowing",
+        "It is windy"
+      ],
+      "correct": 1,
+      "explain": "Boots and an umbrella suggest protection from rain. We infer it is raining or about to rain."
+    },
+    {
+      "id": "g4_v5_050",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 2,
+      "prompt": "'Carlos studied for two hours every night. On Friday, he smiled when he got his test back.' What can you INFER?",
+      "options": [
+        "Carlos failed the test",
+        "Carlos did well on the test",
+        "Carlos forgot to study",
+        "The test was easy for everyone"
+      ],
+      "correct": 1,
+      "explain": "Studying hard + smiling when getting results → we infer he did well. His smile is a clue!"
+    },
+    {
+      "id": "g4_v5_051",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 2,
+      "prompt": "'The audience was silent. Then everyone burst into applause.' What does this tell you about the performance?",
+      "options": [
+        "The audience was bored",
+        "The performance was bad",
+        "The audience was excited and impressed",
+        "The performers left early"
+      ],
+      "correct": 2,
+      "explain": "Silence during the performance + applause at the end = the audience was impressed and excited!"
+    },
+    {
+      "id": "g4_v5_052",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "prompt": "Read: 'Min walked into the store and looked at the long line. She sighed, checked her watch, then put her basket down and left.' Why did Min MOST LIKELY leave?",
+      "options": [
+        "She forgot her money",
+        "The store was closed",
+        "She didn't have enough time to wait",
+        "She didn't need anything"
+      ],
+      "correct": 2,
+      "explain": "Checking her watch + sighing + leaving = she realized she didn't have time to wait in the long line."
+    },
+    {
+      "id": "g4_v5_053",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "prompt": "'The old house had broken windows and an overgrown yard. No lights were ever on at night.' What can you INFER?",
+      "options": [
+        "The house was newly built",
+        "No one has lived there for a long time",
+        "The owners like darkness",
+        "The neighbors cut the grass"
+      ],
+      "correct": 1,
+      "explain": "Broken windows + overgrown yard + no lights = clues that the house has been abandoned (no one living there)."
+    },
+    {
+      "id": "g4_v5_054",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "prompt": "'Dad kept glancing at the door and checking the time. He had set the table with the good dishes.' What was Dad MOST LIKELY doing?",
+      "options": [
+        "Getting ready to go to work",
+        "Expecting important guests for dinner",
+        "Cooking a meal for himself",
+        "Waiting to watch a show"
+      ],
+      "correct": 1,
+      "explain": "Good dishes + watching the door + checking time = he was expecting special guests for a formal dinner."
+    },
+    {
+      "id": "g4_v5_055",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "prompt": "'The scientist stared at her notebook, shook her head, and crossed something out. Then she smiled and began writing quickly.' What happened?",
+      "options": [
+        "She made a mistake and gave up",
+        "She was bored",
+        "She solved a problem she had been working on",
+        "She copied someone else's work"
+      ],
+      "correct": 2,
+      "explain": "Crossing out (mistake) + sudden smile + fast writing = she found the solution after struggling with a problem."
+    },
+    {
+      "id": "g4_v5_056",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "prompt": "'Everyone at the table grew quiet when Uncle Joe cleared his throat.' What can you INFER?",
+      "options": [
+        "Uncle Joe had a cold",
+        "Uncle Joe was about to say something important",
+        "Everyone was sleepy",
+        "The food was very hot"
+      ],
+      "correct": 1,
+      "explain": "Everyone going quiet when one person clears their throat = that person has authority or is about to make an announcement."
+    },
+    {
+      "id": "g4_v5_057",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "prompt": "A passage describes a character who 'never smiled, spoke only when necessary, and walked with heavy steps.' What is this character MOST LIKELY feeling?",
+      "options": [
+        "Joyful",
+        "Nervous",
+        "Sad or burdened",
+        "Excited"
+      ],
+      "correct": 2,
+      "explain": "Not smiling + few words + heavy steps = the author is using details to show the character feels sad or weighed down."
+    },
+    {
+      "id": "g4_v5_058",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "Read: 'The mayor promised to fix the potholes. A year later, the same street was still full of holes — but three new signs had been put up warning drivers to slow down.' What does this MOST LIKELY suggest?",
+      "options": [
+        "The signs fixed the problem",
+        "The mayor kept the promise in a different way",
+        "The promise was not fully kept",
+        "Drivers caused the potholes"
+      ],
+      "correct": 2,
+      "explain": "Signs instead of repairs = the actual promise (fix potholes) was not kept. The signs are a workaround, not the solution."
+    },
+    {
+      "id": "g4_v5_059",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Author's Purpose",
+      "difficulty": 4,
+      "prompt": "An article says: 'Studies show students who eat breakfast score 15% higher on tests. Skipping breakfast is linked to poor focus.' What is the author's PRIMARY purpose?",
+      "options": [
+        "To entertain with stories",
+        "To persuade readers that breakfast matters for learning",
+        "To tell a story about a student",
+        "To compare different breakfasts"
+      ],
+      "correct": 1,
+      "explain": "Using evidence (studies, statistics) to show breakfast helps = persuasive purpose. The author wants readers to believe breakfast is important."
+    },
+    {
+      "id": "g4_v5_060",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "prompt": "In a story, a turtle wins a race against a rabbit because he kept going steadily while the rabbit took a nap. What is the THEME?",
+      "options": [
+        "Turtles are faster than rabbits",
+        "Slow animals win races",
+        "Persistence and steady effort lead to success",
+        "Never sleep during the day"
+      ],
+      "correct": 2,
+      "explain": "The story's lesson (theme) is about the value of steady effort and persistence, not giving up."
+    },
+    {
+      "id": "g4_v5_061",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 2,
+      "prompt": "Text 1 says the sun is a star. Text 2 says the moon reflects the sun's light. What is ONE WAY these texts are ALIKE?",
+      "options": [
+        "Both are about the moon",
+        "Both mention the sun",
+        "Both explain gravity",
+        "Both describe planets"
+      ],
+      "correct": 1,
+      "explain": "Both texts involve the sun. Text 1 describes what the sun is; Text 2 mentions the sun's role in lighting the moon."
+    },
+    {
+      "id": "g4_v5_062",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 2,
+      "prompt": "A fiction story and a nonfiction article both describe wolves. How are they DIFFERENT?",
+      "options": [
+        "Only fiction uses words",
+        "Nonfiction uses facts; fiction may invent details",
+        "Fiction always has pictures",
+        "Nonfiction is always shorter"
+      ],
+      "correct": 1,
+      "explain": "The key difference: nonfiction uses verified facts; fiction can include invented characters, events, or details."
+    },
+    {
+      "id": "g4_v5_063",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 3,
+      "prompt": "Author A argues that zoos help protect endangered animals. Author B argues that zoos restrict natural behavior. What do BOTH authors agree on?",
+      "options": [
+        "Zoos are always harmful",
+        "Zoos affect animals in some way",
+        "Animals should be free",
+        "Endangered animals don't need help"
+      ],
+      "correct": 1,
+      "explain": "Even though they disagree on zoos, BOTH authors acknowledge that zoos have an effect on animals — just different effects."
+    },
+    {
+      "id": "g4_v5_064",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 3,
+      "prompt": "Two articles both describe the American Revolution. Article 1 focuses on causes; Article 2 focuses on key battles. How are they DIFFERENT?",
+      "options": [
+        "One is fiction, one is nonfiction",
+        "They cover different aspects of the same event",
+        "They describe different wars",
+        "Only one uses dates"
+      ],
+      "correct": 1,
+      "explain": "Both cover the American Revolution (same topic) but focus on different aspects: causes vs. battles."
+    },
+    {
+      "id": "g4_v5_065",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 3,
+      "prompt": "Read: 'Solar panels use sunlight. Wind turbines use wind. Both produce clean electricity without burning fuel.' What is the PURPOSE of the comparison?",
+      "options": [
+        "To show solar is better than wind",
+        "To explain that both have advantages as clean energy sources",
+        "To argue we should stop using both",
+        "To show they are completely different"
+      ],
+      "correct": 1,
+      "explain": "The comparison highlights that BOTH solar and wind are clean energy alternatives, not that one is better than the other."
+    },
+    {
+      "id": "g4_v5_066",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "'Her voice was music to his ears.' This is an example of which literary device?",
+      "options": [
+        "Hyperbole",
+        "Simile",
+        "Metaphor",
+        "Alliteration"
+      ],
+      "correct": 2,
+      "explain": "This is a METAPHOR — it compares her voice TO music directly, without using 'like' or 'as'."
+    },
+    {
+      "id": "g4_v5_067",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "'I've told you a million times to clean your room!' This is an example of:",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Hyperbole",
+        "Personification"
+      ],
+      "correct": 2,
+      "explain": "HYPERBOLE is an extreme exaggeration. 'A million times' is an exaggeration to show frustration — not a literal count."
+    },
+    {
+      "id": "g4_v5_068",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "'The leaves danced in the breeze.' What literary device is this?",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Hyperbole",
+        "Personification"
+      ],
+      "correct": 3,
+      "explain": "PERSONIFICATION gives a human quality (dancing) to something nonhuman (leaves)."
+    },
+    {
+      "id": "g4_v5_069",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "'Like a ship without a compass, he wandered through life with no direction.' This contains which TWO devices?",
+      "options": [
+        "Metaphor and hyperbole",
+        "Simile and metaphor",
+        "Simile and personification",
+        "Alliteration and simile"
+      ],
+      "correct": 1,
+      "explain": "'Like a ship without a compass' is a SIMILE (uses 'like'). 'Wandered through life' extends the comparison as a METAPHOR (life = a journey at sea)."
+    },
+    {
+      "id": "g4_v5_070",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "An article says: 'Because of heavy rain, the river flooded. As a result, the bridge was closed.' What text structure is this?",
+      "options": [
+        "Compare/Contrast",
+        "Sequence",
+        "Cause/Effect",
+        "Problem/Solution"
+      ],
+      "correct": 2,
+      "explain": "'Because of' and 'as a result' are signal words for CAUSE/EFFECT structure. Rain → flood → closed bridge."
+    },
+    {
+      "id": "g4_v5_071",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "An article explains 'first,' 'second,' and 'finally' steps to plant a tree. What is the text structure?",
+      "options": [
+        "Cause/Effect",
+        "Sequence/Chronological",
+        "Compare/Contrast",
+        "Persuasive"
+      ],
+      "correct": 1,
+      "explain": "Words like 'first,' 'second,' 'finally' signal SEQUENCE or CHRONOLOGICAL order."
+    },
+    {
+      "id": "g4_v5_072",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 2,
+      "prompt": "Read: 'Exercise keeps your heart strong. It builds muscle. It also improves your mood.' What is the MAIN IDEA?",
+      "options": [
+        "Exercise builds muscle",
+        "Exercise improves your mood",
+        "Exercise is good for your health in many ways",
+        "Running is better than walking"
+      ],
+      "correct": 2,
+      "explain": "All the details (heart, muscle, mood) support one main idea: exercise benefits your health in many ways."
+    },
+    {
+      "id": "g4_v5_073",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "A paragraph says: 'The Amazon River is one of the world's longest rivers. It flows through South America. It supports millions of plant and animal species.' Which detail BEST supports that the Amazon is important to life?",
+      "options": [
+        "It is one of the longest rivers",
+        "It flows through South America",
+        "It supports millions of species",
+        "It has a long name"
+      ],
+      "correct": 2,
+      "explain": "'Supports millions of plant and animal species' directly shows the Amazon's importance to life."
+    },
+    {
+      "id": "g4_v5_074",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Author's Purpose",
+      "difficulty": 4,
+      "prompt": "'Our school's old heating system breaks down every winter, wasting money on repairs. A new system would pay for itself in 3 years through energy savings.' What is the author's purpose AND strategy?",
+      "options": [
+        "To inform using facts only",
+        "To persuade using a cost-benefit argument",
+        "To entertain with a story about heating",
+        "To describe the history of heating"
+      ],
+      "correct": 1,
+      "explain": "The author wants to PERSUADE by using a cost-benefit argument — showing the new system saves more money than it costs."
+    },
+    {
+      "id": "g4_v5_075",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "prompt": "In a story, a girl refuses to give up learning to read despite many failures. Eventually she reads her first book and cries with joy. What THEME best fits?",
+      "options": [
+        "Reading is easy for most people",
+        "Crying shows weakness",
+        "Hard work and determination lead to meaningful achievement",
+        "Success comes quickly to smart people"
+      ],
+      "correct": 2,
+      "explain": "The girl's journey — many failures + refusing to quit → eventual joy — illustrates that hard work and determination lead to achievement."
+    },
+    {
+      "id": "g4_v5_076",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the PAST PROGRESSIVE tense correctly?",
+      "options": [
+        "She will be singing.",
+        "She is singing.",
+        "She was singing.",
+        "She had sung."
+      ],
+      "correct": 2,
+      "explain": "Past progressive = was/were + verb-ing. 'She WAS SINGING' describes an ongoing action in the past."
+    },
+    {
+      "id": "g4_v5_077",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 2,
+      "prompt": "'They ___ the project for two hours when the power went out.' Which verb completes this CORRECTLY?",
+      "options": [
+        "worked",
+        "are working",
+        "were working",
+        "will work"
+      ],
+      "correct": 2,
+      "explain": "Past progressive shows an ongoing action interrupted by another (power went out). 'were working' is correct."
+    },
+    {
+      "id": "g4_v5_078",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 3,
+      "prompt": "Choose the CORRECT verb: 'By the time we arrived, the show ___ already ___.'",
+      "options": [
+        "has, started",
+        "had, started",
+        "was, start",
+        "did, start"
+      ],
+      "correct": 1,
+      "explain": "Past perfect (had + past participle) is used for an action completed BEFORE another past action. 'Had started' is correct."
+    },
+    {
+      "id": "g4_v5_079",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 3,
+      "prompt": "Which sentence uses the FUTURE PROGRESSIVE correctly?",
+      "options": [
+        "They will finish soon.",
+        "They are finishing now.",
+        "They will be finishing their work at noon.",
+        "They had finished."
+      ],
+      "correct": 2,
+      "explain": "Future progressive = will be + verb-ing. 'Will be finishing' describes an ongoing action in the future."
+    },
+    {
+      "id": "g4_v5_080",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Verb Tenses",
+      "difficulty": 4,
+      "prompt": "Which sentence correctly uses THREE different tenses (past, present, future)?",
+      "options": [
+        "I ran, I run, I will run.",
+        "I was running, I ran, I run.",
+        "I run, I run, I run.",
+        "I ran, I run, I ran."
+      ],
+      "correct": 0,
+      "explain": "'I ran' (simple past) + 'I run' (simple present) + 'I will run' (simple future) = three different tenses used correctly."
+    },
+    {
+      "id": "g4_v5_081",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Relative Pronouns",
+      "difficulty": 2,
+      "prompt": "Choose the correct relative pronoun: 'The dog ___ bit the mailman belongs to my neighbor.'",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "where"
+      ],
+      "correct": 2,
+      "explain": "'That' (or 'which') refers to animals and things. 'The dog THAT bit the mailman' is correct."
+    },
+    {
+      "id": "g4_v5_082",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Relative Pronouns",
+      "difficulty": 3,
+      "prompt": "'The girl ___ won the prize was from our class.' Which word BEST completes the sentence?",
+      "options": [
+        "which",
+        "that",
+        "who",
+        "where"
+      ],
+      "correct": 2,
+      "explain": "'Who' is used for people. 'The girl WHO won the prize' — 'who' introduces the relative clause describing a person."
+    },
+    {
+      "id": "g4_v5_083",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 4,
+      "prompt": "The root 'aud' means 'hear.' Which word MOST LIKELY means 'a person who listens to a performance'?",
+      "options": [
+        "auditorium",
+        "audible",
+        "audience",
+        "audio"
+      ],
+      "correct": 2,
+      "explain": "'Audience' comes from 'aud' (hear) + 'ence' (state/group). An AUDIENCE is the group of people listening or watching a performance."
+    },
+    {
+      "id": "g4_v5_084",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 4,
+      "prompt": "'Bi' means two, 'tri' means three, 'cycle' means wheel. What does BICYCLE mean?",
+      "options": [
+        "Three wheels",
+        "One wheel",
+        "Two wheels",
+        "Fast wheel"
+      ],
+      "correct": 2,
+      "explain": "BI (two) + CYCLE (wheel) = a vehicle with TWO wheels. A TRICYCLE has three wheels."
+    },
+    {
+      "id": "g4_v5_085",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Homophones",
+      "difficulty": 3,
+      "prompt": "Choose the correct word: 'I can't wait to ___ the new movie.' (hear/here)",
+      "options": [
+        "here",
+        "hear",
+        "heer",
+        "haer"
+      ],
+      "correct": 1,
+      "explain": "'Hear' means to listen. 'Here' means at this place. 'I can't wait to HEAR the movie' is correct."
+    },
+    {
+      "id": "g4_v5_086",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Punctuation",
+      "difficulty": 3,
+      "prompt": "Which sentence uses commas CORRECTLY in a series?",
+      "options": [
+        "I bought apples oranges and bananas.",
+        "I bought apples, oranges, and bananas.",
+        "I bought apples, oranges and, bananas.",
+        "I bought, apples, oranges, and bananas."
+      ],
+      "correct": 1,
+      "explain": "In a list of three or more items, use commas to separate them: apples, oranges, and bananas. This follows standard comma usage."
+    },
+    {
+      "id": "g4_v5_087",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Ecosystems",
+      "difficulty": 2,
+      "prompt": "In a forest food chain: acorns → squirrel → hawk. What role do the acorns play?",
+      "visual": "🌰",
+      "options": [
+        "Consumer",
+        "Decomposer",
+        "Producer",
+        "Predator"
+      ],
+      "correct": 2,
+      "explain": "Acorns are seeds from oak trees. Plants/plant parts are PRODUCERS — they make their own food from sunlight."
+    },
+    {
+      "id": "g4_v5_088",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Ecosystems",
+      "difficulty": 3,
+      "prompt": "If all the rabbits in a meadow disappeared, what would MOST LIKELY happen to the fox population?",
+      "visual": "🐇🦊",
+      "options": [
+        "Foxes would increase",
+        "Foxes would decrease",
+        "Foxes would stay the same",
+        "Rabbits would not affect foxes"
+      ],
+      "correct": 1,
+      "explain": "Foxes eat rabbits (rabbits are their prey). Without rabbits, foxes lose a key food source and their population would likely decrease."
+    },
+    {
+      "id": "g4_v5_089",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Adaptations",
+      "difficulty": 3,
+      "prompt": "A cactus has a thick, waxy skin and stores water in its stem. These are adaptations to which environment?",
+      "visual": "🌵",
+      "options": [
+        "Rainforest",
+        "Arctic tundra",
+        "Desert",
+        "Ocean floor"
+      ],
+      "correct": 2,
+      "explain": "The waxy skin prevents water loss and the thick stem stores water — perfect adaptations for surviving in a HOT, DRY desert."
+    },
+    {
+      "id": "g4_v5_090",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy",
+      "difficulty": 3,
+      "prompt": "A ball rolls down a hill and hits a block, moving it. Which energy transformation happened?",
+      "visual": "⚽",
+      "options": [
+        "Chemical → Thermal",
+        "Electrical → Light",
+        "Potential → Kinetic",
+        "Kinetic → Potential"
+      ],
+      "correct": 2,
+      "explain": "The ball at the top of the hill had POTENTIAL energy (stored). As it rolled down, that became KINETIC energy (motion)."
+    },
+    {
+      "id": "g4_v5_091",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Matter",
+      "difficulty": 4,
+      "prompt": "Ice melts into water, then water evaporates into steam. Which sequence of state changes is correct?",
+      "visual": "🧊",
+      "options": [
+        "Solid → Gas → Liquid",
+        "Solid → Liquid → Gas",
+        "Gas → Liquid → Solid",
+        "Liquid → Gas → Solid"
+      ],
+      "correct": 1,
+      "explain": "Ice (solid) → melting → water (liquid) → evaporating → steam (gas). This is: Solid → Liquid → Gas."
+    },
+    {
+      "id": "g4_v5_092",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Earth Science",
+      "difficulty": 3,
+      "prompt": "Which best explains WHY we have seasons on Earth?",
+      "visual": "🌍",
+      "options": [
+        "Earth moves closer to and farther from the Sun",
+        "Earth's axis is tilted as it orbits the Sun",
+        "The Sun's temperature changes throughout the year",
+        "Earth rotates faster in summer"
+      ],
+      "correct": 1,
+      "explain": "Seasons happen because Earth's TILTED AXIS means different parts receive more direct sunlight at different times of year."
+    },
+    {
+      "id": "g4_v5_093",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NYS Geography",
+      "difficulty": 3,
+      "prompt": "Which region of New York State is known for the Adirondack Mountains and dense forests?",
+      "visual": "🏔️",
+      "options": [
+        "Long Island",
+        "New York City",
+        "The Adirondack Region",
+        "Hudson Valley"
+      ],
+      "correct": 2,
+      "explain": "The Adirondack Region in northern New York is famous for its mountains, forests, and outdoor recreation."
+    },
+    {
+      "id": "g4_v5_094",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 3,
+      "prompt": "Which branch of the U.S. government has the power to MAKE laws?",
+      "visual": "🏛️",
+      "options": [
+        "Executive (President)",
+        "Judicial (Supreme Court)",
+        "Legislative (Congress)",
+        "All three equally"
+      ],
+      "correct": 2,
+      "explain": "The LEGISLATIVE branch (Congress = Senate + House of Representatives) is responsible for making federal laws."
+    },
+    {
+      "id": "g4_v5_095",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 3,
+      "prompt": "When demand for a product goes up but supply stays the same, what usually happens to its PRICE?",
+      "visual": "📈",
+      "options": [
+        "Price goes down",
+        "Price stays the same",
+        "Price goes up",
+        "Price becomes free"
+      ],
+      "correct": 2,
+      "explain": "High demand + limited supply = sellers can charge more. Prices RISE when more people want something but there's not more of it."
+    },
+    {
+      "id": "g4_v5_096",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Colonial NY",
+      "difficulty": 3,
+      "prompt": "What was the ORIGINAL name of New York City when it was a Dutch colony?",
+      "visual": "🗽",
+      "options": [
+        "New Amsterdam",
+        "Fort Orange",
+        "Albany",
+        "Brooklyn"
+      ],
+      "correct": 0,
+      "explain": "When the Dutch settled the island of Manhattan in the 1600s, they named it NEW AMSTERDAM. The English renamed it New York in 1664."
+    },
+    {
+      "id": "g4_v5_097",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Operations",
+      "difficulty": 4,
+      "prompt": "1,456 × 23 = ?",
+      "options": [
+        "33,288",
+        "33,488",
+        "33,688",
+        "34,488"
+      ],
+      "correct": 1,
+      "explain": "1,456 × 23: 1,456×3=4,368; 1,456×20=29,120. Total: 4,368+29,120=33,488."
+    },
+    {
+      "id": "g4_v5_098",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 4,
+      "prompt": "Round 6,847 to the nearest hundred AND to the nearest thousand.",
+      "options": [
+        "6,800 and 7,000",
+        "6,900 and 6,000",
+        "6,800 and 6,000",
+        "6,900 and 7,000"
+      ],
+      "correct": 3,
+      "explain": "Nearest hundred: tens digit is 4, so round DOWN → 6,800. Nearest thousand: hundreds digit is 8, so round UP → 7,000."
+    },
+    {
+      "id": "g4_v5_099",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Adjectives",
+      "difficulty": 3,
+      "prompt": "Which sentence uses comparative and superlative adjectives CORRECTLY?",
+      "options": [
+        "This is the tallest building. That one is taller.",
+        "This is the more tall building. That one is tallest.",
+        "This is taller building. That one is most tall.",
+        "This is most tallest. That one is taller."
+      ],
+      "correct": 0,
+      "explain": "'Tallest' = superlative (most of all); 'taller' = comparative (more than one other). 'This is the tallest; that one is taller' is correct."
+    },
+    {
+      "id": "g4_v5_100",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Context Clues",
+      "difficulty": 3,
+      "prompt": "Read: 'The archaeologist carefully excavated the ancient ruins, brushing dirt off each artifact with precision.' What does EXCAVATED most likely mean?",
+      "options": [
+        "Displayed in a museum",
+        "Carefully dug up from the ground",
+        "Photographed for records",
+        "Transported to a lab"
+      ],
+      "correct": 1,
+      "explain": "Context clues: brushing dirt + ruins + precision = digging carefully. 'Excavate' means to carefully dig up buried objects."
+    },
+    {
+      "id": "hw_k_tr_001",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "the",
+      "traceMode": true,
+      "visual": "✏️",
+      "options": [],
+      "correct": 0,
+      "explain": "t-h-e spells the!"
+    },
+    {
+      "id": "hw_k_tr_002",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "and",
+      "traceMode": true,
+      "visual": "➕",
+      "options": [],
+      "correct": 0,
+      "explain": "a-n-d spells and!"
+    },
+    {
+      "id": "hw_k_tr_003",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "cat",
+      "traceMode": true,
+      "visual": "🐱",
+      "options": [],
+      "correct": 0,
+      "explain": "c-a-t spells cat!"
+    },
+    {
+      "id": "hw_k_tr_004",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "dog",
+      "traceMode": true,
+      "visual": "🐶",
+      "options": [],
+      "correct": 0,
+      "explain": "d-o-g spells dog!"
+    },
+    {
+      "id": "hw_k_tr_005",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 1,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "sun",
+      "traceMode": true,
+      "visual": "☀️",
+      "options": [],
+      "correct": 0,
+      "explain": "s-u-n spells sun!"
+    },
+    {
+      "id": "hw_g1_wr_001",
+      "grade": "g1",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "said",
+      "traceMode": false,
+      "visual": "💬",
+      "options": [],
+      "correct": 0,
+      "explain": "s-a-i-d spells said!"
+    },
+    {
+      "id": "hw_g1_wr_002",
+      "grade": "g1",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "was",
+      "traceMode": false,
+      "visual": "⏳",
+      "options": [],
+      "correct": 0,
+      "explain": "w-a-s spells was!"
+    },
+    {
+      "id": "hw_g1_wr_003",
+      "grade": "g1",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "they",
+      "traceMode": false,
+      "visual": "👫",
+      "options": [],
+      "correct": 0,
+      "explain": "t-h-e-y spells they!"
+    },
+    {
+      "id": "hw_g1_wr_004",
+      "grade": "g1",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "from",
+      "traceMode": false,
+      "visual": "📬",
+      "options": [],
+      "correct": 0,
+      "explain": "f-r-o-m spells from!"
+    },
+    {
+      "id": "hw_g1_wr_005",
+      "grade": "g1",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "there",
+      "traceMode": false,
+      "visual": "👉",
+      "options": [],
+      "correct": 0,
+      "explain": "t-h-e-r-e spells there!"
+    },
+    {
+      "id": "hw_k_wr_001",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "look",
+      "traceMode": false,
+      "visual": "👀",
+      "options": [],
+      "correct": 0,
+      "explain": "l-o-o-k spells look!"
+    },
+    {
+      "id": "hw_k_wr_002",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "see",
+      "traceMode": false,
+      "visual": "👁️",
+      "options": [],
+      "correct": 0,
+      "explain": "s-e-e spells see!"
+    },
+    {
+      "id": "hw_k_wr_003",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "like",
+      "traceMode": false,
+      "visual": "❤️",
+      "options": [],
+      "correct": 0,
+      "explain": "l-i-k-e spells like!"
+    },
+    {
+      "id": "hw_k_wr_004",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "my",
+      "traceMode": false,
+      "visual": "🙋",
+      "options": [],
+      "correct": 0,
+      "explain": "m-y spells my!"
+    },
+    {
+      "id": "hw_k_wr_005",
+      "grade": "k",
+      "subject": "spelling",
+      "topic": "Sight Words",
+      "difficulty": 2,
+      "type": "handwriting",
+      "prompt": "Write the word you see",
+      "word": "run",
+      "traceMode": false,
+      "visual": "🏃",
+      "options": [],
+      "correct": 0,
+      "explain": "r-u-n spells run!"
+    },
+    {
+      "id": "zh_k_tr_001",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "一",
+      "pinyin": "yī",
+      "meaning": "one",
+      "traceMode": true,
+      "visual": "1️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "一 (yī) means 'one' — one horizontal stroke!"
+    },
+    {
+      "id": "zh_k_tr_002",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "二",
+      "pinyin": "èr",
+      "meaning": "two",
+      "traceMode": true,
+      "visual": "2️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "二 (èr) means 'two' — two horizontal strokes!"
+    },
+    {
+      "id": "zh_k_tr_003",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "三",
+      "pinyin": "sān",
+      "meaning": "three",
+      "traceMode": true,
+      "visual": "3️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "三 (sān) means 'three' — three lines!"
+    },
+    {
+      "id": "zh_k_tr_004",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "十",
+      "pinyin": "shí",
+      "meaning": "ten",
+      "traceMode": true,
+      "visual": "🔟",
+      "options": [],
+      "correct": 0,
+      "explain": "十 (shí) means 'ten' — a cross shape!"
+    },
+    {
+      "id": "zh_k_tr_005",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "人",
+      "pinyin": "rén",
+      "meaning": "person",
+      "traceMode": true,
+      "visual": "🧍",
+      "options": [],
+      "correct": 0,
+      "explain": "人 (rén) means 'person' — looks like someone walking!"
+    },
+    {
+      "id": "zh_k_tr_006",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "口",
+      "pinyin": "kǒu",
+      "meaning": "mouth",
+      "traceMode": true,
+      "visual": "👄",
+      "options": [],
+      "correct": 0,
+      "explain": "口 (kǒu) means 'mouth' — a square opening!"
+    },
+    {
+      "id": "zh_g1_tr_001",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "山",
+      "pinyin": "shān",
+      "meaning": "mountain",
+      "traceMode": true,
+      "visual": "⛰️",
+      "options": [],
+      "correct": 0,
+      "explain": "山 (shān) means 'mountain' — three peaks!"
+    },
+    {
+      "id": "zh_g1_tr_002",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "日",
+      "pinyin": "rì",
+      "meaning": "sun / day",
+      "traceMode": true,
+      "visual": "☀️",
+      "options": [],
+      "correct": 0,
+      "explain": "日 (rì) means 'sun' or 'day' — a box with a middle line!"
+    },
+    {
+      "id": "zh_g1_tr_003",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "月",
+      "pinyin": "yuè",
+      "meaning": "moon / month",
+      "traceMode": true,
+      "visual": "🌙",
+      "options": [],
+      "correct": 0,
+      "explain": "月 (yuè) means 'moon' or 'month'!"
+    },
+    {
+      "id": "zh_g1_tr_004",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "大",
+      "pinyin": "dà",
+      "meaning": "big",
+      "traceMode": true,
+      "visual": "🦁",
+      "options": [],
+      "correct": 0,
+      "explain": "大 (dà) means 'big' — a person with arms spread wide!"
+    },
+    {
+      "id": "zh_g1_tr_005",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small",
+      "traceMode": true,
+      "visual": "🐭",
+      "options": [],
+      "correct": 0,
+      "explain": "小 (xiǎo) means 'small' — a tiny middle with two dots!"
+    },
+    {
+      "id": "zh_g1_tr_006",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "traceMode": true,
+      "visual": "💧",
+      "options": [],
+      "correct": 0,
+      "explain": "水 (shuǐ) means 'water' — like ripples flowing!"
+    },
+    {
+      "id": "zh_g1_tr_007",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "火",
+      "pinyin": "huǒ",
+      "meaning": "fire",
+      "traceMode": true,
+      "visual": "🔥",
+      "options": [],
+      "correct": 0,
+      "explain": "火 (huǒ) means 'fire' — flames shooting up!"
+    },
+    {
+      "id": "zh_g1_tr_008",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "木",
+      "pinyin": "mù",
+      "meaning": "wood / tree",
+      "traceMode": true,
+      "visual": "🌳",
+      "options": [],
+      "correct": 0,
+      "explain": "木 (mù) means 'wood' or 'tree' — a tree with roots!"
+    },
+    {
+      "id": "zh_g1_tr_009",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "土",
+      "pinyin": "tǔ",
+      "meaning": "earth / soil",
+      "traceMode": true,
+      "visual": "🌍",
+      "options": [],
+      "correct": 0,
+      "explain": "土 (tǔ) means 'earth' or 'soil' — a cross on the ground!"
+    },
+    {
+      "id": "zh_g1_tr_010",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "手",
+      "pinyin": "shǒu",
+      "meaning": "hand",
+      "traceMode": true,
+      "visual": "🤚",
+      "options": [],
+      "correct": 0,
+      "explain": "手 (shǒu) means 'hand' — you can see the fingers!"
+    },
+    {
+      "id": "zh_g1_tr_011",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "目",
+      "pinyin": "mù",
+      "meaning": "eye",
+      "traceMode": true,
+      "visual": "👁️",
+      "options": [],
+      "correct": 0,
+      "explain": "目 (mù) means 'eye' — like an eye standing upright!"
+    },
+    {
+      "id": "zh_g1_tr_012",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "田",
+      "pinyin": "tián",
+      "meaning": "field",
+      "traceMode": true,
+      "visual": "🌾",
+      "options": [],
+      "correct": 0,
+      "explain": "田 (tián) means 'field' — a rice paddy divided into plots!"
+    },
+    {
+      "id": "zh_g3_wr_001",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "中",
+      "pinyin": "zhōng",
+      "meaning": "middle / China",
+      "traceMode": false,
+      "visual": "🎯",
+      "options": [],
+      "correct": 0,
+      "explain": "中 (zhōng) means 'middle' — also short for China (中国)!"
+    },
+    {
+      "id": "zh_g3_wr_002",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "好",
+      "pinyin": "hǎo",
+      "meaning": "good",
+      "traceMode": false,
+      "visual": "👍",
+      "options": [],
+      "correct": 0,
+      "explain": "好 (hǎo) means 'good' — a woman (女) next to a child (子)!"
+    },
+    {
+      "id": "zh_g3_wr_003",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "你",
+      "pinyin": "nǐ",
+      "meaning": "you",
+      "traceMode": false,
+      "visual": "👋",
+      "options": [],
+      "correct": 0,
+      "explain": "你 (nǐ) means 'you' — say 你好 (nǐ hǎo) to greet someone!"
+    },
+    {
+      "id": "zh_g3_wr_004",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "我",
+      "pinyin": "wǒ",
+      "meaning": "I / me",
+      "traceMode": false,
+      "visual": "🙋",
+      "options": [],
+      "correct": 0,
+      "explain": "我 (wǒ) means 'I' or 'me'!"
+    },
+    {
+      "id": "zh_g3_wr_005",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "学",
+      "pinyin": "xué",
+      "meaning": "study / learn",
+      "traceMode": false,
+      "visual": "📚",
+      "options": [],
+      "correct": 0,
+      "explain": "学 (xué) means 'to study' or 'to learn'!"
+    },
+    {
+      "id": "zh_g3_wr_006",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "家",
+      "pinyin": "jiā",
+      "meaning": "home / family",
+      "traceMode": false,
+      "visual": "🏠",
+      "options": [],
+      "correct": 0,
+      "explain": "家 (jiā) means 'home' or 'family'!"
+    },
+
+    {
+      "id": "zh_k_tr_007",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "四",
+      "pinyin": "sì",
+      "meaning": "four",
+      "traceMode": true,
+      "visual": "4️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "四 (sì) means 'four'!"
+    },
+    {
+      "id": "zh_k_tr_008",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "五",
+      "pinyin": "wǔ",
+      "meaning": "five",
+      "traceMode": true,
+      "visual": "5️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "五 (wǔ) means 'five'!"
+    },
+    {
+      "id": "zh_k_tr_009",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "traceMode": true,
+      "visual": "6️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "六 (liù) means 'six'!"
+    },
+    {
+      "id": "zh_k_tr_010",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "七",
+      "pinyin": "qī",
+      "meaning": "seven",
+      "traceMode": true,
+      "visual": "7️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "七 (qī) means 'seven'!"
+    },
+    {
+      "id": "zh_k_tr_011",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "八",
+      "pinyin": "bā",
+      "meaning": "eight",
+      "traceMode": true,
+      "visual": "8️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "八 (bā) means 'eight' — looks like two strokes spreading apart!"
+    },
+    {
+      "id": "zh_k_tr_012",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "九",
+      "pinyin": "jiǔ",
+      "meaning": "nine",
+      "traceMode": true,
+      "visual": "9️⃣",
+      "options": [],
+      "correct": 0,
+      "explain": "九 (jiǔ) means 'nine'!"
+    },
+
+    {
+      "id": "zh_k_tr_013",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "上",
+      "pinyin": "shàng",
+      "meaning": "up / above",
+      "traceMode": true,
+      "visual": "⬆️",
+      "options": [],
+      "correct": 0,
+      "explain": "上 (shàng) means 'up' or 'above' — the line on top!"
+    },
+    {
+      "id": "zh_k_tr_014",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "下",
+      "pinyin": "xià",
+      "meaning": "down / below",
+      "traceMode": true,
+      "visual": "⬇️",
+      "options": [],
+      "correct": 0,
+      "explain": "下 (xià) means 'down' or 'below' — the line on the bottom!"
+    },
+    {
+      "id": "zh_k_tr_015",
+      "grade": "k",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "中",
+      "pinyin": "zhōng",
+      "meaning": "middle",
+      "traceMode": true,
+      "visual": "🎯",
+      "options": [],
+      "correct": 0,
+      "explain": "中 (zhōng) means 'middle' — a line through the center!"
+    },
+
+    {
+      "id": "zh_g1_tr_013",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "红",
+      "pinyin": "hóng",
+      "meaning": "red",
+      "traceMode": true,
+      "visual": "🔴",
+      "options": [],
+      "correct": 0,
+      "explain": "红 (hóng) means 'red'!"
+    },
+    {
+      "id": "zh_g1_tr_014",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "黄",
+      "pinyin": "huáng",
+      "meaning": "yellow",
+      "traceMode": true,
+      "visual": "🟡",
+      "options": [],
+      "correct": 0,
+      "explain": "黄 (huáng) means 'yellow'!"
+    },
+    {
+      "id": "zh_g1_tr_015",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "绿",
+      "pinyin": "lǜ",
+      "meaning": "green",
+      "traceMode": true,
+      "visual": "🟢",
+      "options": [],
+      "correct": 0,
+      "explain": "绿 (lǜ) means 'green'!"
+    },
+    {
+      "id": "zh_g1_tr_016",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "蓝",
+      "pinyin": "lán",
+      "meaning": "blue",
+      "traceMode": true,
+      "visual": "🔵",
+      "options": [],
+      "correct": 0,
+      "explain": "蓝 (lán) means 'blue'!"
+    },
+
+    {
+      "id": "zh_g1_tr_017",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "猫",
+      "pinyin": "māo",
+      "meaning": "cat",
+      "traceMode": true,
+      "visual": "🐱",
+      "options": [],
+      "correct": 0,
+      "explain": "猫 (māo) means 'cat'!"
+    },
+    {
+      "id": "zh_g1_tr_018",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "狗",
+      "pinyin": "gǒu",
+      "meaning": "dog",
+      "traceMode": true,
+      "visual": "🐶",
+      "options": [],
+      "correct": 0,
+      "explain": "狗 (gǒu) means 'dog'!"
+    },
+
+    {
+      "id": "zh_g2_tr_001",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "来",
+      "pinyin": "lái",
+      "meaning": "come",
+      "traceMode": true,
+      "visual": "👋",
+      "options": [],
+      "correct": 0,
+      "explain": "来 (lái) means 'come' — as in 'come here'!"
+    },
+    {
+      "id": "zh_g2_tr_002",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "去",
+      "pinyin": "qù",
+      "meaning": "go",
+      "traceMode": true,
+      "visual": "🚶",
+      "options": [],
+      "correct": 0,
+      "explain": "去 (qù) means 'go' — as in 'let's go'!"
+    },
+    {
+      "id": "zh_g2_tr_003",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "吃",
+      "pinyin": "chī",
+      "meaning": "eat",
+      "traceMode": true,
+      "visual": "🍎",
+      "options": [],
+      "correct": 0,
+      "explain": "吃 (chī) means 'eat'!"
+    },
+    {
+      "id": "zh_g2_tr_004",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "喝",
+      "pinyin": "hē",
+      "meaning": "drink",
+      "traceMode": true,
+      "visual": "🧃",
+      "options": [],
+      "correct": 0,
+      "explain": "喝 (hē) means 'drink'!"
+    },
+    {
+      "id": "zh_g2_tr_005",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "看",
+      "pinyin": "kàn",
+      "meaning": "look / read",
+      "traceMode": true,
+      "visual": "👀",
+      "options": [],
+      "correct": 0,
+      "explain": "看 (kàn) means 'look' or 'read' — a hand (手) over an eye (目)!"
+    },
+
+    {
+      "id": "zh_g2_tr_006",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold",
+      "traceMode": true,
+      "visual": "🥶",
+      "options": [],
+      "correct": 0,
+      "explain": "冷 (lěng) means 'cold'!"
+    },
+    {
+      "id": "zh_g2_tr_007",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "热",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "traceMode": true,
+      "visual": "🥵",
+      "options": [],
+      "correct": 0,
+      "explain": "热 (rè) means 'hot'!"
+    },
+    {
+      "id": "zh_g2_tr_008",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "雨",
+      "pinyin": "yǔ",
+      "meaning": "rain",
+      "traceMode": true,
+      "visual": "🌧️",
+      "options": [],
+      "correct": 0,
+      "explain": "雨 (yǔ) means 'rain' — the dots look like raindrops falling!"
+    },
+    {
+      "id": "zh_g2_tr_009",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "雪",
+      "pinyin": "xuě",
+      "meaning": "snow",
+      "traceMode": true,
+      "visual": "❄️",
+      "options": [],
+      "correct": 0,
+      "explain": "雪 (xuě) means 'snow' — rain (雨) that falls as ice!"
+    },
+    {
+      "id": "zh_g1_tr_019",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "书",
+      "pinyin": "shū",
+      "meaning": "book",
+      "traceMode": true,
+      "visual": "📚",
+      "options": [],
+      "correct": 0,
+      "explain": "书 (shū) means 'book' — you use it to learn!"
+    },
+    {
+      "id": "zh_g1_tr_020",
+      "grade": "g1",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "笔",
+      "pinyin": "bǐ",
+      "meaning": "pen / pencil",
+      "traceMode": true,
+      "visual": "✏️",
+      "options": [],
+      "correct": 0,
+      "explain": "笔 (bǐ) means 'pen' or 'pencil' — you write with it!"
+    },
+    {
+      "id": "zh_g2_tr_010",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "爸",
+      "pinyin": "bà",
+      "meaning": "dad",
+      "traceMode": true,
+      "visual": "👨",
+      "options": [],
+      "correct": 0,
+      "explain": "爸 (bà) means 'dad'!"
+    },
+    {
+      "id": "zh_g2_tr_011",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "妈",
+      "pinyin": "mā",
+      "meaning": "mom",
+      "traceMode": true,
+      "visual": "👩",
+      "options": [],
+      "correct": 0,
+      "explain": "妈 (mā) means 'mom'!"
+    },
+    {
+      "id": "zh_g2_tr_012",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "今",
+      "pinyin": "jīn",
+      "meaning": "today / now",
+      "traceMode": true,
+      "visual": "📅",
+      "options": [],
+      "correct": 0,
+      "explain": "今 (jīn) means 'today' — as in 今天 (jīntiān)!"
+    },
+    {
+      "id": "zh_g2_tr_013",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "明",
+      "pinyin": "míng",
+      "meaning": "bright / tomorrow",
+      "traceMode": true,
+      "visual": "✨",
+      "options": [],
+      "correct": 0,
+      "explain": "明 (míng) means 'bright' — sun (日) and moon (月) together!"
+    },
+    {
+      "id": "zh_g2_tr_014",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "写",
+      "pinyin": "xiě",
+      "meaning": "write",
+      "traceMode": true,
+      "visual": "✍️",
+      "options": [],
+      "correct": 0,
+      "explain": "写 (xiě) means 'to write'!"
+    },
+    {
+      "id": "zh_g2_tr_015",
+      "grade": "g2",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 1,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Trace this Chinese character",
+      "word": "读",
+      "pinyin": "dú",
+      "meaning": "read",
+      "traceMode": true,
+      "visual": "📖",
+      "options": [],
+      "correct": 0,
+      "explain": "读 (dú) means 'to read'!"
+    },
+    {
+      "id": "zh_g3_wr_007",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "他",
+      "pinyin": "tā",
+      "meaning": "he / him",
+      "traceMode": false,
+      "visual": "👦",
+      "options": [],
+      "correct": 0,
+      "explain": "他 (tā) means 'he' or 'him'!"
+    },
+    {
+      "id": "zh_g3_wr_008",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "她",
+      "pinyin": "tā",
+      "meaning": "she / her",
+      "traceMode": false,
+      "visual": "👧",
+      "options": [],
+      "correct": 0,
+      "explain": "她 (tā) means 'she' or 'her'!"
+    },
+    {
+      "id": "zh_g3_wr_009",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "春",
+      "pinyin": "chūn",
+      "meaning": "spring",
+      "traceMode": false,
+      "visual": "🌸",
+      "options": [],
+      "correct": 0,
+      "explain": "春 (chūn) means 'spring' — flowers bloom in spring!"
+    },
+    {
+      "id": "zh_g3_wr_010",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "夏",
+      "pinyin": "xià",
+      "meaning": "summer",
+      "traceMode": false,
+      "visual": "☀️",
+      "options": [],
+      "correct": 0,
+      "explain": "夏 (xià) means 'summer' — hot and sunny!"
+    },
+    {
+      "id": "zh_g3_wr_011",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "秋",
+      "pinyin": "qiū",
+      "meaning": "autumn",
+      "traceMode": false,
+      "visual": "🍂",
+      "options": [],
+      "correct": 0,
+      "explain": "秋 (qiū) means 'autumn' — leaves turn orange and fall!"
+    },
+    {
+      "id": "zh_g3_wr_012",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "冬",
+      "pinyin": "dōng",
+      "meaning": "winter",
+      "traceMode": false,
+      "visual": "⛄",
+      "options": [],
+      "correct": 0,
+      "explain": "冬 (dōng) means 'winter' — cold and snowy!"
+    },
+    {
+      "id": "zh_g3_wr_013",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "写",
+      "pinyin": "xiě",
+      "meaning": "write",
+      "traceMode": false,
+      "visual": "✍️",
+      "options": [],
+      "correct": 0,
+      "explain": "写 (xiě) means 'to write' — practice makes perfect!"
+    },
+    {
+      "id": "zh_g3_wr_014",
+      "grade": "g3",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "读",
+      "pinyin": "dú",
+      "meaning": "read",
+      "traceMode": false,
+      "visual": "📖",
+      "options": [],
+      "correct": 0,
+      "explain": "读 (dú) means 'to read'!"
+    },
+    {
+      "id": "zh_g4_wr_001",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "traceMode": false,
+      "visual": "🗓️",
+      "options": [],
+      "correct": 0,
+      "explain": "年 (nián) means 'year' — as in 新年 (xīnnián), New Year!"
+    },
+    {
+      "id": "zh_g4_wr_002",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "天",
+      "pinyin": "tiān",
+      "meaning": "sky / day",
+      "traceMode": false,
+      "visual": "🌤️",
+      "options": [],
+      "correct": 0,
+      "explain": "天 (tiān) means 'sky' or 'day' — as in 今天 (jīntiān), today!"
+    },
+    {
+      "id": "zh_g4_wr_003",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "风",
+      "pinyin": "fēng",
+      "meaning": "wind",
+      "traceMode": false,
+      "visual": "💨",
+      "options": [],
+      "correct": 0,
+      "explain": "风 (fēng) means 'wind'!"
+    },
+    {
+      "id": "zh_g4_wr_004",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "书",
+      "pinyin": "shū",
+      "meaning": "book",
+      "traceMode": false,
+      "visual": "📚",
+      "options": [],
+      "correct": 0,
+      "explain": "书 (shū) means 'book' — 图书馆 (túshūguǎn) is a library!"
+    },
+    {
+      "id": "zh_g4_wr_005",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "笔",
+      "pinyin": "bǐ",
+      "meaning": "pen / pencil",
+      "traceMode": false,
+      "visual": "✏️",
+      "options": [],
+      "correct": 0,
+      "explain": "笔 (bǐ) means 'pen' or 'pencil'!"
+    },
+    {
+      "id": "zh_g4_wr_006",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "花",
+      "pinyin": "huā",
+      "meaning": "flower",
+      "traceMode": false,
+      "visual": "🌸",
+      "options": [],
+      "correct": 0,
+      "explain": "花 (huā) means 'flower'!"
+    },
+    {
+      "id": "zh_g4_wr_007",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "鱼",
+      "pinyin": "yú",
+      "meaning": "fish",
+      "traceMode": false,
+      "visual": "🐟",
+      "options": [],
+      "correct": 0,
+      "explain": "鱼 (yú) means 'fish'!"
+    },
+    {
+      "id": "zh_g4_wr_008",
+      "grade": "g4",
+      "subject": "chinese",
+      "topic": "Chinese Characters",
+      "difficulty": 2,
+      "type": "handwriting",
+      "language": "zh-Hans",
+      "prompt": "Write this Chinese character",
+      "word": "鸟",
+      "pinyin": "niǎo",
+      "meaning": "bird",
+      "traceMode": false,
+      "visual": "🐦",
+      "options": [],
+      "correct": 0,
+      "explain": "鸟 (niǎo) means 'bird'!"
     }
   ]
 }
