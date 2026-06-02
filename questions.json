@@ -62858,7 +62858,7 @@
     {
       "id": "k_v20_087",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Community Helpers",
       "difficulty": 1,
       "prompt": "This community helper drives a big red truck and uses a hose to put out fires. Who is this?",
@@ -62876,7 +62876,7 @@
     {
       "id": "k_v20_088",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Community Helpers",
       "difficulty": 1,
       "prompt": "A doctor works at a hospital and helps people when they are sick or hurt. What does a doctor do?",
@@ -62894,7 +62894,7 @@
     {
       "id": "k_v20_089",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Community Helpers",
       "difficulty": 1,
       "prompt": "This community helper wears a uniform and badge and helps keep people safe by following and enforcing community rules. Who is this?",
@@ -62912,7 +62912,7 @@
     {
       "id": "k_v20_090",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "My School",
       "difficulty": 1,
       "prompt": "At school, we follow rules so that everyone stays safe and learns. Which is a good school rule?",
@@ -62930,7 +62930,7 @@
     {
       "id": "k_v20_091",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "My School",
       "difficulty": 1,
       "prompt": "Who works in the school office and is the leader of the whole school?",
@@ -62948,7 +62948,7 @@
     {
       "id": "k_v20_092",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Maps and Directions",
       "difficulty": 1,
       "prompt": "A map is a drawing that shows us where places are. What does a map of your neighborhood show?",
@@ -62966,7 +62966,7 @@
     {
       "id": "k_v20_093",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Maps and Directions",
       "difficulty": 2,
       "prompt": "A compass rose on a map shows four main directions. What are those four directions?",
@@ -62984,7 +62984,7 @@
     {
       "id": "k_v20_094",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Maps and Directions",
       "difficulty": 2,
       "prompt": "On a simple map of your classroom, a rectangle symbol shows the reading corner. What does the rectangle represent?",
@@ -63002,7 +63002,7 @@
     {
       "id": "k_v20_095",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "American Symbols",
       "difficulty": 1,
       "prompt": "The American flag has stars and stripes. How many stripes does the American flag have?",
@@ -63020,7 +63020,7 @@
     {
       "id": "k_v20_096",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "American Symbols",
       "difficulty": 1,
       "prompt": "The Statue of Liberty stands in New York Harbor. She holds a torch and a book. What does she represent?",
@@ -63038,7 +63038,7 @@
     {
       "id": "k_v20_097",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "American Symbols",
       "difficulty": 2,
       "prompt": "The bald eagle is the national bird of the United States. Where does the bald eagle appear as a symbol?",
@@ -63056,7 +63056,7 @@
     {
       "id": "k_v20_098",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Seasons and Calendar",
       "difficulty": 1,
       "prompt": "There are four seasons in a year. Which season comes after winter?",
@@ -63074,7 +63074,7 @@
     {
       "id": "k_v20_099",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Seasons and Calendar",
       "difficulty": 1,
       "prompt": "How many days are in a week?",
@@ -63092,7 +63092,7 @@
     {
       "id": "k_v20_100",
       "grade": "k",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Seasons and Calendar",
       "difficulty": 2,
       "prompt": "December, January, and February are usually cold months in New York. What season do these months belong to?",
@@ -64874,7 +64874,7 @@
     {
       "id": "g1_v20_099",
       "grade": "g1",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Families",
       "difficulty": 1,
       "prompt": "Which is an example of a family TRADITION?",
@@ -64892,7 +64892,7 @@
     {
       "id": "g1_v20_100",
       "grade": "g1",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "Families",
       "difficulty": 2,
       "prompt": "Which statement about families is TRUE?",
@@ -66674,7 +66674,7 @@
     {
       "id": "g2_v20_099",
       "grade": "g2",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "My Community",
       "difficulty": 1,
       "prompt": "Which type of community has many tall buildings, millions of people, and lots of traffic — like New York City?",
@@ -66692,7 +66692,7 @@
     {
       "id": "g2_v20_100",
       "grade": "g2",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "My Community",
       "difficulty": 2,
       "prompt": "Which community helper keeps our neighborhood safe?",
@@ -68474,7 +68474,7 @@
     {
       "id": "g3_v20_099",
       "grade": "g3",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "World Communities",
       "difficulty": 2,
       "prompt": "Which statement BEST describes a difference between an urban community and a rural community?",
@@ -68492,7 +68492,7 @@
     {
       "id": "g3_v20_100",
       "grade": "g3",
-      "subject": "social studies",
+      "subject": "social_studies",
       "topic": "World Communities",
       "difficulty": 3,
       "prompt": "Families in different communities around the world celebrate different holidays, eat different foods, and speak different languages. What word describes these differences?",
