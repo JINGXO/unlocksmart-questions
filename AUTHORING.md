@@ -25,7 +25,7 @@ to screenshot, we ship the question and find something else to screenshot.
 
 `DO-NOT-SHIP.md` is the companion file. It governs **what we publish**, never what we write.
 
-Measured against `questions.json` v23 (4,951 questions), 2026-08-28.
+Measured against `questions.json` v24 (4,879 questions), 2026-08-28.
 
 ---
 
@@ -138,7 +138,7 @@ Driven by measured curriculum coverage, not by channel:
 | G4 | **376** | **54%** | Fractions, Division, Decimals |
 | G5 | 291 | 72% | Inference, Word Problem, Algebra |
 
-**1,135 questions (22.9%) carry no standard code.** That is the single largest gap between this
+**1,063 questions (21.8%) carry no standard code.** That is the single largest gap between this
 bank and "matches schoolwork," and it is invisible to a parent right up until they look for it.
 
 Priorities, in order:
@@ -146,14 +146,15 @@ Priorities, in order:
 1. **Backfill standards on existing questions**, worst grades first (G4 at 54%, G1 at 65%).
    Coding an existing good question is cheaper than writing a new one and closes the gap faster.
 2. **Introduce an explicit "no standard applies" value** rather than leaving the field empty. The
-   72 Chinese handwriting questions have no CCSS equivalent and never will; today they are
-   indistinguishable from questions nobody has gotten to yet. Distinguishing "not applicable" from
-   "not yet reviewed" makes the 1,135 number honest.
+   Chinese handwriting questions had no CCSS equivalent and never will, and picture/logic items
+   are in the same position; today they are indistinguishable from questions nobody has gotten to
+   yet. Distinguishing "not applicable" from "not yet reviewed" makes the 1,063 number honest.
 3. **Decide G4/G5 deliberately.** They are the thinnest and worst-coded grades, and 86.5% of the
    bank is Pre-K–G3. Either deepen them or state that this is a Pre-K–G3 product. Right now it is
    the second in practice and the first on the label.
-4. **Fix the 22 Chinese items missing `traceMode`** — the tracing template is the point of those
-   questions, and without it the item silently degrades.
+4. **Before restoring Chinese handwriting** (disabled in v24, preserved in
+   `disabled/chinese-handwriting.json`), fix the 22 items missing `traceMode` — the tracing
+   template is the point of those questions, and without it the item silently degrades.
 5. **Then** write new questions, against the uncoded topic list above.
 
 ---

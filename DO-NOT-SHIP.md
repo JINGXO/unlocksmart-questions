@@ -15,7 +15,7 @@ line of App Store or website copy.** "We'll be careful" is not a control.
 > `python3 validate.py --cards cards.json` exports the screenshot-safe pool so you can *find*
 > existing material rather than commission new material to fit a post.
 
-Last verified against `questions.json` v23 (4,951 questions) on 2026-08-28.
+Last verified against `questions.json` v24 (4,879 questions) on 2026-08-28.
 
 **On versions.** v22 was verified live on 2026-08-28 — `origin/main`, the raw URL the app fetches,
 the local copy, and the app's bundled fallback were byte-identical at 4,951 questions. The growth
@@ -33,12 +33,12 @@ The numbers below come from a strict word-boundary match over 34 NYC terms acros
 
 | Fact | Number | Approved public phrasing |
 |---|---|---|
-| Total questions | 4,951 | 「近5000道」 |
+| Total questions | 4,879 (v24) | 「近4900道」 |
 | **NYC questions the kid actually sees** | **247** | **「近250道写纽约的题」** |
 | NYC questions incl. explanation text | 255 | *(internal only — do not publish)* |
 | Standards-coded (CCSS / NGSS / NY State) | 3,816 (v23) | 「3816道带标准代码」 |
 | Pre-K–G3 share of bank | 86.5% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
-| Chinese handwriting questions | 72 (K–G4) | 「72道田字格写字题」 |
+| Chinese handwriting questions | **0 — disabled in v24** | ⛔ **do not claim at all** (see §7) |
 | Default earning rate | 3 questions × 5 min = 15 min | 「答对3题换15分钟」 |
 
 **NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 71 · reading 27 · math 21`.
@@ -133,7 +133,7 @@ New questions are held to `LEN_TELL` in `AUTHORING.md` tier 3, so this does not 
 - visibly equal in length.
 
 `python3 validate.py --cards cards.json` applies exactly this filter and exports the pool —
-**2,579 questions, 52% of the bank.** Pick from it rather than hand-picking screenshots. This is a
+**2,507 questions, 51% of the bank.** Pick from it rather than hand-picking screenshots. This is a
 selection rule for publishing, never a reason to alter or reject a question.
 
 **Never make a claim of the form** 「防猜」 / 「答不对就过不了」 / "learning-gated access".
@@ -193,3 +193,27 @@ PY
 
 **If the terms list changes, the number changes.** Do not re-scan with a different list and quote a
 different number — the frozen number is 247, and consistency matters more than precision here.
+
+---
+
+## 7. Chinese handwriting is DISABLED as of v24
+
+The 72 田字格 questions were moved to `disabled/chinese-handwriting.json` pending app
+improvements. They are preserved, not deleted.
+
+**Until they are restored, remove every 中文写字 claim from all copy.** Specifically:
+
+- `UnlockSmart/marketing/xhs-post-nyc-v1.md` sells 「✍️ 中文写字：田字格+拼音+描红，Pencil 写完
+  iPad 自己判分」 and 「72道田字格写字题」. **Both are now false.** So is the 图3 screenshot task
+  ("拍田字格＋描红态") — that question will not appear.
+- The growth plan's note **N3**（海外中文启蒙｜田字格iPad判分）and **N10**（海外娃写中文｜72道描红题）
+  have no product behind them. Do not publish either.
+- ⚠️ **This removes the hook for what the plan named the primary channel.** The pitch into NYC
+  中文学校 parent WeChat groups was 「你们这学期教的字，娃在 iPad 上能练」. There is currently no
+  Chinese content to pitch. Either the school channel waits for the feature to come back, or it
+  needs a different hook (the bilingual parent dashboard is the strongest remaining one).
+
+The parent-facing **「中文书写 / Chinese Writing」 toggle still exists in the app** and now does
+nothing — the pool it draws from is empty. It is a dead switch until either the questions return or
+the toggle is hidden in an app release. Treat it exactly like the 「Daily cap」 slider in §5: crop it
+out of every settings screenshot.
