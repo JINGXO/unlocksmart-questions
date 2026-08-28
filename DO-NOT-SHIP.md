@@ -15,7 +15,7 @@ line of App Store or website copy.** "We'll be careful" is not a control.
 > `python3 validate.py --cards cards.json` exports the screenshot-safe pool so you can *find*
 > existing material rather than commission new material to fit a post.
 
-Last verified against `questions.json` v24 (4,879 questions) on 2026-08-28.
+Last verified against `questions.json` v25 (4,929 questions) on 2026-08-28.
 
 **On versions.** v22 was verified live on 2026-08-28 — `origin/main`, the raw URL the app fetches,
 the local copy, and the app's bundled fallback were byte-identical at 4,951 questions. The growth
@@ -33,15 +33,15 @@ The numbers below come from a strict word-boundary match over 34 NYC terms acros
 
 | Fact | Number | Approved public phrasing |
 |---|---|---|
-| Total questions | 4,879 (v24) | 「近4900道」 |
-| **NYC questions the kid actually sees** | **247** | **「近250道写纽约的题」** |
-| NYC questions incl. explanation text | 255 | *(internal only — do not publish)* |
-| Standards-coded (CCSS / NGSS / NY State) | 3,816 (v23) | 「3816道带标准代码」 |
-| Pre-K–G3 share of bank | 86.5% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
+| Total questions | 4,929 (v25) | 「近4900道」 |
+| **NYC questions the kid actually sees** | **251** (v25) | **「近250道写纽约的题」** |
+| NYC questions incl. explanation text | 259 | *(internal only — do not publish)* |
+| Standards-coded (CCSS / NGSS / NY State) | 3,866 (v25) | 「3866道带标准代码」 |
+| Pre-K–G3 share of bank | 86.0% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
 | Chinese handwriting questions | **0 — disabled in v24** | ⛔ **do not claim at all** (see §7) |
 | Default earning rate | 3 questions × 5 min = 15 min | 「答对3题换15分钟」 |
 
-**NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 71 · reading 27 · math 21`.
+**NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 74 · reading 28 · math 21 · literacy 11 · science 6`.
 The subway word problem is the **thinnest** slice (21 questions), not the widest. Lead with
 五个区 / 纽约常识 / 纽约历史; treat the subway math problem as one nice example, not the category.
 
