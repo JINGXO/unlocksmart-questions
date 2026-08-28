@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "questions": [
     {
       "id": "prek_count_001",
@@ -1775,7 +1775,7 @@
       "subject": "math",
       "topic": "Money",
       "difficulty": 2,
-      "prompt": "A MetroCard costs $3. Mom buys one for herself and one for you. How much does she pay?",
+      "prompt": "A bag of apples at a Brooklyn farmers market costs $3. Mom buys one for herself and one for you. How much does she pay?",
       "visual": "🚇",
       "options": [
         "$4",
@@ -1784,7 +1784,8 @@
         "$8"
       ],
       "correct": 2,
-      "explain": "$3 × 2 = $6. Two MetroCards at $3 each costs $6 total."
+      "explain": "$3 x 2 = $6. Two bags at $3 each costs $6 total.",
+      "standard": "2.MD.C.8"
     },
     {
       "id": "g12_array_001",
@@ -4335,7 +4336,7 @@
       "subject": "math",
       "topic": "Money",
       "difficulty": 2,
-      "prompt": "A MetroCard costs $1.00. You pay with a $5 bill. How much change do you get?",
+      "prompt": "A bagel at the bodega costs $1.00. You pay with a $5 bill. How much change do you get?",
       "visual": "🚇",
       "options": [
         "$3.00",
@@ -4344,7 +4345,8 @@
         "$4.50"
       ],
       "correct": 1,
-      "explain": "$5.00 - $1.00 = $4.00 change. Always good to know your change!"
+      "explain": "$5.00 - $1.00 = $4.00 change.",
+      "standard": "2.MD.C.8"
     },
     {
       "id": "g2_v2_005",
@@ -13477,7 +13479,7 @@
       "options": [
         "1,071",
         "1,081",
-        "1,081",
+        "1,061",
         "981"
       ],
       "correct": 1,
@@ -14267,14 +14269,14 @@
       "prompt": "Which comparison is correct?",
       "visual": null,
       "options": [
-        "0.45 > 0.450",
+        "0.45 = 0.450",
         "0.309 > 0.31",
         "1.072 < 1.07",
         "2.560 > 2.56"
       ],
-      "correct": 1,
+      "correct": 0,
       "standard": "5.NBT.A.3",
-      "explain": "0.309 equals 309 thousandths and 0.31 equals 310 thousandths, so 0.309 < 0.31; the only true statement is 0.309 < 0.31, but since the question asks which comparison is correct, 0.45 = 0.450 (false), 0.309 < 0.31 is true but listed as >, 1.072 > 1.07 (false), and 2.560 = 2.56 (false). The correct answer choice is that none are equal — wait: 2.560 = 2.56 is TRUE as an equality, making 2.560 > 2.56 FALSE. Only 0.309 > 0.31 is listed; since 0.309 < 0.31, it is false. The correct comparison is 0.45 = 0.450."
+      "explain": "0.45 and 0.450 are the same number: a zero added after the last decimal digit does not change the value."
     },
     {
       "id": "g5_v4_059",
@@ -14359,8 +14361,8 @@
       "options": [
         "30,000",
         "31,000",
-        "31,000",
-        "31,000"
+        "31,250",
+        "25,000"
       ],
       "correct": 1,
       "standard": "5.NBT.B.5",
@@ -14432,7 +14434,7 @@
         "0.024",
         "0.24",
         "2.4",
-        "0.024"
+        "1.0"
       ],
       "correct": 1,
       "standard": "5.NBT.B.7",
@@ -21842,7 +21844,7 @@
       "subject": "social_studies",
       "topic": "NYC Boroughs",
       "difficulty": 2,
-      "prompt": "Which NYC borough is the smallest in area and is the one you reach by taking the Staten Island Ferry?",
+      "prompt": "Which NYC borough do you reach by taking the Staten Island Ferry from Lower Manhattan?",
       "visual": null,
       "options": [
         "Queens",
@@ -21852,7 +21854,9 @@
       ],
       "correct": 2,
       "standard": "NYS-SS-3",
-      "explain": "Staten Island is the smallest borough by population and is reached by the free Staten Island Ferry from Lower Manhattan."
+      "explain": "The free Staten Island Ferry runs between Lower Manhattan and Staten Island.",
+      "closedSet": true,
+      "source": "NYC DOT — Staten Island Ferry route"
     },
     {
       "id": "g3_v4_272",
@@ -34216,10 +34220,11 @@
         "36",
         "60",
         "63",
-        "36"
+        "9"
       ],
       "correct": 2,
-      "explain": "6 tens = 60, plus 3 ones = 3. 60 + 3 = 63."
+      "explain": "6 tens = 60, plus 3 ones = 3. 60 + 3 = 63.",
+      "standard": "1.NBT.B.2"
     },
     {
       "id": "g1_v6_016",
@@ -35284,15 +35289,16 @@
       "subject": "literacy",
       "topic": "Contractions",
       "difficulty": 2,
-      "prompt": "What two words make the contraction 'can't'?",
+      "prompt": "The contraction 'can't' is short for which word?",
       "options": [
-        "can not",
         "cannot",
-        "can not",
-        "ca not"
+        "could not",
+        "did not",
+        "do not"
       ],
-      "correct": 1,
-      "explain": "'can't' = 'cannot'. The apostrophe replaces the letters 'no' from 'cannot'."
+      "correct": 0,
+      "explain": "'can't' is short for 'cannot'. The apostrophe replaces the letters 'no'.",
+      "standard": "L.1.2"
     },
     {
       "id": "g1_v6_081",
@@ -54289,7 +54295,7 @@
       "subject": "reading",
       "topic": "Literature Comprehension",
       "difficulty": 3,
-      "prompt": "Read: 'Wolves live in groups called packs. They hunt together and care for their young. A mother wolf is called a she-wolf. The leader of the pack is the alpha.' Wait — this passage sounds different from a story. What kind of text is this?",
+      "prompt": "Read: 'Wolves live in groups called packs. They hunt together and care for their young. A mother wolf is called a she-wolf. The leader of the pack is the alpha.' What kind of text is this?",
       "visual": null,
       "options": [
         "A fairy tale",
@@ -64378,7 +64384,7 @@
         "391"
       ],
       "correct": 3,
-      "explain": "391 > 389 because both have 3 hundreds and 8 tens, but 391 has 1 one more than 389's 9 ones — wait, 391 has 9 tens and 389 has 8 tens, so 391 is greater.",
+      "explain": "391 has 9 tens and 389 has 8 tens, so 391 is greater than 389.",
       "standard": "2.NBT.A.4"
     },
     {
@@ -69574,7 +69580,7 @@
         "27"
       ],
       "correct": 2,
-      "explain": "51 − 34: can't take 4 from 1, borrow: 11 − 4 = 7 ones, 4 − 3 = 1 ten. Wait — 11 − 4 = 7, but 4 − 3 = 1. So answer: 17.",
+      "explain": "51 − 34: borrow a ten, so 11 − 4 = 7 ones and 4 − 3 = 1 ten. Maya has 17 stickers left.",
       "standard": "1.NBT.C.6"
     },
     {
@@ -86399,15 +86405,14 @@
       "difficulty": 3,
       "prompt": "A paragraph says: 'Solar panels convert sunlight into electricity. They work best in sunny climates. Many homes and businesses now use solar panels to save money and reduce pollution.' What is the main idea?",
       "options": [
-        "Solar panels are expensive",
+        "Solar panels are expensive to install and repair",
         "Some climates are too cloudy for solar panels",
-        "Solar panels convert sunlight to electricity and offer environmental and financial benefits",
-        "Pollution is a problem"
+        "Solar panels make electricity and save money",
+        "Pollution is a serious problem in many cities"
       ],
       "correct": 2,
       "explain": "The main idea covers what solar panels do AND why people use them.",
       "standard": "RI.3.2",
-      "passage": "The main idea is the most important point the author makes. Details support the main idea. Here, the main idea is that solar panels convert sunlight to electricity and benefit people. The other answer choices are only details. Authors carefully craft their stories to convey important messages and themes. When we read closely, we notice how every detail contributes to the meaning. Strong readers look for evidence in the text to support their ideas, question the author's choices, and reflect on how the story connects to the world around them. Authors carefully craft their stories to convey important messages and themes. When we read closely, we notice how every detail contributes to the meaning. Strong readers look for evidence in the text to support their ideas, question the author's choices, and reflect on how the story connects to the world around them.",
       "type": "reading"
     },
     {
@@ -92081,15 +92086,14 @@
       "difficulty": 5,
       "prompt": "An author writes a biography of a civil rights leader, carefully documenting both achievements and personal flaws. The author's purpose is MOST LIKELY:",
       "options": [
-        "To criticize the leader",
-        "To show the leader was perfect",
-        "To present a complete, honest portrait of a complex human being",
-        "To entertain with gossip"
+        "To criticize the leader's mistakes and failures",
+        "To show the leader was perfect in every way",
+        "To give an honest picture of a complex person",
+        "To entertain readers with rumors and gossip"
       ],
       "correct": 2,
       "explain": "Documenting both achievements and flaws signals a commitment to honest, nuanced historical portraiture.",
       "standard": "RI.5.6",
-      "passage": "Ida B. Wells was born into slavery in Mississippi in 1862, six months before the Emancipation Proclamation. By the 1890s she had become one of the most powerful investigative journalists in America, documenting the epidemic of lynching — racial terrorist murder — that claimed thousands of Black lives across the South. Her 1892 pamphlet 'Southern Horrors: Lynch Law in All Its Phases' used meticulous data and firsthand accounts to demolish the common white justifications for lynching. Southern newspapers called for her to be lynched. She received constant death threats. She never stopped writing. Wells was also a founding member of the NAACP, a suffragist who fought racial exclusion within the women's movement, and an organizer of Chicago's first Black women's civic club. She was simultaneously one of the most celebrated journalists of her era and one of the most endangered Americans alive. Ida B. Wells was not a perfect hero — she was a complicated, driven, sometimes difficult person who happened to be doing the most important work anyone in America was doing.",
       "type": "reading"
     },
     {
@@ -92432,8 +92436,8 @@
         "28",
         "20"
       ],
-      "correct": 2,
-      "explain": "2³=8; (6-2)=4; 4×4=16; 8+16=24. Wait: check: 8+16=24. Correct answer index 2.",
+      "correct": 1,
+      "explain": "2³ = 8, and (6 − 2) = 4, so 4 × 4 = 16. Then 8 + 16 = 24.",
       "standard": "5.OA.A.1"
     },
     {
@@ -92841,7 +92845,7 @@
         "5/8"
       ],
       "correct": 1,
-      "explain": "3/8+2/8=5/8 used; 1-5/8=3/8. Index 1 → 3/8.",
+      "explain": "Sleeping 3/8 plus studying 1/4 (= 2/8) is 5/8 of the day. 1 − 5/8 = 3/8 of the day is left.",
       "standard": "5.NF.A.1"
     },
     {
