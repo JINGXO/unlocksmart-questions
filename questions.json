@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "questions": [
     {
       "id": "prek_count_001",
@@ -92367,6 +92367,877 @@
       "correct": 1,
       "explain": "Trade deficit = imports exceed exports — more money leaves the country than comes in from trade.",
       "standard": "NYC-G5-SS"
+    },
+    {
+      "id": "g1_v25_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Maya had 14 stickers. She gave 6 stickers to her friend. How many stickers does Maya have now?",
+      "options": [
+        "6",
+        "8",
+        "20",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "Giving stickers away means taking them off. 14 - 6 = 8 stickers left.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v25_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "Sam picked 5 apples, 4 pears, and 3 plums. How many pieces of fruit did he pick in all?",
+      "options": [
+        "7",
+        "9",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "explain": "Add all three groups. 5 + 4 = 9, and 9 + 3 = 12 pieces of fruit.",
+      "standard": "1.OA.A.2"
+    },
+    {
+      "id": "g1_v25_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 15 - 8?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "correct": 3,
+      "explain": "Think of the addition fact 8 + 7 = 15. So 15 - 8 = 7.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v25_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 3,
+      "prompt": "What number goes in the blank? 9 + ___ = 16",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 0,
+      "explain": "Count on from 9 up to 16. That is 7 more, and 9 + 7 = 16.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v25_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which number has 7 tens and 4 ones?",
+      "options": [
+        "47",
+        "74",
+        "704",
+        "11"
+      ],
+      "correct": 1,
+      "explain": "7 tens is 70 and 4 ones is 4. Put them together: 70 + 4 = 74.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v25_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value to 120",
+      "difficulty": 3,
+      "prompt": "Count on from 108. What number comes next?",
+      "options": [
+        "107",
+        "110",
+        "118",
+        "109"
+      ],
+      "correct": 3,
+      "explain": "Counting forward by one from 108 gives 109.",
+      "standard": "1.NBT.A.1"
+    },
+    {
+      "id": "g1_v25_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 3,
+      "prompt": "On a clock, the hour hand is halfway between 3 and 4, and the minute hand points to 6. What time is it?",
+      "options": [
+        "4:30",
+        "3:06",
+        "3:30",
+        "6:30"
+      ],
+      "correct": 2,
+      "explain": "The minute hand on 6 means 30 minutes past the hour. The hour hand has passed 3, so the time is 3:30.",
+      "standard": "1.MD.B.3"
+    },
+    {
+      "id": "g1_v25_008",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 3,
+      "prompt": "A class chart shows 8 kids chose red, 5 chose blue, and 4 chose green. How many more kids chose red than blue?",
+      "options": [
+        "3",
+        "13",
+        "4",
+        "2"
+      ],
+      "correct": 0,
+      "explain": "Compare the two groups by subtracting. 8 - 5 = 3 more kids chose red.",
+      "standard": "1.MD.C.4"
+    },
+    {
+      "id": "g1_v25_009",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Where did Nina find her mitten?",
+      "options": [
+        "Under the slide",
+        "By the swings",
+        "On the bench",
+        "In the sandbox"
+      ],
+      "correct": 3,
+      "explain": "The story says she found it in the sandbox, next to her blue shovel.",
+      "standard": "RL.1.1",
+      "passage": "Nina lost her red mitten at the park. She looked under the slide. She looked by the swings. At last she found it in the sandbox, next to her blue shovel.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v25_010",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 3,
+      "prompt": "What was Ben's problem at the start of the story?",
+      "options": [
+        "He could not find his backpack",
+        "His bike tire was flat",
+        "He was late for school",
+        "His mom lost the pump"
+      ],
+      "correct": 1,
+      "explain": "At the beginning, Ben could not ride because the front tire on his bike was flat.",
+      "standard": "RL.1.3",
+      "passage": "Ben wanted to ride his bike to school, but the front tire was flat. His mom found the pump in the garage. Together they filled the tire with air. Ben rode to school and was not late.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v25_011",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "prompt": "What do worker bees gather from flowers?",
+      "options": [
+        "Nectar",
+        "Water",
+        "Seeds",
+        "Leaves"
+      ],
+      "correct": 0,
+      "explain": "The passage says worker bees fly out to flowers and gather nectar.",
+      "standard": "RI.1.1",
+      "passage": "Honey bees live together in a hive. Worker bees fly out to flowers and gather nectar. They carry the nectar back to the hive. Inside the hive, the bees turn the nectar into honey. The honey feeds the whole hive in winter.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v25_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Phonics",
+      "difficulty": 3,
+      "prompt": "Which word has the same long i sound as 'bike'?",
+      "options": [
+        "big",
+        "kick",
+        "kite",
+        "milk"
+      ],
+      "correct": 2,
+      "explain": "The silent e at the end of 'kite' makes the i say its long sound, just like in 'bike'.",
+      "standard": "RF.1.3.C"
+    },
+    {
+      "id": "g1_v25_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "Which word finishes the sentence correctly? The two cats ___ on the rug.",
+      "options": [
+        "sleeps",
+        "sleeping",
+        "is sleep",
+        "sleep"
+      ],
+      "correct": 3,
+      "explain": "'Cats' means more than one, so the verb takes no s: The two cats sleep on the rug.",
+      "standard": "L.1.1.C"
+    },
+    {
+      "id": "g1_v25_014",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "Which word belongs in the same group as 'robin', 'crow', and 'sparrow'?",
+      "options": [
+        "blue jay",
+        "grasshopper",
+        "sunflower",
+        "puppy"
+      ],
+      "correct": 0,
+      "explain": "Robins, crows, and sparrows are all birds. A blue jay is a bird too.",
+      "standard": "L.1.5.A"
+    },
+    {
+      "id": "g1_v25_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animals",
+      "difficulty": 2,
+      "prompt": "How does a bird's beak help it survive?",
+      "options": [
+        "It helps the bird see far away",
+        "It picks up and eats food",
+        "It keeps the bird warm at night",
+        "It helps the bird hear sounds"
+      ],
+      "correct": 1,
+      "explain": "A beak is an outside body part a bird uses to grab and eat food. Feathers keep it warm, and eyes help it see.",
+      "standard": "1-LS1-1"
+    },
+    {
+      "id": "g1_v25_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Weather",
+      "difficulty": 2,
+      "prompt": "In which season are the days shortest, with the sun setting earliest?",
+      "options": [
+        "Summer",
+        "Spring",
+        "Fall",
+        "Winter"
+      ],
+      "correct": 3,
+      "explain": "Days are shortest in winter and longest in summer. This pattern repeats every year.",
+      "standard": "1-ESS1-2"
+    },
+    {
+      "id": "g1_v25_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 3,
+      "prompt": "A drum makes a sound when you hit it. What is happening to the drum's top?",
+      "options": [
+        "It is getting warmer and softer",
+        "It is changing into a new color",
+        "It is vibrating back and forth",
+        "It is growing larger and heavier"
+      ],
+      "correct": 2,
+      "explain": "Sound is made by vibration. Hitting the drum makes its top shake quickly back and forth, and that shaking makes the sound.",
+      "standard": "1-PS4-1"
+    },
+    {
+      "id": "g1_v25_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "Why does a classroom have rules?",
+      "options": [
+        "To keep everyone safe and fair",
+        "To make the school day longer",
+        "To decide who is the smartest",
+        "To choose the classroom colors"
+      ],
+      "correct": 0,
+      "explain": "Rules help a group work together. They keep people safe and make sure everyone is treated fairly.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v25_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 3,
+      "prompt": "On most maps, which direction is at the top?",
+      "options": [
+        "South",
+        "North",
+        "East",
+        "West"
+      ],
+      "correct": 1,
+      "explain": "Mapmakers almost always put north at the top. The compass rose shows north, south, east, and west.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v25_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs and Wants",
+      "difficulty": 2,
+      "prompt": "Which of these is a need that every family must have?",
+      "options": [
+        "A new video game",
+        "A trip to the beach",
+        "Food to eat",
+        "A toy for the bathtub"
+      ],
+      "correct": 2,
+      "explain": "Needs are things people must have to live, such as food, water, clothes, and a home. Wants are extras.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g4_v25_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 4,
+      "prompt": "Which of these fractions is greater than 3/5?",
+      "options": [
+        "1/2",
+        "4/10",
+        "1/3",
+        "7/10"
+      ],
+      "correct": 3,
+      "explain": "Rewrite with a denominator of 10: 3/5 = 6/10. 7/10 has more tenths than 6/10, so 7/10 is greater.",
+      "standard": "4.NF.A.2"
+    },
+    {
+      "id": "g4_v25_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "What is 5/8 + 2/8?",
+      "options": [
+        "7/8",
+        "7/16",
+        "3/8",
+        "10/8"
+      ],
+      "correct": 0,
+      "explain": "When the denominators are the same, add only the numerators: 5 + 2 = 7, so the sum is 7/8.",
+      "standard": "4.NF.B.3"
+    },
+    {
+      "id": "g4_v25_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 4,
+      "prompt": "How is 7/100 written as a decimal?",
+      "options": [
+        "0.7",
+        "7.00",
+        "0.07",
+        "0.007"
+      ],
+      "correct": 2,
+      "explain": "The denominator 100 means hundredths. Seven hundredths is 0.07, with the 7 in the hundredths place.",
+      "standard": "4.NF.C.6"
+    },
+    {
+      "id": "g4_v25_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 4,
+      "prompt": "What is 738 / 6?",
+      "options": [
+        "127",
+        "123",
+        "132",
+        "1,023"
+      ],
+      "correct": 1,
+      "explain": "6 goes into 7 once with 1 left, into 13 twice with 1 left, and into 18 three times. 738 / 6 = 123.",
+      "standard": "4.NBT.B.6"
+    },
+    {
+      "id": "g4_v25_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A school packs 94 books into boxes that hold 8 books each. How many boxes are completely full?",
+      "options": [
+        "12",
+        "6",
+        "10",
+        "11"
+      ],
+      "correct": 3,
+      "explain": "94 / 8 = 11 with 6 left over. Eleven boxes are filled completely, and the 6 extra books go in a box that is not full.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v25_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 4,
+      "prompt": "Which comparison of decimals is true?",
+      "options": [
+        "0.6 > 0.59",
+        "0.45 < 0.4",
+        "0.3 = 0.03",
+        "0.72 < 0.7"
+      ],
+      "correct": 0,
+      "explain": "Line up the place values. 0.6 is the same as 0.60, and 60 hundredths is greater than 59 hundredths.",
+      "standard": "4.NF.C.7"
+    },
+    {
+      "id": "g4_v25_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 4,
+      "prompt": "What is 36 x 24?",
+      "options": [
+        "744",
+        "824",
+        "864",
+        "1,264"
+      ],
+      "correct": 2,
+      "explain": "36 x 20 = 720 and 36 x 4 = 144. Add the partial products: 720 + 144 = 864.",
+      "standard": "4.NBT.B.5"
+    },
+    {
+      "id": "g4_v25_008",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 4,
+      "prompt": "How many factors does 16 have?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correct": 1,
+      "explain": "The factors of 16 are 1, 2, 4, 8, and 16, because 1 x 16 = 16, 2 x 8 = 16, and 4 x 4 = 16. That makes 5 factors.",
+      "standard": "4.OA.B.4"
+    },
+    {
+      "id": "g4_v25_009",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 4,
+      "prompt": "According to the passage, what two bodies of water did the Erie Canal connect?",
+      "options": [
+        "The East River and Lake Ontario",
+        "The Hudson River and the Atlantic Ocean",
+        "Lake Erie and the Mississippi River",
+        "The Hudson River and Lake Erie"
+      ],
+      "correct": 3,
+      "explain": "The passage states that the canal was dug to connect the Hudson River with Lake Erie.",
+      "standard": "RI.4.1",
+      "passage": "The Erie Canal opened in 1825. It was a waterway dug across New York State to connect the Hudson River with Lake Erie. Before the canal, moving goods from western farms to the port of New York City took weeks by wagon over rough roads. Boats on the canal made the same trip far more quickly and cheaply, and towns grew up along its banks.",
+      "type": "reading",
+      "source": "New York State Canal Corporation - history of the Erie Canal"
+    },
+    {
+      "id": "g4_v25_010",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "prompt": "Which statement best expresses the theme of this passage?",
+      "options": [
+        "Keeping going after a mistake matters",
+        "Practicing for months guarantees success",
+        "Musicians should avoid playing in public",
+        "Teachers are hard to please at recitals"
+      ],
+      "correct": 0,
+      "explain": "Amara makes an error but keeps playing, and her teacher praises the recovery rather than the slip.",
+      "standard": "RL.4.2",
+      "passage": "Amara had practiced the violin for months, but at the recital her fingers slipped and a whole line came out wrong. She wanted to stop. Instead she took a breath, found her place, and played the rest of the piece steadily to the end. Afterward her teacher said the recovery mattered more than the slip.",
+      "type": "reading"
+    },
+    {
+      "id": "g4_v25_011",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 4,
+      "prompt": "How is the information in this passage organized?",
+      "options": [
+        "By comparing two kinds of turtles",
+        "As a problem and its solution",
+        "In time order, from first to last",
+        "By listing causes and their effects"
+      ],
+      "correct": 2,
+      "explain": "The words First, Next, Then, and Finally show the steps in the order they happen, which is a sequence structure.",
+      "standard": "RI.4.5",
+      "passage": "Sea turtles begin life buried in sand. First, the female turtle digs a nest on the beach and lays her eggs. Next, about two months later, the hatchlings break out of their shells. Then they scramble together toward the water. Finally, the young turtles swim out to sea, where they will spend years growing before returning to the same beach.",
+      "type": "reading"
+    },
+    {
+      "id": "g4_v25_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Roots and Affixes",
+      "difficulty": 4,
+      "prompt": "The root 'port' in 'transport' and 'portable' means:",
+      "options": [
+        "build",
+        "carry",
+        "watch",
+        "measure"
+      ],
+      "correct": 1,
+      "explain": "The Latin root 'port' means to carry. To transport is to carry across, and something portable can be carried.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v25_013",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "'The old floorboards complained under every step.' What does this sentence do?",
+      "options": [
+        "It uses the word like to make a comparison",
+        "It states a plain fact about wooden floors",
+        "It repeats a beginning consonant sound",
+        "It gives the floor human traits"
+      ],
+      "correct": 3,
+      "explain": "Floorboards cannot complain. Giving a human action to an object is personification, and here it suggests the boards creaked loudly.",
+      "standard": "L.4.5"
+    },
+    {
+      "id": "g4_v25_014",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 4,
+      "prompt": "Which group of words is a sentence fragment?",
+      "options": [
+        "Running down the wet sidewalk.",
+        "The dog ran down the sidewalk.",
+        "Rain fell all afternoon.",
+        "She waited under the awning."
+      ],
+      "correct": 0,
+      "explain": "A fragment is missing a subject or a verb. 'Running down the wet sidewalk' never says who was running, so it is not a complete sentence.",
+      "standard": "L.4.1.F"
+    },
+    {
+      "id": "g4_v25_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy",
+      "difficulty": 4,
+      "prompt": "Two identical carts roll down a ramp. The faster cart has more of what?",
+      "options": [
+        "Mass and total volume",
+        "Color and shape",
+        "Energy of motion",
+        "Weight and size"
+      ],
+      "correct": 2,
+      "explain": "Energy of motion, called kinetic energy, grows as speed grows. The carts are identical, so their mass, weight, and size are the same.",
+      "standard": "NGSS-4-PS3-1"
+    },
+    {
+      "id": "g4_v25_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 4,
+      "prompt": "A river carries sand and gravel downstream and drops it at its mouth. What is this process called?",
+      "options": [
+        "Evaporation",
+        "Deposition",
+        "Condensation",
+        "Germination"
+      ],
+      "correct": 1,
+      "explain": "Deposition happens when moving water slows down and lays down the sediment it was carrying.",
+      "standard": "NGSS-4-ESS2-1"
+    },
+    {
+      "id": "g4_v25_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Animals",
+      "difficulty": 4,
+      "prompt": "How do a fish's gills help it survive underwater?",
+      "options": [
+        "They push the fish forward through water",
+        "They protect the fish from cold water",
+        "They help the fish find food by smell",
+        "They take oxygen out of the water"
+      ],
+      "correct": 3,
+      "explain": "Gills pull dissolved oxygen out of the water and pass it into the fish's blood. Fins do the swimming.",
+      "standard": "NGSS-4-LS1-1"
+    },
+    {
+      "id": "g4_v25_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 4,
+      "prompt": "Which river runs south through eastern New York State and empties into New York Harbor?",
+      "options": [
+        "The Hudson River",
+        "The Mohawk River",
+        "The Delaware River",
+        "The Susquehanna River"
+      ],
+      "correct": 0,
+      "explain": "The Hudson River flows south from the Adirondacks, past Albany and New York City, and empties into New York Harbor.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Geography of New York State)"
+    },
+    {
+      "id": "g4_v25_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 4,
+      "prompt": "Which branch of New York State government makes the state's laws?",
+      "options": [
+        "The executive branch",
+        "The judicial branch",
+        "The legislative branch",
+        "The educational branch"
+      ],
+      "correct": 2,
+      "explain": "The legislative branch, made up of the State Senate and the State Assembly, writes and passes New York's laws.",
+      "standard": "NYS-SS-4",
+      "source": "New York State Constitution, Article III"
+    },
+    {
+      "id": "g4_v25_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY History",
+      "difficulty": 4,
+      "prompt": "Between 1892 and 1954, most immigrants arriving by ship in New York were first inspected at which place?",
+      "options": [
+        "Coney Island",
+        "Ellis Island",
+        "Governors Island",
+        "Roosevelt Island"
+      ],
+      "correct": 1,
+      "explain": "Ellis Island was the federal immigration station in New York Harbor. Millions of newcomers were checked there before entering the country.",
+      "standard": "NYC-G4-SS",
+      "source": "National Park Service - Statue of Liberty National Monument and Ellis Island"
+    },
+    {
+      "id": "g5_v25_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 4,
+      "prompt": "What is 4 x (7 + 5) - 10?",
+      "options": [
+        "23",
+        "8",
+        "48",
+        "38"
+      ],
+      "correct": 3,
+      "explain": "Parentheses first: 7 + 5 = 12. Then multiply: 4 x 12 = 48. Then subtract: 48 - 10 = 38.",
+      "standard": "5.OA.A.1"
+    },
+    {
+      "id": "g5_v25_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 5,
+      "prompt": "What is 2/3 + 1/4?",
+      "options": [
+        "3/7",
+        "11/12",
+        "3/12",
+        "10/12"
+      ],
+      "correct": 1,
+      "explain": "Rewrite with a common denominator of 12: 2/3 = 8/12 and 1/4 = 3/12. Then 8/12 + 3/12 = 11/12.",
+      "standard": "5.NF.A.1"
+    },
+    {
+      "id": "g5_v25_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 4,
+      "prompt": "A box is 7 cm long, 5 cm wide, and 4 cm tall. What is its volume?",
+      "options": [
+        "140 cubic cm",
+        "16 cubic cm",
+        "35 cubic cm",
+        "166 cubic cm"
+      ],
+      "correct": 0,
+      "explain": "Volume of a rectangular prism is length x width x height: 7 x 5 x 4 = 140 cubic centimeters.",
+      "standard": "5.MD.C.5"
+    },
+    {
+      "id": "g5_v25_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 5,
+      "prompt": "A runner's four lap times were 1.25, 1.4, 1.05, and 1.3 minutes. What was the total time?",
+      "options": [
+        "4.9 minutes",
+        "5.5 minutes",
+        "5 minutes",
+        "4.75 minutes"
+      ],
+      "correct": 2,
+      "explain": "Line up the decimal points and add: 1.25 + 1.40 + 1.05 + 1.30 = 5.00 minutes.",
+      "standard": "5.NBT.B.7"
+    },
+    {
+      "id": "g5_v25_005",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "What can you infer about the weather outside?",
+      "options": [
+        "It was hot and sunny",
+        "Snow was falling hard",
+        "The air was dry and still",
+        "It had been raining"
+      ],
+      "correct": 3,
+      "explain": "Wet steps, an umbrella being shaken out, a raised hood, and coats hung to dry all point to rain.",
+      "standard": "RL.5.1",
+      "passage": "The library's front steps were still wet when Devon arrived. He shook out his umbrella, tucked it into the stand by the door, and pushed his hood back. Inside, three other students sat at the long table with their coats draped over the chair backs to dry. Devon took the last empty seat and opened his notebook.",
+      "type": "reading"
+    },
+    {
+      "id": "g5_v25_006",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Central Idea",
+      "difficulty": 5,
+      "prompt": "Which sentence best states a central idea of this passage?",
+      "options": [
+        "Bees prefer some kinds of flowers over others",
+        "Bees help both their hive and food crops",
+        "Honey is the sweetest food in a hive",
+        "Winter is the hardest season for bees"
+      ],
+      "correct": 1,
+      "explain": "The passage describes two jobs bees do: making honey that feeds the colony, and moving pollen that lets crops form.",
+      "standard": "RI.5.2",
+      "passage": "Honeybees do two jobs at once. Inside the hive they turn nectar into honey that feeds the colony through winter. Outside the hive, as they move from blossom to blossom, pollen sticks to their bodies and rubs off on the next flower. That pollen transfer lets many fruit and nut plants form the crops that people harvest.",
+      "type": "reading"
+    },
+    {
+      "id": "g5_v25_007",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Roots and Affixes",
+      "difficulty": 4,
+      "prompt": "The prefix 'sub-' in 'submerge' and 'submarine' means:",
+      "options": [
+        "under",
+        "above",
+        "again",
+        "against"
+      ],
+      "correct": 0,
+      "explain": "The Latin prefix 'sub-' means under or below. To submerge is to go under water, and a submarine travels beneath the surface.",
+      "standard": "L.5.4.B"
+    },
+    {
+      "id": "g5_v25_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Matter",
+      "difficulty": 4,
+      "prompt": "Sugar is stirred into water until it disappears. What happened to the sugar?",
+      "options": [
+        "It changed into water and disappeared completely",
+        "It was destroyed by the water",
+        "It broke into pieces too small to see",
+        "It turned into a brand new gas"
+      ],
+      "correct": 2,
+      "explain": "Dissolving separates sugar into particles too small to see. The sugar is still there: the water tastes sweet and its mass goes up.",
+      "standard": "NGSS-5-PS1-1"
+    },
+    {
+      "id": "g5_v25_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 5,
+      "prompt": "Tree roots break apart rock as they grow into cracks. Which two Earth systems are interacting?",
+      "options": [
+        "The hydrosphere and the atmosphere",
+        "The atmosphere and the geosphere",
+        "The hydrosphere and the biosphere",
+        "The biosphere and the geosphere"
+      ],
+      "correct": 3,
+      "explain": "Living things make up the biosphere and rock and soil make up the geosphere, so roots splitting rock is a biosphere and geosphere interaction.",
+      "standard": "NGSS-5-ESS2-1"
+    },
+    {
+      "id": "g5_v25_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 5,
+      "prompt": "In the United States government, which branch decides whether a law follows the Constitution?",
+      "options": [
+        "The executive branch",
+        "The judicial branch",
+        "The legislative branch",
+        "The federal branch"
+      ],
+      "correct": 1,
+      "explain": "Courts in the judicial branch interpret laws and can rule that a law conflicts with the Constitution.",
+      "standard": "NYS-SS-5",
+      "source": "United States Constitution, Article III"
     }
   ]
 }
