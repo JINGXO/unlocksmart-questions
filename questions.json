@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "questions": [
     {
       "id": "prek_count_001",
@@ -93238,6 +93238,877 @@
       "explain": "Courts in the judicial branch interpret laws and can rule that a law conflicts with the Constitution.",
       "standard": "NYS-SS-5",
       "source": "United States Constitution, Article III"
+    },
+    {
+      "id": "g1_v26_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equations",
+      "difficulty": 2,
+      "prompt": "Which number sentence has the same amount on both sides?",
+      "options": [
+        "6 + 2 = 9",
+        "4 + 4 = 7",
+        "5 + 3 = 8",
+        "7 + 1 = 9"
+      ],
+      "correct": 2,
+      "explain": "The equal sign means both sides are worth the same. 5 + 3 makes 8, so 5 + 3 = 8 is true. The other three number sentences do not balance.",
+      "standard": "1.OA.D.7"
+    },
+    {
+      "id": "g1_v26_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 3,
+      "prompt": "Rosa puts two square pattern blocks together so that one whole side of each block touches. What new shape do the two squares make?",
+      "options": [
+        "Triangle",
+        "Hexagon",
+        "Rectangle",
+        "Trapezoid"
+      ],
+      "correct": 2,
+      "explain": "Two squares joined along a full side make a longer four-sided shape with four square corners. That is a rectangle.",
+      "standard": "1.G.A.2"
+    },
+    {
+      "id": "g1_v26_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 3,
+      "prompt": "Three ribbons are on a table. The red ribbon is shorter than the blue ribbon. The blue ribbon is shorter than the green ribbon. Which ribbon is the shortest?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Cannot tell"
+      ],
+      "correct": 1,
+      "explain": "Red is shorter than blue, and blue is shorter than green. So red is shorter than both of the other ribbons.",
+      "standard": "1.MD.A.1"
+    },
+    {
+      "id": "g1_v26_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "Ana had some marbles. Her sister gave her 5 more. Now Ana has 13 marbles. How many marbles did Ana have at the start?",
+      "options": [
+        "5",
+        "7",
+        "18",
+        "8"
+      ],
+      "correct": 3,
+      "explain": "Start + 5 = 13. Count back from 13 by 5 to find the start: 13 - 5 = 8 marbles.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v26_005",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "Which of these groups of words tells a complete thought?",
+      "options": [
+        "The big brown dog.",
+        "Ran to the park.",
+        "The dog ran fast.",
+        "Under the tall tree."
+      ],
+      "correct": 2,
+      "explain": "A complete sentence tells who or what, and what they did. 'The dog' tells who, and 'ran fast' tells what it did.",
+      "standard": "L.1.1.J"
+    },
+    {
+      "id": "g1_v26_006",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 2,
+      "prompt": "Marta said, \"Where is my blue hat___\" Which mark belongs in the blank?",
+      "options": [
+        ".",
+        "!",
+        ",",
+        "?"
+      ],
+      "correct": 3,
+      "explain": "Marta is asking something, so her sentence ends with a question mark.",
+      "standard": "L.1.2.B"
+    },
+    {
+      "id": "g1_v26_007",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Capitalization",
+      "difficulty": 2,
+      "prompt": "Which sentence has every capital letter in the right place?",
+      "options": [
+        "Ana and Ben ride the bus.",
+        "ana and ben ride the bus.",
+        "Ana and ben ride the bus.",
+        "ana and Ben ride the bus."
+      ],
+      "correct": 0,
+      "explain": "A sentence begins with a capital letter, and the name of a person always starts with one too.",
+      "standard": "L.1.2.A"
+    },
+    {
+      "id": "g1_v26_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Vocabulary",
+      "difficulty": 3,
+      "prompt": "Read the sentence: 'The soup was so scalding that Ben had to blow on it before eating.' What does scalding mean?",
+      "options": [
+        "Very cold",
+        "Very salty",
+        "Very hot",
+        "Very sweet"
+      ],
+      "correct": 2,
+      "explain": "Ben had to blow on the soup to cool it down. That clue in the sentence shows scalding means very hot.",
+      "standard": "L.1.4.A"
+    },
+    {
+      "id": "g1_v26_009",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plants",
+      "difficulty": 2,
+      "prompt": "A red rose bush makes seeds. The seeds grow into new rose bushes. What color are the new roses most likely to be?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 1,
+      "explain": "Young plants look a lot like the parent plant they came from. A red rose bush most often grows new red roses.",
+      "standard": "1-LS3-1"
+    },
+    {
+      "id": "g1_v26_010",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 3,
+      "prompt": "The closet door is shut and the light is off. Why can Sam NOT see the toys inside?",
+      "options": [
+        "The toys moved to another room",
+        "The closet has no light in it",
+        "The toys turned into shadows",
+        "Sam's eyes stopped working"
+      ],
+      "correct": 1,
+      "explain": "You can only see an object when light bounces off it and reaches your eyes. With the light off, no light reaches the toys.",
+      "standard": "1-PS4-2"
+    },
+    {
+      "id": "g1_v26_011",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sky Patterns",
+      "difficulty": 2,
+      "prompt": "Nina looks at the Moon on many nights during one month. What pattern does she notice?",
+      "options": [
+        "Its shape seems to change",
+        "It turns bright red at night",
+        "It never appears at all",
+        "It stays the exact same"
+      ],
+      "correct": 0,
+      "explain": "The lit part of the Moon grows and shrinks in a pattern that repeats about every month, from a thin sliver to a full circle and back.",
+      "standard": "1-ESS1-1"
+    },
+    {
+      "id": "g1_v26_012",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animals",
+      "difficulty": 3,
+      "prompt": "A mother robin brings worms to her chicks in the nest. How does this help the chicks?",
+      "options": [
+        "It teaches them to build nests",
+        "It keeps their feathers dry",
+        "It shows them how to fly",
+        "It gives them food to grow"
+      ],
+      "correct": 3,
+      "explain": "Baby robins cannot leave the nest to find food. Their parent brings it so they can grow strong enough to survive.",
+      "standard": "1-LS1-2"
+    },
+    {
+      "id": "g1_v26_013",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Where did Ben find the rock?",
+      "options": [
+        "At the park",
+        "At the beach",
+        "At his school",
+        "In his yard"
+      ],
+      "correct": 1,
+      "explain": "The story says Ben found the smooth gray rock at the beach with his grandma.",
+      "standard": "RL.1.1",
+      "passage": "Ben brought a paper bag to school. Inside was a smooth gray rock. He found it at the beach with his grandma. At sharing time, Ben held the rock up high so everyone could see the tiny white lines running across it.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v26_014",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 4,
+      "prompt": "Why did no birds come to the yard that week?",
+      "options": [
+        "The yard was too cold",
+        "The feeder was empty",
+        "The birds flew far away",
+        "Lila scared them off"
+      ],
+      "correct": 1,
+      "explain": "Lila was sick, so she did not fill the feeder on Saturday. With no food in it, the birds had no reason to visit.",
+      "standard": "RL.1.3",
+      "passage": "Lila filled the bird feeder every Saturday. One Saturday she was sick and stayed in bed. The next week the feeder hung empty, and no birds came to the yard. Lila filled it again on Sunday. By Monday morning, three sparrows were back on the fence.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v26_015",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 2,
+      "prompt": "Which of these tells what the passage is mostly about?",
+      "options": [
+        "What bees do",
+        "How to keep bees",
+        "Where flowers grow",
+        "Why hives are warm"
+      ],
+      "correct": 0,
+      "explain": "Every sentence tells something bees do: collect nectar, carry it home, make honey, and move pollen.",
+      "standard": "RI.1.2",
+      "passage": "Bees are busy workers. They fly from flower to flower to collect sweet nectar. They carry the nectar back to the hive. Inside the hive, bees turn the nectar into honey. Bees also help flowers grow by moving pollen as they fly.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v26_016",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "You can hold a good in your hands. A service is work a person does for you. Which one is a SERVICE?",
+      "options": [
+        "A new bike",
+        "A loaf of bread",
+        "A haircut",
+        "A box of crayons"
+      ],
+      "correct": 2,
+      "explain": "A haircut is work a barber does for you, and you cannot hold it in your hands. The other three are goods.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v26_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps and Globes",
+      "difficulty": 2,
+      "prompt": "What is a globe?",
+      "options": [
+        "A flat picture of a room",
+        "A round model of Earth",
+        "A list of city names",
+        "A tool that tells time"
+      ],
+      "correct": 1,
+      "explain": "A globe is shaped like a ball because Earth is round. A flat map shows the same places drawn on paper.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v26_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Then and Now",
+      "difficulty": 3,
+      "prompt": "Long ago, families washed clothes by hand in a tub. What do most families use today?",
+      "options": [
+        "A washing machine",
+        "A wooden scrub board",
+        "A stone fireplace",
+        "A hand water pump"
+      ],
+      "correct": 0,
+      "explain": "Long ago people scrubbed clothes by hand. Today a washing machine does that work, so washing takes much less time.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v26_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Families",
+      "difficulty": 2,
+      "prompt": "Ravi's family speaks Hindi at home. Sofia's family speaks Spanish at home. What does this show?",
+      "options": [
+        "Every family speaks the same language",
+        "Only one language may be used at home",
+        "Children cannot become friends with each other",
+        "Families can be different from each other"
+      ],
+      "correct": 3,
+      "explain": "Ravi's family and Sofia's family speak different languages at home. Families in one neighborhood can have different customs and still live side by side.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v26_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 4,
+      "prompt": "Ms. Lee's class votes on a class pet. 12 children vote for a fish and 9 vote for a hamster. What happens next, and why?",
+      "options": [
+        "The class gets a hamster, because it costs less money",
+        "The class gets a fish, because more children chose it",
+        "The class votes again until everyone agrees on one",
+        "The teacher picks the pet she likes the best"
+      ],
+      "correct": 1,
+      "explain": "In a vote, the choice with more votes wins. 12 is more than 9, so the fish wins the class vote.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g4_v26_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "In the number 5,500, how does the value of the 5 in the thousands place compare with the value of the 5 in the hundreds place?",
+      "options": [
+        "It is 100 times as large",
+        "It is 10 times as small",
+        "It is 10 times as large",
+        "It is exactly the same size"
+      ],
+      "correct": 2,
+      "explain": "The 5 in the thousands place is worth 5,000 and the 5 in the hundreds place is worth 500. 5,000 is 10 times 500.",
+      "standard": "4.NBT.A.1"
+    },
+    {
+      "id": "g4_v26_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "What is 6,748 rounded to the nearest hundred?",
+      "options": [
+        "6,750",
+        "6,800",
+        "6,700",
+        "7,000"
+      ],
+      "correct": 2,
+      "explain": "Look at the tens digit, 4. Because 4 is less than 5, the hundreds digit stays 7 and 6,748 rounds down to 6,700.",
+      "standard": "4.NBT.A.3"
+    },
+    {
+      "id": "g4_v26_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Line Plots",
+      "difficulty": 4,
+      "prompt": "A line plot shows six ribbon lengths in inches: 1/4, 1/4, 1/2, 3/4, 3/4, and 1. What is the difference between the longest ribbon and the shortest ribbon?",
+      "options": [
+        "3/4 inch",
+        "1/4 inch",
+        "1/2 inch",
+        "5/4 inch"
+      ],
+      "correct": 0,
+      "explain": "The longest ribbon is 1 inch and the shortest is 1/4 inch. 1 - 1/4 = 3/4 inch.",
+      "standard": "4.MD.B.4"
+    },
+    {
+      "id": "g4_v26_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A school orders 8 boxes of markers with 24 markers in each box. The markers are shared equally among 6 classrooms. How many markers does each classroom get?",
+      "options": [
+        "4",
+        "48",
+        "192",
+        "32"
+      ],
+      "correct": 3,
+      "explain": "First find the total: 8 x 24 = 192 markers. Then share them: 192 divided by 6 = 32 markers for each classroom.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v26_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Perimeter",
+      "difficulty": 4,
+      "prompt": "A picture frame has a perimeter of 38 inches. It is 12 inches wide. How tall is the frame?",
+      "options": [
+        "14 inches",
+        "7 inches",
+        "19 inches",
+        "26 inches"
+      ],
+      "correct": 1,
+      "explain": "Perimeter is two widths plus two heights. Two widths are 2 x 12 = 24 inches, so the two heights together are 38 - 24 = 14 inches, and one height is 14 divided by 2 = 7 inches.",
+      "standard": "4.MD.A.3"
+    },
+    {
+      "id": "g4_v26_006",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which sentence uses there, their, and they're correctly?",
+      "options": [
+        "Their going to they're game over there.",
+        "There going to their game over they're.",
+        "They're going to there game over their.",
+        "They're going to their game over there."
+      ],
+      "correct": 3,
+      "explain": "They're is short for 'they are', their shows who owns something, and there names a place.",
+      "standard": "L.4.1.G"
+    },
+    {
+      "id": "g4_v26_007",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Vocabulary",
+      "difficulty": 3,
+      "prompt": "Read this sentence: 'The campers had only a meager supply of firewood, so the fire went out long before morning.' What does meager mean?",
+      "options": [
+        "Very damp",
+        "Very small",
+        "Very heavy",
+        "Very costly"
+      ],
+      "correct": 1,
+      "explain": "The fire went out because the campers ran out of wood. That clue shows meager means a very small amount.",
+      "standard": "L.4.4.A"
+    },
+    {
+      "id": "g4_v26_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 3,
+      "prompt": "Which sentence punctuates the dialogue correctly?",
+      "options": [
+        "\"Meet me at the corner,\" said Priya.",
+        "\"Meet me at the corner\" said Priya.",
+        "\"Meet me at the corner,\" Said Priya.",
+        "\"Meet me at the corner\", said Priya."
+      ],
+      "correct": 0,
+      "explain": "The comma goes inside the closing quotation mark, and the speaker tag that follows begins with a lowercase letter.",
+      "standard": "L.4.2.B"
+    },
+    {
+      "id": "g4_v26_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "What does the adage 'Don't count your chickens before they hatch' mean?",
+      "options": [
+        "Chickens need warmth and time before they can hatch",
+        "Counting slowly and carefully helps you avoid mistakes",
+        "Do not depend on something that has not happened yet",
+        "It is better to raise your own animals than to buy them"
+      ],
+      "correct": 2,
+      "explain": "An adage carries a figurative meaning. Eggs may not all become chicks, so the saying warns against planning on a result you do not have yet.",
+      "standard": "L.4.5.B"
+    },
+    {
+      "id": "g4_v26_010",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Waves",
+      "difficulty": 4,
+      "prompt": "A student shakes one end of a rope to send waves along it. Which change would make the waves carry more energy?",
+      "options": [
+        "Shaking the rope slower",
+        "Making the waves smaller",
+        "Shaking the rope harder",
+        "Laying the rope on the floor"
+      ],
+      "correct": 2,
+      "explain": "A wave with greater amplitude, meaning a taller wave, carries more energy. Shaking harder makes taller waves.",
+      "standard": "NGSS-4-PS4-1"
+    },
+    {
+      "id": "g4_v26_011",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Senses",
+      "difficulty": 2,
+      "prompt": "A deer hears a twig snap and runs away. Which body parts first took in that information?",
+      "options": [
+        "Its bones and joints",
+        "Its ears and nerves",
+        "Its heart and blood",
+        "Its skin and hooves"
+      ],
+      "correct": 1,
+      "explain": "Sense organs take in information and nerves carry it to the brain. Sound reaches the deer through its ears.",
+      "standard": "NGSS-4-LS1-2"
+    },
+    {
+      "id": "g4_v26_012",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Earth Processes",
+      "difficulty": 3,
+      "prompt": "A stream flows over the same rocky ledge for hundreds of years. What will MOST LIKELY happen to the rock?",
+      "options": [
+        "It will grow larger each year",
+        "It will melt into hot liquid",
+        "It will stay exactly the same",
+        "It will slowly wear away"
+      ],
+      "correct": 3,
+      "explain": "Moving water is a slow but steady force. Over many years it carries away tiny bits of rock, which is erosion.",
+      "standard": "NGSS-4-ESS2-1"
+    },
+    {
+      "id": "g4_v26_013",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy",
+      "difficulty": 4,
+      "prompt": "A battery is connected to a small fan, and the fan begins to spin. Which energy change happens in the fan?",
+      "options": [
+        "Motion energy changes to electrical energy",
+        "Light energy changes to electrical energy",
+        "Electrical energy changes to motion energy",
+        "Sound energy changes to motion energy"
+      ],
+      "correct": 2,
+      "explain": "The battery supplies electrical energy through the wires. The fan's motor turns that electrical energy into the motion of the spinning blades.",
+      "standard": "NGSS-4-PS3-4"
+    },
+    {
+      "id": "g4_v26_014",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "New York State Government",
+      "difficulty": 2,
+      "prompt": "New York State is divided into 62 local areas of government. What are these areas called?",
+      "options": [
+        "Provinces",
+        "Districts",
+        "Counties",
+        "Territories"
+      ],
+      "correct": 2,
+      "explain": "New York State is divided into 62 counties. Each county has its own local government that runs services such as courts, roads and record keeping.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Local Government)"
+    },
+    {
+      "id": "g4_v26_015",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 3,
+      "prompt": "The Haudenosaunee built long, bark-covered houses called longhouses. Which material did they use for the frame?",
+      "options": [
+        "Blocks cut from gray stone",
+        "Poles cut from young trees",
+        "Bricks dried in the sun",
+        "Sheets of hammered metal"
+      ],
+      "correct": 1,
+      "explain": "Longhouse frames were built from bent poles of young trees, then covered with large sheets of elm bark.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Native American groups of New York State)"
+    },
+    {
+      "id": "g4_v26_016",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Local Government",
+      "difficulty": 3,
+      "prompt": "How do towns and cities in New York State pay for services such as fire departments and libraries?",
+      "options": [
+        "With money collected as taxes",
+        "With money sent by other states",
+        "With money earned by lottery only",
+        "With money printed by the town"
+      ],
+      "correct": 0,
+      "explain": "Local governments collect taxes from the people and businesses in the community, then spend that money on services everyone shares.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Local Government)"
+    },
+    {
+      "id": "g4_v26_017",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY History",
+      "difficulty": 4,
+      "prompt": "Why did New York City grow into the busiest port in the United States during the 1800s?",
+      "options": [
+        "It was the first city founded in the United States",
+        "It was the only city where foreign ships could dock",
+        "It had a deep harbor and a canal route inland",
+        "It had more farmland than any other city in the East"
+      ],
+      "correct": 2,
+      "explain": "New York had a deep, sheltered harbor, and after the Erie Canal opened in 1825 that harbor was linked to farms and towns far inland.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Geography and Economics of New York State)"
+    },
+    {
+      "id": "g4_v26_018",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "prompt": "Which statement best captures the central idea of this passage?",
+      "options": [
+        "Bee losses have several causes and need combined fixes",
+        "Mites are the one reason honeybee colonies have shrunk",
+        "Beekeepers have stopped treating their hives for mites",
+        "Wildflowers grow best along the edges of large farm fields"
+      ],
+      "correct": 0,
+      "explain": "The passage lists mites, pesticides and lost wildflowers together, says no one cause explains the decline, and describes solutions being tested in combination.",
+      "standard": "RI.4.2",
+      "passage": "Honeybee colonies have shrunk across North America over the past twenty years. Beekeepers point to several causes at once: mites that weaken the bees, pesticides sprayed on nearby crops, and the loss of wild flowers that once grew along field edges. No single cause explains the decline, and researchers now test solutions in combination, treating hives for mites while also planting strips of wildflowers between farm fields.",
+      "type": "reading"
+    },
+    {
+      "id": "g4_v26_019",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 3,
+      "prompt": "According to the passage, what makes the Adirondack Park different from Yellowstone and Yosemite?",
+      "options": [
+        "It has no towns or villages inside it",
+        "It was created before Yellowstone",
+        "It is closed to visitors in winter",
+        "Half of its land is privately owned"
+      ],
+      "correct": 3,
+      "explain": "The passage states that, unlike those parks, roughly half of the Adirondack Park is privately owned.",
+      "standard": "RI.4.1",
+      "passage": "The Adirondack Park in northern New York covers about six million acres, more land than Yellowstone, Yosemite, Grand Canyon and Glacier National Parks put together. Unlike those parks, roughly half of the Adirondack Park is privately owned. More than one hundred towns and villages sit inside its boundary, and the people who live there follow rules meant to protect the forest around them.",
+      "type": "reading",
+      "source": "New York State Department of Environmental Conservation - Adirondack Park"
+    },
+    {
+      "id": "g4_v26_020",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Sequence of Events",
+      "difficulty": 4,
+      "prompt": "According to the passage, what happens between the fifth shedding and the appearance of the adult butterfly?",
+      "options": [
+        "The caterpillar eats more milkweed and sheds its skin again",
+        "The adult butterfly lays its eggs on a milkweed plant",
+        "The caterpillar hangs upside down and then starts over",
+        "The caterpillar forms a chrysalis and rebuilds inside it"
+      ],
+      "correct": 3,
+      "explain": "After the fifth shedding the caterpillar hangs upside down and forms a chrysalis. Inside that case its body breaks down and rebuilds into a butterfly.",
+      "standard": "RI.4.3",
+      "passage": "A monarch caterpillar eats only milkweed leaves. As it eats, it grows so fast that its skin becomes too tight, so it sheds that skin and grows a new one. It does this five times. After the fifth shedding, the caterpillar hangs upside down and forms a hard green case called a chrysalis. Inside, its body breaks down and rebuilds into a butterfly. About ten days later the case splits open and an adult monarch crawls out.",
+      "type": "reading"
+    },
+    {
+      "id": "g5_v26_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "What is 4.7 x 100?",
+      "options": [
+        "470",
+        "47",
+        "4,700",
+        "0.047"
+      ],
+      "correct": 0,
+      "explain": "Multiplying by 100 shifts every digit two places to the left, so the decimal point moves two places right: 4.7 becomes 470.",
+      "standard": "5.NBT.A.2"
+    },
+    {
+      "id": "g5_v26_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 4,
+      "prompt": "Without multiplying, how does the product 7 x 3/4 compare with 7?",
+      "options": [
+        "It is less than 7",
+        "It is greater than 7",
+        "It is equal to 7",
+        "It is greater than 21"
+      ],
+      "correct": 0,
+      "explain": "Multiplying by a fraction less than 1 scales a number down. 3/4 is less than 1, so 7 x 3/4 is less than 7. It equals 5 and 1/4.",
+      "standard": "5.NF.B.5"
+    },
+    {
+      "id": "g5_v26_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 4,
+      "prompt": "A theater sold 1,584 tickets for 12 shows, with the same number sold for each show. How many tickets were sold for each show?",
+      "options": [
+        "132",
+        "122",
+        "142",
+        "1,572"
+      ],
+      "correct": 0,
+      "explain": "1,584 divided by 12 = 132. Check it: 132 x 12 = 1,584.",
+      "standard": "5.NBT.B.6"
+    },
+    {
+      "id": "g5_v26_004",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "In the sentence 'We waited on the platform until the train arrived,' what job does the word 'until' do?",
+      "options": [
+        "It joins two parts and shows time",
+        "It names the place where the action happens",
+        "It describes the waiting passengers",
+        "It shows a sudden strong feeling"
+      ],
+      "correct": 0,
+      "explain": "'Until' is a conjunction. It links the main part of the sentence to the part that follows and tells when the waiting stopped.",
+      "standard": "L.5.1.A"
+    },
+    {
+      "id": "g5_v26_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Homographs",
+      "difficulty": 3,
+      "prompt": "In which sentence does the word 'bark' mean the outer covering of a tree?",
+      "options": [
+        "The bark on the oak was rough and gray.",
+        "We heard the dog bark at the mail truck.",
+        "The puppies bark whenever the bell rings.",
+        "Do not bark orders at your little sister."
+      ],
+      "correct": 0,
+      "explain": "'Bark' is a homograph: one spelling with two unrelated meanings. Only the sentence about the oak uses it for the tough outer layer of a tree.",
+      "standard": "L.5.5.C"
+    },
+    {
+      "id": "g5_v26_006",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Matter",
+      "difficulty": 5,
+      "prompt": "A sealed jar holds 50 grams of baking soda and vinegar. They fizz together and make a gas. What is the total mass inside the sealed jar afterward?",
+      "options": [
+        "More than 50 grams",
+        "Less than 50 grams",
+        "It cannot be measured",
+        "50 grams"
+      ],
+      "correct": 3,
+      "explain": "Matter is not created or destroyed in a reaction. The jar is sealed, so the gas stays inside and the total mass is still 50 grams.",
+      "standard": "NGSS-5-PS1-2"
+    },
+    {
+      "id": "g5_v26_007",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 2,
+      "prompt": "Where is most of the water on Earth found?",
+      "options": [
+        "In the glaciers",
+        "In the rivers",
+        "In the clouds",
+        "In the oceans"
+      ],
+      "correct": 3,
+      "explain": "About 97 percent of the water on Earth is salt water in the oceans. All the fresh water together is a small share of the rest.",
+      "standard": "NGSS-5-ESS2-2"
+    },
+    {
+      "id": "g5_v26_008",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 4,
+      "prompt": "Early civilizations in the Western Hemisphere, such as the Maya and the Inca, grew in places that had:",
+      "options": [
+        "cold winters and very little rainfall",
+        "reliable food crops and fresh water",
+        "no contact at all with other groups",
+        "flat land with no mountains nearby"
+      ],
+      "correct": 1,
+      "explain": "Large settlements need a dependable food supply. The Maya grew maize in a rainy lowland region and the Inca terraced Andean slopes, both with steady water sources.",
+      "standard": "NYS-SS-5",
+      "source": "New York State K-8 Social Studies Framework, Grade 5 (Western Hemisphere: early peoples)"
+    },
+    {
+      "id": "g5_v26_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 5,
+      "prompt": "Which power belongs ONLY to the national government and not to the individual states?",
+      "options": [
+        "Building roads",
+        "Collecting taxes",
+        "Printing money",
+        "Setting up schools"
+      ],
+      "correct": 2,
+      "explain": "The Constitution gives the national government alone the power to coin and print money, while states keep powers such as running schools. Some powers, like taxing, are shared.",
+      "standard": "NYS-SS-5",
+      "source": "United States Constitution, Article I, Sections 8 and 10"
+    },
+    {
+      "id": "g5_v26_010",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 5,
+      "prompt": "This passage is built around which pattern of organization?",
+      "options": [
+        "Question and answer",
+        "Order of importance",
+        "Compare and contrast",
+        "Problem and solution"
+      ],
+      "correct": 3,
+      "explain": "The passage names a recurring trouble at the pond, describes the step students took, and reports the result the following summer.",
+      "standard": "RI.5.5",
+      "passage": "For years, the pond behind the school filled with thick green algae every August. Runoff from the parking lot carried fertilizer into the water, and the algae fed on it. Students in the science club planted a strip of native grasses along the pond's edge. The grasses soaked up the runoff before it reached the water. By the following August, the algae bloom had shrunk to a few small patches.",
+      "type": "reading"
     }
   ]
 }
