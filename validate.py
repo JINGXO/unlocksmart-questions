@@ -35,6 +35,29 @@ NUM_CAP = {"prek": 20, "k": 100, "g1": 120, "g2": 1000, "g3": 10000,
 PROMPT_WORD_CAP = {"prek": 20, "k": 30, "g1": 35, "g2": 45, "g3": 55, "g4": 65, "g5": 75}
 TEXT_SUBJECTS = ("reading", "ela", "literacy")
 
+# Difficulty band each grade may plausibly use, as (min, max) inclusive.
+#
+# This is a *pedagogical* plausibility check, not a reachability one. `AppStore.pickAdaptiveQuestion`
+# searches `target → ±1 → ±2`, and `KidFlow` walks the target up and down with the child's
+# performance, so almost any level is reachable eventually via the widening fallback. What the band
+# encodes is that a difficulty-5 question filed under Pre-K is far more likely mis-graded content
+# than a deliberate stretch item.
+#
+# The batch-spread rules below are the ones that matter operationally: the engine tries the child's
+# CURRENT level first, so a batch written entirely at the top of a grade's band is nearly invisible
+# to the child who most needs the practice — they get one wrong, drop a level, and fall straight
+# through to the old pool.
+DIFFICULTY_BAND = {"prek": (1, 2), "k": (1, 3), "g1": (2, 4), "g2": (2, 4),
+                   "g3": (2, 5), "g4": (2, 5), "g5": (2, 5)}
+
+# A new batch may not pile into one level: no single difficulty may exceed this share of the
+# questions added to a grade, once the batch is big enough for the share to mean anything.
+DIFFICULTY_MAX_SHARE = 0.55
+DIFFICULTY_MIN_BATCH = 6
+# ...and the batch's mean difficulty must stay within this much of the grade's existing mean,
+# so a run cannot quietly ratchet a grade harder or easier over time.
+DIFFICULTY_MEAN_TOLERANCE = 0.6
+
 # ── patterns ─────────────────────────────────────────────────────────────────
 
 NUM = re.compile(r"\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?")
@@ -288,6 +311,16 @@ def tier2_grade_fit(q, strict=False):
     if q.get("subject") not in TEXT_SUBJECTS and words(q.get("prompt")) > PROMPT_WORD_CAP[g]:
         errs.append(("PROMPT_LEN", f"{qid} prompt is {words(q.get('prompt'))} words; cap for {g} is {PROMPT_WORD_CAP[g]}"))
 
+    lo, hi = DIFFICULTY_BAND[g]
+    d = q.get("difficulty")
+    if not isinstance(d, int) or isinstance(d, bool):
+        errs.append(("DIFF_RANGE", f"{qid} difficulty={d!r} is not an integer"))
+    elif not lo <= d <= hi:
+        # Strict-only: 27 legacy G1/G2 items sit at difficulty 1 and are grandfathered. They are
+        # still servable through the widening fallback, so this is a plausibility flag, not a bug.
+        (errs if strict else warns).append(
+            ("DIFF_RANGE", f"{qid} difficulty {d} is outside {g}'s plausible band {lo}-{hi}"))
+
     body = (q.get("passage") or "") + " " + (q.get("prompt") or "")
     if GRAPHIC.search(body):
         errs.append(("AGE", f"{qid} contains graphic-violence vocabulary: {GRAPHIC.search(body).group(0)!r}"))
@@ -316,18 +349,54 @@ def tier3_fairness(q):
     return errs
 
 
-def tier3_batch(new_qs):
+def tier3_batch(new_qs, baseline_qs=None):
     errs, warns = [], []
     mc = [q for q in new_qs if options(q) and key_index(q) is not None]
     if len(mc) < 40:
         if mc:
             warns.append(("POS_SKEW", f"only {len(mc)} new MC questions — position balance not checked"))
-        return errs, warns
-    pos = collections.Counter(key_index(q) for q in mc)
-    for i, letter in enumerate("ABCD"):
-        share = 100 * pos.get(i, 0) / len(mc)
-        if not 20 <= share <= 30:
-            errs.append(("POS_SKEW", f"answer {letter} is correct {share:.1f}% of the batch (want 20-30%)"))
+    else:
+        pos = collections.Counter(key_index(q) for q in mc)
+        for i, letter in enumerate("ABCD"):
+            share = 100 * pos.get(i, 0) / len(mc)
+            if not 20 <= share <= 30:
+                errs.append(("POS_SKEW", f"answer {letter} is correct {share:.1f}% of the batch (want 20-30%)"))
+
+    # Difficulty spread, per grade. A batch that clusters at one level adds nothing usable for
+    # the child sitting at any other level — see DIFFICULTY_BAND for why that matters.
+    by_grade = collections.defaultdict(list)
+    for q in new_qs:
+        if q.get("grade") in DIFFICULTY_BAND:
+            by_grade[q["grade"]].append(q)
+
+    base_by_grade = collections.defaultdict(list)
+    for q in (baseline_qs or []):
+        if q.get("grade") in DIFFICULTY_BAND:
+            base_by_grade[q["grade"]].append(q)
+
+    for g, qs_g in sorted(by_grade.items()):
+        ds = [q["difficulty"] for q in qs_g if isinstance(q.get("difficulty"), int)]
+        if len(ds) < DIFFICULTY_MIN_BATCH:
+            continue
+        counts = collections.Counter(ds)
+        top_d, top_n = counts.most_common(1)[0]
+        share = top_n / len(ds)
+        if share > DIFFICULTY_MAX_SHARE:
+            errs.append(("DIFF_SKEW", f"{g}: {top_n}/{len(ds)} ({share:.0%}) of the new questions "
+                                      f"are difficulty {top_d}; max {DIFFICULTY_MAX_SHARE:.0%} at "
+                                      f"one level. Spread them across {g}'s band "
+                                      f"{DIFFICULTY_BAND[g][0]}-{DIFFICULTY_BAND[g][1]}"))
+        base_ds = [q["difficulty"] for q in base_by_grade.get(g, [])
+                   if isinstance(q.get("difficulty"), int)]
+        if base_ds:
+            new_mean = sum(ds) / len(ds)
+            base_mean = sum(base_ds) / len(base_ds)
+            if abs(new_mean - base_mean) > DIFFICULTY_MEAN_TOLERANCE:
+                direction = "harder" if new_mean > base_mean else "easier"
+                errs.append(("DIFF_SKEW", f"{g}: new questions average difficulty {new_mean:.2f} vs "
+                                          f"{base_mean:.2f} in the existing bank — {direction} by "
+                                          f"{abs(new_mean-base_mean):.2f}, over the "
+                                          f"{DIFFICULTY_MEAN_TOLERANCE} tolerance"))
     return errs, warns
 
 
@@ -365,6 +434,22 @@ def coverage_report(qs):
         tops = ", ".join(f"{t} ({n})" for t, n in un.most_common(3)) or "-"
         print(f"  {g:<6}{len(sub):>6}{coded:>8}{100*coded/len(sub):>6.0f}%   {tops}")
 
+    print("\nDifficulty spread — the adaptive engine needs supply at every level")
+    print(f"  {'grade':<6}{'band':>6}" + "".join(f"{'d'+str(d):>8}" for d in range(1, 6)) + f"{'avg':>7}")
+    for g in GRADES:
+        sub = [q for q in qs if q.get("grade") == g and isinstance(q.get("difficulty"), int)]
+        if not sub:
+            continue
+        c = collections.Counter(q["difficulty"] for q in sub)
+        lo, hi = DIFFICULTY_BAND[g]
+        cells = ""
+        for d in range(1, 6):
+            share = 100 * c.get(d, 0) / len(sub)
+            mark = "" if lo <= d <= hi else "!"   # outside the band the engine can reach
+            cells += f"{(f'{share:.0f}%' + mark):>8}"
+        avg = sum(q["difficulty"] for q in sub) / len(sub)
+        print(f"  {g:<6}{f'{lo}-{hi}':>6}{cells}{avg:>7.2f}")
+
 
 def marketing_report(qs):
     nyc = [q for q in qs if is_nyc(q)]
@@ -392,9 +477,10 @@ def main():
     bank = json.load(open(args.bank, encoding="utf-8"))
     qs = bank["questions"]
 
-    baseline_ids = set()
+    baseline_ids, baseline_qs = set(), []
     if args.baseline:
-        baseline_ids = {q.get("id") for q in json.load(open(args.baseline, encoding="utf-8"))["questions"]}
+        baseline_qs = json.load(open(args.baseline, encoding="utf-8"))["questions"]
+        baseline_ids = {q.get("id") for q in baseline_qs}
     new_qs = [q for q in qs if q.get("id") not in baseline_ids] if args.baseline else []
 
     errors, warnings = [], []
@@ -411,7 +497,7 @@ def main():
     if args.strict and new_qs:
         for q in new_qs:
             errors += tier3_fairness(q)
-        e, w = tier3_batch(new_qs)
+        e, w = tier3_batch(new_qs, baseline_qs)
         errors += e
         warnings += w
 

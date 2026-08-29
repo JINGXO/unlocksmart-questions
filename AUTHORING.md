@@ -59,6 +59,7 @@ Blocking. This is the tier that means "matches schoolwork."
 | `NUM_RANGE` | Numbers in the **prompt and the correct answer** stay inside the grade's expectation: Pre-K 20 · K 100 · G1 120 · G2 1,000 · G3 10,000 · G4 1,000,000 · G5 10,000,000. |
 | `PROMPT_LEN` | Outlier guard on reading load before the question starts. Reading/ELA/literacy are exempt — they carry the text being read. |
 | `AGE` | Graphic-violence vocabulary is rejected at every grade in this bank. Heavy history topics warn unless the passage frames them. |
+| `DIFF_RANGE` | `difficulty` must fall in the grade's plausible band: Pre-K 1–2 · K 1–3 · G1–G2 2–4 · G3–G5 2–5. Advisory for existing questions, blocking for new. |
 | `NO_STD` | Advisory for existing questions, **blocking for new ones** under `--strict`. |
 | `TRACE` | Chinese handwriting items need `traceMode`, `pinyin`, `meaning`. |
 
@@ -83,6 +84,17 @@ Blocking for **newly authored** questions (`--strict`), not retroactive.
   length varies without signalling anything.
 - `POS_SKEW` — across a new batch, each of A/B/C/D is correct 20–30% of the time. Bank-wide, D is
   currently correct **5.9%** of the time; "never pick D" is a free exploit and we should not grow it.
+- `DIFF_SKEW` — **new questions must spread across the grade's difficulty band, not pile onto one
+  level.** No single difficulty may hold more than 55% of what a batch adds to a grade, and the
+  batch mean must stay within 0.6 of that grade's existing mean.
+
+  This one is operational, not cosmetic. `AppStore.pickAdaptiveQuestion` tries the child's
+  **current** level first and only then widens to ±1 and ±2, while `KidFlow` moves that level by
+  one per answer. So a batch written entirely at the top of a band is nearly invisible to the child
+  who most needs it: they answer one wrong, drop a level, and fall straight through to the old pool.
+  The v25 run failed exactly this way — **19 of its 20 G4 questions were difficulty 4** (bank
+  average 3.17) and its G5 questions averaged 4.50 against 3.78. Every question was correct; the
+  additions simply landed where they helped least.
 - `OPT_COUNT` — four options.
 
 ---
