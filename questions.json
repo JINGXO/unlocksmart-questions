@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "questions": [
     {
       "id": "prek_count_001",
@@ -94109,6 +94109,867 @@
       "standard": "RI.5.5",
       "passage": "For years, the pond behind the school filled with thick green algae every August. Runoff from the parking lot carried fertilizer into the water, and the algae fed on it. Students in the science club planted a strip of native grasses along the pond's edge. The grasses soaked up the runoff before it reached the water. By the following August, the algae bloom had shrunk to a few small patches.",
       "type": "reading"
+    },
+    {
+      "id": "g1_v27_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Sam has 4 bundles of ten straws and 6 loose straws. How many straws does Sam have?",
+      "options": [
+        "46",
+        "10",
+        "64",
+        "406"
+      ],
+      "correct": 0,
+      "explain": "4 bundles of ten is 40 straws, and 6 loose straws are left over. 40 + 6 = 46 straws.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v27_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "Rosa had 12 crayons. She gave 5 crayons to Leo. How many crayons does Rosa have left?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "17"
+      ],
+      "correct": 2,
+      "explain": "Take 5 away from 12. 12 - 5 = 7 crayons.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v27_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 3,
+      "prompt": "A bus has 9 riders. At the first stop 4 more riders get on. At the next stop 6 more riders get on. How many riders are on the bus now?",
+      "options": [
+        "13",
+        "19",
+        "15",
+        "10"
+      ],
+      "correct": 1,
+      "explain": "Add all three numbers. 9 + 4 = 13, and 13 + 6 = 19 riders.",
+      "standard": "1.OA.A.2"
+    },
+    {
+      "id": "g1_v27_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 3,
+      "prompt": "Ben has 8 stickers. He wants 14 stickers in all. How many more stickers does Ben need?",
+      "options": [
+        "5",
+        "7",
+        "22",
+        "6"
+      ],
+      "correct": 3,
+      "explain": "8 plus what makes 14? Counting up from 8 to 14 takes 6 steps, so Ben needs 6 more.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v27_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 4,
+      "prompt": "A shelf holds 27 red blocks and 35 blue blocks. How many blocks are on the shelf in all?",
+      "options": [
+        "62",
+        "52",
+        "512",
+        "63"
+      ],
+      "correct": 0,
+      "explain": "20 + 30 = 50 and 7 + 5 = 12. Then 50 + 12 = 62 blocks.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v27_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 3,
+      "prompt": "Which number is greater than 58 and less than 63?",
+      "options": [
+        "57",
+        "64",
+        "61",
+        "58"
+      ],
+      "correct": 2,
+      "explain": "61 comes after 58 when you count up, and it comes before 63. So 61 is greater than 58 and less than 63.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v27_007",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 2,
+      "prompt": "Which sentence ends with the correct punctuation mark?",
+      "options": [
+        "Where is my hat.",
+        "Where is my hat?",
+        "Where is my hat!",
+        "Where is my hat,"
+      ],
+      "correct": 1,
+      "explain": "The sentence asks something, so it ends with a question mark.",
+      "standard": "L.1.2.B"
+    },
+    {
+      "id": "g1_v27_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which sentence shows that the hat belongs to Ana?",
+      "options": [
+        "Anas hat is red.",
+        "Ana hats is red.",
+        "Anas' hat is red.",
+        "Ana's hat is red."
+      ],
+      "correct": 3,
+      "explain": "To show that something belongs to one person, add an apostrophe and an s to the name. Ana's hat means the hat that belongs to Ana.",
+      "standard": "L.1.1.B"
+    },
+    {
+      "id": "g1_v27_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Prefixes",
+      "difficulty": 3,
+      "prompt": "Read the sentence: 'Sam had to unlock the door.' What does the word 'unlock' mean?",
+      "options": [
+        "To open a lock",
+        "To close a lock",
+        "To fix a lock",
+        "To buy a lock"
+      ],
+      "correct": 0,
+      "explain": "The prefix un- means 'the opposite of.' Adding un- to lock makes unlock, which means to open a lock.",
+      "standard": "L.1.4.B"
+    },
+    {
+      "id": "g1_v27_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which word correctly completes the sentence? 'The two dogs ___ in the yard.'",
+      "options": [
+        "run",
+        "runs",
+        "running",
+        "to run"
+      ],
+      "correct": 0,
+      "explain": "The subject is 'two dogs,' which is more than one. A plural subject takes the verb 'run.'",
+      "standard": "L.1.1.C"
+    },
+    {
+      "id": "g1_v27_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 4,
+      "prompt": "Put these three words in order from least heat to most heat: warm, hot, boiling. Which word belongs in the middle?",
+      "options": [
+        "warm",
+        "hot",
+        "boiling",
+        "cool"
+      ],
+      "correct": 1,
+      "explain": "Warm is the least heat and boiling is the most heat. Hot sits between them, so hot belongs in the middle.",
+      "standard": "L.1.5.D"
+    },
+    {
+      "id": "g1_v27_012",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 2,
+      "prompt": "A map of a park has a small box that shows a tree symbol next to the word 'tree.' What is that box called?",
+      "options": [
+        "The map title",
+        "The map border",
+        "The map key",
+        "The map corner"
+      ],
+      "correct": 2,
+      "explain": "A map key, also called a legend, tells what each symbol on the map stands for.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v27_013",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "Which of these is a service rather than a good?",
+      "options": [
+        "A loaf of bread",
+        "A pair of new shoes",
+        "A box of crayons",
+        "A ride on the bus"
+      ],
+      "correct": 3,
+      "explain": "A good is something you can hold, such as bread, shoes, or crayons. A service is work that someone does for you, such as driving you to school.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v27_014",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 3,
+      "prompt": "The children in Room 5 want a quieter reading corner. Which action is the best way for them to solve this together?",
+      "options": [
+        "Make a class rule about it",
+        "Let the loudest child decide",
+        "Move to a different classroom",
+        "Stop reading in the corner"
+      ],
+      "correct": 0,
+      "explain": "Rules help a group share a space fairly. Making a rule together lets everyone in the class agree on how the corner will be used.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v27_015",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 4,
+      "prompt": "Long ago, families kept food cold in a box filled with ice. What do most families use today for the same job?",
+      "options": [
+        "A kitchen window",
+        "A refrigerator",
+        "A washing machine",
+        "A cooking stove"
+      ],
+      "correct": 1,
+      "explain": "An ice box kept food cold before homes had electricity. Today a refrigerator does that same job.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v27_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plants and Animals",
+      "difficulty": 2,
+      "prompt": "A puppy has floppy ears and brown fur, just like its mother. Why does the puppy look like its mother?",
+      "options": [
+        "Young animals choose how they look",
+        "Every animal changes color as it grows",
+        "Young animals look like their parents",
+        "The puppy learned to look that way"
+      ],
+      "correct": 2,
+      "explain": "Young animals are much like, but not exactly like, their parents. Traits such as ear shape and fur color are passed from parent to young.",
+      "standard": "1-LS3-1"
+    },
+    {
+      "id": "g1_v27_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 3,
+      "prompt": "Nina puts a book on the table in a room with no light at all. What happens when she tries to see the book?",
+      "options": [
+        "She cannot see it in the dark",
+        "She sees it because books glow",
+        "She sees it after her eyes rest",
+        "She sees only the color of it"
+      ],
+      "correct": 0,
+      "explain": "Objects can be seen only when light shines on them and bounces back to our eyes. With no light in the room, the book cannot be seen.",
+      "standard": "1-PS4-2"
+    },
+    {
+      "id": "g1_v27_018",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Seasons",
+      "difficulty": 2,
+      "prompt": "Sam writes down the time the sun sets each day. In which season will he write down the earliest sunsets?",
+      "options": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ],
+      "correct": 3,
+      "explain": "There are fewer hours of daylight in winter, so the sun sets earlier than in any other season.",
+      "standard": "1-ESS1-2",
+      "closedSet": true
+    },
+    {
+      "id": "g1_v27_019",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "Where did Mila find the egg?",
+      "passage": "Mila found a small blue egg under the maple tree. She did not touch it. She ran inside and told her grandmother. Grandmother said the egg belonged to a robin, and that the robin would come back for it.",
+      "options": [
+        "Inside her house",
+        "Under the maple tree",
+        "On the front steps",
+        "Beside the blue door"
+      ],
+      "correct": 1,
+      "explain": "The story says Mila found a small blue egg under the maple tree.",
+      "standard": "RL.1.1"
+    },
+    {
+      "id": "g1_v27_020",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "prompt": "Which title fits this passage best?",
+      "passage": "Honeybees live together in a hive. Some bees fly out to find flowers. They carry pollen back to the hive on their legs. Other bees stay home and take care of the baby bees. Every bee in the hive has a job to do.",
+      "options": [
+        "How Flowers Grow",
+        "Taking Care of Pets",
+        "The Jobs Bees Do",
+        "A Walk in the Woods"
+      ],
+      "correct": 2,
+      "explain": "Every sentence tells about something a bee does: finding flowers, carrying pollen, caring for baby bees. A title about the jobs bees do covers the whole passage.",
+      "standard": "RI.1.2"
+    },
+    {
+      "id": "g4_v27_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "Mia shaded 6 of the 8 equal parts of a rectangle. Which fraction names the same amount as the part she shaded?",
+      "options": [
+        "3/4",
+        "6/4",
+        "2/8",
+        "4/6"
+      ],
+      "correct": 0,
+      "explain": "She shaded 6/8 of the rectangle. Dividing the numerator and the denominator by 2 gives 3/4, so 6/8 = 3/4.",
+      "standard": "4.NF.A.1"
+    },
+    {
+      "id": "g4_v27_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Which comparison of fractions is correct?",
+      "options": [
+        "1/4 > 2/6",
+        "2/3 > 3/5",
+        "5/8 > 3/4",
+        "4/9 > 1/2"
+      ],
+      "correct": 1,
+      "explain": "Rewrite each pair with a common denominator. 2/3 = 10/15 and 3/5 = 9/15, so 2/3 is the greater one. In the other three pairs the first fraction is the smaller one.",
+      "standard": "4.NF.A.2"
+    },
+    {
+      "id": "g4_v27_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Which decimal is greater than 0.4 and less than 0.5?",
+      "options": [
+        "0.04",
+        "0.54",
+        "0.46",
+        "0.4"
+      ],
+      "correct": 2,
+      "explain": "0.46 is 46 hundredths. That is more than 40 hundredths, which is 0.4, and less than 50 hundredths, which is 0.5.",
+      "standard": "4.NF.C.7"
+    },
+    {
+      "id": "g4_v27_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A class of 137 students will ride vans to a museum. Each van holds 9 students. What is the smallest number of vans the class needs?",
+      "options": [
+        "15",
+        "15 r 2",
+        "17",
+        "16"
+      ],
+      "correct": 3,
+      "explain": "137 divided by 9 is 15 with a remainder of 2. Those 2 students still need a ride, so the class needs 16 vans.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v27_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A bakery makes 4 trays of muffins each morning with 24 muffins on a tray. It sells 78 muffins by noon. How many muffins are left?",
+      "options": [
+        "18",
+        "22",
+        "96",
+        "174"
+      ],
+      "correct": 0,
+      "explain": "First 4 x 24 = 96 muffins are made. Then 96 - 78 = 18 muffins are left.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v27_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 4,
+      "prompt": "A bell rings every 6 minutes and a horn sounds every 8 minutes. They just went off together. In how many minutes will they next go off together?",
+      "options": [
+        "14",
+        "24",
+        "18",
+        "12"
+      ],
+      "correct": 1,
+      "explain": "List the multiples: 6, 12, 18, 24 and 8, 16, 24. The first number in both lists is 24, so they next go off together in 24 minutes.",
+      "standard": "4.OA.B.4"
+    },
+    {
+      "id": "g4_v27_007",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which word correctly completes the sentence? 'The book ___ I borrowed is due on Friday.'",
+      "options": [
+        "who",
+        "whose",
+        "that",
+        "where"
+      ],
+      "correct": 2,
+      "explain": "A relative pronoun connects a describing clause to a noun. 'That' is used for a thing, and a book is a thing.",
+      "standard": "L.4.1.A"
+    },
+    {
+      "id": "g4_v27_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Frequently Confused Words",
+      "difficulty": 3,
+      "prompt": "Which sentence uses 'to,' 'too,' and 'two' correctly?",
+      "options": [
+        "The too of us walked to the store, two.",
+        "The two of us walked too the store, to.",
+        "The to of us walked two the store, too.",
+        "The two of us walked to the store, too."
+      ],
+      "correct": 3,
+      "explain": "'Two' is the number 2, 'to' shows where someone is going, and 'too' means also. Only one sentence puts all three in the right place.",
+      "standard": "L.4.1.G"
+    },
+    {
+      "id": "g4_v27_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Prefixes",
+      "difficulty": 3,
+      "prompt": "The prefix 'inter-' means 'between.' What does the word 'interstate' most likely mean?",
+      "options": [
+        "Going between states",
+        "Staying inside one state",
+        "Passing under a state road",
+        "Circling the state border"
+      ],
+      "correct": 0,
+      "explain": "'Inter-' means between and 'state' names a state, so an interstate highway is one that runs between states.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v27_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 3,
+      "prompt": "Which sentence uses a comma correctly?",
+      "options": [
+        "We packed our lunches and, we walked to the park.",
+        "We packed our lunches, and we walked to the park.",
+        "We packed our lunches and we walked, to the park.",
+        "We packed, our lunches and we walked to the park."
+      ],
+      "correct": 1,
+      "explain": "Both halves are complete sentences joined by 'and.' In a compound sentence the comma goes before the joining word.",
+      "standard": "L.4.2.C"
+    },
+    {
+      "id": "g4_v27_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "Read this sentence: 'The classroom was a beehive on the morning of the science fair.' What does this metaphor suggest?",
+      "options": [
+        "The room was quiet and still",
+        "The room was cold and empty",
+        "The room was busy and noisy",
+        "The room was full of real bees"
+      ],
+      "correct": 2,
+      "explain": "A metaphor says one thing is another. A beehive is crowded and humming with activity, so the sentence means the classroom was busy and noisy.",
+      "standard": "L.4.5.A"
+    },
+    {
+      "id": "g4_v27_012",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "Which body of water forms the western border of New York State near Buffalo?",
+      "options": [
+        "Lake Huron",
+        "Lake George",
+        "Lake Placid",
+        "Lake Erie"
+      ],
+      "correct": 3,
+      "explain": "Lake Erie sits at the western edge of New York State. The city of Buffalo stands where Lake Erie flows into the Niagara River.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Geography of New York State)"
+    },
+    {
+      "id": "g4_v27_013",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY History",
+      "difficulty": 3,
+      "prompt": "The Erie Canal opened in 1825. How did it change trade in New York State?",
+      "options": [
+        "Goods moved cheaply to the sea",
+        "Farms stopped growing any wheat",
+        "Trade with other states ended",
+        "Ships no longer used the harbor"
+      ],
+      "correct": 0,
+      "explain": "Before the canal, hauling goods overland was slow and costly. The canal let boats carry grain and other goods from western New York to the Hudson River and on to the coast.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Geography, Economics, and the Erie Canal)"
+    },
+    {
+      "id": "g4_v27_014",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 4,
+      "prompt": "A town builds a new bridge instead of a new library because it cannot pay for both. What is the town's opportunity cost?",
+      "options": [
+        "The taxes it collects each year",
+        "The library it did not build",
+        "The bridge that workers built",
+        "The money left in the budget"
+      ],
+      "correct": 1,
+      "explain": "Opportunity cost is what you give up when you choose one option over another. The town chose the bridge, so the library it gave up is the opportunity cost.",
+      "standard": "NYS-SS-4"
+    },
+    {
+      "id": "g4_v27_015",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 4,
+      "prompt": "The Haudenosaunee built longhouses in what is now New York State. Why did several families live in one longhouse?",
+      "options": [
+        "They had no tools to build more",
+        "They moved to a new home daily",
+        "They shared work and shelter",
+        "They were not allowed their own"
+      ],
+      "correct": 2,
+      "explain": "A longhouse held several related families of the same clan. They shared the cooking fires down the center and shared the work of farming and building.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Native American Groups of New York State)"
+    },
+    {
+      "id": "g4_v27_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy",
+      "difficulty": 2,
+      "prompt": "A student rubs her hands together quickly for ten seconds. Which form of energy does she feel being made?",
+      "options": [
+        "Light energy",
+        "Sound energy",
+        "Solar energy",
+        "Heat energy"
+      ],
+      "correct": 3,
+      "explain": "Rubbing creates friction between the two surfaces. Friction changes motion energy into heat energy, which is why the hands feel warm.",
+      "standard": "NGSS-4-PS3-2"
+    },
+    {
+      "id": "g4_v27_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 3,
+      "prompt": "A stream carries small pieces of rock and sand downhill and drops them where the water slows down. What is this dropping of material called?",
+      "options": [
+        "Deposition",
+        "Erosion",
+        "Weathering",
+        "Evaporation"
+      ],
+      "correct": 0,
+      "explain": "Weathering breaks rock apart and erosion carries the pieces away. When moving water slows and leaves the pieces behind, that step is deposition.",
+      "standard": "NGSS-4-ESS2-1"
+    },
+    {
+      "id": "g4_v27_018",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Adaptations",
+      "difficulty": 4,
+      "prompt": "A cactus stores water in a thick stem and has spines instead of broad leaves. How do these two structures help the cactus survive in a desert?",
+      "options": [
+        "They help the plant make seeds",
+        "They save water and guard it",
+        "They let the plant grow taller",
+        "They keep the roots from drying"
+      ],
+      "correct": 1,
+      "explain": "The thick stem holds water for the dry months, and the spines lose far less water than broad leaves would while also keeping thirsty animals away.",
+      "standard": "NGSS-4-LS1-1"
+    },
+    {
+      "id": "g4_v27_019",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "Which text structure does this passage use?",
+      "passage": "A hurricane begins far out over warm ocean water. Warm, wet air rises from the sea and cooler air rushes in to take its place. That moving air begins to spin. As the storm gathers more warm air, its winds grow stronger. Finally the spinning storm reaches land, where it slows down and breaks apart.",
+      "options": [
+        "Compare and contrast",
+        "Question and answer",
+        "Sequence of events",
+        "Problem and solution"
+      ],
+      "correct": 2,
+      "explain": "The passage moves through the stages of a hurricane in order, using words such as 'begins,' 'as,' and 'finally.'",
+      "standard": "RI.4.5"
+    },
+    {
+      "id": "g4_v27_020",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "prompt": "What is the theme of this passage?",
+      "passage": "Dev practiced the same three measures of his cello piece every afternoon for two weeks. His fingers ached and the notes still came out rough. On the day of the recital he thought about stopping. Instead he sat down and played, and the three measures came out clean. Afterward his teacher only said, 'You did that. Not me.'",
+      "options": [
+        "Music teachers know the most",
+        "Recitals are stressful events",
+        "Cellos are hard instruments",
+        "Steady effort brings results"
+      ],
+      "correct": 3,
+      "explain": "Dev keeps working through weeks of rough playing, and on the day it counts the work pays off. His teacher's last line points back to Dev's own effort.",
+      "standard": "RL.4.2"
+    },
+    {
+      "id": "g5_v27_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 3,
+      "prompt": "What is 4.7 - 1.35?",
+      "options": [
+        "3.35",
+        "3.45",
+        "3.65",
+        "2.35"
+      ],
+      "correct": 0,
+      "explain": "Line up the decimal points and write 4.7 as 4.70. Then 4.70 - 1.35 = 3.35.",
+      "standard": "5.NBT.B.7"
+    },
+    {
+      "id": "g5_v27_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 4,
+      "prompt": "A ribbon 1/2 meter long is cut into 3 equal pieces. How long is each piece?",
+      "options": [
+        "1/5 meter",
+        "1/6 meter",
+        "3/2 meters",
+        "2/3 meter"
+      ],
+      "correct": 1,
+      "explain": "Cutting 1/2 into 3 equal parts means 1/2 divided by 3. Each piece is 1/6 of a meter, because three sixths make one half.",
+      "standard": "5.NF.B.7"
+    },
+    {
+      "id": "g5_v27_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 5,
+      "prompt": "What is 6 + 3 x (10 - 4) / 2?",
+      "options": [
+        "12",
+        "27",
+        "15",
+        "24"
+      ],
+      "correct": 2,
+      "explain": "Work inside the parentheses first: 10 - 4 = 6. Then multiply and divide from left to right: 3 x 6 = 18 and 18 / 2 = 9. Finally 6 + 9 = 15.",
+      "standard": "5.OA.A.1"
+    },
+    {
+      "id": "g5_v27_004",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Which sentence is written in the present perfect tense?",
+      "options": [
+        "I had finished my homework already.",
+        "I will finish my homework.",
+        "I am finishing my homework.",
+        "I have finished my homework."
+      ],
+      "correct": 3,
+      "explain": "The present perfect uses 'have' or 'has' with the past participle of the verb. 'Have finished' shows an action completed by now, while 'had finished' is the past perfect and 'will finish' is the future.",
+      "standard": "L.5.1.B"
+    },
+    {
+      "id": "g5_v27_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The root 'aud' means 'hear.' What does the word 'inaudible' most likely mean?",
+      "options": [
+        "Not able to be heard",
+        "Able to be seen clearly",
+        "Spoken in a loud voice",
+        "Written down word for word"
+      ],
+      "correct": 0,
+      "explain": "'In-' means not, 'aud' means hear, and '-ible' means able to be. Put together, inaudible means not able to be heard.",
+      "standard": "L.5.4.B"
+    },
+    {
+      "id": "g5_v27_006",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Ecosystems",
+      "difficulty": 2,
+      "prompt": "In a food web, what role do mushrooms and bacteria play?",
+      "options": [
+        "They make food from sunlight",
+        "They break down dead matter",
+        "They hunt and eat other animals",
+        "They store water in the soil"
+      ],
+      "correct": 1,
+      "explain": "Mushrooms and bacteria are decomposers. They break down plant and animal remains and return the nutrients to the soil.",
+      "standard": "NGSS-5-LS2-1"
+    },
+    {
+      "id": "g5_v27_007",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Space",
+      "difficulty": 4,
+      "prompt": "A star that is much larger than our Sun looks like a tiny point of light in the night sky. What best explains this?",
+      "options": [
+        "It gives off very little light",
+        "It is smaller than it appears",
+        "It is very far from Earth",
+        "It is blocked by our own Sun"
+      ],
+      "correct": 2,
+      "explain": "How bright a star looks depends on its distance as well as its size. Stars far larger than the Sun still look like points because they are trillions of miles away.",
+      "standard": "NGSS-5-ESS1-1"
+    },
+    {
+      "id": "g5_v27_008",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 4,
+      "prompt": "Many early cities in the Western Hemisphere grew beside rivers. What advantage did a river give a growing city?",
+      "options": [
+        "Cooler weather all year long",
+        "Protection from every storm",
+        "More sunlight for buildings",
+        "Water for crops and travel"
+      ],
+      "correct": 3,
+      "explain": "A river supplied drinking water, watered nearby fields, and carried boats. Those advantages let a settlement feed and trade with more people.",
+      "standard": "NYS-SS-5",
+      "source": "New York State K-8 Social Studies Framework, Grade 5 (Geography of the Western Hemisphere)"
+    },
+    {
+      "id": "g5_v27_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 5,
+      "prompt": "In the United States, Congress writes the laws and the Supreme Court decides what they mean. Which idea does this division show?",
+      "options": [
+        "Separation of powers",
+        "Freedom of the press",
+        "Trial by a jury",
+        "Rule of the majority"
+      ],
+      "correct": 0,
+      "explain": "The framers gave lawmaking, enforcing, and judging to three separate branches so that no single branch could hold all the power. That design is called separation of powers.",
+      "standard": "NYS-SS-5",
+      "source": "New York State K-8 Social Studies Framework, Grade 5 (Civic Ideals and Practices)"
+    },
+    {
+      "id": "g5_v27_010",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Point of View",
+      "difficulty": 5,
+      "prompt": "How do the two accounts of the ferry ride differ?",
+      "passage": "Two students wrote about the same field trip. Amara wrote: 'The ferry ride took forty minutes, and the guide named each island we passed.' Jonah wrote: 'The ferry ride dragged on, and the guide would not stop talking about islands nobody asked about.'",
+      "options": [
+        "Amara leaves out the guide",
+        "Jonah adds his own opinions",
+        "Jonah reports only the facts",
+        "Amara describes a different trip"
+      ],
+      "correct": 1,
+      "explain": "Amara states what happened: how long the ride took and what the guide did. Jonah reports the same events but adds phrases such as 'dragged on' and 'would not stop,' which show how he felt about them.",
+      "standard": "RI.5.6"
     }
   ]
 }

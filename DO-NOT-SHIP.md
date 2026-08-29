@@ -15,7 +15,7 @@ line of App Store or website copy.** "We'll be careful" is not a control.
 > `python3 validate.py --cards cards.json` exports the screenshot-safe pool so you can *find*
 > existing material rather than commission new material to fit a post.
 
-Last verified against `questions.json` v26 (4,979 questions) on 2026-08-29.
+Last verified against `questions.json` v27 (5,029 questions) on 2026-08-29.
 
 **On versions.** v22 was verified live on 2026-08-28 — `origin/main`, the raw URL the app fetches,
 the local copy, and the app's bundled fallback were byte-identical at 4,951 questions. The growth
@@ -33,15 +33,15 @@ The numbers below come from a strict word-boundary match over 34 NYC terms acros
 
 | Fact | Number | Approved public phrasing |
 |---|---|---|
-| Total questions | 4,979 (v26) | 「近5000道」 |
-| **NYC questions the kid actually sees** | **255** (v26) | **「250多道写纽约的题」** |
-| NYC questions incl. explanation text | 263 | *(internal only — do not publish)* |
-| Standards-coded (CCSS / NGSS / NY State) | 3,916 (v26) | 「3916道带标准代码」 |
-| Pre-K–G3 share of bank | 85.6% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
+| Total questions | 5,029 (v27) | 「5000多道」 |
+| **NYC questions the kid actually sees** | **258** (v27) | **「250多道写纽约的题」** |
+| NYC questions incl. explanation text | 266 | *(internal only — do not publish)* |
+| Standards-coded (CCSS / NGSS / NY State) | 3,966 (v27) | 「3966道带标准代码」 |
+| Pre-K–G3 share of bank | 85.1% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
 | Chinese handwriting questions | **0 — disabled in v24** | ⛔ **do not claim at all** (see §7) |
 | Default earning rate | 3 questions × 5 min = 15 min | 「答对3题换15分钟」 |
 
-**NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 77 · reading 29 · math 21 · literacy 11 · science 6`.
+**NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 80 · reading 29 · math 21 · literacy 11 · science 6`.
 The subway word problem is the **thinnest** slice (21 questions), not the widest. Lead with
 五个区 / 纽约常识 / 纽约历史; treat the subway math problem as one nice example, not the category.
 
@@ -192,8 +192,8 @@ PY
 ```
 
 **If the terms list changes, the number changes.** Do not re-scan with a different list and quote a
-different number — the frozen number is whatever §1 records for the current bank version (255 as of
-v26), and consistency matters more than precision here. Re-run this script when the bank changes and
+different number — the frozen number is whatever §1 records for the current bank version (258 as of
+v27), and consistency matters more than precision here. Re-run this script when the bank changes and
 update §1; never quote a number this script did not produce.
 
 ---
