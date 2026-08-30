@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "questions": [
     {
       "id": "prek_count_001",
@@ -94970,6 +94970,868 @@
       "correct": 1,
       "explain": "Amara states what happened: how long the ride took and what the guide did. Jonah reports the same events but adds phrases such as 'dragged on' and 'would not stop,' which show how he felt about them.",
       "standard": "RI.5.6"
+    },
+    {
+      "id": "g1_v28_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 13 - 6?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "19"
+      ],
+      "correct": 0,
+      "explain": "Start at 13 and count back 6: 12, 11, 10, 9, 8, 7. So 13 - 6 = 7.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v28_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Maya had 12 crayons. She gave 5 of them to her friend. How many crayons does Maya have now?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "17"
+      ],
+      "correct": 1,
+      "explain": "Giving crayons away means taking some off: 12 - 5 = 7. Maya has 7 crayons now.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v28_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value to 120",
+      "difficulty": 3,
+      "prompt": "Which number has 8 tens and 3 ones?",
+      "options": [
+        "38",
+        "813",
+        "83",
+        "80"
+      ],
+      "correct": 2,
+      "explain": "8 tens is 80 and 3 ones is 3. Put them together: 80 + 3 = 83.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v28_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Number",
+      "difficulty": 4,
+      "prompt": "What number makes this true? 15 - ___ = 8",
+      "options": [
+        "8",
+        "6",
+        "23",
+        "7"
+      ],
+      "correct": 3,
+      "explain": "Think about it as an addition: 8 plus what makes 15? 8 + 7 = 15, so 15 - 7 = 8.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v28_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 4,
+      "prompt": "What is 47 + 8?",
+      "options": [
+        "55",
+        "45",
+        "54",
+        "115"
+      ],
+      "correct": 0,
+      "explain": "7 ones plus 8 ones makes 15 ones, which is 1 ten and 5 ones. That new ten joins the 4 tens to make 5 tens, so 47 + 8 = 55.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v28_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Telling Time to the Half-Hour",
+      "difficulty": 3,
+      "prompt": "The hour hand is halfway between 2 and 3, and the minute hand points at 6. What time is it?",
+      "options": [
+        "3:30",
+        "2:30",
+        "6:30",
+        "2:06"
+      ],
+      "correct": 1,
+      "explain": "When the minute hand points at 6, it is 30 minutes past the hour. The hour hand has passed 2 but has not reached 3, so the time is 2:30.",
+      "standard": "1.MD.B.3"
+    },
+    {
+      "id": "g1_v28_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Adding Three Numbers",
+      "difficulty": 4,
+      "prompt": "Lily picked 5 red apples, 4 green apples, and 6 yellow apples. How many apples did she pick in all?",
+      "options": [
+        "14",
+        "9",
+        "15",
+        "11"
+      ],
+      "correct": 2,
+      "explain": "Add the three numbers in any order. 5 + 4 = 9, and then 9 + 6 = 15 apples in all.",
+      "standard": "1.OA.A.2"
+    },
+    {
+      "id": "g1_v28_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Plural Nouns",
+      "difficulty": 2,
+      "prompt": "Which word correctly completes the sentence? The three ___ are on the shelf.",
+      "options": [
+        "box",
+        "boxs",
+        "box's",
+        "boxes"
+      ],
+      "correct": 3,
+      "explain": "A word that ends in x adds -es to name more than one. One box, three boxes.",
+      "standard": "L.1.1.C"
+    },
+    {
+      "id": "g1_v28_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Verb Tense",
+      "difficulty": 2,
+      "prompt": "Which word correctly completes the sentence? Yesterday we ___ to the park.",
+      "options": [
+        "walked",
+        "walk",
+        "walking",
+        "will walk"
+      ],
+      "correct": 0,
+      "explain": "Yesterday tells us the action already happened, so the verb needs its past form, walked.",
+      "standard": "L.1.1.E"
+    },
+    {
+      "id": "g1_v28_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Capitalization",
+      "difficulty": 3,
+      "prompt": "Which sentence uses capital letters in the right places?",
+      "options": [
+        "we go to school on monday.",
+        "We go to school on Monday.",
+        "We go to school on monday.",
+        "we go to school on Monday."
+      ],
+      "correct": 1,
+      "explain": "The first word of a sentence begins with a capital letter, and the name of a day of the week is always capitalized too.",
+      "standard": "L.1.2.A"
+    },
+    {
+      "id": "g1_v28_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Prefixes",
+      "difficulty": 3,
+      "prompt": "The prefix re- means 'again.' What does the word refill mean?",
+      "options": [
+        "Take it away",
+        "Pour it all out",
+        "Fill it again",
+        "Give it back"
+      ],
+      "correct": 2,
+      "explain": "Re- means again, so refill means to fill something up again.",
+      "standard": "L.1.4.B"
+    },
+    {
+      "id": "g1_v28_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Long Vowel Patterns",
+      "difficulty": 2,
+      "prompt": "Which word has the same long vowel sound as cake?",
+      "options": [
+        "cat",
+        "cart",
+        "cop",
+        "rain"
+      ],
+      "correct": 3,
+      "explain": "Cake has the long a sound. Rain has the same long a sound, spelled with the vowel team ai. Cat, cart, and cop do not.",
+      "standard": "RF.1.3.C"
+    },
+    {
+      "id": "g1_v28_013",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "What did Nina put in the bowl?",
+      "passage": "Nina found a small gray kitten under the porch. She filled a bowl with milk and set it on the step. The kitten drank all the milk. Then it curled up in the sun and fell asleep.",
+      "options": [
+        "Milk",
+        "Water",
+        "Bread",
+        "Seeds"
+      ],
+      "correct": 0,
+      "explain": "The passage says Nina filled a bowl with milk and set it on the step.",
+      "standard": "RL.1.1"
+    },
+    {
+      "id": "g1_v28_014",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 3,
+      "prompt": "Why did Theo make a new boat?",
+      "passage": "Theo left his paper boat on the windowsill. In the night a storm blew rain through the open window. In the morning the boat was a soft, wet lump. Theo folded a new one out of dry paper.",
+      "options": [
+        "He wanted a bigger sail",
+        "The rain ruined the old one",
+        "His friend asked for a boat",
+        "He lost it at the park"
+      ],
+      "correct": 1,
+      "explain": "Rain blew in through the open window and turned the paper boat into a wet lump, so Theo folded a new one out of dry paper.",
+      "standard": "RL.1.3"
+    },
+    {
+      "id": "g1_v28_015",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "prompt": "Which title tells what this whole passage is about?",
+      "passage": "Ants live in big groups called colonies. Some ants dig tunnels under the ground. Some ants carry crumbs back to the nest. Other ants take care of the eggs. Together the colony keeps the nest running.",
+      "options": [
+        "Where bread crumbs come from",
+        "How to dig a deep tunnel",
+        "How ants work together",
+        "Why ant eggs are so small"
+      ],
+      "correct": 2,
+      "explain": "Each sentence names a different job that ants in a colony do -- digging, carrying food, and caring for eggs -- and the last sentence says they do it together. A title about ants working together covers the whole passage.",
+      "standard": "RI.1.2"
+    },
+    {
+      "id": "g1_v28_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light and Shadows",
+      "difficulty": 2,
+      "prompt": "A flashlight shines on a block of wood. What happens to the light?",
+      "options": [
+        "It passes through the wood",
+        "It bends around the wood",
+        "It makes the wood glow",
+        "It is blocked by the wood"
+      ],
+      "correct": 3,
+      "explain": "Wood does not let light pass through it. The light is blocked, and a dark shadow forms behind the block.",
+      "standard": "1-PS4-3"
+    },
+    {
+      "id": "g1_v28_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Parents and Offspring",
+      "difficulty": 3,
+      "prompt": "A puppy has floppy ears just like its mother. What best explains this?",
+      "options": [
+        "Young animals look like their parents",
+        "Every puppy in the world looks the same",
+        "A puppy picks the ears it wants",
+        "Floppy ears grow after a dog runs"
+      ],
+      "correct": 0,
+      "explain": "Many young animals look a lot like their parents, though not exactly. The floppy ears passed from the mother dog to her puppy.",
+      "standard": "1-LS3-1"
+    },
+    {
+      "id": "g1_v28_018",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 2,
+      "prompt": "Ana plucks a guitar string and it makes a sound. What is the string doing?",
+      "options": [
+        "Getting warm to the touch",
+        "Vibrating back and forth",
+        "Turning a bright color",
+        "Growing longer and longer"
+      ],
+      "correct": 1,
+      "explain": "A sound is made when something vibrates. The plucked string moves quickly back and forth, and that shaking makes the sound.",
+      "standard": "1-PS4-1"
+    },
+    {
+      "id": "g1_v28_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs and Wants",
+      "difficulty": 2,
+      "prompt": "Which of these is something a family needs, not just something they want?",
+      "options": [
+        "A new video game",
+        "A trip to the beach",
+        "A place to live",
+        "A box of candy"
+      ],
+      "correct": 2,
+      "explain": "A need is something people must have to live, such as food, water, clothing, and a place to live. A video game, a trip, and candy are things people want.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v28_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "Why does a classroom have a rule about taking turns?",
+      "options": [
+        "It makes the room look neater",
+        "It helps the clock run on time",
+        "It teaches everyone to be quiet",
+        "It keeps things fair for all"
+      ],
+      "correct": 3,
+      "explain": "A rule about taking turns makes sure every person gets a chance and no one is left out. That is what makes the rule a fair one.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g4_v28_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Equivalent Fractions",
+      "difficulty": 2,
+      "prompt": "Which fraction is equivalent to 6/10?",
+      "options": [
+        "3/5",
+        "6/5",
+        "1/6",
+        "5/10"
+      ],
+      "correct": 0,
+      "explain": "Divide the top and the bottom of 6/10 by the same number: 6 divided by 2 is 3, and 10 divided by 2 is 5. So 6/10 = 3/5.",
+      "standard": "4.NF.A.1"
+    },
+    {
+      "id": "g4_v28_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 4,
+      "prompt": "Which fraction is greater than 2/3?",
+      "options": [
+        "5/8",
+        "3/4",
+        "3/5",
+        "7/12"
+      ],
+      "correct": 1,
+      "explain": "Rewrite 2/3 as 8/12. Then 3/4 = 9/12, which is greater. The others are all smaller: 7/12 is below 8/12, 5/8 is 0.625, and 3/5 is 0.6, while 2/3 is about 0.667.",
+      "standard": "4.NF.A.2"
+    },
+    {
+      "id": "g4_v28_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding Mixed Numbers",
+      "difficulty": 4,
+      "prompt": "What is 2 and 3/8 plus 1 and 7/8?",
+      "options": [
+        "3 and 1/4",
+        "4 and 5/8",
+        "4 and 1/4",
+        "3 and 5/8"
+      ],
+      "correct": 2,
+      "explain": "Add the fractions: 3/8 + 7/8 = 10/8, which is 1 whole and 2/8. Add the whole numbers: 2 + 1 = 3, and the extra whole makes 4. The leftover 2/8 simplifies to 1/4, so the sum is 4 and 1/4.",
+      "standard": "4.NF.B.3.C"
+    },
+    {
+      "id": "g4_v28_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A class of 137 students takes a trip. Each van holds 12 students. How many vans are needed so that every student has a seat?",
+      "options": [
+        "11",
+        "5",
+        "13",
+        "12"
+      ],
+      "correct": 3,
+      "explain": "137 divided by 12 is 11 with 5 left over. Eleven vans seat 132 students, and the last 5 students still need a ride, so a twelfth van is needed.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v28_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Decimals",
+      "difficulty": 3,
+      "prompt": "Which decimal is the greatest?",
+      "options": [
+        "0.6",
+        "0.06",
+        "0.59",
+        "0.499"
+      ],
+      "correct": 0,
+      "explain": "Line up the decimal points and compare the tenths first: 0.6 has 6 tenths, 0.59 has 5 tenths, 0.499 has 4 tenths, and 0.06 has 0 tenths. So 0.6 is the greatest.",
+      "standard": "4.NF.C.7"
+    },
+    {
+      "id": "g4_v28_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 2,
+      "prompt": "How many centimeters are in 4 meters?",
+      "options": [
+        "40",
+        "400",
+        "4000",
+        "44"
+      ],
+      "correct": 1,
+      "explain": "One meter is 100 centimeters, so 4 meters is 4 x 100 = 400 centimeters.",
+      "standard": "4.MD.A.1"
+    },
+    {
+      "id": "g4_v28_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Angles",
+      "difficulty": 3,
+      "prompt": "A straight angle is split into two smaller angles. One of them measures 115 degrees. What does the other one measure?",
+      "options": [
+        "75 degrees",
+        "295 degrees",
+        "65 degrees",
+        "85 degrees"
+      ],
+      "correct": 2,
+      "explain": "A straight angle measures 180 degrees. Subtract the part you know: 180 - 115 = 65, so the other angle measures 65 degrees.",
+      "standard": "4.MD.C.7"
+    },
+    {
+      "id": "g4_v28_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The root port means 'to carry.' What does the word portable most likely mean?",
+      "options": [
+        "Easy to repair",
+        "Made of metal",
+        "Very expensive",
+        "Easy to carry"
+      ],
+      "correct": 3,
+      "explain": "Port means to carry and -able means able to be. A portable radio is one you are able to carry with you.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v28_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Relative Pronouns",
+      "difficulty": 3,
+      "prompt": "Which word correctly completes the sentence? The scientist ___ discovered the fossil spoke at our school.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correct": 0,
+      "explain": "Use who for a person doing the action. The scientist is a person, and the scientist did the discovering, so who is the right relative pronoun.",
+      "standard": "L.4.1.A"
+    },
+    {
+      "id": "g4_v28_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Progressive Verb Tenses",
+      "difficulty": 2,
+      "prompt": "Which sentence is written in the past progressive tense?",
+      "options": [
+        "We paint the fence today.",
+        "We were painting the fence.",
+        "We will paint the fence soon.",
+        "We have painted the fence."
+      ],
+      "correct": 1,
+      "explain": "The past progressive uses was or were plus a verb ending in -ing to show an action going on in the past. Were painting fits that pattern.",
+      "standard": "L.4.1.B"
+    },
+    {
+      "id": "g4_v28_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Idioms",
+      "difficulty": 3,
+      "prompt": "Read this sentence: 'When the test came back, Priya was on cloud nine.' What does the idiom mean?",
+      "options": [
+        "She felt very tired",
+        "She was up in a plane",
+        "She felt very happy",
+        "She was very confused"
+      ],
+      "correct": 2,
+      "explain": "On cloud nine is an idiom for feeling delighted. The words do not describe a real cloud.",
+      "standard": "L.4.5.B"
+    },
+    {
+      "id": "g4_v28_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Frequently Confused Words",
+      "difficulty": 2,
+      "prompt": "Which word correctly completes the sentence? The team packed ___ gear before the bus left.",
+      "options": [
+        "there",
+        "they're",
+        "there's",
+        "their"
+      ],
+      "correct": 3,
+      "explain": "Their shows possession -- the gear belongs to the team. There names a place, and they're is short for they are.",
+      "standard": "L.4.1.G"
+    },
+    {
+      "id": "g4_v28_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "What can the reader conclude about the tank?",
+      "passage": "Marisol checked the tank again. The water line sat a full inch below the mark she had drawn on the glass last Sunday. She looked at the seam near the bottom, dried it carefully with a paper towel, and watched. Within a minute a thin wet line appeared along the seam.",
+      "options": [
+        "It is leaking slowly",
+        "It was never filled up",
+        "It holds too many fish",
+        "It sits in bright sun"
+      ],
+      "correct": 0,
+      "explain": "The water level dropped over the week, and after Marisol dries the seam a wet line comes back within a minute. Water is escaping through the seam.",
+      "standard": "RL.4.1"
+    },
+    {
+      "id": "g4_v28_014",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 4,
+      "prompt": "Which structure does the writer use to organize this passage?",
+      "passage": "Sea otters eat sea urchins. When otters disappeared from a stretch of coast, the urchin population grew quickly. The urchins ate through the kelp forest until little was left. Fish that sheltered in the kelp moved away, and the coast turned into bare rock.",
+      "options": [
+        "Question and answer",
+        "Cause and effect",
+        "Compare and contrast",
+        "Problem and solution"
+      ],
+      "correct": 1,
+      "explain": "Each sentence names a result of the one before it: fewer otters led to more urchins, more urchins led to less kelp, and less kelp drove the fish away. That chain of causes and results is cause and effect.",
+      "standard": "RI.4.5"
+    },
+    {
+      "id": "g4_v28_015",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "prompt": "Which sentence best states the main idea of this passage?",
+      "passage": "The Erie Canal opened in 1825 and linked Buffalo, on Lake Erie, to the Hudson River. Before the canal, hauling a ton of goods from Buffalo to New York City took about three weeks by wagon over rough roads. Barges on the canal made the same trip in about eight days, and the cost of shipping dropped sharply. Towns along the canal route grew quickly, and New York City's port handled far more cargo than before.",
+      "options": [
+        "Wagons were the quickest way to move goods",
+        "The canal took eight days to build fully",
+        "The canal made shipping faster and cheaper",
+        "New York City sits on Lake Erie's shore"
+      ],
+      "correct": 2,
+      "explain": "Every detail compares travel before and after the canal: about three weeks by wagon became about eight days by barge, the cost fell, and the towns and the port grew as a result.",
+      "standard": "RI.4.2",
+      "source": "Erie Canalway National Heritage Corridor, National Park Service -- Erie Canal history"
+    },
+    {
+      "id": "g4_v28_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 3,
+      "prompt": "A metal spoon is left standing in a pot of hot soup. A few minutes later the handle feels warm. What has happened?",
+      "options": [
+        "The spoon created its own heat energy",
+        "The handle began to burn",
+        "The soup lost all of its heat",
+        "Energy moved along the metal"
+      ],
+      "correct": 3,
+      "explain": "Heat energy travels from the hot soup through the metal of the spoon to the handle. The spoon does not make energy; it carries it.",
+      "standard": "4-PS3-2"
+    },
+    {
+      "id": "g4_v28_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Weathering",
+      "difficulty": 2,
+      "prompt": "Water seeps into a crack in a rock and then freezes overnight. What happens to the crack?",
+      "options": [
+        "It gets wider",
+        "It closes up",
+        "It fills with sand",
+        "It turns to soil"
+      ],
+      "correct": 0,
+      "explain": "Water takes up more space when it freezes, so the ice pushes against the sides of the crack and widens it. Repeating this many times breaks the rock apart.",
+      "standard": "4-ESS2-1"
+    },
+    {
+      "id": "g4_v28_018",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Waves",
+      "difficulty": 4,
+      "prompt": "Two waves cross a pond. The first has taller crests than the second, but both pass a floating stick at the same rate. Which wave property is different?",
+      "options": [
+        "Wavelength",
+        "Amplitude",
+        "Frequency",
+        "Direction"
+      ],
+      "correct": 1,
+      "explain": "Amplitude is the height of a wave. Both waves pass the stick at the same rate, so their frequency matches; what differs is how tall the crests are.",
+      "standard": "4-PS4-1"
+    },
+    {
+      "id": "g4_v28_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "New York State Government",
+      "difficulty": 3,
+      "prompt": "New York State's capital city is where the state legislature meets to make state laws. Which city is it?",
+      "options": [
+        "New York City",
+        "Buffalo",
+        "Albany",
+        "Syracuse"
+      ],
+      "correct": 2,
+      "explain": "Albany has been the capital of New York State since 1797. The State Capitol building there is where the Senate and the Assembly meet.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Government)"
+    },
+    {
+      "id": "g4_v28_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 2,
+      "prompt": "A bakery buys flour, sugar, and butter in order to make bread. What are those three items called?",
+      "options": [
+        "Services",
+        "Profits",
+        "Consumers",
+        "Resources"
+      ],
+      "correct": 3,
+      "explain": "Resources are the materials a producer uses to make a good. The bakery turns flour, sugar, and butter into bread, which is the good it sells.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Economics)"
+    },
+    {
+      "id": "g5_v28_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 4,
+      "prompt": "What is 4 + 2 x (9 - 3) - 5?",
+      "options": [
+        "11",
+        "31",
+        "16",
+        "7"
+      ],
+      "correct": 0,
+      "explain": "Parentheses first: 9 - 3 = 6. Then multiply: 2 x 6 = 12. Then add and subtract from left to right: 4 + 12 = 16, and 16 - 5 = 11.",
+      "standard": "5.OA.A.1"
+    },
+    {
+      "id": "g5_v28_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 4,
+      "prompt": "What is 1/4 divided by 3?",
+      "options": [
+        "3/12",
+        "1/12",
+        "1/7",
+        "4/3"
+      ],
+      "correct": 1,
+      "explain": "Dividing by 3 splits 1/4 into 3 equal parts. Each part is 1/12, because twelve twelfths make one whole and three of them make one quarter.",
+      "standard": "5.NF.B.7.A"
+    },
+    {
+      "id": "g5_v28_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 3,
+      "prompt": "A box is 8 cm long, 5 cm wide, and 3 cm tall. What is its volume?",
+      "options": [
+        "16 cubic cm",
+        "40 cubic cm",
+        "120 cubic cm",
+        "158 cubic cm"
+      ],
+      "correct": 2,
+      "explain": "The volume of a rectangular box is length x width x height: 8 x 5 x 3 = 120, so the volume is 120 cubic cm.",
+      "standard": "5.MD.C.5.B"
+    },
+    {
+      "id": "g5_v28_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Number Patterns",
+      "difficulty": 5,
+      "prompt": "Pattern A starts at 0 and adds 3 each time. Pattern B starts at 0 and adds 9 each time. How does each term of Pattern B compare with the matching term of Pattern A?",
+      "options": [
+        "It is 3 times as large",
+        "It is 6 more than it",
+        "It is 9 times as large",
+        "It is 3 more than it"
+      ],
+      "correct": 0,
+      "explain": "Pattern A gives 0, 3, 6, 9, 12 and Pattern B gives 0, 9, 18, 27, 36. Each term of B is three times the matching term of A, because 9 is three times 3.",
+      "standard": "5.OA.B.3"
+    },
+    {
+      "id": "g5_v28_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Adages and Proverbs",
+      "difficulty": 3,
+      "prompt": "What does the adage 'Do not count your chickens before they hatch' advise?",
+      "options": [
+        "Count carefully before you begin work",
+        "Do not rely on an uncertain result",
+        "Chickens are difficult farm animals",
+        "Always finish what you have started"
+      ],
+      "correct": 1,
+      "explain": "Not every egg hatches, so counting the chicks in advance can leave you short. The adage warns against planning on something that has not happened yet.",
+      "standard": "L.5.5.B"
+    },
+    {
+      "id": "g5_v28_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Correlative Conjunctions",
+      "difficulty": 2,
+      "prompt": "Which sentence uses a correlative conjunction pair correctly?",
+      "options": [
+        "Neither Ana or Ben finished the puzzle.",
+        "Either Ana nor Ben finished the puzzle.",
+        "Neither Ana nor Ben finished the puzzle.",
+        "Neither Ana and Ben finished the puzzle."
+      ],
+      "correct": 2,
+      "explain": "Correlative conjunctions come in fixed pairs. Neither always pairs with nor, either pairs with or, and both pairs with and.",
+      "standard": "L.5.1.E"
+    },
+    {
+      "id": "g5_v28_007",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "What does the detail about the two cups suggest about Grandpa?",
+      "passage": "Every Thursday Grandpa set two cups on the table before I arrived, even the week the roads iced over and the buses stopped running. When I finally got there on Friday, both cups were still sitting out, washed and turned upside down beside the kettle. He said nothing about it and poured the tea.",
+      "options": [
+        "He expected the visit anyway",
+        "He rarely drank tea himself",
+        "He owned only two teacups",
+        "He disliked washing the dishes"
+      ],
+      "correct": 0,
+      "explain": "He set out two cups on Thursday even though the roads were closed, and he left them ready until the narrator arrived on Friday. Setting a place for someone shows he was counting on the visit.",
+      "standard": "RL.5.1"
+    },
+    {
+      "id": "g5_v28_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Conservation of Matter",
+      "difficulty": 5,
+      "prompt": "A sealed jar holds 60 grams of vinegar and baking soda. The mixture fizzes until the bubbling stops. What do the jar and its contents weigh now?",
+      "options": [
+        "48 grams",
+        "60 grams",
+        "72 grams",
+        "30 grams"
+      ],
+      "correct": 1,
+      "explain": "The gas made by the reaction stays inside the sealed jar, so no matter enters or leaves. The total mass is unchanged at 60 grams.",
+      "standard": "5-PS1-2"
+    },
+    {
+      "id": "g5_v28_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Bill of Rights",
+      "difficulty": 4,
+      "prompt": "The Bill of Rights was added to the United States Constitution in 1791. What was its main purpose?",
+      "options": [
+        "To set the price of goods sold",
+        "To choose the nation's capital city",
+        "To protect individual freedoms",
+        "To divide the land into new states"
+      ],
+      "correct": 2,
+      "explain": "Several states agreed to the Constitution only if specific protections were written down. The first ten amendments list freedoms such as speech, religion, and the press.",
+      "standard": "NYS-SS-5",
+      "source": "New York State K-8 Social Studies Framework, Grade 5 (Civic Ideals and Practices)"
+    },
+    {
+      "id": "g5_v28_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 2,
+      "prompt": "A country grows more coffee than its own people can drink. What is it called when the country sells the extra to other countries?",
+      "options": [
+        "Importing",
+        "Investing",
+        "Producing",
+        "Exporting"
+      ],
+      "correct": 3,
+      "explain": "Goods sent out of a country to be sold elsewhere are exports. Goods brought in from other countries are imports.",
+      "standard": "NYS-SS-5",
+      "source": "New York State K-8 Social Studies Framework, Grade 5 (Economics)"
     }
   ]
 }
