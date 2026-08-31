@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "questions": [
     {
       "id": "prek_count_001",
@@ -95832,6 +95832,864 @@
       "explain": "Goods sent out of a country to be sold elsewhere are exports. Goods brought in from other countries are imports.",
       "standard": "NYS-SS-5",
       "source": "New York State K-8 Social Studies Framework, Grade 5 (Economics)"
+    },
+    {
+      "id": "g1_v29_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Ten More and Ten Less",
+      "difficulty": 2,
+      "prompt": "What is 10 less than 64?",
+      "options": [
+        "63",
+        "54",
+        "74",
+        "65"
+      ],
+      "correct": 1,
+      "explain": "Ten less takes away one whole ten. 64 has 6 tens and 4 ones. Take one ten away and 5 tens and 4 ones are left, which is 54.",
+      "standard": "1.NBT.C.5"
+    },
+    {
+      "id": "g1_v29_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 4,
+      "prompt": "A chart shows 9 kids picked apples, 4 picked pears, and 3 picked plums. How many more kids picked apples than pears and plums together?",
+      "options": [
+        "5",
+        "16",
+        "2",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "First put pears and plums together: 4 + 3 = 7. Then compare with apples: 9 - 7 = 2. So 2 more kids picked apples.",
+      "standard": "1.MD.C.4"
+    },
+    {
+      "id": "g1_v29_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Composing Shapes",
+      "difficulty": 3,
+      "prompt": "Ravi puts two equal squares side by side so they share a full side. What new shape do the two squares make together?",
+      "options": [
+        "rectangle",
+        "triangle",
+        "pentagon",
+        "half-circle"
+      ],
+      "correct": 0,
+      "explain": "Each square has 4 straight sides. Joined along one whole side they make a longer shape with 4 sides and 4 square corners, which is a rectangle.",
+      "standard": "1.G.A.2"
+    },
+    {
+      "id": "g1_v29_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Unknown Addends and Equations",
+      "difficulty": 4,
+      "prompt": "Which addition fact helps you solve 15 - 8?",
+      "options": [
+        "8 + 8 = 16",
+        "7 + 7 = 14",
+        "8 + 5 = 13",
+        "8 + 7 = 15"
+      ],
+      "correct": 3,
+      "explain": "Subtraction asks what is missing. 15 - 8 means 8 plus what makes 15? Since 8 + 7 = 15, seven is the missing part.",
+      "standard": "1.OA.B.4"
+    },
+    {
+      "id": "g1_v29_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 2,
+      "prompt": "A pencil is longer than a crayon. The crayon is longer than a paper clip. Which one is the shortest?",
+      "options": [
+        "the pencil",
+        "the paper clip",
+        "the crayon",
+        "you cannot tell"
+      ],
+      "correct": 1,
+      "explain": "Line them up in order. The pencil is the longest and the crayon is in the middle. The paper clip is shorter than the crayon, so it is the shortest of the three.",
+      "standard": "1.MD.A.1"
+    },
+    {
+      "id": "g1_v29_006",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 2,
+      "prompt": "Nia plucks a guitar string and hears a sound. What is the string doing while the sound is made?",
+      "options": [
+        "growing longer and longer",
+        "moving back and forth",
+        "turning a new color",
+        "getting warmer inside"
+      ],
+      "correct": 1,
+      "explain": "Sound is made when something vibrates. The plucked string moves quickly back and forth, and that shaking moves the air so your ears can hear it.",
+      "standard": "1-PS4-1"
+    },
+    {
+      "id": "g1_v29_007",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 3,
+      "prompt": "Kids watch the sky all year. Which pattern happens over and over?",
+      "options": [
+        "The sun rises in the west each day.",
+        "The moon rises only in summer.",
+        "The stars come out at noon each day.",
+        "The sun rises in the east each day."
+      ],
+      "correct": 3,
+      "explain": "Patterns in the sky repeat. Every morning the sun comes up on the east side of the sky and later goes down on the west side.",
+      "standard": "1-ESS1-1"
+    },
+    {
+      "id": "g1_v29_008",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Parents and Offspring",
+      "difficulty": 2,
+      "prompt": "A mother robin brings worms to her babies in the nest. Why does she do this?",
+      "options": [
+        "Young birds like to sleep all day long.",
+        "Young birds cannot get food alone yet.",
+        "Worms help the nest stay warm at night.",
+        "Baby birds can already fly to find food."
+      ],
+      "correct": 1,
+      "explain": "Baby animals need help to stay alive. Robin chicks cannot fly or hunt yet, so a parent brings food to the nest until they grow bigger.",
+      "standard": "1-LS1-2"
+    },
+    {
+      "id": "g1_v29_009",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Communicating with Light and Sound",
+      "difficulty": 3,
+      "prompt": "A crossing guard wants a driver far away to stop. Which choice sends a signal that far?",
+      "options": [
+        "Whispering a short word",
+        "Tapping a soft drum beat",
+        "Blinking your eyes twice",
+        "Blowing a loud whistle"
+      ],
+      "correct": 3,
+      "explain": "Loud sounds and bright lights can travel far. A whistle is loud enough for a driver down the block to hear, while a whisper or a soft tap fades away.",
+      "standard": "1-PS4-4"
+    },
+    {
+      "id": "g1_v29_010",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "A barber cuts hair at a shop. Is a haircut a good or a service?",
+      "options": [
+        "a good",
+        "both a good and a service",
+        "a service",
+        "neither one"
+      ],
+      "correct": 2,
+      "explain": "Goods are things you can hold, like apples or shoes. Services are jobs people do for you. A haircut is work the barber does, so it is a service.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v29_011",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 3,
+      "prompt": "Long ago, families kept food cold with a big block of ice in a box. What do most families use today?",
+      "options": [
+        "a bathtub",
+        "a bookshelf",
+        "a washing machine",
+        "a refrigerator"
+      ],
+      "correct": 3,
+      "explain": "Long ago an icebox held a block of ice to keep food cool. Today a refrigerator does that same job using electricity.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v29_012",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "Why does a school have a rule about walking in the hallway?",
+      "options": [
+        "to make the day longer",
+        "to save paper",
+        "to keep everyone safe",
+        "to pick a class leader"
+      ],
+      "correct": 2,
+      "explain": "Rules help a group get along and stay safe. Walking instead of running in a crowded hallway keeps people from bumping into each other and getting hurt.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v29_013",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs and Wants",
+      "difficulty": 3,
+      "prompt": "Sam lists four things. Which one is a need, not a want?",
+      "options": [
+        "a new video game",
+        "a bag of candy",
+        "clean water to drink",
+        "stickers for a notebook"
+      ],
+      "correct": 2,
+      "explain": "A need is something you must have to live and stay healthy. People cannot live without clean water, but they can live without games, candy, or stickers.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v29_014",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Capitalization",
+      "difficulty": 2,
+      "prompt": "Which line writes the date with correct capital letters?",
+      "options": [
+        "Monday, May 4",
+        "monday, May 4",
+        "Monday, may 4",
+        "monday, may 4"
+      ],
+      "correct": 0,
+      "explain": "Days of the week and months of the year begin with capital letters. Monday and May both need one.",
+      "standard": "L.1.2.A"
+    },
+    {
+      "id": "g1_v29_015",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Adjectives",
+      "difficulty": 3,
+      "prompt": "Which word in this sentence is an adjective? Ben found a shiny rock.",
+      "options": [
+        "found",
+        "shiny",
+        "rock",
+        "Ben"
+      ],
+      "correct": 1,
+      "explain": "An adjective describes a noun. Shiny tells what the rock is like, so shiny is the adjective. Found is the action and rock is the thing.",
+      "standard": "L.1.1.F"
+    },
+    {
+      "id": "g1_v29_016",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Pronouns",
+      "difficulty": 3,
+      "prompt": "Mia and Jon rode the bus. Which word can take the place of Mia and Jon as the subject of the next sentence?",
+      "options": [
+        "Them",
+        "Hers",
+        "They",
+        "That"
+      ],
+      "correct": 2,
+      "explain": "Mia and Jon names two people doing the action, so it needs a subject pronoun for more than one person. That pronoun is They.",
+      "standard": "L.1.1.D"
+    },
+    {
+      "id": "g1_v29_017",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Prefixes",
+      "difficulty": 3,
+      "prompt": "The word unhappy is built from the prefix un- and the word happy. What does unhappy mean?",
+      "options": [
+        "very happy",
+        "happy again",
+        "not happy",
+        "most happy"
+      ],
+      "correct": 2,
+      "explain": "The prefix un- means not. Put it in front of happy and you get unhappy, which means not happy.",
+      "standard": "L.1.4.B"
+    },
+    {
+      "id": "g1_v29_018",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Story Lesson",
+      "difficulty": 3,
+      "prompt": "What does Tam learn in this story?",
+      "passage": "Tam wanted to build a tall block tower fast. He stacked the blocks in a hurry, and the tower fell down. Tam tried again. This time he set each block down slowly and made the bottom wide. The tower stood up tall.",
+      "options": [
+        "Blocks are the best toy to own.",
+        "Working slowly and carefully helps.",
+        "Towers should always be short.",
+        "It is better to build with a friend."
+      ],
+      "correct": 1,
+      "explain": "Tam's fast tower fell, and his careful tower stood. The story shows that taking your time helps the work come out right.",
+      "standard": "RL.1.2"
+    },
+    {
+      "id": "g1_v29_019",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Text Features",
+      "difficulty": 2,
+      "prompt": "A book about frogs has a page that lists words like pond and tadpole with their meanings. What is that page called?",
+      "options": [
+        "a glossary",
+        "a title page",
+        "a chapter",
+        "an index"
+      ],
+      "correct": 0,
+      "explain": "A glossary lists special words from the book and tells what each one means. An index lists page numbers instead.",
+      "standard": "RI.1.5"
+    },
+    {
+      "id": "g1_v29_020",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Compare and Contrast Characters",
+      "difficulty": 4,
+      "prompt": "How are Ana and Leo different?",
+      "passage": "Ana packs her backpack the night before school. She checks her list twice. Her brother Leo packs in the morning while he eats. Leo often forgets his lunch, but he is never late to the bus.",
+      "options": [
+        "Ana rides the bus, and Leo walks.",
+        "Ana forgets lunch, and Leo does not.",
+        "Ana is late, and Leo is on time.",
+        "Ana packs early, and Leo packs late."
+      ],
+      "correct": 3,
+      "explain": "The passage says Ana packs the night before while Leo packs in the morning. That is the difference the text actually shows.",
+      "standard": "RL.1.9"
+    },
+    {
+      "id": "g4_v29_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Angles",
+      "difficulty": 3,
+      "prompt": "An angle turns through 1/4 of a full circle. How many degrees is it?",
+      "options": [
+        "90",
+        "45",
+        "180",
+        "25"
+      ],
+      "correct": 0,
+      "explain": "A full circle turn measures 360 degrees. One fourth of 360 is 360 divided by 4, which is 90 degrees.",
+      "standard": "4.MD.C.5"
+    },
+    {
+      "id": "g4_v29_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Angles",
+      "difficulty": 4,
+      "prompt": "Two smaller angles fit exactly inside a 140 degree angle. If one of them is 58 degrees, how big is the other?",
+      "options": [
+        "82 degrees",
+        "98 degrees",
+        "198 degrees",
+        "72 degrees"
+      ],
+      "correct": 0,
+      "explain": "The two parts add up to the whole angle, so 58 plus the missing part is 140. Subtract to find it: 140 - 58 = 82 degrees.",
+      "standard": "4.MD.C.7"
+    },
+    {
+      "id": "g4_v29_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Area and Perimeter",
+      "difficulty": 3,
+      "prompt": "A rectangular rug covers 36 square feet and is 9 feet long. How wide is it?",
+      "options": [
+        "4 feet",
+        "9 feet",
+        "18 feet",
+        "27 feet"
+      ],
+      "correct": 0,
+      "explain": "Area is length times width, so the width is the area divided by the length: 36 divided by 9 = 4. The rug is 4 feet wide.",
+      "standard": "4.MD.A.3"
+    },
+    {
+      "id": "g4_v29_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 3,
+      "prompt": "What is 273,914 rounded to the nearest ten thousand?",
+      "options": [
+        "280,000",
+        "270,000",
+        "274,000",
+        "300,000"
+      ],
+      "correct": 1,
+      "explain": "The ten thousands digit is 7, and the digit to its right, in the thousands place, is 3. Since 3 is less than 5 the 7 stays and everything after it becomes zero: 270,000.",
+      "standard": "4.NBT.A.3"
+    },
+    {
+      "id": "g4_v29_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison",
+      "difficulty": 4,
+      "prompt": "A library has 6 times as many novels as atlases. It has 138 novels. How many atlases does it have?",
+      "options": [
+        "23",
+        "828",
+        "132",
+        "24"
+      ],
+      "correct": 0,
+      "explain": "Six times as many means novels = 6 x atlases. To undo the multiplication, divide: 138 divided by 6 = 23 atlases.",
+      "standard": "4.OA.A.2"
+    },
+    {
+      "id": "g4_v29_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 5,
+      "prompt": "A class of 24 students each read 3/4 of a 160-page book. How many pages did the class read in all?",
+      "options": [
+        "2,880",
+        "480",
+        "3,840",
+        "2,088"
+      ],
+      "correct": 0,
+      "explain": "First find one student's pages: 3/4 of 160 is 160 divided by 4 = 40, and 40 x 3 = 120 pages. Then multiply by the number of students: 120 x 24 = 2,880 pages.",
+      "standard": "4.NF.B.4.C"
+    },
+    {
+      "id": "g4_v29_007",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Fossils and Rock Layers",
+      "difficulty": 4,
+      "prompt": "Scientists find a fish fossil in rock high on a mountain. What does this best suggest?",
+      "options": [
+        "Water once covered that land.",
+        "Fish can climb steep rocks.",
+        "The mountain has always been dry.",
+        "Someone carried the fish uphill."
+      ],
+      "correct": 0,
+      "explain": "Fossils form in layers of sediment that settle underwater. A fish fossil in mountain rock is evidence that the area was once covered by water and the rock was later pushed upward.",
+      "standard": "NGSS-4-ESS1-1"
+    },
+    {
+      "id": "g4_v29_008",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Information Transfer",
+      "difficulty": 4,
+      "prompt": "How does a computer store the letters of a word so it can send them along a wire?",
+      "options": [
+        "As tiny drawings of each letter",
+        "As small drops of colored ink",
+        "As sounds recorded from a voice",
+        "As patterns of on-off signals"
+      ],
+      "correct": 3,
+      "explain": "Digital devices code information as patterns. Each letter becomes a pattern of on and off electrical pulses that travels along the wire and is decoded at the other end.",
+      "standard": "NGSS-4-PS4-3"
+    },
+    {
+      "id": "g4_v29_009",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Conversion",
+      "difficulty": 3,
+      "prompt": "A student turns a hand crank on a flashlight and the bulb lights up. Which energy change happens?",
+      "options": [
+        "Light energy becomes sound energy.",
+        "Sound energy becomes motion energy.",
+        "Heat energy becomes chemical energy.",
+        "Motion energy becomes light energy."
+      ],
+      "correct": 3,
+      "explain": "Turning the crank is motion. The crank spins a small generator that changes that motion into electricity, and the bulb changes the electricity into light.",
+      "standard": "NGSS-4-PS3-4"
+    },
+    {
+      "id": "g4_v29_010",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Landforms",
+      "difficulty": 2,
+      "prompt": "A map shows a long, narrow, winding low area between two ranges of hills. What landform is that?",
+      "options": [
+        "a plateau",
+        "an island",
+        "a valley",
+        "a peninsula"
+      ],
+      "correct": 2,
+      "explain": "A valley is the low, often winding land between higher ground such as hills or mountains. A plateau is flat high land, and an island is surrounded by water.",
+      "standard": "NGSS-4-ESS2-2"
+    },
+    {
+      "id": "g4_v29_011",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 3,
+      "prompt": "The Haudenosaunee, also called the Iroquois, formed a league of nations in what is now New York. What did that league do?",
+      "options": [
+        "It let the nations decide things together.",
+        "It made all the nations speak one language.",
+        "It moved every nation to one village.",
+        "It ended all farming in the region."
+      ],
+      "correct": 0,
+      "explain": "The Haudenosaunee Confederacy joined the Mohawk, Oneida, Onondaga, Cayuga, and Seneca nations, and later the Tuscarora. Each nation kept its own leaders, and their representatives met in a Grand Council to settle matters that affected them all.",
+      "standard": "NYS-SS-4",
+      "source": "NYS K-12 Social Studies Framework, Grade 4 — Native American groups of New York State"
+    },
+    {
+      "id": "g4_v29_012",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Immigration",
+      "difficulty": 2,
+      "prompt": "Between 1892 and 1954, millions of people arriving in New York first stopped at an immigration station in the harbor. Which place was it?",
+      "options": [
+        "Ellis Island",
+        "Coney Island",
+        "Central Park",
+        "Times Square"
+      ],
+      "correct": 0,
+      "explain": "Ellis Island in New York Harbor was the federal immigration station. Arriving passengers were checked there before they could enter the country.",
+      "standard": "NYS-SS-4",
+      "source": "U.S. National Park Service — Statue of Liberty National Monument and Ellis Island"
+    },
+    {
+      "id": "g4_v29_013",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Local Government",
+      "difficulty": 3,
+      "prompt": "New York State's law-making body is called the Legislature. What is its main job?",
+      "options": [
+        "to run the public schools",
+        "to write the state's laws",
+        "to decide court cases",
+        "to print money for the state"
+      ],
+      "correct": 1,
+      "explain": "New York's Legislature has two houses, the Senate and the Assembly. Its main job is to write and pass the laws of the state. Courts decide cases, and the governor carries the laws out.",
+      "standard": "NYS-SS-4",
+      "source": "New York State Constitution, Article III"
+    },
+    {
+      "id": "g4_v29_014",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 4,
+      "prompt": "The Erie Canal opened in 1825 and connected the Hudson River to Lake Erie. How did that change trade in New York?",
+      "options": [
+        "Trade between the cities became much slower and costlier.",
+        "The port of New York City closed to all shipping.",
+        "Farmers had to move their goods only by wagon.",
+        "Western farm goods reached the coast more cheaply."
+      ],
+      "correct": 3,
+      "explain": "Before the canal, hauling grain overland from the Great Lakes was slow and expensive. The canal let barges carry it to the Hudson and down to the harbor, cutting shipping costs sharply and helping the port grow.",
+      "standard": "NYS-SS-4",
+      "source": "NYS K-12 Social Studies Framework, Grade 4 — the Erie Canal and economic growth"
+    },
+    {
+      "id": "g4_v29_015",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The prefix tele- means far off and the root -scope means an instrument for seeing. Which word names a tool for seeing things that are far away?",
+      "options": [
+        "telegram",
+        "telescope",
+        "microscope",
+        "stethoscope"
+      ],
+      "correct": 1,
+      "explain": "Put the two parts together: tele- for far off and -scope for seeing. A telescope shows faraway things, while a microscope enlarges very small ones.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v29_016",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Run-on Sentences",
+      "difficulty": 3,
+      "prompt": "Which choice is a run-on sentence?",
+      "options": [
+        "We hiked all morning, and we were tired.",
+        "After we hiked, we were tired.",
+        "We hiked all morning and rested.",
+        "We hiked all morning we were tired."
+      ],
+      "correct": 3,
+      "explain": "A run-on jams two complete thoughts together with no comma and no joining word. We hiked all morning and we were tired are each complete, so they need a comma and a conjunction, or a period, between them.",
+      "standard": "L.4.1.F"
+    },
+    {
+      "id": "g4_v29_017",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "prompt": "What does this line suggest? The old truck coughed and groaned up the hill.",
+      "options": [
+        "The truck was full of people.",
+        "The truck struggled to climb.",
+        "The driver had a bad cold.",
+        "The hill was covered in snow."
+      ],
+      "correct": 1,
+      "explain": "Coughed and groaned are human sounds given to a machine. The words tell you the engine was working hard and barely making it up the hill.",
+      "standard": "RL.4.4"
+    },
+    {
+      "id": "g4_v29_018",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Relative Pronouns",
+      "difficulty": 3,
+      "prompt": "Which relative pronoun best fills the blank? The scientist ___ found the fossil gave a talk.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "what"
+      ],
+      "correct": 1,
+      "explain": "A relative pronoun links a describing clause to a noun. Use who for a person doing the action, which for a thing, and whose to show belonging.",
+      "standard": "L.4.1.A"
+    },
+    {
+      "id": "g4_v29_019",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Modal Auxiliaries",
+      "difficulty": 3,
+      "prompt": "Which sentence uses a modal auxiliary to show possibility?",
+      "options": [
+        "Rain fell hard this afternoon.",
+        "The rain was cold this afternoon.",
+        "Rain is falling this afternoon.",
+        "Rain may fall this afternoon."
+      ],
+      "correct": 3,
+      "explain": "Modal auxiliaries such as can, may, must, and should sit in front of the main verb to show things like ability or possibility. May fall shows the rain is possible but not certain.",
+      "standard": "L.4.1.C"
+    },
+    {
+      "id": "g4_v29_020",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Word Relationships",
+      "difficulty": 2,
+      "prompt": "Which word is the closest antonym for the word ancient?",
+      "options": [
+        "aged",
+        "hollow",
+        "modern",
+        "distant"
+      ],
+      "correct": 2,
+      "explain": "An antonym is a word with the opposite meaning. Ancient means very old, so its opposite is modern, which means of the present time.",
+      "standard": "L.4.5.C"
+    },
+    {
+      "id": "g5_v29_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "In the number 4,472, how many times greater is the value of the 4 on the left than the value of the 4 in the hundreds place?",
+      "options": [
+        "100 times",
+        "1,000 times",
+        "10 times",
+        "4 times"
+      ],
+      "correct": 2,
+      "explain": "The left 4 sits in the thousands place and is worth 4,000. The other 4 sits in the hundreds place and is worth 400. Since 4,000 divided by 400 is 10, the left digit is worth 10 times as much.",
+      "standard": "5.NBT.A.1"
+    },
+    {
+      "id": "g5_v29_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplying Fractions",
+      "difficulty": 4,
+      "prompt": "A recipe needs 2/3 of a cup of oats. Dev makes 3/4 of the recipe. How many cups of oats does he use?",
+      "options": [
+        "5/7 cup",
+        "1/4 cup",
+        "1/2 cup",
+        "8/9 cup"
+      ],
+      "correct": 2,
+      "explain": "Taking 3/4 of 2/3 means multiplying: 2/3 x 3/4 = 6/12. Six twelfths simplifies to 1/2, so he uses 1/2 cup of oats.",
+      "standard": "5.NF.B.6"
+    },
+    {
+      "id": "g5_v29_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multi-Digit Division",
+      "difficulty": 5,
+      "prompt": "What is 6,384 divided by 24?",
+      "options": [
+        "26",
+        "276",
+        "266",
+        "2,660"
+      ],
+      "correct": 2,
+      "explain": "Break the dividend apart: 24 x 200 = 4,800, leaving 1,584. Then 24 x 60 = 1,440, leaving 144, and 24 x 6 = 144. So the quotient is 200 + 60 + 6 = 266.",
+      "standard": "5.NBT.B.6"
+    },
+    {
+      "id": "g5_v29_004",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Earth's Water",
+      "difficulty": 2,
+      "prompt": "Almost all of Earth's water is found in one place. Where is it?",
+      "options": [
+        "in the oceans",
+        "in the rivers",
+        "in the clouds",
+        "in the glaciers"
+      ],
+      "correct": 0,
+      "explain": "About 97 percent of Earth's water is salt water in the oceans. Only a small fraction is fresh water, and most of that fresh water is frozen in ice caps and glaciers.",
+      "standard": "NGSS-5-ESS2-2"
+    },
+    {
+      "id": "g5_v29_005",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Conservation of Matter",
+      "difficulty": 4,
+      "prompt": "A sealed jar holds vinegar and baking soda with a total mass of 60 grams. They fizz until the reaction stops. What is the total mass inside the jar now?",
+      "options": [
+        "less than 60 grams",
+        "more than 60 grams",
+        "0 grams",
+        "60 grams"
+      ],
+      "correct": 3,
+      "explain": "Matter is not created or destroyed in a reaction. The gas made by the fizzing stays inside the sealed jar, so the total mass is still 60 grams.",
+      "standard": "NGSS-5-PS1-2"
+    },
+    {
+      "id": "g5_v29_006",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Bill of Rights",
+      "difficulty": 4,
+      "prompt": "Several states would ratify the Constitution only if a list of protections was added. What became of that demand?",
+      "options": [
+        "The Constitution was thrown out.",
+        "The states gave up their own courts.",
+        "The first ten amendments were added.",
+        "Congress was reduced to one house."
+      ],
+      "correct": 2,
+      "explain": "Anti-Federalists argued the Constitution needed written protections for individual rights. Congress proposed amendments in 1789, and ten of them were ratified in 1791 as the Bill of Rights.",
+      "standard": "NYS-SS-5",
+      "source": "U.S. National Archives — The Bill of Rights"
+    },
+    {
+      "id": "g5_v29_007",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 3,
+      "prompt": "A country grows far more coffee than it can use and has almost no wheat. What is it most likely to do?",
+      "options": [
+        "stop growing coffee",
+        "trade coffee for wheat",
+        "grow wheat in winter",
+        "raise the price of coffee"
+      ],
+      "correct": 1,
+      "explain": "Countries trade what they have in surplus for what they lack. Selling the extra coffee and buying wheat leaves the country with both goods.",
+      "standard": "NYS-SS-5"
+    },
+    {
+      "id": "g5_v29_008",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Evaluating Evidence",
+      "difficulty": 5,
+      "prompt": "An author writes: Our town should add bike lanes. Since the lanes opened downtown, injuries there have dropped by half. Which best describes the second sentence?",
+      "options": [
+        "a claim with no support given",
+        "an opinion about bike riders",
+        "evidence supporting the claim",
+        "a definition of the word lanes"
+      ],
+      "correct": 2,
+      "explain": "The first sentence states what the author wants the town to do. The second gives a measured result from downtown, which is the reason offered to back that position up.",
+      "standard": "RI.5.8"
+    },
+    {
+      "id": "g5_v29_009",
+      "grade": "g5",
+      "subject": "literacy",
+      "topic": "Verb Tense Consistency",
+      "difficulty": 3,
+      "prompt": "Which sentence keeps its verb tense consistent?",
+      "options": [
+        "She opens the box and found a note.",
+        "She opened the box and finds a note.",
+        "She will open the box and found a note.",
+        "She opened the box and found a note."
+      ],
+      "correct": 3,
+      "explain": "Both verbs in a sentence should stay in the same time frame unless the meaning calls for a change. Opened and found are both past tense, so that sentence holds together.",
+      "standard": "L.5.1.D"
+    },
+    {
+      "id": "g5_v29_010",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 5,
+      "prompt": "What can you infer about Omar?",
+      "passage": "Every afternoon Omar checked the mailbox before anyone else got home. On Thursday he came back inside empty-handed, sat down at the piano, and played the same four bars over and over until dinner. His sister asked about the audition results. Omar said the mail was slow this week and asked her to pass the salt.",
+      "options": [
+        "He is anxious about the letter.",
+        "He has already been accepted.",
+        "He has forgotten the audition.",
+        "He has decided to quit the piano."
+      ],
+      "correct": 0,
+      "explain": "Omar checks the mail first every day, comes back empty-handed, plays the same four bars over and over, and changes the subject when his sister asks. Those details point to worry he is not saying out loud.",
+      "standard": "RL.5.1"
     }
   ]
 }
