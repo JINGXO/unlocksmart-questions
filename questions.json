@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "questions": [
     {
       "id": "prek_count_001",
@@ -96690,6 +96690,871 @@
       "correct": 0,
       "explain": "Omar checks the mail first every day, comes back empty-handed, plays the same four bars over and over, and changes the subject when his sister asks. Those details point to worry he is not saying out loud.",
       "standard": "RL.5.1"
+    },
+    {
+      "id": "g1_v30_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Counting On",
+      "difficulty": 2,
+      "prompt": "Tomas is standing on step 11 of a staircase. He walks down 4 steps. Which step is he on now?",
+      "options": [
+        "7",
+        "15",
+        "6",
+        "8"
+      ],
+      "correct": 0,
+      "explain": "Walking down means counting back. Start at 11 and count back 4 steps: 10, 9, 8, 7. Tomas is on step 7.",
+      "standard": "1.OA.C.5"
+    },
+    {
+      "id": "g1_v30_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement Comparison",
+      "difficulty": 2,
+      "prompt": "A crayon is 6 cubes long. A marker is 9 cubes long. How many cubes longer is the marker?",
+      "options": [
+        "15",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "explain": "Compare the two lengths by subtracting: 9 - 6 = 3. The marker is 3 cubes longer than the crayon.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v30_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition Properties",
+      "difficulty": 3,
+      "prompt": "Nina already knows that 4 + 9 = 13. Which other fact gives her the same total?",
+      "options": [
+        "13 + 4",
+        "9 + 4",
+        "9 - 4",
+        "4 + 4"
+      ],
+      "correct": 1,
+      "explain": "Adding two numbers in the other order does not change the total, so 9 + 4 gives 13 just as 4 + 9 does.",
+      "standard": "1.OA.B.3"
+    },
+    {
+      "id": "g1_v30_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 3,
+      "prompt": "There are 12 books on a shelf. Ana takes 5 books off and then puts 2 books back. How many books are on the shelf now?",
+      "options": [
+        "19",
+        "7",
+        "15",
+        "9"
+      ],
+      "correct": 3,
+      "explain": "Do the two steps in order. Taking 5 off gives 12 - 5 = 7. Putting 2 back gives 7 + 2 = 9 books on the shelf.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v30_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 4,
+      "prompt": "Mia has 38 shells. She finds 25 more shells. How many shells does she have now?",
+      "options": [
+        "63",
+        "53",
+        "513",
+        "62"
+      ],
+      "correct": 0,
+      "explain": "Add the tens: 30 + 20 = 50. Add the ones: 8 + 5 = 13. Put the parts together: 50 + 13 = 63 shells.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v30_006",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Word Choice",
+      "difficulty": 2,
+      "prompt": "Which word tells you the sound the leaves make?",
+      "options": [
+        "creaks",
+        "snaps",
+        "boots",
+        "crunch"
+      ],
+      "correct": 3,
+      "explain": "The passage says dry leaves crunch under Milo's boots. The gate creaks and the branch snaps, so those words go with other things.",
+      "standard": "RL.1.4",
+      "passage": "The old gate creaks. Dry leaves crunch under Milo's boots. Somewhere in the dark yard, a branch snaps."
+    },
+    {
+      "id": "g1_v30_007",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Author's Reasons",
+      "difficulty": 3,
+      "prompt": "What is one reason the author gives that dogs make good helpers?",
+      "options": [
+        "They can run faster than cats",
+        "They can find people by smell",
+        "They like to sleep all day",
+        "They come in many colors"
+      ],
+      "correct": 1,
+      "explain": "The author lists what a dog can do: hear quiet sounds, find a person by smell, and guide someone across a street. Finding a person by smell is one of those reasons.",
+      "standard": "RI.1.8",
+      "passage": "Dogs make good helpers. A dog can hear sounds that people cannot hear. A dog can find a person by smell. A dog can be trained to guide someone across a busy street."
+    },
+    {
+      "id": "g1_v30_008",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Comparing Texts",
+      "difficulty": 3,
+      "prompt": "What do both texts tell you about bats and owls?",
+      "options": [
+        "Both build nests in trees",
+        "Both eat only insects",
+        "Both sleep during the day",
+        "Both hunt in the morning"
+      ],
+      "correct": 2,
+      "explain": "Text 1 says bats sleep during the day, and Text 2 says owls sleep during the day. That is the one fact both texts share.",
+      "standard": "RI.1.9",
+      "passage": "Text 1: Bats sleep during the day and fly at night. They eat insects. Text 2: Owls sleep during the day and hunt at night. They eat small animals."
+    },
+    {
+      "id": "g1_v30_009",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Story or Facts",
+      "difficulty": 4,
+      "prompt": "Ana read a book where a frog wore a hat and talked to a bird. Then she read a book with photos that showed how frogs grow. How are the two books different?",
+      "options": [
+        "One tells a story and one gives facts",
+        "Both books tell a make-believe story about frogs",
+        "One has pictures and one has none",
+        "Both books give true information"
+      ],
+      "correct": 0,
+      "explain": "A frog that wears a hat and talks belongs to a made-up story. Photos showing how frogs grow belong to a book of facts. One book does each job.",
+      "standard": "RL.1.5"
+    },
+    {
+      "id": "g1_v30_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Conjunctions",
+      "difficulty": 2,
+      "prompt": "Which word best shows the reason? Kai wore his boots ___ the sidewalk was wet.",
+      "options": [
+        "although",
+        "but",
+        "because",
+        "or"
+      ],
+      "correct": 2,
+      "explain": "The second part of the sentence gives the reason for the first part. Because is the word that points to a reason.",
+      "standard": "L.1.6"
+    },
+    {
+      "id": "g1_v30_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Compare and Contrast Characters",
+      "difficulty": 2,
+      "prompt": "How are Ana and Ben alike in these two stories?",
+      "options": [
+        "Both went to the same school",
+        "Both tried something scary",
+        "Both were afraid of dogs",
+        "Both stayed home all day"
+      ],
+      "correct": 1,
+      "explain": "Ana was afraid of the slide and tried it. Ben was afraid of the deep pool and tried it. Each one did something that scared them.",
+      "standard": "RL.1.9",
+      "passage": "In the first story, Ana was afraid to ride the big slide. She tried it and liked it. In the second story, Ben was afraid to swim in the deep pool. He tried it and liked it."
+    },
+    {
+      "id": "g1_v30_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 3,
+      "prompt": "What does the word energy mean in the camel passage?",
+      "options": [
+        "a long dry desert road",
+        "a kind of food",
+        "a place to rest",
+        "power to keep going"
+      ],
+      "correct": 3,
+      "explain": "The passage says the fat gives the camel energy when there is no food, and that is why it can walk for days. Energy is the power that keeps the camel going.",
+      "standard": "RI.1.4",
+      "passage": "A camel stores fat in its hump. The fat gives the camel energy when there is no food. That is why a camel can cross a dry desert for days."
+    },
+    {
+      "id": "g1_v30_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Text Features",
+      "difficulty": 3,
+      "prompt": "A page about turtles shows a photo of a turtle on a rock, and the words say: Turtles lay eggs in sand. What do you learn only from the photo?",
+      "options": [
+        "What a turtle looks like",
+        "Where turtles lay their eggs",
+        "How many eggs turtles lay",
+        "What turtles eat in summer"
+      ],
+      "correct": 0,
+      "explain": "The words on the page tell where turtles lay eggs. The photo does not say that. What the photo adds is the turtle's shape and color.",
+      "standard": "RI.1.6"
+    },
+    {
+      "id": "g1_v30_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Communicating with Light and Sound",
+      "difficulty": 2,
+      "prompt": "Ravi wants to send a message to a friend standing across a big field. Which of these would carry that far?",
+      "options": [
+        "A loud whistle",
+        "A soft whisper",
+        "A folded note",
+        "A quiet nod"
+      ],
+      "correct": 0,
+      "explain": "Sound that is loud enough travels a long way through the air. A whisper, a nod, and a note on paper all stop long before they reach the far side of a field.",
+      "standard": "1-PS4-4"
+    },
+    {
+      "id": "g1_v30_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 3,
+      "prompt": "Sofia puts grains of rice on top of a drum and taps the drum. The rice jumps. What does this show?",
+      "options": [
+        "The drum is getting warm",
+        "The rice makes the sound",
+        "The rice is very heavy",
+        "The drum is vibrating"
+      ],
+      "correct": 3,
+      "explain": "A tap sets the drumhead shaking back and forth very fast. That shaking is what makes the sound, and it is strong enough to bounce the rice.",
+      "standard": "1-PS4-1"
+    },
+    {
+      "id": "g1_v30_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 4,
+      "prompt": "Ana draws the moon each night for a month. It changes from a thin curve to a full circle and back again. What does her drawing show?",
+      "options": [
+        "The moon only shines in summer",
+        "The moon changes in a pattern",
+        "The moon stops moving at night",
+        "The moon is a different moon"
+      ],
+      "correct": 1,
+      "explain": "The same shapes come back in the same order month after month. Watching the sky over time shows patterns that repeat.",
+      "standard": "1-ESS1-1"
+    },
+    {
+      "id": "g1_v30_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 2,
+      "prompt": "Why do people use money when they shop?",
+      "options": [
+        "To decide who goes first in line",
+        "To make the store look nice",
+        "To pay for things they need",
+        "To keep count of the days"
+      ],
+      "correct": 2,
+      "explain": "Money is what people trade for goods and services. A shopper hands over money and takes home the food or clothes the family needs.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v30_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Then and Now",
+      "difficulty": 2,
+      "prompt": "A timeline shows Ana as a baby, then in preschool, then in first grade. What does a timeline show?",
+      "options": [
+        "The order that events happen",
+        "How far apart two places are",
+        "What the weather will be like",
+        "How much a toy costs"
+      ],
+      "correct": 0,
+      "explain": "A timeline lines events up from earliest to latest. Ana's timeline shows which part of her life came first, next, and last.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v30_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 3,
+      "prompt": "A rule works in one place, like one classroom. Where does a law work?",
+      "options": [
+        "Only on the playground",
+        "Only in one classroom",
+        "In the whole community",
+        "Only inside one home"
+      ],
+      "correct": 2,
+      "explain": "A rule is made for one group or one place. A law is made for everyone in a town, a state, or a country, so it covers the whole community.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v30_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 3,
+      "prompt": "Long ago, many children in this country worked on farms all day instead of going to school. What is different for most children today?",
+      "options": [
+        "Most children build their own houses",
+        "Most children go to school",
+        "Most children work on farms",
+        "Most children stay home alone"
+      ],
+      "correct": 1,
+      "explain": "Laws changed over time. Today children spend their days learning in school, and that is a large difference between long ago and now.",
+      "standard": "NYS-SS-G1",
+      "source": "New York State K-8 Social Studies Framework, Grade 1"
+    },
+    {
+      "id": "g4_v30_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which of these shows four hundred six thousand, twenty written in standard form?",
+      "options": [
+        "400,620",
+        "460,020",
+        "406,200",
+        "406,020"
+      ],
+      "correct": 3,
+      "explain": "Four hundred six thousand fills the thousands places as 406, and twenty fills the tens and ones as 20, with a zero holding the hundreds place: 406,020.",
+      "standard": "4.NBT.A.2"
+    },
+    {
+      "id": "g4_v30_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "In 55,000, the 5 in the ten thousands place is worth how many times the 5 beside it?",
+      "options": [
+        "10 times",
+        "5 times",
+        "100 times",
+        "50 times"
+      ],
+      "correct": 0,
+      "explain": "The left 5 is worth 50,000 and the 5 beside it is worth 5,000. Since 50,000 divided by 5,000 is 10, the left digit is worth 10 times as much.",
+      "standard": "4.NBT.A.1"
+    },
+    {
+      "id": "g4_v30_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Sam adds 2/10 and 35/100. What is the sum written as a decimal?",
+      "options": [
+        "0.37",
+        "0.235",
+        "5.5",
+        "0.55"
+      ],
+      "correct": 3,
+      "explain": "Rewrite 2/10 as 20/100 so the denominators match. Then 20/100 + 35/100 = 55/100, which is written 0.55.",
+      "standard": "4.NF.C.5"
+    },
+    {
+      "id": "g4_v30_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measuring Angles",
+      "difficulty": 4,
+      "prompt": "The minute hand of a clock moves from the 12 to the 4. Through how many degrees does it turn?",
+      "options": [
+        "90",
+        "120",
+        "180",
+        "60"
+      ],
+      "correct": 1,
+      "explain": "Going from 12 to 4 covers 4 of the clock's 12 equal parts, which is one third of a full turn. One third of 360 degrees is 120 degrees.",
+      "standard": "4.MD.C.5"
+    },
+    {
+      "id": "g4_v30_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Lines and Angles",
+      "difficulty": 3,
+      "prompt": "Which of these has exactly one endpoint and continues forever in one direction?",
+      "options": [
+        "a segment",
+        "a point",
+        "a ray",
+        "a line"
+      ],
+      "correct": 2,
+      "explain": "A segment stops at both ends and a line runs on forever both ways. A ray starts at one endpoint and keeps going in a single direction.",
+      "standard": "4.G.A.1"
+    },
+    {
+      "id": "g4_v30_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison",
+      "difficulty": 4,
+      "prompt": "A rope is 7 feet long. A cable is 6 times as long as the rope. How much longer is the cable than the rope?",
+      "options": [
+        "35 feet",
+        "42 feet",
+        "13 feet",
+        "49 feet"
+      ],
+      "correct": 0,
+      "explain": "First find the cable's length: 7 x 6 = 42 feet. Then compare the two: 42 - 7 = 35 feet longer.",
+      "standard": "4.OA.A.2"
+    },
+    {
+      "id": "g4_v30_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 3,
+      "prompt": "A soup recipe needs 2 liters of broth. Nina already has 1,250 milliliters. How many more milliliters does she need?",
+      "options": [
+        "1,250 milliliters",
+        "2,750 milliliters",
+        "750 milliliters",
+        "1,750 milliliters"
+      ],
+      "correct": 2,
+      "explain": "Two liters is 2,000 milliliters. Subtract what she has: 2,000 - 1,250 = 750 milliliters still needed.",
+      "standard": "4.MD.A.2"
+    },
+    {
+      "id": "g4_v30_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Word Choice",
+      "difficulty": 3,
+      "prompt": "Which sentence gives the reader the clearest picture of what happened?",
+      "options": [
+        "The puppy moved to a place near the porch.",
+        "The puppy darted under the porch.",
+        "The puppy went under the porch.",
+        "The puppy was under the porch."
+      ],
+      "correct": 1,
+      "explain": "Darted names the exact way the puppy moved — quick and sudden. Went, was, and moved leave the reader guessing at the speed and manner.",
+      "standard": "L.4.3"
+    },
+    {
+      "id": "g4_v30_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Domain Vocabulary",
+      "difficulty": 3,
+      "prompt": "In science class the teacher says water vapor condenses on the cold glass. What does condenses mean here?",
+      "options": [
+        "spreads out into the air",
+        "changes into a gas",
+        "breaks into pieces",
+        "changes into liquid"
+      ],
+      "correct": 3,
+      "explain": "Vapor is the gas form of water, and the glass is cold. When that gas touches the cold surface it turns back into liquid drops.",
+      "standard": "L.4.6"
+    },
+    {
+      "id": "g4_v30_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Point of View",
+      "difficulty": 4,
+      "prompt": "Which person is telling this passage?",
+      "options": [
+        "A rider on the bus",
+        "A narrator outside the story",
+        "A farmer in the field",
+        "Aunt Dee herself"
+      ],
+      "correct": 0,
+      "explain": "The passage uses I and my, so the story is told by someone inside it. That someone is pressing a nose to the bus window, which makes the teller a rider on the bus.",
+      "standard": "RL.4.6",
+      "passage": "I pressed my nose to the bus window and watched the farm roll past. Aunt Dee said we would be there by lunch, but I had heard that before."
+    },
+    {
+      "id": "g4_v30_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "A poem is written in four groups of four lines each, with a blank line between the groups. What are those groups called?",
+      "options": [
+        "paragraphs",
+        "chapters",
+        "scenes",
+        "stanzas"
+      ],
+      "correct": 3,
+      "explain": "A poem is built from stanzas. Paragraphs belong to prose, chapters divide a longer book, and scenes divide a play.",
+      "standard": "RL.4.5"
+    },
+    {
+      "id": "g4_v30_012",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 3,
+      "prompt": "Which detail does the author use as evidence, rather than as an opinion?",
+      "options": [
+        "A bike path would be pleasant",
+        "Eleven near-misses were reported",
+        "The town should build a new bike path",
+        "Riders deserve a safer ride"
+      ],
+      "correct": 1,
+      "explain": "Evidence is something counted or recorded. The police count of eleven near-misses was measured. The other three statements say what the writer wants or believes.",
+      "standard": "RI.4.8",
+      "passage": "Our town should build a new bike path. Last year, 240 people signed a petition asking for one. Riders now share a narrow road with trucks, and the police recorded eleven near-misses in six months. A path would move riders off that road."
+    },
+    {
+      "id": "g4_v30_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Comparing Texts",
+      "difficulty": 4,
+      "prompt": "Using both texts together, what can you conclude about sea otters?",
+      "options": [
+        "They are the largest ocean animal",
+        "They live alone far from shore",
+        "They shape the ocean around them",
+        "They eat only kelp and stones"
+      ],
+      "correct": 2,
+      "explain": "Text 1 shows otters using tools to eat shellfish. Text 2 shows that when otters disappeared, urchins destroyed the kelp forests. Put together, the otters' eating changes the whole habitat.",
+      "standard": "RI.4.9",
+      "passage": "Text 1: Sea otters float on their backs and crack shellfish open on a stone they carry under one arm. Text 2: Sea otters eat sea urchins. Where otters vanished, urchins ate the kelp forests until little was left."
+    },
+    {
+      "id": "g4_v30_014",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "A hawk has hollow bones and long, wide wings. How do these parts help the hawk?",
+      "options": [
+        "They make flying easier",
+        "They help the hawk chew seeds",
+        "They make digging easier",
+        "They keep the hawk warm"
+      ],
+      "correct": 0,
+      "explain": "Hollow bones make the hawk lighter and wide wings push against more air, so both parts work together to keep the bird in the air.",
+      "standard": "NGSS-4-LS1-1"
+    },
+    {
+      "id": "g4_v30_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Conversion",
+      "difficulty": 4,
+      "prompt": "A hand-crank flashlight glows only while you turn the crank. What change in energy makes that happen?",
+      "options": [
+        "Light energy becomes motion",
+        "Sound energy becomes heat",
+        "Motion energy becomes light",
+        "Heat energy becomes sound"
+      ],
+      "correct": 2,
+      "explain": "Turning the crank is motion. Inside the flashlight a small generator turns that motion into electricity, and the bulb turns the electricity into light.",
+      "standard": "NGSS-4-PS3-4"
+    },
+    {
+      "id": "g4_v30_016",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "Long Island is a large island that forms part of which state?",
+      "options": [
+        "New Jersey",
+        "New York",
+        "Connecticut",
+        "Rhode Island"
+      ],
+      "correct": 1,
+      "explain": "Long Island stretches east from New York Harbor and is part of New York State. Two of its counties, Kings and Queens, are also boroughs of New York City.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v30_017",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "New York State Government",
+      "difficulty": 3,
+      "prompt": "New York State is divided into units called counties. What is a county?",
+      "options": [
+        "A kind of state law",
+        "A single city block",
+        "A group of states",
+        "A part of a state"
+      ],
+      "correct": 3,
+      "explain": "A county is a division of a state, smaller than the state but usually larger than a single town, with its own local officials and services.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v30_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 4,
+      "prompt": "Why were many early mills in New York State built right beside waterfalls?",
+      "options": [
+        "Waterfalls made the roads shorter",
+        "Waterfalls were easy to farm on",
+        "Waterfalls kept the mills cool",
+        "Falling water turned the machines"
+      ],
+      "correct": 3,
+      "explain": "Before engines, a mill needed moving water to spin its wheel, and that wheel drove the grinding and sawing machines. A waterfall gave a steady push all year.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v30_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 3,
+      "prompt": "Several Haudenosaunee nations joined together under one Great Law of Peace. What was a purpose of that agreement?",
+      "options": [
+        "To stop fighting among the nations",
+        "To divide the land into new states",
+        "To choose one king for all",
+        "To end farming in the region"
+      ],
+      "correct": 0,
+      "explain": "The Great Law of Peace bound the nations into a confederacy. Disagreements went to a shared council instead of turning into fighting between them.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v30_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Local Government",
+      "difficulty": 2,
+      "prompt": "A town collects taxes from the people who live there. What are those taxes mostly used for?",
+      "options": [
+        "To lower the price of food",
+        "To buy toys for one school",
+        "To pay one family's rent",
+        "To pay for shared services"
+      ],
+      "correct": 3,
+      "explain": "Tax money pays for things the whole town uses together, such as roads, firefighters, libraries, and schools, rather than for any one person's costs.",
+      "standard": "NYS-SS-4"
+    },
+    {
+      "id": "g5_v30_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Powers of Ten",
+      "difficulty": 2,
+      "prompt": "What is 3.6 multiplied by 1,000?",
+      "options": [
+        "36",
+        "3,600",
+        "360",
+        "36,000"
+      ],
+      "correct": 1,
+      "explain": "Multiplying by 1,000 moves each digit three places to the left, so 3.6 becomes 3,600.",
+      "standard": "5.NBT.A.2"
+    },
+    {
+      "id": "g5_v30_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 3,
+      "prompt": "A box is 5 cubes long, 3 cubes wide, and 4 cubes tall. How many unit cubes fill it exactly?",
+      "options": [
+        "12",
+        "15",
+        "60",
+        "23"
+      ],
+      "correct": 2,
+      "explain": "One layer along the bottom holds 5 x 3 = 15 cubes, and the box is 4 layers tall. So 15 x 4 = 60 unit cubes fill it.",
+      "standard": "5.MD.C.4"
+    },
+    {
+      "id": "g5_v30_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 4,
+      "prompt": "Which statement about squares and rectangles is always true?",
+      "options": [
+        "Every square is a rectangle.",
+        "A rectangle has four equal sides.",
+        "Every rectangle is a square.",
+        "No square is a rectangle."
+      ],
+      "correct": 0,
+      "explain": "A rectangle is any four-sided shape with four right angles. A square has four right angles too, so every square fits inside the rectangle group, but a rectangle does not have to have equal sides.",
+      "standard": "5.G.B.3"
+    },
+    {
+      "id": "g5_v30_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplying Fractions",
+      "difficulty": 5,
+      "prompt": "A bin holds 3/4 of a ton of sand. A crew removes 2/3 of the sand, then adds back 1/8 of a ton. How much sand is in the bin now?",
+      "options": [
+        "1/4 of a ton",
+        "5/8 of a ton",
+        "3/8 of a ton",
+        "1/2 of a ton"
+      ],
+      "correct": 2,
+      "explain": "Removing 2/3 leaves 1/3 of what was there: 3/4 x 1/3 = 3/12, which is 1/4 of a ton. Adding 1/8 gives 2/8 + 1/8 = 3/8 of a ton.",
+      "standard": "5.NF.B.6"
+    },
+    {
+      "id": "g5_v30_005",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 3,
+      "prompt": "Which narrow strip of land joins North America to South America?",
+      "options": [
+        "The Strait of Magellan",
+        "The Isthmus of Panama",
+        "The Caribbean Sea",
+        "The Gulf of Mexico"
+      ],
+      "correct": 1,
+      "explain": "An isthmus is a thin bridge of land between two larger landmasses. The Isthmus of Panama links the two American continents, while the other three choices are water.",
+      "standard": "NYS-SS-5"
+    },
+    {
+      "id": "g5_v30_006",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 4,
+      "prompt": "What is the main purpose of a country's constitution?",
+      "options": [
+        "To choose the winner of an election",
+        "To set the price of goods sold",
+        "To list every citizen by name",
+        "To set the rules for the government"
+      ],
+      "correct": 3,
+      "explain": "A constitution is the plan a country writes for itself. It says how power is divided, how leaders are chosen, and what limits the government must respect.",
+      "standard": "NYS-SS-5"
+    },
+    {
+      "id": "g5_v30_007",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Domain Vocabulary",
+      "difficulty": 2,
+      "prompt": "In math class the teacher says the two triangles are congruent. What does congruent mean?",
+      "options": [
+        "exactly the same shape and size",
+        "drawn with a ruler and a compass",
+        "made of the same material",
+        "close to the same color"
+      ],
+      "correct": 0,
+      "explain": "Congruent is a geometry word. Two figures are congruent when one could be laid exactly on top of the other, matching in both shape and size.",
+      "standard": "L.5.6"
+    },
+    {
+      "id": "g5_v30_008",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "What does the phrase a brown coin suggest about the pond?",
+      "options": [
+        "It was full of copper pennies",
+        "It had frozen over in August",
+        "It was deeper than before",
+        "It had become small and round"
+      ],
+      "correct": 3,
+      "explain": "The pond is compared to a coin, and a coin is small and round. The comparison shows how much water the pond had lost by August.",
+      "standard": "RL.5.4",
+      "passage": "By August the pond had shrunk to a brown coin in the middle of the field. The cattails leaned in over it like neighbors at a window."
+    },
+    {
+      "id": "g5_v30_009",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Evaluating Evidence",
+      "difficulty": 5,
+      "prompt": "Which statement from the passage is evidence, rather than an opinion, that supports a later start time?",
+      "options": [
+        "Later start times cost the district more money.",
+        "A district reported fewer late arrivals.",
+        "School should start later each day.",
+        "Sports would move into the evening."
+      ],
+      "correct": 1,
+      "explain": "Evidence is something measured or observed. The district counted its late arrivals, and that count points in favor of a later start. The cost and the sports schedule were also observed, but they argue against it, and the claim about when school should start is an opinion.",
+      "standard": "RI.5.8",
+      "passage": "Some people argue that school should start later in the morning. They point to sleep studies showing that young teenagers' bodies shift to a later sleep cycle. One district that moved its start time from 7:30 to 8:30 reported fewer late arrivals and higher attendance. Critics answer that a later start pushes sports and after-school jobs into the evening, and they note that the same district spent more on buses."
+    },
+    {
+      "id": "g5_v30_010",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Energy",
+      "difficulty": 4,
+      "prompt": "A hawk eats a mouse. The mouse had eaten seeds from a plant. Where did the energy in the hawk's meal first come from?",
+      "options": [
+        "The soil",
+        "The rain",
+        "The sun",
+        "The air"
+      ],
+      "correct": 2,
+      "explain": "Plants capture sunlight and store that energy in seeds. The mouse took in the energy by eating seeds, and the hawk took it in by eating the mouse, so the chain starts at the sun.",
+      "standard": "NGSS-5-PS3-1"
     }
   ]
 }
