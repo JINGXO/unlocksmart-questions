@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "questions": [
     {
       "id": "prek_count_001",
@@ -97555,6 +97555,868 @@
       "correct": 2,
       "explain": "Plants capture sunlight and store that energy in seeds. The mouse took in the energy by eating seeds, and the hawk took it in by eating the mouse, so the chain starts at the sun.",
       "standard": "NGSS-5-PS3-1"
+    },
+    {
+      "id": "g1_v31_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Dev picked up 9 pinecones on a walk. Then he picked up 7 more. How many pinecones does Dev have?",
+      "options": [
+        "16",
+        "2",
+        "15",
+        "17"
+      ],
+      "correct": 0,
+      "explain": "Picking up more means adding: 9 + 7. Break 7 into 1 and 6, make ten with 9 + 1, then add 6. Dev has 16 pinecones.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v31_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "There are 15 sparrows on a wire. 8 of them fly away. How many sparrows are still on the wire?",
+      "options": [
+        "23",
+        "8",
+        "7",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "Birds flying away means take away: 15 - 8 = 7. Seven sparrows are still on the wire.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v31_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "Rosa has 5 bags with 10 marbles in each bag, and 3 loose marbles. How many marbles does Rosa have?",
+      "options": [
+        "18",
+        "53",
+        "35",
+        "503"
+      ],
+      "correct": 1,
+      "explain": "Five bags of ten is 5 tens, which is 50. Add the 3 loose marbles: 50 + 3 = 53 marbles.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v31_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 4,
+      "prompt": "A shelf has 47 picture books and 38 chapter books. How many books are on the shelf in all?",
+      "options": [
+        "75",
+        "715",
+        "79",
+        "85"
+      ],
+      "correct": 3,
+      "explain": "Add the ones first: 7 + 8 = 15, so write 5 and carry 1 ten. Then 4 + 3 + 1 = 8 tens. The total is 85.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v31_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Unknown Addends and Equations",
+      "difficulty": 4,
+      "prompt": "Which number makes this number sentence true?   8 + 6 = 20 - ___",
+      "options": [
+        "14",
+        "2",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "explain": "Work out the left side first: 8 + 6 = 14. Now ask what taken away from 20 leaves 14. Since 20 - 6 = 14, the missing number is 6.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v31_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "Sam had 6 toy cars. He got 5 more for his birthday, then gave 2 to his cousin. How many toy cars does Sam have now?",
+      "options": [
+        "9",
+        "13",
+        "3",
+        "11"
+      ],
+      "correct": 0,
+      "explain": "Take it in two steps. Getting 5 more: 6 + 5 = 11. Giving 2 away: 11 - 2 = 9. Sam has 9 toy cars.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v31_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Compare Numbers",
+      "difficulty": 2,
+      "prompt": "Compare 58 and 85. Which comparison is true?",
+      "options": [
+        "58 > 85",
+        "58 = 85",
+        "85 < 58",
+        "58 < 85"
+      ],
+      "correct": 3,
+      "explain": "Compare the tens first. 58 has 5 tens and 85 has 8 tens. Five tens is less than eight tens, so 58 < 85.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v31_008",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 3,
+      "prompt": "Ali cuts a pancake into 4 equal pieces. Ben cuts a pancake the same size into 2 equal pieces. Whose piece is bigger?",
+      "options": [
+        "Ali's piece",
+        "Ben's piece",
+        "They are equal",
+        "Neither piece"
+      ],
+      "correct": 1,
+      "explain": "The same pancake split into fewer pieces gives bigger pieces. Ben's half is bigger than Ali's fourth, because 2 pieces each take more of the pancake than 4 pieces do.",
+      "standard": "1.G.A.3"
+    },
+    {
+      "id": "g1_v31_009",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Addition",
+      "difficulty": 3,
+      "prompt": "Three friends scored 4 points, 6 points, and 5 points. How many points did they score in all?",
+      "options": [
+        "10",
+        "14",
+        "15",
+        "9"
+      ],
+      "correct": 2,
+      "explain": "Add all three scores. Pair the 4 and 6 to make 10, then add the 5: 10 + 5 = 15 points.",
+      "standard": "1.OA.A.2"
+    },
+    {
+      "id": "g1_v31_010",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "What is inside Grandpa's red tin box?",
+      "options": [
+        "Stamps",
+        "Marbles",
+        "Ribbons",
+        "Buttons"
+      ],
+      "correct": 3,
+      "explain": "The story says the box holds the buttons Grandpa has saved for many years, and Kai sorts them by color.",
+      "standard": "RL.1.1",
+      "passage": "Grandpa keeps a red tin box on the top shelf. Inside are the buttons he has saved for many years. On rainy days he lets Kai sort them by color."
+    },
+    {
+      "id": "g1_v31_011",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Character Actions",
+      "difficulty": 2,
+      "prompt": "How did Sam get up the tall ladder?",
+      "options": [
+        "One step at a time",
+        "By running to the top",
+        "By skipping every step",
+        "By asking to go home"
+      ],
+      "correct": 0,
+      "explain": "The story says Sam held the rail tight and climbed one step at a time. He did not run or skip any steps.",
+      "standard": "RL.1.3",
+      "passage": "Sam wanted to ride the big slide. The ladder looked very tall from the ground. He held the rail tight and climbed one step at a time. At the top he smiled and slid all the way down."
+    },
+    {
+      "id": "g1_v31_012",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "prompt": "What are these sentences mostly about?",
+      "options": [
+        "How to write a letter",
+        "The trip a letter takes",
+        "Why blue boxes are blue",
+        "What a mail truck looks like"
+      ],
+      "correct": 1,
+      "explain": "The sentences follow one letter from the corner box, to the truck, to the sorting machines, and finally to a door. Together they trace its whole trip.",
+      "standard": "RI.1.2",
+      "passage": "A letter starts in a blue box on the corner. A truck takes it to a big sorting room. Machines read the address and send it toward the right city. At the end a mail carrier walks it to the door."
+    },
+    {
+      "id": "g1_v31_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which sentence needs a question mark at the end?",
+      "options": [
+        "I put my hat on the chair",
+        "The hat is blue and green",
+        "My hat fell under the bed",
+        "Where did you put my hat"
+      ],
+      "correct": 3,
+      "explain": "A sentence that asks something ends with a question mark. Where did you put my hat is asking. The other three are telling sentences and end with a period.",
+      "standard": "L.1.2.B"
+    },
+    {
+      "id": "g1_v31_014",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Phonics",
+      "difficulty": 2,
+      "prompt": "Which is the correct way to write more than one box?",
+      "options": [
+        "boxs",
+        "boxes",
+        "boxxes",
+        "boxies"
+      ],
+      "correct": 1,
+      "explain": "Words ending in x add -es to make the plural, so one box becomes two boxes. Adding only -s or doubling the x is not correct.",
+      "standard": "L.1.2.D"
+    },
+    {
+      "id": "g1_v31_015",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Verb Tenses",
+      "difficulty": 3,
+      "prompt": "Which sentence tells about something that already happened?",
+      "options": [
+        "We walk to the park.",
+        "We will walk to the park.",
+        "We walked to the park.",
+        "We are walking there now."
+      ],
+      "correct": 2,
+      "explain": "Walked ends in -ed, which shows the action is finished. Walk, will walk, and are walking all point to now or to later.",
+      "standard": "L.1.1.E"
+    },
+    {
+      "id": "g1_v31_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Adaptations",
+      "difficulty": 3,
+      "prompt": "A turtle has a hard shell on its back. How does the shell help the turtle?",
+      "options": [
+        "It keeps the turtle safe",
+        "It helps the turtle eat plants",
+        "It helps the turtle find water",
+        "It makes the turtle grow faster"
+      ],
+      "correct": 0,
+      "explain": "The hard shell is an outside body part that protects the turtle. When something frightens it, the turtle can pull its head and legs inside.",
+      "standard": "1-LS1-1"
+    },
+    {
+      "id": "g1_v31_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animal Parts",
+      "difficulty": 2,
+      "prompt": "Which body part does an elephant use to pick up food and water?",
+      "options": [
+        "Its ears",
+        "Its trunk",
+        "Its tail",
+        "Its knees"
+      ],
+      "correct": 1,
+      "explain": "An elephant's trunk bends and grips like a hand. The elephant uses it to pull up grass and to draw water up before spraying it into its mouth.",
+      "standard": "1-LS1-1"
+    },
+    {
+      "id": "g1_v31_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 2,
+      "prompt": "Why do most grown-ups go to work?",
+      "options": [
+        "To ride the bus",
+        "To see the sky",
+        "To read a map",
+        "To earn money"
+      ],
+      "correct": 3,
+      "explain": "People work at a job and are paid for it. That money buys the food, clothes, and housing a family needs.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v31_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Civics",
+      "difficulty": 3,
+      "prompt": "A park near school is covered in trash. What is the best way for the class to help?",
+      "options": [
+        "Pick up the trash together",
+        "Ask to visit a new park",
+        "Draw pictures of the park",
+        "Play in another part of it"
+      ],
+      "correct": 0,
+      "explain": "Taking care of a shared place is part of being a good citizen. Cleaning the park up fixes the problem for everyone who uses it.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v31_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 2,
+      "prompt": "Which of these tells someone where you live?",
+      "options": [
+        "Your birthday",
+        "Your age",
+        "Your address",
+        "Your name"
+      ],
+      "correct": 2,
+      "explain": "An address gives the house number, street, and city, so it tells exactly where a home is. A name, age, or birthday tells about you, not about a place.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g4_v31_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "Which fraction is equivalent to 5/6?",
+      "options": [
+        "12/10",
+        "5/12",
+        "6/12",
+        "10/12"
+      ],
+      "correct": 3,
+      "explain": "Multiply the top and the bottom of 5/6 by 2: 5 x 2 = 10 and 6 x 2 = 12. So 5/6 = 10/12.",
+      "standard": "4.NF.A.1"
+    },
+    {
+      "id": "g4_v31_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "Compare 2/3 and 5/8. Which comparison is true?",
+      "options": [
+        "2/3 > 5/8",
+        "2/3 < 5/8",
+        "2/3 = 5/8",
+        "5/8 > 2/3"
+      ],
+      "correct": 0,
+      "explain": "Rewrite both with a denominator of 24: 2/3 = 16/24 and 5/8 = 15/24. Since 16/24 is more than 15/24, 2/3 > 5/8.",
+      "standard": "4.NF.A.2"
+    },
+    {
+      "id": "g4_v31_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 4,
+      "prompt": "Leo drinks 3/8 liter of water before practice and 7/8 liter after practice. How many liters is that in all?",
+      "options": [
+        "10/16 liters",
+        "1 1/8 liters",
+        "1 1/4 liters",
+        "4/8 liters"
+      ],
+      "correct": 2,
+      "explain": "The denominators match, so add the numerators: 3/8 + 7/8 = 10/8. Then 10/8 is 1 whole with 2/8 left over, and 2/8 simplifies to 1/4, giving 1 1/4 liters.",
+      "standard": "4.NF.B.3.D"
+    },
+    {
+      "id": "g4_v31_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 3,
+      "prompt": "A teacher shares 94 markers equally among 6 tables. How many markers are left over?",
+      "options": [
+        "15",
+        "4",
+        "2",
+        "6"
+      ],
+      "correct": 1,
+      "explain": "Divide 94 by 6. Each table gets 15 because 6 x 15 = 90, and 94 - 90 = 4. So 4 markers are left over.",
+      "standard": "4.NBT.B.6"
+    },
+    {
+      "id": "g4_v31_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 3,
+      "prompt": "What is 47 x 6?",
+      "options": [
+        "282",
+        "242",
+        "2442",
+        "288"
+      ],
+      "correct": 0,
+      "explain": "Break 47 apart: 40 x 6 = 240 and 7 x 6 = 42. Add the two parts: 240 + 42 = 282.",
+      "standard": "4.NBT.B.5"
+    },
+    {
+      "id": "g4_v31_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Time",
+      "difficulty": 3,
+      "prompt": "A train leaves at 9:50 a.m. and the trip takes 3 hours and 25 minutes. What time does the train arrive?",
+      "options": [
+        "12:75 p.m.",
+        "1:25 p.m.",
+        "12:15 p.m.",
+        "1:15 p.m."
+      ],
+      "correct": 3,
+      "explain": "Add the hours first: 9:50 a.m. plus 3 hours is 12:50 p.m. Then add 25 minutes. 12:50 plus 10 minutes reaches 1:00, and 15 minutes more makes 1:15 p.m.",
+      "standard": "4.MD.A.2"
+    },
+    {
+      "id": "g4_v31_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A school buys 8 boxes of pencils with 144 pencils in each box. It gives 350 pencils to the art room. How many pencils are left?",
+      "options": [
+        "1,502",
+        "802",
+        "1,152",
+        "794"
+      ],
+      "correct": 1,
+      "explain": "First find the total: 8 x 144 = 1,152 pencils. Then subtract what was given away: 1,152 - 350 = 802 pencils left.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v31_008",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 4,
+      "prompt": "A rectangle has a perimeter of 46 cm. Its length is 14 cm. What is its width?",
+      "options": [
+        "18 cm",
+        "32 cm",
+        "9 cm",
+        "23 cm"
+      ],
+      "correct": 2,
+      "explain": "Perimeter is two lengths plus two widths, so one length plus one width is 46 / 2 = 23 cm. Then 23 - 14 = 9 cm for the width.",
+      "standard": "4.MD.A.3"
+    },
+    {
+      "id": "g4_v31_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Vocabulary",
+      "difficulty": 3,
+      "prompt": "Read this sentence: The hikers were parched after four hours in the sun, so they drank every drop of water they had. What does parched mean?",
+      "options": [
+        "very tired",
+        "very thirsty",
+        "very hungry",
+        "very worried"
+      ],
+      "correct": 1,
+      "explain": "The sentence says the hikers had been in the sun for hours and then drank every drop of water they had. Needing that much water points to being very thirsty.",
+      "standard": "L.4.4.A"
+    },
+    {
+      "id": "g4_v31_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 3,
+      "prompt": "Which of these words shows the strongest amount of surprise?",
+      "options": [
+        "surprised",
+        "curious",
+        "astonished",
+        "unconcerned"
+      ],
+      "correct": 2,
+      "explain": "These words sit on a scale. Unconcerned shows none at all, curious shows a little interest, surprised shows some, and astonished shows the most.",
+      "standard": "L.4.5.C"
+    },
+    {
+      "id": "g4_v31_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 4,
+      "prompt": "The root aud means hear. Which word most likely names a room built for hearing performances?",
+      "options": [
+        "audiologist",
+        "autobiography",
+        "audition",
+        "auditorium"
+      ],
+      "correct": 3,
+      "explain": "Auditorium joins the root aud with an ending that names a place, so it is the room where an audience hears a performance. An audiologist is a person, an audition is a tryout, and autobiography does not use the root aud.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v31_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Text Evidence",
+      "difficulty": 4,
+      "prompt": "Which reason does the passage give against a later start time?",
+      "options": [
+        "Practice would run after dark",
+        "Students would earn better grades",
+        "Students need more sleep at night",
+        "Studies show longer sleep helps"
+      ],
+      "correct": 0,
+      "explain": "The second half of the passage lists the objections: practice pushed into the dark, and no way for early-shift families to drop children off. The other three choices are reasons in favor of a later start.",
+      "standard": "RI.4.8",
+      "passage": "Some parents say the school day should start an hour later. They point to studies showing that students who sleep longer earn better grades. Other parents answer that a later start would push sports practice into the dark, and would leave families with early work shifts no way to drop their children off."
+    },
+    {
+      "id": "g4_v31_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "prompt": "Which theme does this passage best support?",
+      "options": [
+        "Practicing enough makes recitals easy",
+        "Music is harder to learn than sports",
+        "Finishing what you start matters",
+        "Teachers always pick the best pieces"
+      ],
+      "correct": 2,
+      "explain": "Nia is proudest not of a perfect performance but of playing to the last measure after a mistake. The story rewards finishing rather than being flawless.",
+      "standard": "RL.4.2",
+      "passage": "Nia practiced the same violin piece for six weeks. At the recital her bow slipped and one note came out as a squeak. Her face went hot, but she kept going to the last measure. Afterward her teacher said only, \"You did not stop.\" Nia decided that was the part she was proudest of."
+    },
+    {
+      "id": "g4_v31_014",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "How are the ideas in this passage arranged?",
+      "options": [
+        "By comparing two kinds of rain",
+        "In the order the steps happen",
+        "By naming a problem and a fix",
+        "By describing one cloud closely"
+      ],
+      "correct": 1,
+      "explain": "The words first, next, then, and finally mark a sequence. The passage walks through the stages of the water cycle in the order they occur.",
+      "standard": "RI.4.5",
+      "passage": "First, water at the ocean's surface warms and rises into the air as vapor. Next, the vapor cools high above the ground and turns into tiny droplets. Then those droplets gather into clouds. Finally, the droplets grow heavy enough to fall back down as rain."
+    },
+    {
+      "id": "g4_v31_015",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 2,
+      "prompt": "Why does Marcus keep checking the window?",
+      "options": [
+        "He wants the rain to stop",
+        "He is waiting for a friend",
+        "He is watching a bird nest",
+        "He forgot to shut the door"
+      ],
+      "correct": 0,
+      "explain": "The unopened kite by the door shows what Marcus is hoping to do. He keeps looking outside because the rain is what is keeping him in.",
+      "standard": "RL.4.1",
+      "passage": "Marcus checked the window for the third time that morning. The rain had not let up. His new kite still lay by the front door, wrapped in its plastic."
+    },
+    {
+      "id": "g4_v31_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy",
+      "difficulty": 4,
+      "prompt": "A ball rolled down the same ramp travels a shorter distance on rough carpet than on smooth wood. What best explains the difference?",
+      "options": [
+        "The ball weighs less on the wood floor",
+        "Gravity pulls harder on a smooth floor",
+        "The carpet gave the ball some extra energy",
+        "Friction turned motion energy into heat"
+      ],
+      "correct": 3,
+      "explain": "Rough carpet creates more friction against the ball. That friction transfers the ball's energy of motion into heat and sound, so the ball slows down sooner.",
+      "standard": "NGSS-4-PS3-2"
+    },
+    {
+      "id": "g4_v31_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Sources",
+      "difficulty": 2,
+      "prompt": "Which of these energy sources is replaced naturally in a short time?",
+      "options": [
+        "Wind",
+        "Coal",
+        "Oil",
+        "Gas"
+      ],
+      "correct": 0,
+      "explain": "Wind keeps blowing as long as the Sun heats the air unevenly, so it is renewable. Coal, oil, and natural gas took millions of years to form and are used up faster than they are made.",
+      "standard": "NGSS-4-ESS3-1"
+    },
+    {
+      "id": "g4_v31_018",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 2,
+      "prompt": "A wooden chair gives off no light of its own. Why can you still see it in a lit room?",
+      "options": [
+        "Your eyes send out beams of light",
+        "The chair makes its own faint glow",
+        "Light bounces off it to your eyes",
+        "The air around the chair lights up"
+      ],
+      "correct": 2,
+      "explain": "Light from the lamp strikes the chair, reflects off it, and travels into your eyes. Seeing always needs light that reaches the eye from the object.",
+      "standard": "NGSS-4-PS4-2"
+    },
+    {
+      "id": "g4_v31_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 3,
+      "prompt": "The Erie Canal was built to connect the Hudson River to which body of water?",
+      "options": [
+        "Lake Ontario",
+        "the Delaware Bay",
+        "the Long Island Sound",
+        "Lake Erie"
+      ],
+      "correct": 3,
+      "explain": "The canal opened in 1825 and linked the Hudson River at Albany with Lake Erie at Buffalo, giving farms in the west a water route to the ports in the east.",
+      "standard": "NYS-SS-4",
+      "source": "NYS Grade 4 Social Studies Framework, 4.5"
+    },
+    {
+      "id": "g4_v31_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY History",
+      "difficulty": 4,
+      "prompt": "Why did many mills and factories in New York grow up right beside rivers in the 1800s?",
+      "options": [
+        "Rivers kept the buildings cool in summer",
+        "Moving water could power their machines",
+        "Rivers were the only place with flat land",
+        "Workers were not allowed to live inland"
+      ],
+      "correct": 1,
+      "explain": "Before electricity, a wheel turned by falling or flowing water drove the machinery inside a mill. Building on a river also made it cheap to ship goods away.",
+      "standard": "NYS-SS-4",
+      "source": "NYS Grade 4 Social Studies Framework, 4.6"
+    },
+    {
+      "id": "g5_v31_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which digit in the number 3.472 is in the hundredths place?",
+      "options": [
+        "3",
+        "4",
+        "7",
+        "2"
+      ],
+      "correct": 2,
+      "explain": "After the decimal point the places run tenths, hundredths, thousandths. The 4 is in the tenths place and the 7 is in the hundredths place.",
+      "standard": "5.NBT.A.3"
+    },
+    {
+      "id": "g5_v31_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 3,
+      "prompt": "What is 1.2 x 0.5?",
+      "options": [
+        "0.6",
+        "6.0",
+        "0.06",
+        "0.7"
+      ],
+      "correct": 0,
+      "explain": "Multiply as whole numbers: 12 x 5 = 60. The factors have one decimal place each, so the product needs two: 0.60, which is 0.6.",
+      "standard": "5.NBT.B.7"
+    },
+    {
+      "id": "g5_v31_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 4,
+      "prompt": "A tank is 8 inches long, 5 inches wide, and 6 inches tall. Water fills it to a height of 4 inches. How many cubic inches of water are in the tank?",
+      "options": [
+        "240",
+        "96",
+        "17",
+        "160"
+      ],
+      "correct": 3,
+      "explain": "Use the height of the water, not the height of the tank: 8 x 5 x 4 = 160 cubic inches. Using the full 6 inches would give 240, the tank's whole volume.",
+      "standard": "5.MD.C.5.B"
+    },
+    {
+      "id": "g5_v31_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multiplying Fractions",
+      "difficulty": 5,
+      "prompt": "One lap around a track is 3/4 kilometer. Nadia runs 2 1/2 laps. How far does Nadia run?",
+      "options": [
+        "1 1/4 kilometers",
+        "1 7/8 kilometers",
+        "3 1/4 kilometers",
+        "2 1/8 kilometers"
+      ],
+      "correct": 1,
+      "explain": "Write 2 1/2 as the improper fraction 5/2, then multiply: 3/4 x 5/2 = 15/8. Since 15/8 is 1 with 7/8 left over, Nadia runs 1 7/8 kilometers.",
+      "standard": "5.NF.B.6"
+    },
+    {
+      "id": "g5_v31_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The root spect means to look. Which word most likely means to look at something closely?",
+      "options": [
+        "inspect",
+        "respect",
+        "spectator",
+        "suspect"
+      ],
+      "correct": 0,
+      "explain": "Inspect joins in- with spect, so it means to look into something carefully. A spectator is a person who watches, respect means to look on with regard, and suspect means to doubt.",
+      "standard": "L.5.4.B"
+    },
+    {
+      "id": "g5_v31_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Point of View",
+      "difficulty": 4,
+      "prompt": "How do the two texts differ in the way they present the bike lane?",
+      "options": [
+        "Both report only the count of crashes",
+        "Both argue the bike lane should close",
+        "One uses numbers, one uses experience",
+        "One is a poem and the other is fiction"
+      ],
+      "correct": 2,
+      "explain": "The city report builds its account out of counted crashes, while the newsletter builds its account out of what residents go through day to day. Same subject, two different kinds of evidence.",
+      "standard": "RI.5.6",
+      "passage": "A city transportation report on the new bike lane lists how many crashes were recorded on that block in the year before it opened and in the year after. A neighborhood newsletter about the same bike lane describes how much harder it has become for residents to find parking near their own buildings."
+    },
+    {
+      "id": "g5_v31_007",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 5,
+      "prompt": "Which statement best captures the theme of this story?",
+      "options": [
+        "Saving money always pays off later",
+        "Quiet giving can cost the giver",
+        "Families should never keep secrets",
+        "Hard work is its own best reward"
+      ],
+      "correct": 1,
+      "explain": "Ivan spends three summers of savings on his sister and then hides that he did it, even when his father asks. The story is about a generous act that stays private and costs him something real.",
+      "standard": "RL.5.2",
+      "passage": "For three summers Ivan mowed lawns and dropped every dollar into a coffee can under his bed. When his sister's bike was taken from the rack in July, he counted the cash twice, then walked to the shop on Grand Street without telling anyone. He never mentioned the can again. When his father asked that fall how his savings were coming along, Ivan only shrugged."
+    },
+    {
+      "id": "g5_v31_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Space",
+      "difficulty": 2,
+      "prompt": "Why does the Sun look much brighter to us than any other star?",
+      "options": [
+        "It is the hottest star there is",
+        "It is the largest star of all",
+        "It gives off more colors",
+        "It is much closer to Earth"
+      ],
+      "correct": 3,
+      "explain": "Brightness as seen from Earth depends on distance. The Sun is about 25 trillion miles nearer than the next closest star, so it looks far brighter even though many stars are hotter and larger.",
+      "standard": "NGSS-5-ESS1-1"
+    },
+    {
+      "id": "g5_v31_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 4,
+      "prompt": "A river dries up during a long drought and the fish living in it die. Which interaction does this show?",
+      "options": [
+        "The biosphere affecting the atmosphere",
+        "The geosphere affecting the hydrosphere",
+        "The hydrosphere affecting the biosphere",
+        "The atmosphere affecting the geosphere"
+      ],
+      "correct": 2,
+      "explain": "The river is part of the hydrosphere, Earth's water. The fish are part of the biosphere, Earth's living things. Losing the water is what harms the fish.",
+      "standard": "NGSS-5-ESS2-1"
+    },
+    {
+      "id": "g5_v31_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 5,
+      "prompt": "A country grows far more coffee than its people can use, and it needs farm machines its factories cannot build. What is it most likely to do?",
+      "options": [
+        "Trade coffee for the machines it needs",
+        "Stop growing coffee the following season",
+        "Build the machines out of coffee plants",
+        "Store the extra coffee crop forever"
+      ],
+      "correct": 0,
+      "explain": "Countries specialize in what their land and workers produce well, then trade the surplus for goods they cannot make themselves. Selling coffee abroad pays for the machines.",
+      "standard": "NYS-SS-5",
+      "source": "NYS Grade 5 Social Studies Framework, 5.8"
     }
   ]
 }
