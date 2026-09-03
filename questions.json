@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "questions": [
     {
       "id": "prek_count_001",
@@ -98417,6 +98417,869 @@
       "explain": "Countries specialize in what their land and workers produce well, then trade the surplus for goods they cannot make themselves. Selling coffee abroad pays for the machines.",
       "standard": "NYS-SS-5",
       "source": "NYS Grade 5 Social Studies Framework, 5.8"
+    },
+    {
+      "id": "g1_v32_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 2,
+      "prompt": "What number makes this true?  8 + ___ = 13",
+      "options": [
+        "21",
+        "6",
+        "5",
+        "4"
+      ],
+      "correct": 2,
+      "explain": "Count up from 8 to 13: 9, 10, 11, 12, 13. That is 5 counts, so 8 + 5 = 13.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v32_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "Maya had 14 stickers. She gave 6 of them to her brother. How many stickers does Maya have left?",
+      "options": [
+        "8",
+        "20",
+        "9",
+        "7"
+      ],
+      "correct": 0,
+      "explain": "Giving stickers away means taking away: 14 - 6. Take 4 away to reach 10, then 2 more to reach 8. Maya has 8 stickers left.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v32_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value to 120",
+      "difficulty": 3,
+      "prompt": "Which number is made of 8 tens and 4 ones?",
+      "options": [
+        "48",
+        "12",
+        "804",
+        "84"
+      ],
+      "correct": 3,
+      "explain": "8 tens is 80. Add the 4 ones: 80 + 4 = 84. The 8 sits in the tens place and the 4 in the ones place.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v32_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Ten More and Ten Less",
+      "difficulty": 2,
+      "prompt": "What is 10 less than 62?",
+      "options": [
+        "61",
+        "52",
+        "72",
+        "42"
+      ],
+      "correct": 1,
+      "explain": "Taking 10 away changes only the tens digit. 6 tens becomes 5 tens, and the 2 ones stay. So 62 - 10 = 52.",
+      "standard": "1.NBT.C.5"
+    },
+    {
+      "id": "g1_v32_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 4,
+      "prompt": "A shelf holds 38 books. The librarian puts 25 more books on it. How many books are on the shelf now?",
+      "options": [
+        "63",
+        "53",
+        "513",
+        "62"
+      ],
+      "correct": 0,
+      "explain": "Add the ones: 8 + 5 = 13, which is 1 ten and 3 ones. Add the tens: 30 + 20 + 10 = 60. So 38 + 25 = 63 books.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v32_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement Comparison",
+      "difficulty": 3,
+      "prompt": "A ribbon is longer than a straw. The straw is longer than a paper clip. Which one is the shortest?",
+      "options": [
+        "The ribbon",
+        "The straw",
+        "The paper clip",
+        "They are equal"
+      ],
+      "correct": 2,
+      "explain": "The straw is shorter than the ribbon, and the paper clip is shorter than the straw. So the paper clip is shorter than both.",
+      "standard": "1.MD.A.1"
+    },
+    {
+      "id": "g1_v32_007",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Nouns",
+      "difficulty": 2,
+      "prompt": "Read this sentence: On Friday, my puppy ran to the garden. Which word is a proper noun?",
+      "options": [
+        "puppy",
+        "Friday",
+        "garden",
+        "ran"
+      ],
+      "correct": 1,
+      "explain": "A proper noun names one particular person, place, or thing and starts with a capital letter. Friday names one particular day.",
+      "standard": "L.1.1.B"
+    },
+    {
+      "id": "g1_v32_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the correct end mark?",
+      "options": [
+        "Where is my hat.",
+        "Where is my hat!",
+        "Where is my hat,",
+        "Where is my hat?"
+      ],
+      "correct": 3,
+      "explain": "A sentence that asks something is a question, and a question ends with a question mark.",
+      "standard": "L.1.2.B"
+    },
+    {
+      "id": "g1_v32_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 3,
+      "prompt": "Read this sentence: The soup was too hot, so Ben let it cool before he ate it. What does cool mean here?",
+      "options": [
+        "become more hot",
+        "look very nice",
+        "make a loud noise",
+        "become less hot"
+      ],
+      "correct": 3,
+      "explain": "Ben waits because the soup is too hot to eat. Waiting lets the soup lose heat, so here cool means to become less hot.",
+      "standard": "L.1.4.A"
+    },
+    {
+      "id": "g1_v32_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 4,
+      "prompt": "Read this sentence: Mia looked at the painting for a long time without moving. Which words best replace looked at?",
+      "options": [
+        "stared at",
+        "glanced at",
+        "peeked at",
+        "blinked at"
+      ],
+      "correct": 0,
+      "explain": "Staring means looking steadily for a long time. Glancing and peeking are both quick looks, and blinking is not a way of looking at all.",
+      "standard": "L.1.5.D"
+    },
+    {
+      "id": "g1_v32_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Long Vowel Patterns",
+      "difficulty": 4,
+      "prompt": "Which word has the same vowel sound as the oa in boat?",
+      "options": [
+        "cow",
+        "book",
+        "grow",
+        "found"
+      ],
+      "correct": 2,
+      "explain": "Boat has the long o sound. Grow spells that same long o sound with ow. Cow and found rhyme with each other, and book has a short oo sound.",
+      "standard": "RF.1.3.C"
+    },
+    {
+      "id": "g1_v32_012",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "What color is Tam's kite?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Gray"
+      ],
+      "correct": 1,
+      "explain": "The first sentence of the story says Tam has a red kite.",
+      "standard": "RL.1.1",
+      "passage": "Tam has a red kite. On Saturday the wind was strong. Tam ran across the grass and the kite went up and up. A bird flew past it. Tam laughed and held the string tight."
+    },
+    {
+      "id": "g1_v32_013",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "prompt": "What is the main topic of this beaver passage?",
+      "options": [
+        "How a beaver builds a dam",
+        "Why streams run downhill",
+        "What beavers like to eat",
+        "Where fish lay their eggs"
+      ],
+      "correct": 0,
+      "explain": "Every sentence adds one more part of the building job: cutting trees, dragging branches, stacking them, and filling the gaps with mud.",
+      "standard": "RI.1.2",
+      "passage": "A beaver has strong front teeth. It cuts down small trees near a stream. The beaver drags the branches into the water and stacks them across the stream. Mud and sticks fill the gaps. Soon the water backs up into a deep pond, and there the beaver builds its home."
+    },
+    {
+      "id": "g1_v32_014",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Sequence",
+      "difficulty": 3,
+      "prompt": "Where did Nina finally find her book?",
+      "options": [
+        "Under her bed",
+        "Inside her backpack",
+        "Beside the front door",
+        "On the kitchen table"
+      ],
+      "correct": 3,
+      "explain": "Nina checked under her bed and inside her backpack first. The story says that at last she saw the book on the kitchen table.",
+      "standard": "RL.1.3",
+      "passage": "Nina could not find her library book. She looked under her bed. She looked inside her backpack. At last she saw it on the kitchen table, next to the bowl of apples. Nina smiled and put the book in her bag."
+    },
+    {
+      "id": "g1_v32_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Parents and Offspring",
+      "difficulty": 2,
+      "prompt": "A baby bird chirps loudly when it is hungry. How does chirping help the baby bird?",
+      "options": [
+        "It makes the nest warmer at night",
+        "Its parent hears it and brings food",
+        "It helps the baby bird learn to fly",
+        "It keeps other baby birds away"
+      ],
+      "correct": 1,
+      "explain": "The chirp is a signal to the parent. The parent hears it, comes back to the nest, and feeds the baby so it can grow.",
+      "standard": "1-LS1-2"
+    },
+    {
+      "id": "g1_v32_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 3,
+      "prompt": "Ravi puts a toy on a table in a room with no light at all. Why can Ravi not see the toy?",
+      "options": [
+        "The toy is too small to see",
+        "The table is too high for him",
+        "There is no light to shine on it",
+        "His eyes need to rest for a while"
+      ],
+      "correct": 2,
+      "explain": "Objects can be seen only when light shines on them and bounces to our eyes. With no light in the room, no light reaches the toy or Ravi's eyes.",
+      "standard": "1-PS4-2"
+    },
+    {
+      "id": "g1_v32_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 2,
+      "prompt": "Which pattern happens every single day?",
+      "options": [
+        "Leaves turn red on trees",
+        "Snow falls on the ground",
+        "The sun rises and then sets",
+        "A caterpillar becomes a moth"
+      ],
+      "correct": 2,
+      "explain": "The sun comes up and goes down once every day. Leaves turning and snow falling happen in certain seasons, and a caterpillar changes only once.",
+      "standard": "1-ESS1-1"
+    },
+    {
+      "id": "g1_v32_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "Why do classrooms have a rule about taking turns?",
+      "options": [
+        "So the room stays very quiet",
+        "So everyone gets a fair turn",
+        "So the school day ends sooner",
+        "So the teacher can go home"
+      ],
+      "correct": 1,
+      "explain": "Taking turns is a fair rule. It makes sure that every child in the class gets a chance, not just the fastest or the loudest.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v32_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 2,
+      "prompt": "Long ago, people wrote letters and waited many days for a reply. Which tool lets people send a message in seconds today?",
+      "options": [
+        "An email",
+        "A stamp",
+        "A pencil",
+        "A mailbox"
+      ],
+      "correct": 0,
+      "explain": "A stamp, a pencil, and a mailbox all belong to the slower way of sending a letter. An email travels over a network and arrives in seconds.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v32_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs and Wants",
+      "difficulty": 3,
+      "prompt": "A family makes a shopping list. Which item on the list is a need, not a want?",
+      "options": [
+        "A new video game",
+        "A toy race car",
+        "Stickers for fun",
+        "Food for dinner"
+      ],
+      "correct": 3,
+      "explain": "A need is something people must have to live, like food. Games, toys, and stickers are fun to have, but a family can live without them.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g4_v32_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which decimal is equal to 7/10?",
+      "options": [
+        "0.07",
+        "0.7",
+        "7.0",
+        "0.71"
+      ],
+      "correct": 1,
+      "explain": "The fraction 7/10 means 7 tenths. The tenths place is the first place after the decimal point, so 7/10 is written 0.7.",
+      "standard": "4.NF.C.6"
+    },
+    {
+      "id": "g4_v32_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 2,
+      "prompt": "Round 47,382 to the nearest thousand.",
+      "options": [
+        "48,000",
+        "47,400",
+        "50,000",
+        "47,000"
+      ],
+      "correct": 3,
+      "explain": "Look at the hundreds digit, which is 3. Because 3 is less than 5, the thousands digit stays 7 and 47,382 rounds down to 47,000.",
+      "standard": "4.NBT.A.3"
+    },
+    {
+      "id": "g4_v32_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 3,
+      "prompt": "A school shares 187 pencils equally among 8 classrooms. How many pencils are left over after each classroom gets the same number?",
+      "options": [
+        "3",
+        "23",
+        "8",
+        "5"
+      ],
+      "correct": 0,
+      "explain": "8 x 23 = 184, and 187 - 184 = 3. Each classroom gets 23 pencils and 3 pencils are left over.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v32_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 3,
+      "prompt": "Which fraction is greater than 3/5?",
+      "options": [
+        "1/2",
+        "4/10",
+        "7/10",
+        "6/10"
+      ],
+      "correct": 2,
+      "explain": "Rewrite 3/5 in tenths: 3/5 = 6/10. Only 7/10 is more than 6/10. The fraction 6/10 is equal to 3/5, not greater, and 1/2 and 4/10 are both smaller.",
+      "standard": "4.NF.A.2"
+    },
+    {
+      "id": "g4_v32_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A bakery packs 24 muffins in each box. It fills 15 boxes and then sells 128 muffins. How many muffins are left unsold?",
+      "options": [
+        "488",
+        "360",
+        "232",
+        "222"
+      ],
+      "correct": 2,
+      "explain": "First find the total baked: 24 x 15 = 360 muffins. Then subtract the muffins sold: 360 - 128 = 232 muffins left.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v32_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding Mixed Numbers",
+      "difficulty": 4,
+      "prompt": "Ella ran 1 3/8 miles on Monday and 2 7/8 miles on Tuesday. How far did she run in all?",
+      "options": [
+        "3 4/8 miles",
+        "4 1/4 miles",
+        "3 5/8 miles",
+        "4 2/16 miles"
+      ],
+      "correct": 1,
+      "explain": "Add the whole numbers: 1 + 2 = 3. Add the eighths: 3/8 + 7/8 = 10/8, which is 1 whole and 2/8. So the total is 4 and 2/8 miles, or 4 1/4 miles.",
+      "standard": "4.NF.B.3"
+    },
+    {
+      "id": "g4_v32_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Decimals",
+      "difficulty": 3,
+      "prompt": "Which of these decimal comparisons is true?",
+      "options": [
+        "0.45 > 0.50",
+        "0.30 < 0.28",
+        "0.09 > 0.10",
+        "0.62 > 0.60"
+      ],
+      "correct": 3,
+      "explain": "Line up the tenths first. 0.62 and 0.60 both have 6 tenths, and 2 hundredths beats 0 hundredths, so 0.62 > 0.60.",
+      "standard": "4.NF.C.7"
+    },
+    {
+      "id": "g4_v32_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The Latin root aud means hear. Which word most likely has something to do with hearing?",
+      "options": [
+        "audible",
+        "auction",
+        "August",
+        "author"
+      ],
+      "correct": 0,
+      "explain": "Audible is built from aud plus the ending -ible, so it means able to be heard. The other three words only look similar at the start.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v32_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Idioms and Adages",
+      "difficulty": 4,
+      "prompt": "The two cousins had not spoken all week. When Marcus finally told a joke at dinner, it broke the ice. What does broke the ice mean here?",
+      "options": [
+        "It eased the tension between them",
+        "It reminded everyone of the cold weather",
+        "It damaged something that was fragile",
+        "It ended the dinner much earlier"
+      ],
+      "correct": 0,
+      "explain": "Breaking the ice is an idiom for getting past an awkward silence. The joke made it comfortable for the cousins to talk again.",
+      "standard": "L.4.5.B"
+    },
+    {
+      "id": "g4_v32_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Frequently Confused Words",
+      "difficulty": 3,
+      "prompt": "Which sentence uses their, there, and they're correctly?",
+      "options": [
+        "Their going to leave they're coats over there.",
+        "There going to leave their coats over they're.",
+        "They're going to leave their coats over there.",
+        "They're going to leave there coats over their."
+      ],
+      "correct": 2,
+      "explain": "They're is short for they are, their shows who owns the coats, and there names a place. Only one sentence puts all three in the right spots.",
+      "standard": "L.4.1.G"
+    },
+    {
+      "id": "g4_v32_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Point of View",
+      "difficulty": 4,
+      "prompt": "How is Account 1 different from Account 2?",
+      "options": [
+        "It gives exact numbers gathered by a team",
+        "It reports what one person saw and felt",
+        "It was written long before the survey began",
+        "It explains why frogs prefer wet ground"
+      ],
+      "correct": 1,
+      "explain": "Account 1 is a firsthand account: the writer was there, used the word I, and described mud and smells. Account 2 is a secondhand account built from measurements a research team collected.",
+      "standard": "RI.4.6",
+      "passage": "Account 1. My boots sank into the mud with every step, and the smell of wet leaves filled the whole trail. By noon I had stopped counting the frogs. Account 2. Researchers surveying the wetland recorded forty-seven frogs along the main trail on the morning of April 12. Soil moisture measured well above the seasonal average."
+    },
+    {
+      "id": "g4_v32_012",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 3,
+      "prompt": "What finally kept Priya's board standing?",
+      "options": [
+        "Tape along the top edge",
+        "The wall behind the table",
+        "A stack of heavy science books",
+        "Folded cardboard triangles"
+      ],
+      "correct": 3,
+      "explain": "The wall and the tape are both tried and both fail. The board only stays up after Priya glues the folded cardboard triangles to the back corners.",
+      "standard": "RL.4.1",
+      "passage": "Priya's science fair board kept falling over. She tried leaning it against the wall, but it slid. She tried taping it, but the tape peeled off. Finally she cut two strips of cardboard, folded them into triangles, and glued one to each back corner. The board stood straight for the rest of the afternoon."
+    },
+    {
+      "id": "g4_v32_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 4,
+      "prompt": "Which choice best states the main idea of this passage?",
+      "options": [
+        "Why insects and rot rarely damage certain mountain trees",
+        "How the pyramids of Egypt were planned and built",
+        "The tallest trees found in western mountains",
+        "How bristlecone pines survive for thousands of years"
+      ],
+      "correct": 3,
+      "explain": "Dense wood, slow growth, and living bark are each given as a reason the tree lasts. Together they support one bigger point about how bristlecones survive so long.",
+      "standard": "RI.4.2",
+      "passage": "Bristlecone pines grow high in dry western mountains where almost nothing else survives. Their wood is dense and full of resin, so insects and rot rarely damage it. They grow so slowly that a tree may add less than an inch of width in a century. When part of the trunk stops living, the rest keeps going on a narrow strip of bark. Some bristlecones alive today were seedlings before the pyramids were built."
+    },
+    {
+      "id": "g4_v32_014",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Explaining Events in Informational Text",
+      "difficulty": 3,
+      "prompt": "Why did volunteers plant terraces on the slope?",
+      "options": [
+        "To make the lighthouse look taller",
+        "To keep the bluff from wearing away",
+        "To give visitors a place to sit",
+        "To help ships find the harbor at night"
+      ],
+      "correct": 1,
+      "explain": "The passage first says the ocean wore the bluff away until the tower was near the edge. The terraces were planted to hold the soil so that wearing away would slow down.",
+      "standard": "RI.4.3",
+      "passage": "The lighthouse at Montauk Point stands on a bluff at the eastern tip of Long Island. It was finished in 1796, and its light still turns every night. Over the years the ocean wore away the bluff until the tower stood close to the edge. In the 1970s volunteers began planting terraces of grass and stone along the slope to hold the soil in place."
+    },
+    {
+      "id": "g4_v32_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 2,
+      "prompt": "A metal spoon is left in a pot of hot soup. After a few minutes the handle of the spoon feels warm. What moved from the soup to the handle?",
+      "options": [
+        "Liquid",
+        "Sound",
+        "Energy",
+        "Weight"
+      ],
+      "correct": 2,
+      "explain": "Heat is energy moving from a warmer place to a cooler one. The energy travels through the metal from the soup to the handle, which is why the handle warms up.",
+      "standard": "NGSS-4-PS3-2"
+    },
+    {
+      "id": "g4_v32_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Weathering",
+      "difficulty": 4,
+      "prompt": "A river carries sand and gravel downstream and drops it where the water slows down. Which statement about this process is true?",
+      "options": [
+        "Erosion moved the material and deposition dropped it",
+        "Deposition moved the material and erosion dropped it",
+        "Weathering moved the material and erosion dropped it",
+        "Erosion broke the rock apart and weathering carried it"
+      ],
+      "correct": 0,
+      "explain": "Erosion is the carrying away of material, and deposition is the laying down of that material when the water slows. Weathering is the earlier step that breaks rock apart.",
+      "standard": "NGSS-4-ESS2-1"
+    },
+    {
+      "id": "g4_v32_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 4,
+      "prompt": "A hawk's eyes face forward, while a rabbit's eyes sit on the sides of its head. How does the rabbit's eye placement help it survive?",
+      "options": [
+        "It can judge the distance to prey exactly",
+        "It can see danger from nearly all sides",
+        "It can see clearly in complete darkness",
+        "It can spot colors that hawks cannot see"
+      ],
+      "correct": 1,
+      "explain": "Eyes on the sides of the head give a rabbit a very wide view, so it can spot a predator coming from almost any direction. Forward eyes like a hawk's are better for judging distance to prey.",
+      "standard": "NGSS-4-LS1-1"
+    },
+    {
+      "id": "g4_v32_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "Which city is the capital of New York State?",
+      "options": [
+        "Albany",
+        "Buffalo",
+        "New York City",
+        "Rochester"
+      ],
+      "correct": 0,
+      "explain": "Albany, on the Hudson River, has been the capital of New York State since 1797. New York City is the largest city in the state but not the capital.",
+      "standard": "NYS-SS-4",
+      "source": "NYS K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v32_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY History",
+      "difficulty": 3,
+      "prompt": "The Erie Canal, finished in 1825, connected the Hudson River to Lake Erie. How did the canal change trade in New York?",
+      "options": [
+        "Farmers stopped growing wheat in the state",
+        "New York City lost most of its harbor trade",
+        "Travel between towns became much slower",
+        "Goods could move west much more cheaply"
+      ],
+      "correct": 3,
+      "explain": "Before the canal, hauling goods overland to the Great Lakes was slow and costly. A canal boat could carry far more for far less, so shipping between the Hudson and Lake Erie became much cheaper.",
+      "standard": "NYS-SS-4",
+      "source": "NYS K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v32_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 4,
+      "prompt": "The Haudenosaunee Confederacy was made up of nations that kept their own councils but also sent leaders to a shared Grand Council. Which idea does this best show?",
+      "options": [
+        "One nation ruling all of the others",
+        "Leaders chosen by a single family line",
+        "Separate groups sharing one government",
+        "Every decision made by one chief alone"
+      ],
+      "correct": 2,
+      "explain": "Each nation still governed itself, and the Grand Council handled matters that affected them all. That mix of local control and shared decision making is what a confederacy means.",
+      "standard": "NYS-SS-4",
+      "source": "NYS K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g5_v32_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "How is four and thirty-seven hundredths written as a decimal?",
+      "options": [
+        "4.037",
+        "437.0",
+        "0.437",
+        "4.37"
+      ],
+      "correct": 3,
+      "explain": "The word and marks the decimal point, so the whole number 4 comes first. Thirty-seven hundredths fills the two places after the point, giving 4.37.",
+      "standard": "5.NBT.A.3"
+    },
+    {
+      "id": "g5_v32_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 3,
+      "prompt": "What is the sum of 2/3 and 1/4?",
+      "options": [
+        "3/7",
+        "11/12",
+        "8/12",
+        "13/12"
+      ],
+      "correct": 1,
+      "explain": "A common denominator for thirds and fourths is twelfths: 2/3 = 8/12 and 1/4 = 3/12. Adding gives 8/12 + 3/12 = 11/12.",
+      "standard": "5.NF.A.1"
+    },
+    {
+      "id": "g5_v32_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 4,
+      "prompt": "A ribbon 3 yards long is cut into pieces that are each 1/4 yard long. How many pieces are there?",
+      "options": [
+        "12",
+        "3/4",
+        "4",
+        "7"
+      ],
+      "correct": 0,
+      "explain": "Each single yard holds 4 pieces that are one fourth of a yard. Three yards hold 3 x 4 = 12 pieces, so 3 divided by 1/4 is 12.",
+      "standard": "5.NF.B.7"
+    },
+    {
+      "id": "g5_v32_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 5,
+      "prompt": "What is 60 divided by [3 x (7 - 2)], plus 14?",
+      "options": [
+        "152",
+        "114",
+        "18",
+        "4"
+      ],
+      "correct": 2,
+      "explain": "Work from the inside out: 7 - 2 = 5, then 3 x 5 = 15. Next 60 divided by 15 = 4, and finally 4 + 14 = 18.",
+      "standard": "5.OA.A.1"
+    },
+    {
+      "id": "g5_v32_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Figurative Language — Adages",
+      "difficulty": 4,
+      "prompt": "Ines spent an hour laying out her tools before she started building, and her mother said, Well begun is half done. What does that adage mean?",
+      "options": [
+        "A careful start makes the rest easier",
+        "Half of every job is a waste of time",
+        "Starting over is better than finishing",
+        "Work goes faster when someone helps"
+      ],
+      "correct": 0,
+      "explain": "The adage praises preparation. Ines organized her tools first, and the saying means that a good beginning takes care of much of the work ahead.",
+      "standard": "L.5.5.B"
+    },
+    {
+      "id": "g5_v32_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Evaluating Evidence",
+      "difficulty": 5,
+      "prompt": "Which choice best describes how the critics use the study?",
+      "options": [
+        "They question whether the study was ever conducted",
+        "They offer a study from a different city entirely",
+        "They dismiss the study as too old to matter",
+        "They use another measurement from that same study"
+      ],
+      "correct": 3,
+      "explain": "The critics do not attack the study or bring in a new one. They reach into the very same Phoenix study and pull out its temperature results instead of its water results.",
+      "standard": "RI.5.8",
+      "passage": "Some cities are replacing grass medians with gravel to save water. Supporters point to a Phoenix study in which gravel medians used ninety percent less irrigation water than grass ones. Critics answer that the same study measured surface temperatures over gravel that were twelve degrees higher on summer afternoons, and they argue that a city trading water for heat has not solved anything."
+    },
+    {
+      "id": "g5_v32_007",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Informational Text — Relationships",
+      "difficulty": 3,
+      "prompt": "According to the passage, what happens to a kelp forest when sea otters disappear?",
+      "options": [
+        "Urchins increase and the kelp grows faster",
+        "Urchins decrease and the kelp thins out",
+        "Urchins increase and the kelp thins out",
+        "Urchins decrease and the kelp grows faster"
+      ],
+      "correct": 2,
+      "explain": "Otters eat urchins, so fewer otters means more urchins. More urchins graze on more holdfasts, and the kelp forest thins out into bare rock.",
+      "standard": "RI.5.3",
+      "passage": "Sea otters float in the kelp forests off the Pacific coast. They eat sea urchins, and sea urchins graze on the holdfasts that anchor kelp to the seafloor. Where otter numbers dropped, urchin numbers climbed and whole kelp forests thinned into bare rock. Where otters returned, urchin numbers fell again and the kelp grew back."
+    },
+    {
+      "id": "g5_v32_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Conservation of Matter",
+      "difficulty": 4,
+      "prompt": "A sealed jar holds 50 grams of vinegar and 5 grams of baking soda. The two are mixed and the jar fills with gas. What is the total mass inside the sealed jar after mixing?",
+      "options": [
+        "45 grams",
+        "55 grams",
+        "50 grams",
+        "5 grams"
+      ],
+      "correct": 1,
+      "explain": "Matter is not lost in a change; it only rearranges. Because the jar is sealed, nothing escapes, so the total mass stays 50 + 5 = 55 grams.",
+      "standard": "NGSS-5-PS1-2"
+    },
+    {
+      "id": "g5_v32_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Ecosystems",
+      "difficulty": 5,
+      "prompt": "In a forest, mushrooms grow on a fallen log and slowly break it down. Which statement about the role of the mushrooms is true?",
+      "options": [
+        "They make their own food from sunlight",
+        "They add new matter that was not in the forest",
+        "They return matter from the log to the soil",
+        "They stop energy from moving through the forest"
+      ],
+      "correct": 2,
+      "explain": "Mushrooms are decomposers. Breaking the log down releases the matter stored in the wood back into the soil, where plants can use it again.",
+      "standard": "NGSS-5-LS2-1"
+    },
+    {
+      "id": "g5_v32_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 2,
+      "prompt": "Which body of the United States federal government writes and passes new laws?",
+      "options": [
+        "Congress",
+        "The Supreme Court",
+        "The President",
+        "The Cabinet"
+      ],
+      "correct": 0,
+      "explain": "Congress is the legislative branch, made up of the Senate and the House of Representatives. Writing and passing laws is its job.",
+      "standard": "NYS-SS-5",
+      "source": "NYS K-8 Social Studies Framework, Grade 5"
     }
   ]
 }
