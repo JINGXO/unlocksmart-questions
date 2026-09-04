@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "questions": [
     {
       "id": "prek_count_001",
@@ -99280,6 +99280,867 @@
       "explain": "Congress is the legislative branch, made up of the Senate and the House of Representatives. Writing and passing laws is its job.",
       "standard": "NYS-SS-5",
       "source": "NYS K-8 Social Studies Framework, Grade 5"
+    },
+    {
+      "id": "g1_v33_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "A jar had 18 buttons. Some fell out. Now there are 11 buttons. How many buttons fell out?",
+      "options": [
+        "29",
+        "8",
+        "7",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "Count up from 11 to 18 and you take 7 steps. You can check it: 11 + 7 = 18, so 7 buttons fell out.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v33_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which of these is another way to write 58?",
+      "options": [
+        "5 tens and 8 ones",
+        "8 tens and 5 ones",
+        "58 tens and 0 ones",
+        "5 hundreds and 8 ones"
+      ],
+      "correct": 0,
+      "explain": "The 5 sits in the tens place, so it means 5 tens, or 50. The 8 sits in the ones place. 50 and 8 make 58.",
+      "standard": "1.NBT.B.2"
+    },
+    {
+      "id": "g1_v33_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 3,
+      "prompt": "What is 49 + 26?",
+      "options": [
+        "65",
+        "615",
+        "74",
+        "75"
+      ],
+      "correct": 3,
+      "explain": "9 + 6 is 15, so write the 5 and carry one ten. 4 tens + 2 tens + 1 ten is 7 tens. That makes 75.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v33_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 3,
+      "prompt": "A carton holds 20 eggs. There are 12 eggs in it now. How many more eggs will fit?",
+      "options": [
+        "32",
+        "8",
+        "18",
+        "9"
+      ],
+      "correct": 1,
+      "explain": "Count up from 12 to 20: that is 8 more eggs. You can check it: 12 + 8 = 20.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v33_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 3,
+      "prompt": "Three ribbons are 8, 5, and 11 paper clips long. Which list puts them in order from shortest to longest?",
+      "options": [
+        "11, 8, 5",
+        "8, 5, 11",
+        "5, 8, 11",
+        "5, 11, 8"
+      ],
+      "correct": 2,
+      "explain": "The shortest ribbon is 5 paper clips, then 8, and the longest is 11. In order that is 5, 8, 11.",
+      "standard": "1.MD.A.1"
+    },
+    {
+      "id": "g1_v33_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A basket has 9 red apples and 8 green apples. If 5 apples are eaten, how many apples are left in the basket?",
+      "options": [
+        "12",
+        "22",
+        "13",
+        "4"
+      ],
+      "correct": 0,
+      "explain": "First put the apples together: 9 + 8 = 17. Then take away the ones that were eaten: 17 - 5 = 12.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v33_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 4,
+      "prompt": "Ellie says 52 is greater than 61 because 2 is greater than 1. What is wrong with her thinking?",
+      "options": [
+        "She should compare the ones first",
+        "She should add the two numbers",
+        "She should count backward from 61",
+        "She should compare the tens first"
+      ],
+      "correct": 3,
+      "explain": "When two numbers each have two digits, the tens decide which is greater. 6 tens beats 5 tens, so 61 is the larger number.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v33_008",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "Where did Mia put the pot?",
+      "options": [
+        "On the kitchen table",
+        "On the windowsill",
+        "Under the tall bed",
+        "Beside the front door"
+      ],
+      "correct": 1,
+      "explain": "The second sentence of the story says Mia put the pot on the windowsill so it could get sun.",
+      "standard": "RL.1.1",
+      "passage": "Mia planted a small seed in a blue pot. She put the pot on the windowsill so it could get sun. Every morning Mia gave the seed a little water. After ten days a tiny green leaf pushed up out of the dirt."
+    },
+    {
+      "id": "g1_v33_009",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 3,
+      "prompt": "Why did Ben set the bowl down fast?",
+      "options": [
+        "His dog was barking loudly",
+        "He wanted to eat quickly",
+        "The bowl was hot",
+        "The table was very small"
+      ],
+      "correct": 2,
+      "explain": "The story says the bowl was hot, so he set it down fast. The hot bowl is the reason for what Ben did.",
+      "standard": "RL.1.3",
+      "passage": "Ben carried his soup bowl to the table. The bowl was hot, so he set it down fast. A little soup splashed onto the floor. Ben got a towel and wiped it up before his dog could lick it."
+    },
+    {
+      "id": "g1_v33_010",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "prompt": "What do all the sentences in this passage tell about?",
+      "options": [
+        "How ants work together in a nest",
+        "Why ants are smaller than bees",
+        "Where ants go when it rains hard",
+        "What ants like to eat in winter"
+      ],
+      "correct": 0,
+      "explain": "Every sentence names a different job that ants do in one nest. Put together, they show how ants work as a group.",
+      "standard": "RI.1.2",
+      "passage": "An ant is small, but it is never alone. Ants live together in a nest under the ground. Some ants dig new tunnels. Some ants find seeds and carry them home. Other ants take care of the tiny ant eggs. Every ant has a job to do."
+    },
+    {
+      "id": "g1_v33_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Vocabulary",
+      "difficulty": 2,
+      "prompt": "Read this sentence: The bread was stale, so Dad did not want to eat it. What does stale mean?",
+      "options": [
+        "Warm and fresh",
+        "Old and hard",
+        "Sweet and soft",
+        "Cut in slices"
+      ],
+      "correct": 1,
+      "explain": "Dad did not want to eat the bread. Bread that has sat out too long turns old and hard, and that is what stale means.",
+      "standard": "L.1.4.A"
+    },
+    {
+      "id": "g1_v33_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 3,
+      "prompt": "Read this sentence: The playful puppy wagged its tail. What does the word playful mean?",
+      "options": [
+        "Without any play",
+        "Play one more time",
+        "Before playing",
+        "Full of play"
+      ],
+      "correct": 3,
+      "explain": "The ending -ful means full of. Play plus -ful gives playful, which means full of play.",
+      "standard": "L.1.4.B"
+    },
+    {
+      "id": "g1_v33_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Capitalization",
+      "difficulty": 3,
+      "prompt": "Read this sentence: On monday we visit the library. Which word should begin with a capital letter?",
+      "options": [
+        "library",
+        "visit",
+        "monday",
+        "we"
+      ],
+      "correct": 2,
+      "explain": "The names of the days of the week always begin with a capital letter, so monday should be Monday.",
+      "standard": "L.1.2.A"
+    },
+    {
+      "id": "g1_v33_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "A duck has webbed feet with skin stretched between its toes. How do webbed feet help a duck?",
+      "options": [
+        "They push water when it swims",
+        "They keep its feathers clean",
+        "They help it hear other ducks",
+        "They keep the duck warm in the nest"
+      ],
+      "correct": 0,
+      "explain": "The flat skin between the toes acts like a paddle. It pushes against more water with each kick, so the duck moves forward.",
+      "standard": "1-LS1-1"
+    },
+    {
+      "id": "g1_v33_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Parents and Offspring",
+      "difficulty": 2,
+      "prompt": "Which sentence about young animals and their parents is true?",
+      "options": [
+        "Young animals look exactly the same as their parents.",
+        "Young animals look a lot like their parents.",
+        "Young animals look nothing like their parents at all.",
+        "Young animals look like their parents only when grown."
+      ],
+      "correct": 1,
+      "explain": "A puppy looks much like its mother dog, but the spots or the size may be different. Young animals are like their parents, not copies of them.",
+      "standard": "1-LS3-1"
+    },
+    {
+      "id": "g1_v33_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 4,
+      "prompt": "Ana shines a flashlight at a mirror, a piece of cardboard, and a clear glass. Which one will the light pass through to light the wall behind it?",
+      "options": [
+        "The mirror",
+        "The cardboard",
+        "The clear glass",
+        "None of the three"
+      ],
+      "correct": 2,
+      "explain": "Light bounces off a mirror and is blocked by cardboard. Clear glass lets light go straight through, so the wall behind it lights up.",
+      "standard": "1-PS4-3"
+    },
+    {
+      "id": "g1_v33_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "US Symbols",
+      "difficulty": 2,
+      "prompt": "Which animal is a national symbol of the United States?",
+      "options": [
+        "The blue whale",
+        "The bald eagle",
+        "The brown bear",
+        "The gray wolf"
+      ],
+      "correct": 1,
+      "explain": "The bald eagle was chosen as the national bird. You can see it on coins, on dollar bills, and on the seal of the United States.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v33_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "Voting is one way a group makes a choice together. In a class vote, which choice wins?",
+      "options": [
+        "The one the teacher picks",
+        "The one voted on first",
+        "The one with the longest name",
+        "The one with the most votes"
+      ],
+      "correct": 3,
+      "explain": "In a vote, every person's choice is counted. The choice that gets the most votes is the one the group picks.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v33_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 2,
+      "prompt": "Which of these is a service that a community worker provides?",
+      "options": [
+        "Putting out a fire",
+        "A basket of fresh apples",
+        "A pair of shoes",
+        "A box of crayons"
+      ],
+      "correct": 0,
+      "explain": "A service is work that someone does for other people. Firefighters do the work of putting out fires. The other three are goods, which are things you can hold.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v33_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 3,
+      "prompt": "Long ago, children in one-room schoolhouses wrote on small slates with chalk. What do most students write on today?",
+      "options": [
+        "A wooden slate and chalk stick",
+        "A stone wall",
+        "Paper or a computer screen",
+        "A cloth banner"
+      ],
+      "correct": 2,
+      "explain": "Slates were used over and over because paper cost a lot. Today paper is cheap and many students also type on a screen.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g4_v33_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "prompt": "Which of these adds up to exactly 5/6?",
+      "options": [
+        "2/6 + 4/6",
+        "1/6 + 4/6",
+        "1/6 + 1/4",
+        "3/6 + 1/6"
+      ],
+      "correct": 1,
+      "explain": "Sixths add like anything else once the denominators match: 1 sixth plus 4 sixths is 5 sixths, which is 5/6.",
+      "standard": "4.NF.B.3.B"
+    },
+    {
+      "id": "g4_v33_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 3,
+      "prompt": "A recipe uses 3/8 cup of milk and 4/8 cup of water. How much liquid is that in all?",
+      "options": [
+        "7/8",
+        "7/16",
+        "1/8",
+        "12/8"
+      ],
+      "correct": 0,
+      "explain": "The denominators already match, so add only the numerators: 3 + 4 is 7 eighths, or 7/8. The size of the pieces does not change.",
+      "standard": "4.NF.B.3.D"
+    },
+    {
+      "id": "g4_v33_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Which statement about these decimals is true?",
+      "options": [
+        "0.45 > 0.5",
+        "0.09 > 0.1",
+        "0.7 > 0.68",
+        "0.30 > 0.3"
+      ],
+      "correct": 2,
+      "explain": "0.7 is 70 hundredths and 0.68 is 68 hundredths, so 0.7 is larger. 0.30 and 0.3 are the same number, so neither is greater.",
+      "standard": "4.NF.C.7"
+    },
+    {
+      "id": "g4_v33_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 3,
+      "prompt": "What is 46 x 30?",
+      "options": [
+        "138",
+        "1,180",
+        "1,830",
+        "1,380"
+      ],
+      "correct": 3,
+      "explain": "46 x 3 is 138. Because you are multiplying by 30, not 3, the product is ten times larger: 1,380.",
+      "standard": "4.NBT.B.5"
+    },
+    {
+      "id": "g4_v33_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A movie theater has 348 seats arranged in rows of 16. How many seats are in the last row, which is only partly filled?",
+      "options": [
+        "21",
+        "12",
+        "16",
+        "0"
+      ],
+      "correct": 1,
+      "explain": "348 divided by 16 is 21 with 12 left over. Those 21 full rows use 336 seats, so the last row holds the remaining 12.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v33_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A bakery sold 1,250 muffins in March and 3 times as many in April. How many muffins did the bakery sell in the two months together?",
+      "options": [
+        "5,000",
+        "3,750",
+        "6,250",
+        "2,500"
+      ],
+      "correct": 0,
+      "explain": "April was 1,250 x 3, which is 3,750. Adding March back in gives 1,250 + 3,750 = 5,000 muffins.",
+      "standard": "4.OA.A.2"
+    },
+    {
+      "id": "g4_v33_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Patterns",
+      "difficulty": 4,
+      "prompt": "A number pattern starts at 6 and follows the rule add 5. What is the 8th number in the pattern?",
+      "options": [
+        "40",
+        "46",
+        "41",
+        "36"
+      ],
+      "correct": 2,
+      "explain": "The 1st number is 6, and every step after that adds 5. Getting to the 8th number takes 7 steps: 6 + 7 x 5 = 6 + 35 = 41.",
+      "standard": "4.OA.C.5"
+    },
+    {
+      "id": "g4_v33_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 2,
+      "prompt": "The prefix pre- means before. Which meaning best fits the word preheat?",
+      "options": [
+        "To heat something again",
+        "To heat slowly",
+        "To stop heating",
+        "To heat beforehand"
+      ],
+      "correct": 3,
+      "explain": "The Latin prefix pre- means before. Added to heat it gives preheat: to heat an oven beforehand, so it is ready when the food goes in.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v33_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "Which sentence below is a run-on that should be split into two sentences?",
+      "options": [
+        "We hiked to the lake we ate lunch there.",
+        "We hiked to the lake, and we ate lunch.",
+        "After the hike, we ate lunch by the lake.",
+        "We hiked to the lake and ate our lunch."
+      ],
+      "correct": 0,
+      "explain": "Two complete thoughts are jammed together with no comma and no joining word. It needs a period or a comma plus and.",
+      "standard": "L.4.1.F"
+    },
+    {
+      "id": "g4_v33_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 3,
+      "prompt": "Read this sentence from an article: The dam altered the river, turning fast rapids into a wide, still lake. What does altered mean here?",
+      "options": [
+        "Ignored",
+        "Changed",
+        "Measured",
+        "Followed"
+      ],
+      "correct": 1,
+      "explain": "The rest of the sentence describes rapids becoming a still lake. That is a change, so altered means changed.",
+      "standard": "RI.4.4"
+    },
+    {
+      "id": "g4_v33_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "Read this line from a poem: The kitchen door complained every time someone pushed it open. What is the poet doing in this line?",
+      "options": [
+        "Comparing the door to a person using like",
+        "Repeating the same beginning sound",
+        "Giving the door human actions",
+        "Stating a plain fact about old doors"
+      ],
+      "correct": 2,
+      "explain": "Complaining is something people do, and the poet gives it to a door. That is personification.",
+      "standard": "L.4.5"
+    },
+    {
+      "id": "g4_v33_012",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "prompt": "What is the main idea of this passage about beavers?",
+      "options": [
+        "Beavers have very strong front teeth for cutting",
+        "Wolves and coyotes hunt near streams in the woods",
+        "Frogs and fish prefer to live in fast-moving water",
+        "Beaver dams create ponds that shelter many animals"
+      ],
+      "correct": 3,
+      "explain": "The passage traces what a dam does: it makes a pond, and that pond protects beavers and gives frogs, fish, and birds a place to live.",
+      "standard": "RI.4.2",
+      "passage": "Beavers are famous builders. Using their strong front teeth, they cut down small trees and drag the branches into a stream. The pile of branches slows the water until a pond forms behind it. The deep pond keeps beavers safe from animals that hunt them, and it also creates a wetland where frogs, fish, and birds come to live."
+    },
+    {
+      "id": "g4_v33_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "What can the reader tell about Dario from this paragraph?",
+      "options": [
+        "He almost forgot part of his project",
+        "He does not care about the science fair",
+        "He built the poster board this morning",
+        "He is waiting for the rain to stop"
+      ],
+      "correct": 0,
+      "explain": "He starts out the door with only the board, then stops and goes back for the folder. The reader can tell he nearly left it behind.",
+      "standard": "RL.4.1",
+      "passage": "Dario checked the clock for the third time. His science project sat by the door, the poster board wrapped in a garbage bag against the rain. Outside, a horn sounded. He grabbed the board with both hands, then stopped, set it down, and went back for the folder on the kitchen table."
+    },
+    {
+      "id": "g4_v33_014",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 4,
+      "prompt": "Which text structure does this passage about ice use?",
+      "options": [
+        "Comparison of two kinds of factories",
+        "Time order, from oldest to newest",
+        "A problem followed by its solution",
+        "Description of the parts of a machine"
+      ],
+      "correct": 1,
+      "explain": "The passage moves forward through time: two hundred years ago, then later, then by the 1930s. That is chronological order.",
+      "standard": "RI.4.5",
+      "passage": "Two hundred years ago, ice was cut from frozen lakes in winter and packed in sawdust so it would last through the summer. Later, factories learned to make ice with machines, and wagons delivered it all year. By the 1930s, electric refrigerators had reached many homes, and families froze their own ice in a small metal tray."
+    },
+    {
+      "id": "g4_v33_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "A hawk has sharp, curved claws called talons. How do talons help the hawk survive?",
+      "options": [
+        "They help the hawk see far away",
+        "They keep the hawk warm during cold nights",
+        "They grip and hold the prey it catches",
+        "They let the hawk float on warm air"
+      ],
+      "correct": 2,
+      "explain": "A hawk catches food with its feet. The curved talons close around what it grabs and keep it from slipping away.",
+      "standard": "4-LS1-1"
+    },
+    {
+      "id": "g4_v33_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 3,
+      "prompt": "A carpenter's saw blade feels hot after cutting through a thick board. What best explains the heat?",
+      "options": [
+        "The wood gives off stored sunlight",
+        "Friction turns motion energy into heat",
+        "The saw takes in heat from the carpenter",
+        "Metal makes heat whenever it is bent"
+      ],
+      "correct": 1,
+      "explain": "The blade and the wood drag against each other as the saw moves. That friction turns the energy of motion into heat energy.",
+      "standard": "4-PS3-2"
+    },
+    {
+      "id": "g4_v33_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Erosion",
+      "difficulty": 4,
+      "prompt": "Two identical hills of soil are watered the same way. One hill is bare and the other is covered with grass. Afterward the bare hill has deep grooves and the grassy hill has barely changed. What does this show?",
+      "options": [
+        "Plant roots slow down erosion",
+        "Grass makes soil hold more sand",
+        "Water runs faster over grass",
+        "Bare soil holds more water"
+      ],
+      "correct": 0,
+      "explain": "Everything about the two hills was the same except the grass. The bare hill washed away, so the grass and its roots must be what held the soil in place.",
+      "standard": "4-ESS2-1"
+    },
+    {
+      "id": "g4_v33_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "The Hudson River flows south past New York Harbor. Which larger body of water does it finally reach?",
+      "options": [
+        "The Great Lakes",
+        "The Gulf of Mexico",
+        "The Pacific Ocean",
+        "The Atlantic Ocean"
+      ],
+      "correct": 3,
+      "explain": "The Hudson runs south through eastern New York and empties at New York Harbor into the Atlantic Ocean, on the east coast.",
+      "standard": "NYS-SS-G4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Geography of New York State)"
+    },
+    {
+      "id": "g4_v33_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 3,
+      "prompt": "Apples grown on farms near Lake Ontario are trucked to markets in New York City. What is the farms' role in this?",
+      "options": [
+        "Consumers",
+        "Taxpayers",
+        "Producers",
+        "Volunteers"
+      ],
+      "correct": 2,
+      "explain": "A producer makes or grows a good. The farms grow the apples, so they are the producers; the shoppers who buy them are the consumers.",
+      "standard": "NYS-SS-G4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Economics)"
+    },
+    {
+      "id": "g4_v33_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "New York State Government",
+      "difficulty": 4,
+      "prompt": "New York's legislature has two houses, the Senate and the Assembly. Why must a bill pass both houses before the governor sees it?",
+      "options": [
+        "So two separate groups must agree on it",
+        "So the governor can write the bill first",
+        "So each county gets one law every year",
+        "So the courts can decide if it is fair"
+      ],
+      "correct": 0,
+      "explain": "Splitting the legislature in two means a bill has to convince two different sets of elected members. That check makes a hasty law harder to pass.",
+      "standard": "NYS-SS-G4",
+      "source": "New York State Constitution, Article III"
+    },
+    {
+      "id": "g5_v33_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which of these decimals has the greatest value?",
+      "options": [
+        "0.7",
+        "0.68",
+        "0.709",
+        "0.71"
+      ],
+      "correct": 3,
+      "explain": "Compare place by place. 0.71 is 71 hundredths; 0.709 is 70 hundredths and 9 thousandths, 0.7 is 70 hundredths, and 0.68 is 68. So 0.71 is the largest.",
+      "standard": "5.NBT.A.3.B"
+    },
+    {
+      "id": "g5_v33_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 3,
+      "prompt": "A recipe calls for 1/3 cup of oil and 1/4 cup of milk. How much liquid is that in all?",
+      "options": [
+        "2/7 cup",
+        "7/12 cup",
+        "2/12 cup",
+        "5/12 cup"
+      ],
+      "correct": 1,
+      "explain": "Rewrite both with a denominator of 12: 1/3 is 4/12 and 1/4 is 3/12. Adding gives 7/12 cup.",
+      "standard": "5.NF.A.1"
+    },
+    {
+      "id": "g5_v33_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 4,
+      "prompt": "What is the value of 6 x (14 - 9) + 12 / 4?",
+      "options": [
+        "78",
+        "42",
+        "33",
+        "10.5"
+      ],
+      "correct": 2,
+      "explain": "Do the parentheses first: 14 - 9 is 5. Then multiply and divide: 6 x 5 is 30 and 12 / 4 is 3. Last, add: 30 + 3 = 33.",
+      "standard": "5.OA.A.1"
+    },
+    {
+      "id": "g5_v33_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 5,
+      "prompt": "A storage box is 40 cm long, 25 cm wide, and 30 cm tall. Sand is poured in until it is 18 cm deep. What is the volume of the sand?",
+      "options": [
+        "18,000 cubic centimeters",
+        "30,000 cubic centimeters",
+        "1,800 cubic centimeters",
+        "12,000 cubic centimeters"
+      ],
+      "correct": 0,
+      "explain": "The sand fills a shorter box: 40 by 25 by 18. Multiply 40 x 25 to get 1,000, then 1,000 x 18 to get 18,000 cubic centimeters. The 30 cm height of the box is not used.",
+      "standard": "5.MD.C.5.B"
+    },
+    {
+      "id": "g5_v33_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "Read this sentence: When Ivan finally apologized, Mei told him to let bygones be bygones. What does let bygones be bygones mean?",
+      "options": [
+        "Say goodbye to an old friend",
+        "Forget about past quarrels",
+        "Repeat what happened before",
+        "Wait until a better time comes"
+      ],
+      "correct": 1,
+      "explain": "A bygone is something that has gone by. The saying asks a person to leave old arguments in the past instead of holding on to them.",
+      "standard": "L.5.5.B"
+    },
+    {
+      "id": "g5_v33_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Text Evidence",
+      "difficulty": 5,
+      "prompt": "An author writes: Our middle school should start classes an hour later. Sleep researchers report that students this age need nine hours of sleep, and the three schools in our county that moved to a later start saw fewer late arrivals. How does the author support the claim?",
+      "options": [
+        "With a personal story about one tired student",
+        "With a warning about what could go wrong",
+        "With a quotation from the principal",
+        "With research and results from other schools"
+      ],
+      "correct": 3,
+      "explain": "Two kinds of evidence appear: what sleep researchers report, and what actually happened at the three county schools that already made the change.",
+      "standard": "RI.5.8"
+    },
+    {
+      "id": "g5_v33_007",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 5,
+      "prompt": "What does Devi understand by the end of the story?",
+      "options": [
+        "Chess is too hard for young players",
+        "Family members should not compete with each other",
+        "Losing can teach what winning does not",
+        "An uncle should let a child win"
+      ],
+      "correct": 2,
+      "explain": "Devi loses again, yet for the first time she can name her own mistakes. The twenty losses gave her something a win would not have.",
+      "standard": "RL.5.2",
+      "passage": "Devi had lost the same chess match to her uncle nineteen times. On the twentieth try she did not attack at all. She simply moved her pieces the way her uncle always moved his, and watched what happened. Halfway through the game her uncle stopped humming. Devi did not win that day either, but walking home she found she could name every mistake she had made, and that had never been true before."
+    },
+    {
+      "id": "g5_v33_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Water Cycle",
+      "difficulty": 2,
+      "prompt": "Water leaves the ocean as vapor, forms clouds, falls as rain, and runs back to the ocean in rivers. What is this repeating process called?",
+      "options": [
+        "The water cycle",
+        "The rock cycle",
+        "The nitrogen cycle",
+        "Photosynthesis"
+      ],
+      "correct": 0,
+      "explain": "Water keeps moving between the ocean, the air, and the land along the same repeating path. Scientists call that path the water cycle.",
+      "standard": "5-ESS2-1"
+    },
+    {
+      "id": "g5_v33_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 3,
+      "prompt": "A flagpole's shadow is long in the early morning, shortest around noon, and long again in the evening. What causes this pattern?",
+      "options": [
+        "The flagpole leans a little as the day warms",
+        "Earth spins, changing where the Sun appears",
+        "The Sun moves closer to Earth at noon",
+        "Clouds block sunlight in the morning"
+      ],
+      "correct": 1,
+      "explain": "Earth spins once a day, so the Sun appears low in the morning, high at midday, and low again at evening. A low Sun casts a long shadow.",
+      "standard": "5-ESS1-2"
+    },
+    {
+      "id": "g5_v33_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 4,
+      "prompt": "The Constitution gives Congress the power to make laws and gives the President the power to veto a bill. What is the purpose of the veto power?",
+      "options": [
+        "It lets the President write new laws",
+        "It speeds up how quickly laws pass",
+        "It checks the power of Congress",
+        "It gives states a vote in Congress"
+      ],
+      "correct": 2,
+      "explain": "A veto lets one branch stop the other. It is part of the system of checks and balances that keeps any single branch from acting alone.",
+      "standard": "NYS-SS-G5",
+      "source": "United States Constitution, Article I, Section 7"
     }
   ]
 }
