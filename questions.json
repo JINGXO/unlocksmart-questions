@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "questions": [
     {
       "id": "prek_count_001",
@@ -100141,6 +100141,867 @@
       "explain": "A veto lets one branch stop the other. It is part of the system of checks and balances that keeps any single branch from acting alone.",
       "standard": "NYS-SS-G5",
       "source": "United States Constitution, Article I, Section 7"
+    },
+    {
+      "id": "g1_v34_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Priya had 9 marbles. Her cousin gave her 6 more. How many marbles does Priya have now?",
+      "options": [
+        "15",
+        "3",
+        "14",
+        "16"
+      ],
+      "correct": 0,
+      "explain": "Priya started with 9 and got 6 more, so add: 9 + 6 = 15. She has 15 marbles now.",
+      "standard": "1.OA.A.1"
+    },
+    {
+      "id": "g1_v34_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 14 - 8?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "22"
+      ],
+      "correct": 1,
+      "explain": "Take 8 away from 14. Break the 8 into 4 and 4: 14 - 4 = 10, then 10 - 4 = 6.",
+      "standard": "1.OA.C.6"
+    },
+    {
+      "id": "g1_v34_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value to 120",
+      "difficulty": 2,
+      "prompt": "Starting at 116, what number comes next when you count on?",
+      "options": [
+        "115",
+        "118",
+        "117",
+        "161"
+      ],
+      "correct": 2,
+      "explain": "Counting on means one more each time. One more than 116 is 117.",
+      "standard": "1.NBT.A.1"
+    },
+    {
+      "id": "g1_v34_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 3,
+      "prompt": "Sam has 6 crayons. He needs 14 crayons in all. How many more does he need?",
+      "options": [
+        "20",
+        "7",
+        "9",
+        "8"
+      ],
+      "correct": 3,
+      "explain": "Count up from 6 to 14 and you take 8 steps. Check it: 6 + 8 = 14, so Sam needs 8 more crayons.",
+      "standard": "1.OA.D.8"
+    },
+    {
+      "id": "g1_v34_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtracting Multiples of Ten",
+      "difficulty": 3,
+      "prompt": "What is 70 - 40?",
+      "options": [
+        "30",
+        "3",
+        "110",
+        "20"
+      ],
+      "correct": 0,
+      "explain": "70 is 7 tens and 40 is 4 tens. Take 4 tens from 7 tens and 3 tens are left, which is 30.",
+      "standard": "1.NBT.C.6"
+    },
+    {
+      "id": "g1_v34_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Measurement Comparison",
+      "difficulty": 4,
+      "prompt": "A ribbon is shorter than a rope. The rope is shorter than a scarf. Which one is longest?",
+      "options": [
+        "The rope",
+        "The scarf",
+        "The ribbon",
+        "They are the same"
+      ],
+      "correct": 1,
+      "explain": "The rope beats the ribbon, and the scarf beats the rope. So the scarf is longer than both.",
+      "standard": "1.MD.A.1"
+    },
+    {
+      "id": "g1_v34_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Telling Time to the Half-Hour",
+      "difficulty": 4,
+      "prompt": "A class trip leaves at 11:30 and the ride takes 30 minutes. What time do they arrive?",
+      "options": [
+        "11:60",
+        "12:30",
+        "12:00",
+        "11:00"
+      ],
+      "correct": 2,
+      "explain": "Thirty minutes after 11:30 is the next hour. Sixty minutes make an hour, so the clock reads 12:00, not 11:60.",
+      "standard": "1.MD.B.3"
+    },
+    {
+      "id": "g1_v34_008",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "What did Tomas pack for art class?",
+      "options": [
+        "His lunch",
+        "A reading book",
+        "A new backpack",
+        "A jar of paint"
+      ],
+      "correct": 3,
+      "explain": "The passage lists what went into the backpack and says the jar of paint was for art class.",
+      "standard": "RL.1.1",
+      "passage": "Tomas packed his backpack for school. He put in his lunch, his reading book, and a jar of paint for art class. On the bus he held the bag flat on his knees."
+    },
+    {
+      "id": "g1_v34_009",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Character Feelings",
+      "difficulty": 3,
+      "prompt": "How does Rosa most likely feel at the end?",
+      "options": [
+        "Disappointed",
+        "Very excited",
+        "Surprised",
+        "Thankful"
+      ],
+      "correct": 0,
+      "explain": "Rosa waited all week, then the trip did not happen. Sitting alone watching puddles shows she feels let down.",
+      "standard": "RL.1.3",
+      "passage": "Rosa waited all week for the school trip. On Friday morning it rained hard. The bus did not come. Rosa sat by the window and watched the puddles grow."
+    },
+    {
+      "id": "g1_v34_010",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 2,
+      "prompt": "What is this whole passage mostly about?",
+      "options": [
+        "How caves are made",
+        "How bats live",
+        "Why bugs fly at night",
+        "How birds build nests"
+      ],
+      "correct": 1,
+      "explain": "Every sentence tells something about bats: when they sleep, where they hang, and what they eat.",
+      "standard": "RI.1.2",
+      "passage": "Bats sleep during the day. They hang upside down in caves. At night bats fly out to catch bugs. A bat can eat hundreds of bugs in one night."
+    },
+    {
+      "id": "g1_v34_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Long Vowel Patterns",
+      "difficulty": 2,
+      "prompt": "Which word has the same long a sound as 'rain'?",
+      "options": [
+        "ran",
+        "rock",
+        "tray",
+        "trap"
+      ],
+      "correct": 2,
+      "explain": "The ai in rain and the ay in tray both spell the long a sound. Ran and trap have short a, and rock has short o.",
+      "standard": "RF.1.3.C"
+    },
+    {
+      "id": "g1_v34_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Plural Nouns",
+      "difficulty": 2,
+      "prompt": "Which sentence about the cats is written correctly?",
+      "options": [
+        "The two cats sleeps on the mat.",
+        "The two cat sleep on the mat.",
+        "The two cats is sleeping.",
+        "The two cats sleep on the mat."
+      ],
+      "correct": 3,
+      "explain": "Two cats is more than one, so the naming word is cats and the action word is sleep, with no s on the end.",
+      "standard": "L.1.1.C"
+    },
+    {
+      "id": "g1_v34_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 3,
+      "prompt": "Which word shows looking at something for a long, careful time?",
+      "options": [
+        "stare",
+        "glance",
+        "peek",
+        "blink"
+      ],
+      "correct": 0,
+      "explain": "To stare is to keep looking. A glance and a peek are both quick looks, and a blink shuts your eyes.",
+      "standard": "L.1.5.D"
+    },
+    {
+      "id": "g1_v34_014",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Capitalization",
+      "difficulty": 3,
+      "prompt": "Which sentence is capitalized correctly?",
+      "options": [
+        "we visit Grandma in April.",
+        "We visit Grandma in April.",
+        "We visit grandma in april.",
+        "We Visit Grandma in April."
+      ],
+      "correct": 1,
+      "explain": "A sentence starts with a capital, Grandma is used as her name, and April is a month. Visit is none of those.",
+      "standard": "L.1.2.A"
+    },
+    {
+      "id": "g1_v34_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light and Shadows",
+      "difficulty": 2,
+      "prompt": "You shine a flashlight at a solid wooden block. What happens to the light?",
+      "options": [
+        "It passes right through the block",
+        "It makes the block see-through",
+        "It is blocked and makes a shadow",
+        "It bends around the block"
+      ],
+      "correct": 2,
+      "explain": "Wood is solid, so light cannot go through it. The light stops at the block and leaves a dark shadow behind it.",
+      "standard": "1-PS4-3"
+    },
+    {
+      "id": "g1_v34_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Inherited Traits",
+      "difficulty": 3,
+      "prompt": "Kittens in one litter have different fur colors from each other. What best explains this?",
+      "options": [
+        "Kittens all turn the same color later on",
+        "Kittens pick the fur color that they like",
+        "Only the biggest kitten keeps its color",
+        "Traits vary a little among young animals"
+      ],
+      "correct": 3,
+      "explain": "Young animals are like their parents, but not exactly like them. Brothers and sisters can differ a little too.",
+      "standard": "1-LS3-1"
+    },
+    {
+      "id": "g1_v34_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 3,
+      "prompt": "A class watches the sky every day for a month. What pattern will they see?",
+      "options": [
+        "The sun rises in the east each day",
+        "The sun rises in the west each day",
+        "The sun sets in the east each day",
+        "The sun stays in the same place all day"
+      ],
+      "correct": 0,
+      "explain": "Day after day the sun comes up on the east side of the sky and goes down on the west side. That pattern repeats.",
+      "standard": "1-ESS1-1"
+    },
+    {
+      "id": "g1_v34_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "What is a good reason for a school to have a fire drill?",
+      "options": [
+        "To let the class skip a lesson",
+        "To practice getting out safely",
+        "To test the school bell sound",
+        "To see who can run fastest"
+      ],
+      "correct": 1,
+      "explain": "A drill is practice. Walking the route while everything is calm means the whole school knows the way out.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v34_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs and Wants",
+      "difficulty": 2,
+      "prompt": "Ana's family lists what they must have and what they would like. Which one is a need?",
+      "options": [
+        "A pair of movie tickets",
+        "A new bike for the park",
+        "A warm coat in winter",
+        "A big box of stickers"
+      ],
+      "correct": 2,
+      "explain": "A need keeps you safe and healthy. In cold weather a warm coat does that. Tickets, bikes, and stickers are wants.",
+      "standard": "NYS-SS-G1"
+    },
+    {
+      "id": "g1_v34_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps and Globes",
+      "difficulty": 3,
+      "prompt": "On a map, the compass rose shows north at the top. Which direction is at the bottom?",
+      "options": [
+        "North",
+        "East",
+        "West",
+        "South"
+      ],
+      "correct": 3,
+      "explain": "North and south are opposites. If north points to the top of the map, then south points to the bottom.",
+      "standard": "NYS-SS-G1",
+      "closedSet": true
+    },
+    {
+      "id": "g4_v34_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which decimal has the same value as 43/100?",
+      "options": [
+        "0.43",
+        "0.043",
+        "4.3",
+        "43.0"
+      ],
+      "correct": 0,
+      "explain": "The second place after the decimal point is hundredths, so 43 hundredths is written 0.43. 0.043 would be 43 thousandths.",
+      "standard": "4.NF.C.6"
+    },
+    {
+      "id": "g4_v34_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 3,
+      "prompt": "Which of these fractions is greater than one half?",
+      "options": [
+        "3/8",
+        "5/8",
+        "2/5",
+        "4/9"
+      ],
+      "correct": 1,
+      "explain": "Half of 8 is 4, so 5/8 is past a half. Half of 5 is 2.5 and half of 9 is 4.5, so 2/5 and 4/9 fall short, and 3/8 is under 4/8.",
+      "standard": "4.NF.A.2"
+    },
+    {
+      "id": "g4_v34_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A teacher packs 94 markers into boxes of 8. How many boxes are completely full?",
+      "options": [
+        "12",
+        "10",
+        "11",
+        "6"
+      ],
+      "correct": 2,
+      "explain": "94 divided by 8 is 11 with 6 left over. Those 6 markers do not fill a box, so only 11 boxes are full.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v34_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 3,
+      "prompt": "What is 27 x 40?",
+      "options": [
+        "108",
+        "1,880",
+        "880",
+        "1,080"
+      ],
+      "correct": 3,
+      "explain": "Multiply 27 by 4 to get 108, then multiply by 10 to get 1,080 because 40 is 4 tens.",
+      "standard": "4.NBT.B.5"
+    },
+    {
+      "id": "g4_v34_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplying Fractions by Whole Numbers",
+      "difficulty": 4,
+      "prompt": "A glass holds 3/4 cup of juice. How much juice is in 6 glasses?",
+      "options": [
+        "4 1/2 cups",
+        "18/24 cups",
+        "6 3/4 cups",
+        "2 1/4 cups"
+      ],
+      "correct": 0,
+      "explain": "Six groups of 3/4 make 18/4 cups. Four fourths make one cup, so 18/4 is 4 whole cups with 2/4 left, which is 4 1/2 cups.",
+      "standard": "4.NF.B.4.C"
+    },
+    {
+      "id": "g4_v34_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Decimals",
+      "difficulty": 4,
+      "prompt": "Ana ran 2.4 km, Ben ran 2.04 km, Cara ran 2.14 km, and Dev ran 2.09 km. Who ran the farthest?",
+      "options": [
+        "Ben",
+        "Ana",
+        "Cara",
+        "Dev"
+      ],
+      "correct": 1,
+      "explain": "Line up the place values. 2.4 is 2.40, which is 40 hundredths past 2. Cara has 14, Dev has 9, and Ben has 4. So Ana ran the farthest.",
+      "standard": "4.NF.C.7"
+    },
+    {
+      "id": "g4_v34_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A school orders 12 cases of water. Each case has 24 bottles. Students drink 187 bottles. How many bottles are left?",
+      "options": [
+        "111",
+        "475",
+        "101",
+        "88"
+      ],
+      "correct": 2,
+      "explain": "First find the total: 12 x 24 = 288 bottles. Then subtract what was drunk: 288 - 187 = 101 bottles left.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v34_008",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measuring Angles",
+      "difficulty": 4,
+      "prompt": "Two angles fit together to form a right angle. One measures 28 degrees. What does the other measure?",
+      "options": [
+        "72 degrees",
+        "152 degrees",
+        "28 degrees",
+        "62 degrees"
+      ],
+      "correct": 3,
+      "explain": "A right angle measures 90 degrees. The two parts add to 90, so the second one is 90 - 28 = 62 degrees.",
+      "standard": "4.MD.C.7"
+    },
+    {
+      "id": "g4_v34_009",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 3,
+      "prompt": "Which detail best shows that Marisol did not give up?",
+      "options": [
+        "She started rewriting the flyer",
+        "She counted the empty chairs",
+        "The gym smelled like fresh paint",
+        "She had told twenty-two people"
+      ],
+      "correct": 0,
+      "explain": "Counting chairs and smelling paint only set the scene. Reworking the flyer after nobody came is the action that shows she kept going.",
+      "standard": "RL.4.1",
+      "passage": "The gym smelled like fresh paint. Marisol set her bag down and counted the empty chairs: twenty-two. She had told twenty-two people about the meeting. Nobody had come. She pulled out her notebook and started rewriting the flyer."
+    },
+    {
+      "id": "g4_v34_010",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "How does the writer organize this passage?",
+      "options": [
+        "As a problem and a solution",
+        "As a sequence of steps",
+        "As a compare and contrast",
+        "As a list of causes only"
+      ],
+      "correct": 1,
+      "explain": "The words First, Next, and Finally walk the reader through one stage at a time, in order.",
+      "standard": "RI.4.5",
+      "passage": "Fog forms in three steps. First, warm air picks up water vapor from a lake or a river. Next, the air cools as night falls. Finally, the vapor turns back into tiny drops that hang in the air, and the fog appears."
+    },
+    {
+      "id": "g4_v34_011",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "What can you conclude about the crew's work?",
+      "options": [
+        "It made the tree grow faster",
+        "It stopped the road from opening",
+        "It kept the tree healthy",
+        "It replaced the tree with a new one"
+      ],
+      "correct": 2,
+      "explain": "The crew wrapped the trunk and fenced the roots, and by October the oak dropped acorns the same as always. Trucks still used the new road.",
+      "standard": "RI.4.1",
+      "passage": "The park's oak had stood for ninety years. In March the crew wrapped its trunk in burlap and set a low fence around the roots. All summer, trucks rumbled past on the new road. In October the oak dropped acorns, the same as always."
+    },
+    {
+      "id": "g4_v34_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 2,
+      "prompt": "The root 'rupt' means to break. What does the word 'interrupt' most likely mean?",
+      "options": [
+        "To finish something early",
+        "To repeat something twice",
+        "To agree with someone",
+        "To break into something"
+      ],
+      "correct": 3,
+      "explain": "Inter- means between and rupt means break, so to interrupt is to break in on something already going on.",
+      "standard": "L.4.4.B"
+    },
+    {
+      "id": "g4_v34_013",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Relative Pronouns and Adverbs",
+      "difficulty": 3,
+      "prompt": "Which word belongs in the blank? 'The park ___ we first met is closed for repairs.'",
+      "options": [
+        "where",
+        "who",
+        "whom",
+        "whose"
+      ],
+      "correct": 0,
+      "explain": "The blank points back to a place, the park, so the relative adverb where fits. Who, whom, and whose all point to people.",
+      "standard": "L.4.1.A"
+    },
+    {
+      "id": "g4_v34_014",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Context Clues",
+      "difficulty": 3,
+      "prompt": "Read this sentence: 'The hikers found the trail arduous, so they stopped often to rest their legs.' What does 'arduous' mean?",
+      "options": [
+        "Very short",
+        "Very hard",
+        "Very muddy",
+        "Easy to find"
+      ],
+      "correct": 1,
+      "explain": "Stopping often to rest their legs is the clue. A trail that tires you out that much is a hard one.",
+      "standard": "L.4.4.A"
+    },
+    {
+      "id": "g4_v34_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 3,
+      "prompt": "A metal spoon is left in a bowl of hot soup. Why does the spoon handle get warm?",
+      "options": [
+        "The metal makes its own heat",
+        "The spoon soaks up the soup",
+        "Heat moves through the metal",
+        "Air pushes the heat upward"
+      ],
+      "correct": 2,
+      "explain": "Metal conducts well. Energy from the hot soup travels along the spoon until the handle is warm too.",
+      "standard": "NGSS-4-PS3-2"
+    },
+    {
+      "id": "g4_v34_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Weathering",
+      "difficulty": 4,
+      "prompt": "Water freezes in a crack in a rock and the crack grows wider each winter. What is this an example of?",
+      "options": [
+        "Deposition",
+        "Condensation",
+        "Evaporation",
+        "Weathering"
+      ],
+      "correct": 3,
+      "explain": "Water expands as it freezes and pushes the crack open, breaking the rock apart in place. That breaking down is weathering.",
+      "standard": "NGSS-4-ESS2-1"
+    },
+    {
+      "id": "g4_v34_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "How do the sharp quills on a porcupine help it survive?",
+      "options": [
+        "They keep predators away",
+        "They help it climb tall trees",
+        "They help it find food faster",
+        "They let it swim in cold water"
+      ],
+      "correct": 0,
+      "explain": "Quills are a defense structure. A predator that gets close is jabbed and backs off, so the porcupine escapes.",
+      "standard": "NGSS-4-LS1-1"
+    },
+    {
+      "id": "g4_v34_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "The Hudson River flows south past New York City and empties into what body of water?",
+      "options": [
+        "The Great Lakes",
+        "The Atlantic Ocean",
+        "The Gulf of Mexico",
+        "The Pacific Ocean"
+      ],
+      "correct": 1,
+      "explain": "The Hudson runs from the Adirondacks south to New York Harbor, where it meets the Atlantic Ocean.",
+      "standard": "NYS-SS-4",
+      "source": "U.S. Geological Survey, Hudson River Basin"
+    },
+    {
+      "id": "g4_v34_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 2,
+      "prompt": "Which of these is a natural resource that farms in New York State depend on?",
+      "options": [
+        "Paper money",
+        "Farm tractors",
+        "Fertile soil",
+        "Store shelves"
+      ],
+      "correct": 2,
+      "explain": "A natural resource comes from the earth itself. Soil is one. Money, tractors, and shelves are all made by people.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g4_v34_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 3,
+      "prompt": "Which group of Native people lived in longhouses in what is now New York State?",
+      "options": [
+        "The Inuit of the Arctic",
+        "The Navajo of the Southwest",
+        "The Cherokee of the Southeast",
+        "The Haudenosaunee"
+      ],
+      "correct": 3,
+      "explain": "The Haudenosaunee, also called the Iroquois, built long bark-covered houses that many related families shared.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4"
+    },
+    {
+      "id": "g5_v34_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 2,
+      "prompt": "What is 0.6 + 0.35?",
+      "options": [
+        "0.95",
+        "0.41",
+        "9.5",
+        "0.905"
+      ],
+      "correct": 0,
+      "explain": "Write 0.6 as 0.60 so both have hundredths. Then 60 hundredths plus 35 hundredths is 95 hundredths, or 0.95.",
+      "standard": "5.NBT.B.7"
+    },
+    {
+      "id": "g5_v34_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 3,
+      "prompt": "What is 3 + 4 x (10 - 6)?",
+      "options": [
+        "28",
+        "19",
+        "37",
+        "16"
+      ],
+      "correct": 1,
+      "explain": "Do the parentheses first: 10 - 6 = 4. Then multiply before adding: 4 x 4 = 16, and 3 + 16 = 19.",
+      "standard": "5.OA.A.1"
+    },
+    {
+      "id": "g5_v34_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 4,
+      "prompt": "Three friends share 1/2 of a pizza equally. What fraction of the whole pizza does each friend get?",
+      "options": [
+        "1/3",
+        "3/2",
+        "1/6",
+        "1/5"
+      ],
+      "correct": 2,
+      "explain": "Splitting one half into 3 equal shares makes sixths, because 6 of those shares fill the whole pizza. Each friend gets 1/6.",
+      "standard": "5.NF.B.7.A"
+    },
+    {
+      "id": "g5_v34_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 5,
+      "prompt": "A box holds 240 cubic centimeters. Its base is 8 cm by 5 cm. How tall is the box?",
+      "options": [
+        "40 cm",
+        "30 cm",
+        "48 cm",
+        "6 cm"
+      ],
+      "correct": 3,
+      "explain": "Volume is length x width x height. The base covers 8 x 5 = 40 square cm, so the height is 240 divided by 40, which is 6 cm.",
+      "standard": "5.MD.C.5.B"
+    },
+    {
+      "id": "g5_v34_005",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "prompt": "What does Nadia's behavior backstage suggest?",
+      "options": [
+        "She was nervous but prepared",
+        "She had forgotten the music",
+        "She did not want to perform",
+        "She was bored by the waiting"
+      ],
+      "correct": 0,
+      "explain": "Checking the reed three times points to nerves, while forty practices and the smile as she walks out point to being ready.",
+      "standard": "RL.5.1",
+      "passage": "Nadia had practiced the solo forty times. Backstage, she checked the reed on her clarinet twice, then a third time. When the stage manager waved her on, she wiped her palms down the sides of her dress and walked out smiling."
+    },
+    {
+      "id": "g5_v34_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "Read this line: 'The old furnace groaned and complained all winter.' What does this line do?",
+      "options": [
+        "It compares the furnace to a person using like",
+        "It gives the furnace human traits",
+        "It states a plain fact about the furnace",
+        "It exaggerates to make a joke"
+      ],
+      "correct": 1,
+      "explain": "Groaning and complaining are things people do. Giving those actions to an object is personification, and no comparison word such as like appears.",
+      "standard": "L.5.5.A"
+    },
+    {
+      "id": "g5_v34_007",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Roots and Affixes",
+      "difficulty": 2,
+      "prompt": "The root 'spect' means to look. Which word means a person who looks on at an event?",
+      "options": [
+        "Inspector",
+        "Spectacles",
+        "Spectator",
+        "Respect"
+      ],
+      "correct": 2,
+      "explain": "Spectator joins spect with -ator, the ending for a person who does something. An inspector examines things and spectacles are eyeglasses.",
+      "standard": "L.5.4.B"
+    },
+    {
+      "id": "g5_v34_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Ecosystems",
+      "difficulty": 4,
+      "prompt": "In a pond food web, what would most likely happen if all the algae died?",
+      "options": [
+        "The pond would gain more oxygen fast",
+        "The herons would grow in number",
+        "The water would turn colder quickly",
+        "The small fish would lose their food"
+      ],
+      "correct": 3,
+      "explain": "Algae are the producers that start this food web. Without them the small fish that graze on algae lose their food source, and the herons that eat those fish lose theirs.",
+      "standard": "NGSS-5-LS2-1"
+    },
+    {
+      "id": "g5_v34_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Conservation of Matter",
+      "difficulty": 5,
+      "prompt": "A sealed jar holds 50 grams of vinegar and baking soda. They fizz and make a gas. What do the contents weigh now?",
+      "options": [
+        "50 grams",
+        "Less than 50 grams",
+        "More than 50 grams",
+        "It cannot be measured"
+      ],
+      "correct": 0,
+      "explain": "The fizzing makes a gas, but the jar is sealed so nothing escapes. Matter is not created or destroyed, so the contents still weigh 50 grams.",
+      "standard": "NGSS-5-PS1-2"
+    },
+    {
+      "id": "g5_v34_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Bill of Rights",
+      "difficulty": 4,
+      "prompt": "Why did the writers of the Constitution add a Bill of Rights?",
+      "options": [
+        "To set the number of states allowed",
+        "To protect freedoms from government",
+        "To choose the nation's first president",
+        "To end all taxes on the colonies"
+      ],
+      "correct": 1,
+      "explain": "Several states would only ratify the Constitution if named freedoms such as speech, religion, and a fair trial were written down as limits on federal power.",
+      "standard": "NYS-SS-5"
     }
   ]
 }
