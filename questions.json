@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "questions": [
     {
       "id": "prek_count_001",
@@ -101002,6 +101002,874 @@
       "correct": 1,
       "explain": "Several states would only ratify the Constitution if named freedoms such as speech, religion, and a fair trial were written down as limits on federal power.",
       "standard": "NYS-SS-5"
+    },
+    {
+      "id": "g1_v35_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 2,
+      "prompt": "8 + ___ = 14",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "22"
+      ],
+      "correct": 0,
+      "standard": "1.OA.D.8",
+      "explain": "14 − 8 = 6, so 8 + 6 = 14."
+    },
+    {
+      "id": "g1_v35_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 3,
+      "prompt": "56 + 27 = ?",
+      "options": [
+        "83",
+        "73",
+        "84",
+        "713"
+      ],
+      "correct": 0,
+      "standard": "1.NBT.C.4",
+      "explain": "6 + 7 = 13, so write the 3 and carry one ten. 5 tens + 2 tens + 1 ten = 8 tens. The sum is 83."
+    },
+    {
+      "id": "g1_v35_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Ten More and Ten Less",
+      "difficulty": 2,
+      "prompt": "What number is 10 more than 78?",
+      "options": [
+        "79",
+        "68",
+        "88",
+        "178"
+      ],
+      "correct": 2,
+      "standard": "1.NBT.C.5",
+      "explain": "Adding 10 changes only the tens digit: 7 tens becomes 8 tens, so 78 + 10 = 88."
+    },
+    {
+      "id": "g1_v35_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Maya has 15 stickers. She gives 7 stickers to a friend. How many stickers does Maya have left?",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "22"
+      ],
+      "correct": 2,
+      "standard": "1.OA.A.1",
+      "explain": "15 − 7 = 8 stickers left."
+    },
+    {
+      "id": "g1_v35_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 3,
+      "prompt": "A class chart shows 6 children chose apples, 4 chose pears, and 9 chose grapes. How many more children chose grapes than pears?",
+      "options": [
+        "3",
+        "5",
+        "13",
+        "19"
+      ],
+      "correct": 1,
+      "standard": "1.MD.C.4",
+      "explain": "9 children chose grapes and 4 chose pears. 9 − 4 = 5 more children."
+    },
+    {
+      "id": "g1_v35_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "There were 12 books on a shelf. Mr. Lee put 6 more books on it. Then 5 books were borrowed. How many books are on the shelf now?",
+      "options": [
+        "7",
+        "13",
+        "18",
+        "23"
+      ],
+      "correct": 1,
+      "standard": "1.OA.A.1",
+      "explain": "12 + 6 = 18 books. Then 18 − 5 = 13 books are on the shelf."
+    },
+    {
+      "id": "g1_v35_007",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Mr. Diaz gave each child a paper cup and one bean seed. Ivy pushed her seed down into the soil. She set her cup on the sunny windowsill. Every morning she gave it a little water.",
+      "prompt": "Where did Ivy put her cup?",
+      "options": [
+        "under her desk",
+        "in the closet by the door",
+        "on the windowsill",
+        "in the sink"
+      ],
+      "correct": 2,
+      "standard": "RL.1.1",
+      "explain": "The passage says Ivy set her cup on the sunny windowsill."
+    },
+    {
+      "id": "g1_v35_008",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Ants live together in a nest. A worker ant leaves the nest to look for food. When it finds a crumb, it carries the crumb home. Other ants follow its trail to the same food.",
+      "prompt": "Which sentence tells the main topic of the passage?",
+      "options": [
+        "Ants build their nests out of sand.",
+        "Ants can walk much faster than beetles can.",
+        "A crumb of bread is very heavy.",
+        "Worker ants find food and bring it home."
+      ],
+      "correct": 3,
+      "standard": "RI.1.2",
+      "explain": "Every sentence tells what a worker ant does to find food and bring it back to the nest."
+    },
+    {
+      "id": "g1_v35_009",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Compare and Contrast Characters",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Rosa and Ben both saw the big dog by the gate. Rosa stepped back and held her mother's hand. Ben smiled, walked closer, and asked if he could pet the dog.",
+      "prompt": "How were Rosa and Ben different when they saw the dog?",
+      "options": [
+        "Both children ran away fast.",
+        "Ben was afraid and Rosa was not.",
+        "Rosa was afraid and Ben was not.",
+        "Neither child noticed the dog."
+      ],
+      "correct": 2,
+      "standard": "RL.1.3",
+      "explain": "Rosa stepped back and held her mother's hand, but Ben smiled and walked closer to the dog."
+    },
+    {
+      "id": "g1_v35_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Possessives",
+      "difficulty": 2,
+      "prompt": "Which sentence shows that the book belongs to Sam?",
+      "options": [
+        "Sams book is red.",
+        "Sam's book is red.",
+        "Sam book's is red.",
+        "Sams' book is red."
+      ],
+      "correct": 1,
+      "standard": "L.1.1.B",
+      "explain": "An apostrophe and an s at the end of Sam show that the book belongs to Sam."
+    },
+    {
+      "id": "g1_v35_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Prefixes",
+      "difficulty": 2,
+      "prompt": "What does the word retell mean?",
+      "options": [
+        "tell first",
+        "not tell",
+        "tell again",
+        "tell quietly"
+      ],
+      "correct": 2,
+      "standard": "L.1.4.B",
+      "explain": "The prefix re- means 'again,' so retell means to tell something again."
+    },
+    {
+      "id": "g1_v35_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 3,
+      "prompt": "Which word shows the strongest feeling?",
+      "options": [
+        "annoyed",
+        "bothered",
+        "grumpy",
+        "furious"
+      ],
+      "correct": 3,
+      "standard": "L.1.5.D",
+      "explain": "Annoyed, bothered, and grumpy all mean a little angry. Furious means very, very angry."
+    },
+    {
+      "id": "g1_v35_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Capitalization",
+      "difficulty": 2,
+      "prompt": "Which sentence is written with the correct capital letters?",
+      "options": [
+        "on friday i read a book to nina.",
+        "On friday i read a book to Nina.",
+        "On Friday i read a book to nina.",
+        "On Friday I read a book to Nina."
+      ],
+      "correct": 3,
+      "standard": "L.1.2.A",
+      "explain": "A sentence begins with a capital letter. The day Friday, the name Nina, and the word I are always capitalized."
+    },
+    {
+      "id": "g1_v35_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "A cactus has a thick stem that holds water. How does this help the cactus?",
+      "options": [
+        "It keeps birds from landing on it.",
+        "It helps the cactus grow flowers fast.",
+        "It stores water for dry days.",
+        "It makes the desert soil colder."
+      ],
+      "correct": 2,
+      "standard": "1-LS1-1",
+      "explain": "A cactus lives where rain is rare. Its thick stem stores water so the plant can live between rains."
+    },
+    {
+      "id": "g1_v35_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Seasons and Sunlight",
+      "difficulty": 3,
+      "prompt": "In which season do we have the most hours of daylight?",
+      "options": [
+        "Winter",
+        "Spring",
+        "Fall",
+        "Summer"
+      ],
+      "correct": 3,
+      "standard": "1-ESS1-2",
+      "explain": "Days are longest in summer and shortest in winter. Spring and fall are in between.",
+      "closedSet": true
+    },
+    {
+      "id": "g1_v35_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 4,
+      "prompt": "Kim sits in a room with no light at all. She holds a red ball right in front of her eyes. What will Kim see?",
+      "options": [
+        "a red ball",
+        "nothing at all",
+        "a gray ball",
+        "a dark red ball"
+      ],
+      "correct": 1,
+      "standard": "1-PS4-2",
+      "explain": "We can see an object only when light bounces off it into our eyes. With no light in the room, Kim sees nothing."
+    },
+    {
+      "id": "g1_v35_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps and Globes",
+      "difficulty": 2,
+      "prompt": "On a map, what does the map key show?",
+      "options": [
+        "how far apart places are",
+        "which way is north",
+        "how many people live there",
+        "what the symbols mean"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-G1",
+      "explain": "A map key lists each symbol on the map and tells what it stands for. A compass rose shows direction and a scale bar shows distance."
+    },
+    {
+      "id": "g1_v35_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 3,
+      "prompt": "A service is work that someone does for other people. Which of these is a service?",
+      "options": [
+        "cutting hair",
+        "a loaf of bread",
+        "a pair of shoes",
+        "a box of crayons"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-G1",
+      "explain": "Bread, shoes, and crayons are goods — things you can hold. Cutting hair is work a person does for someone else, so it is a service."
+    },
+    {
+      "id": "g1_v35_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs vs. Wants",
+      "difficulty": 2,
+      "prompt": "Which of these is a need, not a want?",
+      "options": [
+        "a video game",
+        "clean water",
+        "a toy robot",
+        "a candy bar"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "People must have clean water to stay alive. Games, toys, and candy are things we would like but can live without."
+    },
+    {
+      "id": "g1_v35_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "US Symbols",
+      "difficulty": 3,
+      "prompt": "What do the 50 stars on the United States flag stand for?",
+      "options": [
+        "the first 50 colonies",
+        "the 50 states",
+        "the 50 largest cities",
+        "the first 50 presidents"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "The flag has one star for each of the 50 states. The 13 stripes stand for the first 13 colonies."
+    },
+    {
+      "id": "g4_v35_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Equivalent Fractions",
+      "difficulty": 2,
+      "prompt": "How many eighths are equal to 3/4?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 1,
+      "standard": "4.NF.A.1",
+      "explain": "3/4 = 6/8 because 3 × 2 = 6 and 4 × 2 = 8. Six eighths cover the same amount as three fourths."
+    },
+    {
+      "id": "g4_v35_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding Fractions",
+      "difficulty": 3,
+      "prompt": "Leo ran 3/10 of a mile before school and 4/10 of a mile after school. How far did he run in all?",
+      "options": [
+        "7/10 of a mile",
+        "7/20 of a mile",
+        "1/10 of a mile",
+        "7/100 of a mile"
+      ],
+      "correct": 0,
+      "standard": "4.NF.B.3",
+      "explain": "The denominators match, so add only the numerators: 3 + 4 = 7. Leo ran 7/10 of a mile."
+    },
+    {
+      "id": "g4_v35_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A school has 247 chairs to set out in rows of 8. How many full rows can the school make, and how many chairs are left over?",
+      "options": [
+        "29 rows, 7 left over",
+        "30 rows, 1 left over",
+        "31 rows, 1 left over",
+        "30 rows, 7 left over"
+      ],
+      "correct": 3,
+      "standard": "4.NBT.B.6",
+      "explain": "8 × 30 = 240, and 247 − 240 = 7. The school fills 30 rows and has 7 chairs left over."
+    },
+    {
+      "id": "g4_v35_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 4,
+      "prompt": "What is 46 × 37?",
+      "options": [
+        "1,702",
+        "1,282",
+        "1,602",
+        "1,742"
+      ],
+      "correct": 0,
+      "standard": "4.NBT.B.5",
+      "explain": "46 × 37 = (46 × 30) + (46 × 7) = 1,380 + 322 = 1,702."
+    },
+    {
+      "id": "g4_v35_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "A pencil weighs 3/25 of an ounce. Which decimal shows that weight?",
+      "options": [
+        "0.325",
+        "3.25",
+        "0.12",
+        "0.03"
+      ],
+      "correct": 2,
+      "standard": "4.NF.C.6",
+      "explain": "25 × 4 = 100, so 3/25 = 12/100, which is written 0.12 ounce."
+    },
+    {
+      "id": "g4_v35_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A theater sold 348 tickets on Friday and 3 times as many on Saturday. How many tickets did the theater sell in all?",
+      "options": [
+        "1,044",
+        "1,392",
+        "1,740",
+        "696"
+      ],
+      "correct": 1,
+      "standard": "4.OA.A.3",
+      "explain": "Saturday: 348 × 3 = 1,044 tickets. In all: 348 + 1,044 = 1,392 tickets."
+    },
+    {
+      "id": "g4_v35_007",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Honeybee colonies have shrunk across North America in recent decades. Scientists point to several causes working together: mites that weaken bees, pesticides sprayed on crops, and the loss of wildflower meadows that once fed hives. Because bees pollinate about a third of the food people eat, farmers now rent hives and truck them from field to field during flowering season.",
+      "prompt": "Which sentence best states the main idea of the passage?",
+      "options": [
+        "Mites are the only serious threat that honeybee colonies face today.",
+        "Trucks are the safest way to move honeybee hives between farms.",
+        "Several causes are shrinking bee colonies, and farming has adapted.",
+        "Wildflower meadows grow back quickly once pesticide spraying stops."
+      ],
+      "correct": 2,
+      "standard": "RI.4.2",
+      "explain": "The passage lists mites, pesticides, and lost meadows as causes of the decline, then describes how farmers responded by renting and trucking hives."
+    },
+    {
+      "id": "g4_v35_008",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Ellis had asked for pancakes the night before, and Dad made them. But when the plate came down, Ellis looked at the clock, then at his backpack by the door, then back at the clock. He took two quick bites, mumbled thanks, and was pulling on his coat before the plate had stopped steaming.",
+      "prompt": "What can the reader tell about Ellis from his actions?",
+      "options": [
+        "He does not like pancakes.",
+        "He is angry with his father.",
+        "He is in a hurry to leave.",
+        "He forgot his backpack at home."
+      ],
+      "correct": 2,
+      "standard": "RL.4.1",
+      "explain": "Ellis checks the clock twice, eats only two bites of a breakfast he asked for, and puts his coat on right away — all signs that he is rushing."
+    },
+    {
+      "id": "g4_v35_009",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Explaining Events in Informational Text",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "A hurricane begins over warm ocean water. Heat rises from the sea and lifts moist air, leaving lower pressure below. More air rushes in to fill that space, and Earth's spin sets the whole column turning. As long as the storm stays over warm water, it keeps drawing up heat and growing stronger. Once it moves over land, its supply of warm, moist air is cut off and it begins to weaken.",
+      "prompt": "According to the passage, why does a hurricane weaken after it moves over land?",
+      "options": [
+        "It no longer draws warm, moist ocean air.",
+        "Land is colder than the ocean in every season.",
+        "Earth's spin stops turning the storm column.",
+        "Rain falls out of the storm all at once."
+      ],
+      "correct": 0,
+      "standard": "RI.4.3",
+      "explain": "The passage says the storm grows while it stays over warm water and weakens once land cuts off its supply of warm, moist air."
+    },
+    {
+      "id": "g4_v35_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The Latin root port means 'carry.' What does portable most likely mean?",
+      "options": [
+        "made out of wood",
+        "very heavy to lift",
+        "able to be carried",
+        "kept in one place"
+      ],
+      "correct": 2,
+      "standard": "L.4.4.B",
+      "explain": "Port means 'carry' and -able means 'able to be.' A portable radio is one you can carry."
+    },
+    {
+      "id": "g4_v35_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Idioms and Adages",
+      "difficulty": 4,
+      "prompt": "Marisol had studied for weeks, so the spelling test was a piece of cake. What does 'a piece of cake' mean here?",
+      "options": [
+        "a sweet treat",
+        "very easy",
+        "a fair reward",
+        "a lucky guess"
+      ],
+      "correct": 1,
+      "standard": "L.4.5.B",
+      "explain": "'A piece of cake' is an idiom that means something was very easy to do."
+    },
+    {
+      "id": "g4_v35_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Frequently Confused Words",
+      "difficulty": 2,
+      "prompt": "The dog wagged ___ tail when it saw us. Which word belongs in the blank?",
+      "options": [
+        "it's",
+        "its'",
+        "it is",
+        "its"
+      ],
+      "correct": 3,
+      "standard": "L.4.1.G",
+      "explain": "'Its' shows belonging, like 'his' or 'her.' 'It's' is short for 'it is,' which would not make sense here."
+    },
+    {
+      "id": "g4_v35_013",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Run-on Sentences",
+      "difficulty": 3,
+      "prompt": "Which choice corrects this run-on sentence? 'The rain stopped we went outside.'",
+      "options": [
+        "The rain stopped, so we went outside.",
+        "The rain stopped we went outside quickly.",
+        "The rain, stopped we went outside.",
+        "The rain stopped we, went outside."
+      ],
+      "correct": 0,
+      "standard": "L.4.1.F",
+      "explain": "Two complete thoughts need a joining word and a comma between them, which only the corrected version supplies."
+    },
+    {
+      "id": "g4_v35_014",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 3,
+      "prompt": "A metal spoon is left in a mug of hot cocoa. After a few minutes the handle feels warm. What best explains this?",
+      "options": [
+        "Energy moved through the metal.",
+        "The spoon made its own heat.",
+        "Cocoa soaked into the metal.",
+        "The handle grew a new material."
+      ],
+      "correct": 0,
+      "standard": "NGSS-4-PS3-2",
+      "explain": "Energy transfers from the hot cocoa along the metal spoon to the handle. Metal carries energy well, so the handle warms up."
+    },
+    {
+      "id": "g4_v35_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Weathering",
+      "difficulty": 4,
+      "prompt": "Water seeps into a crack in a boulder. Each winter night the water freezes, and each day it melts. After many years the boulder splits. What caused the split?",
+      "options": [
+        "The boulder slowly dissolved in rain.",
+        "Wind blew the boulder into pieces.",
+        "Sunlight burned a hole in the rock.",
+        "Freezing water widened the crack."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-ESS2-1",
+      "explain": "Water expands when it freezes. Repeated freezing and thawing pushes the crack wider each winter until the rock breaks apart."
+    },
+    {
+      "id": "g4_v35_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "A hawk has very sharp eyesight. How does that structure help it survive?",
+      "options": [
+        "It helps the hawk digest food.",
+        "It keeps the hawk's feathers dry.",
+        "It lets the hawk breathe underwater.",
+        "It helps the hawk spot prey."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-LS1-1",
+      "explain": "Sharp eyesight lets a hawk find small animals from high in the air, so it can hunt and eat."
+    },
+    {
+      "id": "g4_v35_017",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "Which two Great Lakes touch New York State?",
+      "options": [
+        "Lake Erie and Lake Ontario",
+        "Lake Huron and Lake Erie",
+        "Lake Michigan and Lake Ontario",
+        "Lake Superior and Lake Huron"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "New York touches Lake Erie in the far west and Lake Ontario along its northwestern shore. The other three Great Lakes do not reach New York.",
+      "source": "NYS Grade 4 Social Studies Framework 4.1 — Geography of New York State"
+    },
+    {
+      "id": "g4_v35_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 4,
+      "prompt": "The Haudenosaunee built long bark houses that sheltered many families at once. What does that tell us about how they lived?",
+      "options": [
+        "Related families shared one home.",
+        "Each person built a separate hut.",
+        "They lived alone for most of the year.",
+        "They moved to a new spot each night."
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "A longhouse sheltered several related families from the same clan under one roof, so kinship groups lived and worked side by side.",
+      "source": "NYS Grade 4 Social Studies Framework 4.2 — Native American Groups and the Environment"
+    },
+    {
+      "id": "g4_v35_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "New York State Government",
+      "difficulty": 3,
+      "prompt": "Which job belongs to the governor of New York State?",
+      "options": [
+        "signing state laws into effect",
+        "deciding cases in a state court",
+        "running a city police precinct",
+        "electing members of the assembly"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "New York's governor leads the executive branch. The legislature writes bills, and the governor signs them into law or vetoes them.",
+      "source": "NYS Grade 4 Social Studies Framework 4.8 — Government"
+    },
+    {
+      "id": "g4_v35_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 4,
+      "prompt": "A town has only one bakery. A second bakery opens across the street. What is most likely to happen to bread prices?",
+      "options": [
+        "They rise because bread is scarce.",
+        "They stay exactly the same forever.",
+        "They double at both of the bakeries.",
+        "They go down as the shops compete."
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-4",
+      "explain": "When buyers can choose between sellers, each shop has a reason to lower its price to attract customers. Competition usually pushes prices down."
+    },
+    {
+      "id": "g5_v35_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimal Operations",
+      "difficulty": 3,
+      "prompt": "What is 4.6 × 0.5?",
+      "options": [
+        "23",
+        "0.23",
+        "2.03",
+        "2.3"
+      ],
+      "correct": 3,
+      "standard": "5.NBT.B.7",
+      "explain": "Multiplying by 0.5 is the same as taking half. Half of 4.6 is 2.3."
+    },
+    {
+      "id": "g5_v35_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 4,
+      "prompt": "A baker has 5 cups of flour and uses 1/3 cup of flour for each roll. How many rolls can the baker make?",
+      "options": [
+        "8",
+        "15",
+        "5",
+        "53"
+      ],
+      "correct": 1,
+      "standard": "5.NF.B.7",
+      "explain": "Each cup of flour makes 3 rolls, so 5 cups make 5 × 3 = 15 rolls."
+    },
+    {
+      "id": "g5_v35_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Multi-Digit Division",
+      "difficulty": 5,
+      "prompt": "A factory packs 5,928 pencils into boxes that hold 24 pencils each. How many boxes does the factory fill?",
+      "options": [
+        "237",
+        "257",
+        "247",
+        "2,470"
+      ],
+      "correct": 2,
+      "standard": "5.NBT.B.6",
+      "explain": "24 × 200 = 4,800 and 5,928 − 4,800 = 1,128. Since 24 × 47 = 1,128, the factory fills 200 + 47 = 247 boxes."
+    },
+    {
+      "id": "g5_v35_004",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The root aud means 'hear.' What does audible most likely mean?",
+      "options": [
+        "written down neatly",
+        "spoken very fast",
+        "kept as a secret",
+        "able to be heard"
+      ],
+      "correct": 3,
+      "standard": "L.5.4.B",
+      "explain": "Aud means 'hear' and -ible means 'able to be.' Something audible is loud enough to be heard."
+    },
+    {
+      "id": "g5_v35_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Combining Sentences",
+      "difficulty": 4,
+      "prompt": "Which sentence best combines these two sentences? 'The storm knocked out the power. The library stayed open.'",
+      "options": [
+        "Although the storm knocked out the power, the library stayed open.",
+        "The storm knocked out the power, the library stayed open.",
+        "The storm knocked out the power, so the library stayed open.",
+        "The storm knocked out the power, and because of it the library stayed open."
+      ],
+      "correct": 0,
+      "standard": "L.5.3.A",
+      "explain": "The two facts contrast: the power failed, yet the library stayed open. 'Although' signals that contrast. A comma by itself makes a splice, and 'so' or 'because of it' would wrongly claim the outage is why the library stayed open."
+    },
+    {
+      "id": "g5_v35_006",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Evaluating Evidence",
+      "difficulty": 5,
+      "type": "reading",
+      "passage": "A town newspaper printed this claim: 'Our new bike lane has made Maple Street safer.' The writer offered two pieces of support. First, in the year after the lane opened, the number of reported crashes on Maple Street fell from 41 to 26. Second, a shop owner said the street 'feels calmer now.' A traffic engineer noted that Maple Street was also repaved that same year and that the speed limit was lowered from 30 to 25 miles per hour.",
+      "prompt": "Which statement best explains why the writer's evidence does not fully prove the claim?",
+      "options": [
+        "Other changes that year could also have lowered crashes.",
+        "The crash numbers were counted over a full year.",
+        "A shop owner is not allowed to give an opinion.",
+        "Newspapers should never print claims about safety at all."
+      ],
+      "correct": 0,
+      "standard": "RI.5.8",
+      "explain": "The street was repaved and the speed limit was lowered in the same year, so the drop in crashes cannot be credited to the bike lane alone."
+    },
+    {
+      "id": "g5_v35_007",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Conservation of Matter",
+      "difficulty": 4,
+      "prompt": "A sealed jar holds 50 grams of baking soda and vinegar. The mixture fizzes and makes a gas. What is the total mass of everything inside the jar after the reaction?",
+      "options": [
+        "less than 50 grams",
+        "more than 50 grams",
+        "50 grams",
+        "exactly 100 grams"
+      ],
+      "correct": 2,
+      "standard": "NGSS-5-PS1-2",
+      "explain": "Matter is not created or destroyed in a reaction. The gas stays inside the sealed jar, so the total mass is still 50 grams."
+    },
+    {
+      "id": "g5_v35_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 2,
+      "prompt": "Tree roots hold soil in place on a hillside. Which two Earth systems are interacting?",
+      "options": [
+        "the atmosphere and the hydrosphere",
+        "the hydrosphere and the biosphere",
+        "the biosphere and the geosphere",
+        "the atmosphere and the geosphere"
+      ],
+      "correct": 2,
+      "standard": "NGSS-5-ESS2-1",
+      "explain": "Trees are living things, part of the biosphere. Soil and rock are part of the geosphere. Roots gripping soil is those two systems interacting."
+    },
+    {
+      "id": "g5_v35_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Bill of Rights",
+      "difficulty": 2,
+      "prompt": "The First Amendment protects several freedoms. Which one does it protect?",
+      "options": [
+        "the right to a passport",
+        "freedom of speech",
+        "the right to free college",
+        "the right to own a car"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "The First Amendment protects freedom of speech, religion, the press, assembly, and petition."
+    },
+    {
+      "id": "g5_v35_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Articles of Confederation",
+      "difficulty": 5,
+      "prompt": "Under the Articles of Confederation, Congress could not collect taxes. Why was this a serious problem for the new nation?",
+      "options": [
+        "The states could not write their own constitutions.",
+        "It could not pay its debts or run a government.",
+        "States were no longer allowed to trade at all.",
+        "Citizens had to pay two separate income taxes."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "Without the power to tax, Congress had to ask the states for money and they often refused. It could not repay its debts or fund a national government, and that weakness led to the Constitutional Convention."
     }
   ]
 }
