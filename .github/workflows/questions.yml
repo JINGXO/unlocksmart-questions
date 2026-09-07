@@ -1,0 +1,11 @@
+name: Question bank checks
+on: [pull_request, push]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 validate.py --report
+      - run: python3 -m unittest discover -s tests -v

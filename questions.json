@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "questions": [
     {
       "id": "prek_count_001",
@@ -5312,7 +5312,7 @@
         "5/7",
         "6/7",
         "1/2",
-        "6/12"
+        "3/7"
       ],
       "correct": 2,
       "explain": "Multiply numerators: 2×3=6. Multiply denominators: 3×4=12. Then 6/12 = 1/2 simplified."
@@ -13570,7 +13570,7 @@
         "4/9",
         "6/9",
         "3/6",
-        "4/6"
+        "5/6"
       ],
       "correct": 1,
       "standard": "4.NF.A.1",
@@ -14522,7 +14522,7 @@
       "visual": null,
       "options": [
         "5/8",
-        "6/15",
+        "3/15",
         "2/5",
         "6/8"
       ],
@@ -24481,7 +24481,7 @@
         "1/2",
         "2/8",
         "4/6",
-        "3/6"
+        "3/8"
       ],
       "correct": 0,
       "explain": "2/4 = 1/2 because both halves are the same size. Divide both top and bottom by 2: 2÷2 = 1, 4÷2 = 2.",
@@ -26699,7 +26699,7 @@
         "5/7",
         "6/7",
         "1/2",
-        "2/4"
+        "3/8"
       ],
       "correct": 2,
       "explain": "(2×3)/(3×4) = 6/12 = 1/2."
@@ -32844,7 +32844,7 @@
         "4/10",
         "4/6",
         "6/4",
-        "2/3"
+        "5/6"
       ],
       "correct": 1,
       "standard": "3.NF.2",
@@ -35722,7 +35722,7 @@
         "2/9",
         "2/6",
         "3/6",
-        "1/2"
+        "1/3"
       ],
       "correct": 2,
       "explain": "Convert 1/3 to 2/6. Now: 2/6 + 1/6 = 3/6 = 1/2."
@@ -51828,7 +51828,7 @@
       "options": [
         "6/12",
         "6/3",
-        "3/6",
+        "3/12",
         "4/6"
       ],
       "correct": 0,
@@ -55093,7 +55093,7 @@
         "1/2",
         "2/3",
         "3/4",
-        "4/8"
+        "3/8"
       ],
       "correct": 0,
       "explain": "2/4 = 1/2 because you can divide both numerator and denominator by 2. A shape split into 4 equal parts with 2 shaded looks the same as one split into 2 parts with 1 shaded.",
@@ -55380,7 +55380,7 @@
       "options": [
         "2/8",
         "6/8",
-        "1/4",
+        "1/8",
         "3/4"
       ],
       "correct": 0,
@@ -55572,7 +55572,7 @@
       "options": [
         "2/6",
         "4/6",
-        "1/3",
+        "1/2",
         "1/6"
       ],
       "correct": 0,
@@ -72535,7 +72535,7 @@
         "4/6",
         "4/5",
         "3/6",
-        "2/3"
+        "5/6"
       ],
       "correct": 0,
       "explain": "When a number line from 0 to 1 is divided into 6 equal parts, each mark represents 1/6. The 4th mark is at 4/6.",
@@ -88433,7 +88433,7 @@
       "prompt": "7/8 - 3/8 = ?",
       "options": [
         "4/8",
-        "1/2",
+        "5/8",
         "4/16",
         "3/8"
       ],
@@ -88502,7 +88502,7 @@
       "options": [
         "7/100",
         "7/10",
-        "70/100",
+        "7/1000",
         "1/7"
       ],
       "correct": 1,
@@ -90915,7 +90915,7 @@
       "prompt": "2/3 × 3/5 = ?",
       "options": [
         "5/8",
-        "6/15",
+        "6/25",
         "2/5",
         "3/5"
       ],
@@ -94433,7 +94433,8 @@
       ],
       "correct": 1,
       "explain": "The story says Mila found a small blue egg under the maple tree.",
-      "standard": "RL.1.1"
+      "standard": "RL.1.1",
+      "type": "reading"
     },
     {
       "id": "g1_v27_020",
@@ -94451,7 +94452,8 @@
       ],
       "correct": 2,
       "explain": "Every sentence tells about something a bee does: finding flowers, carrying pollen, caring for baby bees. A title about the jobs bees do covers the whole passage.",
-      "standard": "RI.1.2"
+      "standard": "RI.1.2",
+      "type": "reading"
     },
     {
       "id": "g4_v27_001",
@@ -94778,7 +94780,8 @@
       ],
       "correct": 2,
       "explain": "The passage moves through the stages of a hurricane in order, using words such as 'begins,' 'as,' and 'finally.'",
-      "standard": "RI.4.5"
+      "standard": "RI.4.5",
+      "type": "reading"
     },
     {
       "id": "g4_v27_020",
@@ -94796,7 +94799,8 @@
       ],
       "correct": 3,
       "explain": "Dev keeps working through weeks of rough playing, and on the day it counts the work pays off. His teacher's last line points back to Dev's own effort.",
-      "standard": "RL.4.2"
+      "standard": "RL.4.2",
+      "type": "reading"
     },
     {
       "id": "g5_v27_001",
@@ -94969,7 +94973,8 @@
       ],
       "correct": 1,
       "explain": "Amara states what happened: how long the ride took and what the guide did. Jonah reports the same events but adds phrases such as 'dragged on' and 'would not stop,' which show how he felt about them.",
-      "standard": "RI.5.6"
+      "standard": "RI.5.6",
+      "type": "reading"
     },
     {
       "id": "g1_v28_001",
@@ -95191,7 +95196,8 @@
       ],
       "correct": 0,
       "explain": "The passage says Nina filled a bowl with milk and set it on the step.",
-      "standard": "RL.1.1"
+      "standard": "RL.1.1",
+      "type": "reading"
     },
     {
       "id": "g1_v28_014",
@@ -95209,7 +95215,8 @@
       ],
       "correct": 1,
       "explain": "Rain blew in through the open window and turned the paper boat into a wet lump, so Theo folded a new one out of dry paper.",
-      "standard": "RL.1.3"
+      "standard": "RL.1.3",
+      "type": "reading"
     },
     {
       "id": "g1_v28_015",
@@ -95227,7 +95234,8 @@
       ],
       "correct": 2,
       "explain": "Each sentence names a different job that ants in a colony do -- digging, carrying food, and caring for eggs -- and the last sentence says they do it together. A title about ants working together covers the whole passage.",
-      "standard": "RI.1.2"
+      "standard": "RI.1.2",
+      "type": "reading"
     },
     {
       "id": "g1_v28_016",
@@ -95534,7 +95542,8 @@
       ],
       "correct": 0,
       "explain": "The water level dropped over the week, and after Marisol dries the seam a wet line comes back within a minute. Water is escaping through the seam.",
-      "standard": "RL.4.1"
+      "standard": "RL.4.1",
+      "type": "reading"
     },
     {
       "id": "g4_v28_014",
@@ -95552,7 +95561,8 @@
       ],
       "correct": 1,
       "explain": "Each sentence names a result of the one before it: fewer otters led to more urchins, more urchins led to less kelp, and less kelp drove the fish away. That chain of causes and results is cause and effect.",
-      "standard": "RI.4.5"
+      "standard": "RI.4.5",
+      "type": "reading"
     },
     {
       "id": "g4_v28_015",
@@ -95571,7 +95581,8 @@
       "correct": 2,
       "explain": "Every detail compares travel before and after the canal: about three weeks by wagon became about eight days by barge, the cost fell, and the towns and the port grew as a result.",
       "standard": "RI.4.2",
-      "source": "Erie Canalway National Heritage Corridor, National Park Service -- Erie Canal history"
+      "source": "Erie Canalway National Heritage Corridor, National Park Service -- Erie Canal history",
+      "type": "reading"
     },
     {
       "id": "g4_v28_016",
@@ -95778,7 +95789,8 @@
       ],
       "correct": 0,
       "explain": "He set out two cups on Thursday even though the roads were closed, and he left them ready until the narrator arrived on Friday. Setting a place for someone shows he was counting on the visit.",
-      "standard": "RL.5.1"
+      "standard": "RL.5.1",
+      "type": "reading"
     },
     {
       "id": "g5_v28_008",
@@ -96138,7 +96150,8 @@
       ],
       "correct": 1,
       "explain": "Tam's fast tower fell, and his careful tower stood. The story shows that taking your time helps the work come out right.",
-      "standard": "RL.1.2"
+      "standard": "RL.1.2",
+      "type": "reading"
     },
     {
       "id": "g1_v29_019",
@@ -96173,7 +96186,8 @@
       ],
       "correct": 3,
       "explain": "The passage says Ana packs the night before while Leo packs in the morning. That is the difference the text actually shows.",
-      "standard": "RL.1.9"
+      "standard": "RL.1.9",
+      "type": "reading"
     },
     {
       "id": "g4_v29_001",
@@ -96689,7 +96703,8 @@
       ],
       "correct": 0,
       "explain": "Omar checks the mail first every day, comes back empty-handed, plays the same four bars over and over, and changes the subject when his sister asks. Those details point to worry he is not saying out loud.",
-      "standard": "RL.5.1"
+      "standard": "RL.5.1",
+      "type": "reading"
     },
     {
       "id": "g1_v30_001",
@@ -96792,7 +96807,8 @@
       "correct": 3,
       "explain": "The passage says dry leaves crunch under Milo's boots. The gate creaks and the branch snaps, so those words go with other things.",
       "standard": "RL.1.4",
-      "passage": "The old gate creaks. Dry leaves crunch under Milo's boots. Somewhere in the dark yard, a branch snaps."
+      "passage": "The old gate creaks. Dry leaves crunch under Milo's boots. Somewhere in the dark yard, a branch snaps.",
+      "type": "reading"
     },
     {
       "id": "g1_v30_007",
@@ -96810,7 +96826,8 @@
       "correct": 1,
       "explain": "The author lists what a dog can do: hear quiet sounds, find a person by smell, and guide someone across a street. Finding a person by smell is one of those reasons.",
       "standard": "RI.1.8",
-      "passage": "Dogs make good helpers. A dog can hear sounds that people cannot hear. A dog can find a person by smell. A dog can be trained to guide someone across a busy street."
+      "passage": "Dogs make good helpers. A dog can hear sounds that people cannot hear. A dog can find a person by smell. A dog can be trained to guide someone across a busy street.",
+      "type": "reading"
     },
     {
       "id": "g1_v30_008",
@@ -96828,7 +96845,8 @@
       "correct": 2,
       "explain": "Text 1 says bats sleep during the day, and Text 2 says owls sleep during the day. That is the one fact both texts share.",
       "standard": "RI.1.9",
-      "passage": "Text 1: Bats sleep during the day and fly at night. They eat insects. Text 2: Owls sleep during the day and hunt at night. They eat small animals."
+      "passage": "Text 1: Bats sleep during the day and fly at night. They eat insects. Text 2: Owls sleep during the day and hunt at night. They eat small animals.",
+      "type": "reading"
     },
     {
       "id": "g1_v30_009",
@@ -96880,7 +96898,8 @@
       "correct": 1,
       "explain": "Ana was afraid of the slide and tried it. Ben was afraid of the deep pool and tried it. Each one did something that scared them.",
       "standard": "RL.1.9",
-      "passage": "In the first story, Ana was afraid to ride the big slide. She tried it and liked it. In the second story, Ben was afraid to swim in the deep pool. He tried it and liked it."
+      "passage": "In the first story, Ana was afraid to ride the big slide. She tried it and liked it. In the second story, Ben was afraid to swim in the deep pool. He tried it and liked it.",
+      "type": "reading"
     },
     {
       "id": "g1_v30_012",
@@ -96898,7 +96917,8 @@
       "correct": 3,
       "explain": "The passage says the fat gives the camel energy when there is no food, and that is why it can walk for days. Energy is the power that keeps the camel going.",
       "standard": "RI.1.4",
-      "passage": "A camel stores fat in its hump. The fat gives the camel energy when there is no food. That is why a camel can cross a dry desert for days."
+      "passage": "A camel stores fat in its hump. The fat gives the camel energy when there is no food. That is why a camel can cross a dry desert for days.",
+      "type": "reading"
     },
     {
       "id": "g1_v30_013",
@@ -97206,7 +97226,8 @@
       "correct": 0,
       "explain": "The passage uses I and my, so the story is told by someone inside it. That someone is pressing a nose to the bus window, which makes the teller a rider on the bus.",
       "standard": "RL.4.6",
-      "passage": "I pressed my nose to the bus window and watched the farm roll past. Aunt Dee said we would be there by lunch, but I had heard that before."
+      "passage": "I pressed my nose to the bus window and watched the farm roll past. Aunt Dee said we would be there by lunch, but I had heard that before.",
+      "type": "reading"
     },
     {
       "id": "g4_v30_011",
@@ -97241,7 +97262,8 @@
       "correct": 1,
       "explain": "Evidence is something counted or recorded. The police count of eleven near-misses was measured. The other three statements say what the writer wants or believes.",
       "standard": "RI.4.8",
-      "passage": "Our town should build a new bike path. Last year, 240 people signed a petition asking for one. Riders now share a narrow road with trucks, and the police recorded eleven near-misses in six months. A path would move riders off that road."
+      "passage": "Our town should build a new bike path. Last year, 240 people signed a petition asking for one. Riders now share a narrow road with trucks, and the police recorded eleven near-misses in six months. A path would move riders off that road.",
+      "type": "reading"
     },
     {
       "id": "g4_v30_013",
@@ -97259,7 +97281,8 @@
       "correct": 2,
       "explain": "Text 1 shows otters using tools to eat shellfish. Text 2 shows that when otters disappeared, urchins destroyed the kelp forests. Put together, the otters' eating changes the whole habitat.",
       "standard": "RI.4.9",
-      "passage": "Text 1: Sea otters float on their backs and crack shellfish open on a stone they carry under one arm. Text 2: Sea otters eat sea urchins. Where otters vanished, urchins ate the kelp forests until little was left."
+      "passage": "Text 1: Sea otters float on their backs and crack shellfish open on a stone they carry under one arm. Text 2: Sea otters eat sea urchins. Where otters vanished, urchins ate the kelp forests until little was left.",
+      "type": "reading"
     },
     {
       "id": "g4_v30_014",
@@ -97519,7 +97542,8 @@
       "correct": 3,
       "explain": "The pond is compared to a coin, and a coin is small and round. The comparison shows how much water the pond had lost by August.",
       "standard": "RL.5.4",
-      "passage": "By August the pond had shrunk to a brown coin in the middle of the field. The cattails leaned in over it like neighbors at a window."
+      "passage": "By August the pond had shrunk to a brown coin in the middle of the field. The cattails leaned in over it like neighbors at a window.",
+      "type": "reading"
     },
     {
       "id": "g5_v30_009",
@@ -97537,7 +97561,8 @@
       "correct": 1,
       "explain": "Evidence is something measured or observed. The district counted its late arrivals, and that count points in favor of a later start. The cost and the sports schedule were also observed, but they argue against it, and the claim about when school should start is an opinion.",
       "standard": "RI.5.8",
-      "passage": "Some people argue that school should start later in the morning. They point to sleep studies showing that young teenagers' bodies shift to a later sleep cycle. One district that moved its start time from 7:30 to 8:30 reported fewer late arrivals and higher attendance. Critics answer that a later start pushes sports and after-school jobs into the evening, and they note that the same district spent more on buses."
+      "passage": "Some people argue that school should start later in the morning. They point to sleep studies showing that young teenagers' bodies shift to a later sleep cycle. One district that moved its start time from 7:30 to 8:30 reported fewer late arrivals and higher attendance. Critics answer that a later start pushes sports and after-school jobs into the evening, and they note that the same district spent more on buses.",
+      "type": "reading"
     },
     {
       "id": "g5_v30_010",
@@ -97725,7 +97750,8 @@
       "correct": 3,
       "explain": "The story says the box holds the buttons Grandpa has saved for many years, and Kai sorts them by color.",
       "standard": "RL.1.1",
-      "passage": "Grandpa keeps a red tin box on the top shelf. Inside are the buttons he has saved for many years. On rainy days he lets Kai sort them by color."
+      "passage": "Grandpa keeps a red tin box on the top shelf. Inside are the buttons he has saved for many years. On rainy days he lets Kai sort them by color.",
+      "type": "reading"
     },
     {
       "id": "g1_v31_011",
@@ -97743,7 +97769,8 @@
       "correct": 0,
       "explain": "The story says Sam held the rail tight and climbed one step at a time. He did not run or skip any steps.",
       "standard": "RL.1.3",
-      "passage": "Sam wanted to ride the big slide. The ladder looked very tall from the ground. He held the rail tight and climbed one step at a time. At the top he smiled and slid all the way down."
+      "passage": "Sam wanted to ride the big slide. The ladder looked very tall from the ground. He held the rail tight and climbed one step at a time. At the top he smiled and slid all the way down.",
+      "type": "reading"
     },
     {
       "id": "g1_v31_012",
@@ -97761,7 +97788,8 @@
       "correct": 1,
       "explain": "The sentences follow one letter from the corner box, to the truck, to the sorting machines, and finally to a door. Together they trace its whole trip.",
       "standard": "RI.1.2",
-      "passage": "A letter starts in a blue box on the corner. A truck takes it to a big sorting room. Machines read the address and send it toward the right city. At the end a mail carrier walks it to the door."
+      "passage": "A letter starts in a blue box on the corner. A truck takes it to a big sorting room. Machines read the address and send it toward the right city. At the end a mail carrier walks it to the door.",
+      "type": "reading"
     },
     {
       "id": "g1_v31_013",
@@ -98102,7 +98130,8 @@
       "correct": 0,
       "explain": "The second half of the passage lists the objections: practice pushed into the dark, and no way for early-shift families to drop children off. The other three choices are reasons in favor of a later start.",
       "standard": "RI.4.8",
-      "passage": "Some parents say the school day should start an hour later. They point to studies showing that students who sleep longer earn better grades. Other parents answer that a later start would push sports practice into the dark, and would leave families with early work shifts no way to drop their children off."
+      "passage": "Some parents say the school day should start an hour later. They point to studies showing that students who sleep longer earn better grades. Other parents answer that a later start would push sports practice into the dark, and would leave families with early work shifts no way to drop their children off.",
+      "type": "reading"
     },
     {
       "id": "g4_v31_013",
@@ -98120,7 +98149,8 @@
       "correct": 2,
       "explain": "Nia is proudest not of a perfect performance but of playing to the last measure after a mistake. The story rewards finishing rather than being flawless.",
       "standard": "RL.4.2",
-      "passage": "Nia practiced the same violin piece for six weeks. At the recital her bow slipped and one note came out as a squeak. Her face went hot, but she kept going to the last measure. Afterward her teacher said only, \"You did not stop.\" Nia decided that was the part she was proudest of."
+      "passage": "Nia practiced the same violin piece for six weeks. At the recital her bow slipped and one note came out as a squeak. Her face went hot, but she kept going to the last measure. Afterward her teacher said only, \"You did not stop.\" Nia decided that was the part she was proudest of.",
+      "type": "reading"
     },
     {
       "id": "g4_v31_014",
@@ -98138,7 +98168,8 @@
       "correct": 1,
       "explain": "The words first, next, then, and finally mark a sequence. The passage walks through the stages of the water cycle in the order they occur.",
       "standard": "RI.4.5",
-      "passage": "First, water at the ocean's surface warms and rises into the air as vapor. Next, the vapor cools high above the ground and turns into tiny droplets. Then those droplets gather into clouds. Finally, the droplets grow heavy enough to fall back down as rain."
+      "passage": "First, water at the ocean's surface warms and rises into the air as vapor. Next, the vapor cools high above the ground and turns into tiny droplets. Then those droplets gather into clouds. Finally, the droplets grow heavy enough to fall back down as rain.",
+      "type": "reading"
     },
     {
       "id": "g4_v31_015",
@@ -98156,7 +98187,8 @@
       "correct": 0,
       "explain": "The unopened kite by the door shows what Marcus is hoping to do. He keeps looking outside because the rain is what is keeping him in.",
       "standard": "RL.4.1",
-      "passage": "Marcus checked the window for the third time that morning. The rain had not let up. His new kite still lay by the front door, wrapped in its plastic."
+      "passage": "Marcus checked the window for the third time that morning. The rain had not let up. His new kite still lay by the front door, wrapped in its plastic.",
+      "type": "reading"
     },
     {
       "id": "g4_v31_016",
@@ -98346,7 +98378,8 @@
       "correct": 2,
       "explain": "The city report builds its account out of counted crashes, while the newsletter builds its account out of what residents go through day to day. Same subject, two different kinds of evidence.",
       "standard": "RI.5.6",
-      "passage": "A city transportation report on the new bike lane lists how many crashes were recorded on that block in the year before it opened and in the year after. A neighborhood newsletter about the same bike lane describes how much harder it has become for residents to find parking near their own buildings."
+      "passage": "A city transportation report on the new bike lane lists how many crashes were recorded on that block in the year before it opened and in the year after. A neighborhood newsletter about the same bike lane describes how much harder it has become for residents to find parking near their own buildings.",
+      "type": "reading"
     },
     {
       "id": "g5_v31_007",
@@ -98364,7 +98397,8 @@
       "correct": 1,
       "explain": "Ivan spends three summers of savings on his sister and then hides that he did it, even when his father asks. The story is about a generous act that stays private and costs him something real.",
       "standard": "RL.5.2",
-      "passage": "For three summers Ivan mowed lawns and dropped every dollar into a coffee can under his bed. When his sister's bike was taken from the rack in July, he counted the cash twice, then walked to the shop on Grand Street without telling anyone. He never mentioned the can again. When his father asked that fall how his savings were coming along, Ivan only shrugged."
+      "passage": "For three summers Ivan mowed lawns and dropped every dollar into a coffee can under his bed. When his sister's bike was taken from the rack in July, he counted the cash twice, then walked to the shop on Grand Street without telling anyone. He never mentioned the can again. When his father asked that fall how his savings were coming along, Ivan only shrugged.",
+      "type": "reading"
     },
     {
       "id": "g5_v31_008",
@@ -98621,7 +98655,8 @@
       "correct": 1,
       "explain": "The first sentence of the story says Tam has a red kite.",
       "standard": "RL.1.1",
-      "passage": "Tam has a red kite. On Saturday the wind was strong. Tam ran across the grass and the kite went up and up. A bird flew past it. Tam laughed and held the string tight."
+      "passage": "Tam has a red kite. On Saturday the wind was strong. Tam ran across the grass and the kite went up and up. A bird flew past it. Tam laughed and held the string tight.",
+      "type": "reading"
     },
     {
       "id": "g1_v32_013",
@@ -98639,7 +98674,8 @@
       "correct": 0,
       "explain": "Every sentence adds one more part of the building job: cutting trees, dragging branches, stacking them, and filling the gaps with mud.",
       "standard": "RI.1.2",
-      "passage": "A beaver has strong front teeth. It cuts down small trees near a stream. The beaver drags the branches into the water and stacks them across the stream. Mud and sticks fill the gaps. Soon the water backs up into a deep pond, and there the beaver builds its home."
+      "passage": "A beaver has strong front teeth. It cuts down small trees near a stream. The beaver drags the branches into the water and stacks them across the stream. Mud and sticks fill the gaps. Soon the water backs up into a deep pond, and there the beaver builds its home.",
+      "type": "reading"
     },
     {
       "id": "g1_v32_014",
@@ -98657,7 +98693,8 @@
       "correct": 3,
       "explain": "Nina checked under her bed and inside her backpack first. The story says that at last she saw the book on the kitchen table.",
       "standard": "RL.1.3",
-      "passage": "Nina could not find her library book. She looked under her bed. She looked inside her backpack. At last she saw it on the kitchen table, next to the bowl of apples. Nina smiled and put the book in her bag."
+      "passage": "Nina could not find her library book. She looked under her bed. She looked inside her backpack. At last she saw it on the kitchen table, next to the bowl of apples. Nina smiled and put the book in her bag.",
+      "type": "reading"
     },
     {
       "id": "g1_v32_015",
@@ -98947,7 +98984,8 @@
       "correct": 1,
       "explain": "Account 1 is a firsthand account: the writer was there, used the word I, and described mud and smells. Account 2 is a secondhand account built from measurements a research team collected.",
       "standard": "RI.4.6",
-      "passage": "Account 1. My boots sank into the mud with every step, and the smell of wet leaves filled the whole trail. By noon I had stopped counting the frogs. Account 2. Researchers surveying the wetland recorded forty-seven frogs along the main trail on the morning of April 12. Soil moisture measured well above the seasonal average."
+      "passage": "Account 1. My boots sank into the mud with every step, and the smell of wet leaves filled the whole trail. By noon I had stopped counting the frogs. Account 2. Researchers surveying the wetland recorded forty-seven frogs along the main trail on the morning of April 12. Soil moisture measured well above the seasonal average.",
+      "type": "reading"
     },
     {
       "id": "g4_v32_012",
@@ -98965,7 +99003,8 @@
       "correct": 3,
       "explain": "The wall and the tape are both tried and both fail. The board only stays up after Priya glues the folded cardboard triangles to the back corners.",
       "standard": "RL.4.1",
-      "passage": "Priya's science fair board kept falling over. She tried leaning it against the wall, but it slid. She tried taping it, but the tape peeled off. Finally she cut two strips of cardboard, folded them into triangles, and glued one to each back corner. The board stood straight for the rest of the afternoon."
+      "passage": "Priya's science fair board kept falling over. She tried leaning it against the wall, but it slid. She tried taping it, but the tape peeled off. Finally she cut two strips of cardboard, folded them into triangles, and glued one to each back corner. The board stood straight for the rest of the afternoon.",
+      "type": "reading"
     },
     {
       "id": "g4_v32_013",
@@ -98983,7 +99022,8 @@
       "correct": 3,
       "explain": "Dense wood, slow growth, and living bark are each given as a reason the tree lasts. Together they support one bigger point about how bristlecones survive so long.",
       "standard": "RI.4.2",
-      "passage": "Bristlecone pines grow high in dry western mountains where almost nothing else survives. Their wood is dense and full of resin, so insects and rot rarely damage it. They grow so slowly that a tree may add less than an inch of width in a century. When part of the trunk stops living, the rest keeps going on a narrow strip of bark. Some bristlecones alive today were seedlings before the pyramids were built."
+      "passage": "Bristlecone pines grow high in dry western mountains where almost nothing else survives. Their wood is dense and full of resin, so insects and rot rarely damage it. They grow so slowly that a tree may add less than an inch of width in a century. When part of the trunk stops living, the rest keeps going on a narrow strip of bark. Some bristlecones alive today were seedlings before the pyramids were built.",
+      "type": "reading"
     },
     {
       "id": "g4_v32_014",
@@ -99001,7 +99041,8 @@
       "correct": 1,
       "explain": "The passage first says the ocean wore the bluff away until the tower was near the edge. The terraces were planted to hold the soil so that wearing away would slow down.",
       "standard": "RI.4.3",
-      "passage": "The lighthouse at Montauk Point stands on a bluff at the eastern tip of Long Island. It was finished in 1796, and its light still turns every night. Over the years the ocean wore away the bluff until the tower stood close to the edge. In the 1970s volunteers began planting terraces of grass and stone along the slope to hold the soil in place."
+      "passage": "The lighthouse at Montauk Point stands on a bluff at the eastern tip of Long Island. It was finished in 1796, and its light still turns every night. Over the years the ocean wore away the bluff until the tower stood close to the edge. In the 1970s volunteers began planting terraces of grass and stone along the slope to hold the soil in place.",
+      "type": "reading"
     },
     {
       "id": "g4_v32_015",
@@ -99209,7 +99250,8 @@
       "correct": 3,
       "explain": "The critics do not attack the study or bring in a new one. They reach into the very same Phoenix study and pull out its temperature results instead of its water results.",
       "standard": "RI.5.8",
-      "passage": "Some cities are replacing grass medians with gravel to save water. Supporters point to a Phoenix study in which gravel medians used ninety percent less irrigation water than grass ones. Critics answer that the same study measured surface temperatures over gravel that were twelve degrees higher on summer afternoons, and they argue that a city trading water for heat has not solved anything."
+      "passage": "Some cities are replacing grass medians with gravel to save water. Supporters point to a Phoenix study in which gravel medians used ninety percent less irrigation water than grass ones. Critics answer that the same study measured surface temperatures over gravel that were twelve degrees higher on summer afternoons, and they argue that a city trading water for heat has not solved anything.",
+      "type": "reading"
     },
     {
       "id": "g5_v32_007",
@@ -99227,7 +99269,8 @@
       "correct": 2,
       "explain": "Otters eat urchins, so fewer otters means more urchins. More urchins graze on more holdfasts, and the kelp forest thins out into bare rock.",
       "standard": "RI.5.3",
-      "passage": "Sea otters float in the kelp forests off the Pacific coast. They eat sea urchins, and sea urchins graze on the holdfasts that anchor kelp to the seafloor. Where otter numbers dropped, urchin numbers climbed and whole kelp forests thinned into bare rock. Where otters returned, urchin numbers fell again and the kelp grew back."
+      "passage": "Sea otters float in the kelp forests off the Pacific coast. They eat sea urchins, and sea urchins graze on the holdfasts that anchor kelp to the seafloor. Where otter numbers dropped, urchin numbers climbed and whole kelp forests thinned into bare rock. Where otters returned, urchin numbers fell again and the kelp grew back.",
+      "type": "reading"
     },
     {
       "id": "g5_v32_008",
@@ -99416,7 +99459,8 @@
       "correct": 1,
       "explain": "The second sentence of the story says Mia put the pot on the windowsill so it could get sun.",
       "standard": "RL.1.1",
-      "passage": "Mia planted a small seed in a blue pot. She put the pot on the windowsill so it could get sun. Every morning Mia gave the seed a little water. After ten days a tiny green leaf pushed up out of the dirt."
+      "passage": "Mia planted a small seed in a blue pot. She put the pot on the windowsill so it could get sun. Every morning Mia gave the seed a little water. After ten days a tiny green leaf pushed up out of the dirt.",
+      "type": "reading"
     },
     {
       "id": "g1_v33_009",
@@ -99434,7 +99478,8 @@
       "correct": 2,
       "explain": "The story says the bowl was hot, so he set it down fast. The hot bowl is the reason for what Ben did.",
       "standard": "RL.1.3",
-      "passage": "Ben carried his soup bowl to the table. The bowl was hot, so he set it down fast. A little soup splashed onto the floor. Ben got a towel and wiped it up before his dog could lick it."
+      "passage": "Ben carried his soup bowl to the table. The bowl was hot, so he set it down fast. A little soup splashed onto the floor. Ben got a towel and wiped it up before his dog could lick it.",
+      "type": "reading"
     },
     {
       "id": "g1_v33_010",
@@ -99452,7 +99497,8 @@
       "correct": 0,
       "explain": "Every sentence names a different job that ants do in one nest. Put together, they show how ants work as a group.",
       "standard": "RI.1.2",
-      "passage": "An ant is small, but it is never alone. Ants live together in a nest under the ground. Some ants dig new tunnels. Some ants find seeds and carry them home. Other ants take care of the tiny ant eggs. Every ant has a job to do."
+      "passage": "An ant is small, but it is never alone. Ants live together in a nest under the ground. Some ants dig new tunnels. Some ants find seeds and carry them home. Other ants take care of the tiny ant eggs. Every ant has a job to do.",
+      "type": "reading"
     },
     {
       "id": "g1_v33_011",
@@ -99827,7 +99873,8 @@
       "correct": 3,
       "explain": "The passage traces what a dam does: it makes a pond, and that pond protects beavers and gives frogs, fish, and birds a place to live.",
       "standard": "RI.4.2",
-      "passage": "Beavers are famous builders. Using their strong front teeth, they cut down small trees and drag the branches into a stream. The pile of branches slows the water until a pond forms behind it. The deep pond keeps beavers safe from animals that hunt them, and it also creates a wetland where frogs, fish, and birds come to live."
+      "passage": "Beavers are famous builders. Using their strong front teeth, they cut down small trees and drag the branches into a stream. The pile of branches slows the water until a pond forms behind it. The deep pond keeps beavers safe from animals that hunt them, and it also creates a wetland where frogs, fish, and birds come to live.",
+      "type": "reading"
     },
     {
       "id": "g4_v33_013",
@@ -99845,7 +99892,8 @@
       "correct": 0,
       "explain": "He starts out the door with only the board, then stops and goes back for the folder. The reader can tell he nearly left it behind.",
       "standard": "RL.4.1",
-      "passage": "Dario checked the clock for the third time. His science project sat by the door, the poster board wrapped in a garbage bag against the rain. Outside, a horn sounded. He grabbed the board with both hands, then stopped, set it down, and went back for the folder on the kitchen table."
+      "passage": "Dario checked the clock for the third time. His science project sat by the door, the poster board wrapped in a garbage bag against the rain. Outside, a horn sounded. He grabbed the board with both hands, then stopped, set it down, and went back for the folder on the kitchen table.",
+      "type": "reading"
     },
     {
       "id": "g4_v33_014",
@@ -99863,7 +99911,8 @@
       "correct": 1,
       "explain": "The passage moves forward through time: two hundred years ago, then later, then by the 1930s. That is chronological order.",
       "standard": "RI.4.5",
-      "passage": "Two hundred years ago, ice was cut from frozen lakes in winter and packed in sawdust so it would last through the summer. Later, factories learned to make ice with machines, and wagons delivered it all year. By the 1930s, electric refrigerators had reached many homes, and families froze their own ice in a small metal tray."
+      "passage": "Two hundred years ago, ice was cut from frozen lakes in winter and packed in sawdust so it would last through the summer. Later, factories learned to make ice with machines, and wagons delivered it all year. By the 1930s, electric refrigerators had reached many homes, and families froze their own ice in a small metal tray.",
+      "type": "reading"
     },
     {
       "id": "g4_v33_015",
@@ -100088,7 +100137,8 @@
       "correct": 2,
       "explain": "Devi loses again, yet for the first time she can name her own mistakes. The twenty losses gave her something a win would not have.",
       "standard": "RL.5.2",
-      "passage": "Devi had lost the same chess match to her uncle nineteen times. On the twentieth try she did not attack at all. She simply moved her pieces the way her uncle always moved his, and watched what happened. Halfway through the game her uncle stopped humming. Devi did not win that day either, but walking home she found she could name every mistake she had made, and that had never been true before."
+      "passage": "Devi had lost the same chess match to her uncle nineteen times. On the twentieth try she did not attack at all. She simply moved her pieces the way her uncle always moved his, and watched what happened. Halfway through the game her uncle stopped humming. Devi did not win that day either, but walking home she found she could name every mistake she had made, and that had never been true before.",
+      "type": "reading"
     },
     {
       "id": "g5_v33_008",
@@ -100277,7 +100327,8 @@
       "correct": 3,
       "explain": "The passage lists what went into the backpack and says the jar of paint was for art class.",
       "standard": "RL.1.1",
-      "passage": "Tomas packed his backpack for school. He put in his lunch, his reading book, and a jar of paint for art class. On the bus he held the bag flat on his knees."
+      "passage": "Tomas packed his backpack for school. He put in his lunch, his reading book, and a jar of paint for art class. On the bus he held the bag flat on his knees.",
+      "type": "reading"
     },
     {
       "id": "g1_v34_009",
@@ -100295,7 +100346,8 @@
       "correct": 0,
       "explain": "Rosa waited all week, then the trip did not happen. Sitting alone watching puddles shows she feels let down.",
       "standard": "RL.1.3",
-      "passage": "Rosa waited all week for the school trip. On Friday morning it rained hard. The bus did not come. Rosa sat by the window and watched the puddles grow."
+      "passage": "Rosa waited all week for the school trip. On Friday morning it rained hard. The bus did not come. Rosa sat by the window and watched the puddles grow.",
+      "type": "reading"
     },
     {
       "id": "g1_v34_010",
@@ -100313,7 +100365,8 @@
       "correct": 1,
       "explain": "Every sentence tells something about bats: when they sleep, where they hang, and what they eat.",
       "standard": "RI.1.2",
-      "passage": "Bats sleep during the day. They hang upside down in caves. At night bats fly out to catch bugs. A bat can eat hundreds of bugs in one night."
+      "passage": "Bats sleep during the day. They hang upside down in caves. At night bats fly out to catch bugs. A bat can eat hundreds of bugs in one night.",
+      "type": "reading"
     },
     {
       "id": "g1_v34_011",
@@ -100638,7 +100691,8 @@
       "correct": 0,
       "explain": "Counting chairs and smelling paint only set the scene. Reworking the flyer after nobody came is the action that shows she kept going.",
       "standard": "RL.4.1",
-      "passage": "The gym smelled like fresh paint. Marisol set her bag down and counted the empty chairs: twenty-two. She had told twenty-two people about the meeting. Nobody had come. She pulled out her notebook and started rewriting the flyer."
+      "passage": "The gym smelled like fresh paint. Marisol set her bag down and counted the empty chairs: twenty-two. She had told twenty-two people about the meeting. Nobody had come. She pulled out her notebook and started rewriting the flyer.",
+      "type": "reading"
     },
     {
       "id": "g4_v34_010",
@@ -100656,7 +100710,8 @@
       "correct": 1,
       "explain": "The words First, Next, and Finally walk the reader through one stage at a time, in order.",
       "standard": "RI.4.5",
-      "passage": "Fog forms in three steps. First, warm air picks up water vapor from a lake or a river. Next, the air cools as night falls. Finally, the vapor turns back into tiny drops that hang in the air, and the fog appears."
+      "passage": "Fog forms in three steps. First, warm air picks up water vapor from a lake or a river. Next, the air cools as night falls. Finally, the vapor turns back into tiny drops that hang in the air, and the fog appears.",
+      "type": "reading"
     },
     {
       "id": "g4_v34_011",
@@ -100674,7 +100729,8 @@
       "correct": 2,
       "explain": "The crew wrapped the trunk and fenced the roots, and by October the oak dropped acorns the same as always. Trucks still used the new road.",
       "standard": "RI.4.1",
-      "passage": "The park's oak had stood for ninety years. In March the crew wrapped its trunk in burlap and set a low fence around the roots. All summer, trucks rumbled past on the new road. In October the oak dropped acorns, the same as always."
+      "passage": "The park's oak had stood for ninety years. In March the crew wrapped its trunk in burlap and set a low fence around the roots. All summer, trucks rumbled past on the new road. In October the oak dropped acorns, the same as always.",
+      "type": "reading"
     },
     {
       "id": "g4_v34_012",
@@ -100916,7 +100972,8 @@
       "correct": 0,
       "explain": "Checking the reed three times points to nerves, while forty practices and the smile as she walks out point to being ready.",
       "standard": "RL.5.1",
-      "passage": "Nadia had practiced the solo forty times. Backstage, she checked the reed on her clarinet twice, then a third time. When the stage manager waved her on, she wiped her palms down the sides of her dress and walked out smiling."
+      "passage": "Nadia had practiced the solo forty times. Backstage, she checked the reed on her clarinet twice, then a third time. When the stage manager waved her on, she wiped her palms down the sides of her dress and walked out smiling.",
+      "type": "reading"
     },
     {
       "id": "g5_v34_006",
