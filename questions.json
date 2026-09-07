@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "questions": [
     {
       "id": "prek_count_001",
@@ -101870,6 +101870,873 @@
       "correct": 1,
       "standard": "NYS-SS-5",
       "explain": "Without the power to tax, Congress had to ask the states for money and they often refused. It could not repay its debts or fund a national government, and that weakness led to the Constitutional Convention."
+    },
+    {
+      "id": "g1_v36_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "Maya had 9 stickers. She gave 4 of them to a friend. How many stickers does Maya have left?",
+      "options": [
+        "13",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "standard": "1.OA.A.1",
+      "explain": "9 − 4 = 5. Maya has 5 stickers left."
+    },
+    {
+      "id": "g1_v36_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Adding Three Numbers",
+      "difficulty": 3,
+      "prompt": "Ben picked 6 apples on Monday, 5 apples on Tuesday, and 3 apples on Wednesday. How many apples did Ben pick in all?",
+      "options": [
+        "14",
+        "11",
+        "8",
+        "13"
+      ],
+      "correct": 0,
+      "standard": "1.OA.A.2",
+      "explain": "Add all three: 6 + 5 = 11, and 11 + 3 = 14 apples in all."
+    },
+    {
+      "id": "g1_v36_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 15 - 7?",
+      "options": [
+        "7",
+        "9",
+        "22",
+        "8"
+      ],
+      "correct": 3,
+      "standard": "1.OA.C.6",
+      "explain": "15 − 7 = 8. Take away 5 to reach 10, then take away 2 more to reach 8."
+    },
+    {
+      "id": "g1_v36_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value to 120",
+      "difficulty": 3,
+      "prompt": "Ana counts 8 bundles of ten straws and 3 single straws. How many straws does she have?",
+      "options": [
+        "38",
+        "83",
+        "11",
+        "803"
+      ],
+      "correct": 1,
+      "standard": "1.NBT.B.2",
+      "explain": "8 bundles of ten is 80 straws. Then 80 + 3 single straws makes 83."
+    },
+    {
+      "id": "g1_v36_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "Ana has 14 beads. Ana has 6 more beads than Leo. How many beads does Leo have?",
+      "options": [
+        "8",
+        "20",
+        "6",
+        "9"
+      ],
+      "correct": 0,
+      "standard": "1.OA.A.1",
+      "explain": "Ana has 6 more than Leo, so Leo has 6 fewer than Ana. 14 − 6 = 8."
+    },
+    {
+      "id": "g1_v36_006",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "On Saturday, Kofi helped his grandmother at the market. He carried the small bag while she carried the big one. On the way home she bought him a warm roll from the corner stand.",
+      "prompt": "What did Kofi carry at the market?",
+      "options": [
+        "the big bag",
+        "a warm roll",
+        "a wooden crate",
+        "the small bag"
+      ],
+      "correct": 3,
+      "standard": "RL.1.1",
+      "explain": "The passage says Kofi carried the small bag while his grandmother carried the big one."
+    },
+    {
+      "id": "g1_v36_007",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Owls hunt at night. Their big eyes let in a lot of light, so they can see when it is dark. Their soft feathers make almost no sound when they fly. A mouse on the ground never hears an owl coming.",
+      "prompt": "What is this passage mostly about?",
+      "options": [
+        "why mice live in fields",
+        "how baby owls learn to fly",
+        "how owls hunt at night",
+        "where owls build their nests"
+      ],
+      "correct": 2,
+      "standard": "RI.1.2",
+      "explain": "Every sentence tells about owls hunting after dark — their eyes, their quiet feathers, and the mouse that never hears them."
+    },
+    {
+      "id": "g1_v36_008",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Tomas held his picture up to show the class. His hand shook a little. He looked down at his shoes and said his name so quietly that Mr. Lee asked him to say it again.",
+      "prompt": "How does Tomas most likely feel?",
+      "options": [
+        "angry",
+        "shy",
+        "sleepy",
+        "silly"
+      ],
+      "correct": 1,
+      "standard": "RL.1.3",
+      "explain": "His hand shakes, he looks down at his shoes, and he speaks very quietly. Those clues point to feeling shy."
+    },
+    {
+      "id": "g1_v36_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the correct verb?",
+      "options": [
+        "The three foxes run fast.",
+        "The three foxes runs fast.",
+        "The three fox run fast.",
+        "The three foxes running fast."
+      ],
+      "correct": 0,
+      "standard": "L.1.1.C",
+      "explain": "Foxes is plural, so it takes the plural verb run. One fox runs, but three foxes run."
+    },
+    {
+      "id": "g1_v36_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Long Vowel Patterns",
+      "difficulty": 2,
+      "prompt": "Which word has the same long e sound as green?",
+      "options": [
+        "bench",
+        "best",
+        "beach",
+        "bread"
+      ],
+      "correct": 2,
+      "standard": "RF.1.3.C",
+      "explain": "Beach uses the letters ea to make the long e sound, the same sound as the ee in green. In bread those same letters make a short e sound."
+    },
+    {
+      "id": "g1_v36_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 3,
+      "prompt": "Which sentence uses commas correctly?",
+      "options": [
+        "We packed apples cheese, and bread.",
+        "We packed, apples cheese and bread.",
+        "We packed apples, cheese and, bread.",
+        "We packed apples, cheese, and bread."
+      ],
+      "correct": 3,
+      "standard": "L.1.2.C",
+      "explain": "In a list of three things a comma follows each item except the last, and the word and comes before the last item."
+    },
+    {
+      "id": "g1_v36_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which word in this sentence is a proper noun? My dog Rex ran to the park.",
+      "options": [
+        "dog",
+        "Rex",
+        "ran",
+        "park"
+      ],
+      "correct": 1,
+      "standard": "L.1.1.B",
+      "explain": "Rex is the special name of one dog, so it is a proper noun and begins with a capital letter."
+    },
+    {
+      "id": "g1_v36_013",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 2,
+      "prompt": "A closet is completely dark with the door shut. What do your eyes need in order to see the coats inside?",
+      "options": [
+        "sound",
+        "wind",
+        "air",
+        "light"
+      ],
+      "correct": 3,
+      "standard": "1-PS4-2",
+      "explain": "An object can be seen only when light shines on it and bounces to your eyes. A shut closet has no light in it."
+    },
+    {
+      "id": "g1_v36_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 3,
+      "prompt": "Ravi sprinkles rice on a drumhead and taps the drum. The rice jumps up and down. What does this show?",
+      "options": [
+        "The drum is shaking.",
+        "The rice is getting warm.",
+        "The drum is made of wood.",
+        "The rice is turning into sound."
+      ],
+      "correct": 0,
+      "standard": "1-PS4-1",
+      "explain": "Sound is made when something vibrates. The drumhead shakes quickly, and that shaking makes the rice jump."
+    },
+    {
+      "id": "g1_v36_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Parents and Offspring",
+      "difficulty": 4,
+      "prompt": "A puppy has floppy ears like its mother, but its fur is a different color. What does this show about young animals?",
+      "options": [
+        "They look exactly the same as their parents.",
+        "They are like their parents in some ways.",
+        "They are not related to their parents at all.",
+        "They change into a different animal as they grow."
+      ],
+      "correct": 1,
+      "standard": "1-LS3-1",
+      "explain": "Young animals resemble their parents but are not identical to them. The floppy ears match the mother; the fur color does not."
+    },
+    {
+      "id": "g1_v36_016",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 2,
+      "prompt": "A crossing guard stands at the corner near a school. What is that person's job?",
+      "options": [
+        "to teach the morning classes",
+        "to deliver mail to the school",
+        "to help children cross safely",
+        "to fix the street lights"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-G1",
+      "explain": "A crossing guard stops the traffic so that students can walk across the street without danger."
+    },
+    {
+      "id": "g1_v36_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 3,
+      "prompt": "Which pair names a good and then a service?",
+      "options": [
+        "a haircut, and a comb",
+        "a bike, and a bike repair",
+        "a sandwich, and an apple",
+        "a bus ride, and a taxi ride"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "A good is a thing you can hold, like a bike. A service is work someone does for you, like repairing that bike."
+    },
+    {
+      "id": "g1_v36_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps and Globes",
+      "difficulty": 2,
+      "prompt": "Why do people use a map when they visit a new place?",
+      "options": [
+        "to see what time it is",
+        "to learn a new language",
+        "to check the weather today",
+        "to find where things are"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-G1",
+      "explain": "A map shows streets, parks, and buildings and where each one sits, so it helps a visitor find the way."
+    },
+    {
+      "id": "g1_v36_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Needs and Wants",
+      "difficulty": 3,
+      "prompt": "Which one is a need that every person must have?",
+      "options": [
+        "clean water",
+        "a new toy",
+        "a video game",
+        "a bag of candy"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-G1",
+      "explain": "A need is something you must have to live, such as water, food, and shelter. Toys, games, and candy are wants."
+    },
+    {
+      "id": "g1_v36_020",
+      "grade": "g1",
+      "subject": "literacy",
+      "topic": "Phonemic Awareness",
+      "difficulty": 2,
+      "prompt": "How many sounds do you hear in the word sheep?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "correct": 2,
+      "standard": "RF.1.2.D",
+      "explain": "Sheep has three sounds: /sh/, /ee/, /p/. The letters sh work together as one sound, and ee works as one sound."
+    },
+    {
+      "id": "g4_v36_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 2,
+      "prompt": "Which comparison is true?",
+      "options": [
+        "3/8 > 3/4",
+        "2/3 > 2/5",
+        "1/6 > 1/3",
+        "5/10 > 3/4"
+      ],
+      "correct": 1,
+      "standard": "4.NF.A.2",
+      "explain": "Both fractions count 2 parts. Fifths are smaller pieces than thirds, so 2/3 covers more than 2/5."
+    },
+    {
+      "id": "g4_v36_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A club has 138 members. Each van holds 8 members. How many vans are needed so that everyone gets a ride?",
+      "options": [
+        "17",
+        "16",
+        "17 r 2",
+        "18"
+      ],
+      "correct": 3,
+      "standard": "4.OA.A.3",
+      "explain": "8 × 17 = 136, which leaves 2 members without a seat. Those 2 still need a van, so 18 vans are needed."
+    },
+    {
+      "id": "g4_v36_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Which fraction is equal to 0.45?",
+      "options": [
+        "45/100",
+        "45/10",
+        "4/5",
+        "45/1000"
+      ],
+      "correct": 0,
+      "standard": "4.NF.C.6",
+      "explain": "0.45 is forty-five hundredths, and forty-five hundredths is written 45/100."
+    },
+    {
+      "id": "g4_v36_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 4,
+      "prompt": "What is 47 × 26?",
+      "options": [
+        "376",
+        "1,202",
+        "1,222",
+        "1,232"
+      ],
+      "correct": 2,
+      "standard": "4.NBT.B.5",
+      "explain": "47 × 26 = (47 × 20) + (47 × 6) = 940 + 282 = 1,222."
+    },
+    {
+      "id": "g4_v36_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Adding Mixed Numbers",
+      "difficulty": 4,
+      "prompt": "A painter used 3 5/8 gallons on Monday and 2 6/8 gallons on Tuesday. How many gallons in all?",
+      "options": [
+        "5 11/16",
+        "6 1/8",
+        "5 3/8",
+        "6 3/8"
+      ],
+      "correct": 3,
+      "standard": "4.NF.B.3.C",
+      "explain": "3 + 2 = 5 wholes. Then 5/8 + 6/8 = 11/8, which is 1 whole and 3/8. So 5 + 1 3/8 = 6 3/8."
+    },
+    {
+      "id": "g4_v36_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "A theater has 24 rows with 18 seats in each row. If 129 seats are empty, how many seats are filled?",
+      "options": [
+        "432",
+        "303",
+        "561",
+        "313"
+      ],
+      "correct": 1,
+      "standard": "4.OA.A.3",
+      "explain": "24 × 18 = 432 seats in all. Then 432 − 129 = 303 seats are filled."
+    },
+    {
+      "id": "g4_v36_007",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Every autumn, monarch butterflies leave the northern United States and fly south to a small band of mountain forests in central Mexico. The trip can cover almost three thousand miles. No single butterfly makes the round trip; the ones that return north in spring are the children and grandchildren of the ones that flew down. Scientists still do not fully understand how each new generation finds the same few groves its ancestors used.",
+      "prompt": "Which sentence best states the main idea of the passage?",
+      "options": [
+        "Monarch butterflies live for several years in Mexican forests.",
+        "Scientists have mapped every grove that monarchs have ever used.",
+        "Monarchs migrate far, and how they navigate is still a puzzle.",
+        "Butterflies fly south because the northern forests grow too crowded."
+      ],
+      "correct": 2,
+      "standard": "RI.4.2",
+      "explain": "The passage describes the long southward migration and then says scientists still cannot explain how each new generation finds the same groves."
+    },
+    {
+      "id": "g4_v36_008",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Priya set the violin case down on the bench and unbuckled it slowly. Around her the other students were already tuning, and the noise filled the room. She lifted the bow, then set it back in the case and checked the clasp twice. When Ms. Alvarez called her name, Priya stood up but did not look toward the front.",
+      "prompt": "Which detail best shows that Priya is nervous?",
+      "options": [
+        "She checks the clasp of her case twice.",
+        "She sets the violin case down on a bench.",
+        "The other students are tuning their strings.",
+        "Ms. Alvarez calls out each student's name."
+      ],
+      "correct": 0,
+      "standard": "RL.4.1",
+      "explain": "Checking the same clasp twice is a small repeated action that puts off her turn. Setting the case down and the tuning noise are ordinary details."
+    },
+    {
+      "id": "g4_v36_009",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Frogs and toads are close relatives, but a few differences are easy to spot. A frog's skin stays moist and smooth, while a toad's is dry and bumpy. Frogs have long back legs built for leaping; toads have shorter legs and usually walk. Frogs stay near ponds and streams, but toads can live far from water.",
+      "prompt": "How does the author organize the information in this passage?",
+      "options": [
+        "by telling a story from start to end",
+        "by listing the steps of an experiment",
+        "by giving reasons to protect ponds",
+        "by showing how two animals differ"
+      ],
+      "correct": 3,
+      "standard": "RI.4.5",
+      "explain": "After the opening sentence, each sentence sets a frog trait beside a toad trait — skin, then legs, then habitat."
+    },
+    {
+      "id": "g4_v36_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 2,
+      "prompt": "The Greek root tele means 'far off.' What does telescope most likely name?",
+      "options": [
+        "a tool for seeing far away",
+        "a tool for cutting metal",
+        "a tool for weighing rocks",
+        "a tool for drawing circles"
+      ],
+      "correct": 0,
+      "standard": "L.4.4.B",
+      "explain": "Tele means 'far off' and scope means 'to look at.' A telescope lets you look at things that are far away."
+    },
+    {
+      "id": "g4_v36_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "Read this sentence: The old truck coughed twice and then went quiet. What does the sentence suggest?",
+      "options": [
+        "The driver had caught a bad cold.",
+        "The engine sputtered and stopped.",
+        "Someone was coughing inside the truck.",
+        "The truck rolled backward down a hill."
+      ],
+      "correct": 1,
+      "standard": "L.4.5",
+      "explain": "Coughed is a word used for people, but here it describes an engine that sputters and then stops running."
+    },
+    {
+      "id": "g4_v36_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Sentence Structure",
+      "difficulty": 4,
+      "prompt": "Which choice corrects this run-on sentence? We finished the mural on Friday the whole class signed the corner.",
+      "options": [
+        "We finished the mural on Friday the whole class, signed the corner.",
+        "We finished the mural, on Friday the whole class signed the corner.",
+        "We finished the mural on Friday, and the whole class signed the corner.",
+        "We finished the mural on Friday and, the whole class signed the corner."
+      ],
+      "correct": 2,
+      "standard": "L.4.1.F",
+      "explain": "Two complete sentences are jammed together. Joining them with a comma and the conjunction and repairs the run-on."
+    },
+    {
+      "id": "g4_v36_013",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Weathering",
+      "difficulty": 2,
+      "prompt": "Water freezes in a crack in a rock and pushes the crack wider. Over many winters the rock splits apart. What is this an example of?",
+      "options": [
+        "weathering",
+        "evaporation",
+        "condensation",
+        "reflection"
+      ],
+      "correct": 0,
+      "standard": "NGSS-4-ESS2-1",
+      "explain": "Water expands as it freezes, opening the crack a little more each winter until the rock breaks. Breaking rock in place is weathering."
+    },
+    {
+      "id": "g4_v36_014",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 3,
+      "prompt": "A black car parked in the sun all afternoon feels much hotter inside than a white car parked beside it. What best explains the difference?",
+      "options": [
+        "The dark paint makes its own heat.",
+        "White cars have colder air inside them.",
+        "The dark paint absorbs more sunlight.",
+        "Sunlight cannot reach a white car at all."
+      ],
+      "correct": 2,
+      "standard": "NGSS-4-PS3-2",
+      "explain": "Sunlight carries energy. Dark surfaces take in more of that light energy and turn it into heat, while pale surfaces reflect more of it away."
+    },
+    {
+      "id": "g4_v36_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 4,
+      "prompt": "A deep-sea fish has a row of tiny pressure sensors running along each side of its body. How do those sensors most help the fish?",
+      "options": [
+        "They let the fish taste its food faster.",
+        "They keep the fish warm in cold water.",
+        "They help the fish float near the top.",
+        "They sense movement in dark water."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-LS1-1",
+      "explain": "Pressure sensors pick up water pushed aside by nearby animals. In the deep sea there is almost no light, so this system works where eyes cannot."
+    },
+    {
+      "id": "g4_v36_016",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 3,
+      "prompt": "The Erie Canal opened in 1825. Which two bodies of water did it connect?",
+      "options": [
+        "Lake Ontario and Long Island Sound",
+        "Lake Erie and the Hudson River",
+        "The Hudson River and Lake Champlain",
+        "Lake Erie and the Delaware River"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-4",
+      "explain": "The canal ran from Buffalo on Lake Erie to Albany on the Hudson River, giving farms in western New York a water route to the coast.",
+      "source": "NYS Grade 4 Social Studies Framework 4.4 — Geography, Economics, and the Erie Canal"
+    },
+    {
+      "id": "g4_v36_017",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 4,
+      "prompt": "The Haudenosaunee (Iroquois) Confederacy joined five nations under one Great Law of Peace. What was the main purpose of that agreement?",
+      "options": [
+        "to trade only with French settlers",
+        "to move every village farther west",
+        "to end fighting among the nations",
+        "to build one large city for all"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-4",
+      "explain": "The Great Law of Peace ended long conflicts among the Mohawk, Oneida, Onondaga, Cayuga, and Seneca and set up a council where they decided matters together.",
+      "source": "NYS Grade 4 Social Studies Framework 4.2 — Native American Groups and the Environment"
+    },
+    {
+      "id": "g4_v36_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 2,
+      "prompt": "Which body writes the laws for New York State?",
+      "options": [
+        "the State Legislature",
+        "the City Council in Buffalo",
+        "the United States Congress",
+        "the Albany school board"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "New York's State Legislature — the Senate and the Assembly — writes state laws in Albany. Congress writes national laws and a city council writes local ones.",
+      "source": "NYS Grade 4 Social Studies Framework 4.6 — Government"
+    },
+    {
+      "id": "g4_v36_019",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Vocabulary in Context",
+      "difficulty": 3,
+      "prompt": "Read this sentence: The hikers found a sheltered spot to rest out of the wind. What does sheltered mean here?",
+      "options": [
+        "abandoned",
+        "protected",
+        "expensive",
+        "unmarked"
+      ],
+      "correct": 1,
+      "standard": "L.4.4.A",
+      "explain": "The spot keeps the hikers out of the wind, so it protects them. Sheltered means shielded or protected."
+    },
+    {
+      "id": "g4_v36_020",
+      "grade": "g4",
+      "subject": "literacy",
+      "topic": "Multiple-Meaning Words",
+      "difficulty": 3,
+      "prompt": "In which sentence does current mean the same as in 'The current carried the raft downstream'?",
+      "options": [
+        "She keeps up with current news every morning.",
+        "The current price of milk went up again.",
+        "Our current teacher started here last fall.",
+        "A strong current pulled the swimmer sideways."
+      ],
+      "correct": 3,
+      "standard": "L.4.4.A",
+      "explain": "In the raft sentence, current means moving water. Only the swimmer sentence uses that meaning; the other three mean 'happening now.'"
+    },
+    {
+      "id": "g5_v36_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 3,
+      "prompt": "What is the value of 3 × (8 + 4) − 5?",
+      "options": [
+        "31",
+        "23",
+        "36",
+        "21"
+      ],
+      "correct": 0,
+      "standard": "5.OA.A.1",
+      "explain": "Work inside the parentheses first: 8 + 4 = 12. Then 3 × 12 = 36, and 36 − 5 = 31."
+    },
+    {
+      "id": "g5_v36_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 4,
+      "prompt": "What is 4 ÷ 1/5?",
+      "options": [
+        "4/5",
+        "1/20",
+        "20",
+        "9"
+      ],
+      "correct": 2,
+      "standard": "5.NF.B.7.B",
+      "explain": "Ask how many fifths fit into 4 wholes. Each whole holds 5 fifths, so 4 wholes hold 4 × 5 = 20 fifths."
+    },
+    {
+      "id": "g5_v36_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 4,
+      "prompt": "A rectangular box has a volume of 180 cubic cm. It is 9 cm long and 5 cm wide. How tall is it?",
+      "options": [
+        "36 cm",
+        "4 cm",
+        "20 cm",
+        "45 cm"
+      ],
+      "correct": 1,
+      "standard": "5.MD.C.5.B",
+      "explain": "The base area is 9 × 5 = 45 square cm. Since 45 × height = 180, the height is 180 ÷ 45 = 4 cm."
+    },
+    {
+      "id": "g5_v36_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 5,
+      "prompt": "One batch of muffins uses 3/4 cup of flour. Mia has 5 cups of flour and makes as many whole batches as she can. How much flour is left over?",
+      "options": [
+        "1/4 cup",
+        "3/4 cup",
+        "2 cups",
+        "1/2 cup"
+      ],
+      "correct": 3,
+      "standard": "5.NF.B.6",
+      "explain": "Six batches take 6 × 3/4 = 4 1/2 cups. A seventh would need 5 1/4 cups, more than Mia has. So 5 − 4 1/2 = 1/2 cup is left over."
+    },
+    {
+      "id": "g5_v36_005",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 5,
+      "type": "reading",
+      "passage": "Dad said the apartment came with a fire escape and that was as good as a yard. Every evening that first summer, Odalys carried a folding chair out through the window and sat with her book until the streetlights came on. In September she wrote her cousin in Ponce that she had a reading room with a view, and did not mention that it was four feet wide and made of iron.",
+      "prompt": "What can you infer about how Odalys feels about the fire escape?",
+      "options": [
+        "She has made it her own and is proud of it.",
+        "She is afraid to climb out there after dark.",
+        "She thinks the streetlights are too bright at night.",
+        "She wishes her cousin would come visit Ponce."
+      ],
+      "correct": 0,
+      "standard": "RL.5.1",
+      "explain": "She uses it every evening and calls it a reading room with a view when she writes home, leaving out how narrow it really is."
+    },
+    {
+      "id": "g5_v36_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 2,
+      "prompt": "The root bene means 'good.' What does beneficial most likely mean?",
+      "options": [
+        "harmful",
+        "helpful",
+        "unusual",
+        "costly"
+      ],
+      "correct": 1,
+      "standard": "L.5.4.B",
+      "explain": "Bene means 'good,' so something beneficial does good — it is helpful."
+    },
+    {
+      "id": "g5_v36_007",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "Read this line: By the third hour of the drive, the map on Jonah's lap had become a wrinkled country of its own. What does the metaphor suggest?",
+      "options": [
+        "The map shows a place nobody has visited.",
+        "The car has driven through three countries.",
+        "The map is heavily creased from handling.",
+        "The country on the map has changed names."
+      ],
+      "correct": 2,
+      "standard": "L.5.5.A",
+      "explain": "Calling the map a wrinkled country compares its folds and creases to hills and borders. It has been opened and refolded all day."
+    },
+    {
+      "id": "g5_v36_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Space",
+      "difficulty": 3,
+      "prompt": "A shadow on the playground is long in the early morning, short at noon, and long again in the late afternoon. What causes this pattern?",
+      "options": [
+        "Earth spins, changing the Sun's angle.",
+        "Earth moves closer to the Sun by noon.",
+        "The Sun grows brighter in the middle of the day.",
+        "Clouds block sunlight in the early morning."
+      ],
+      "correct": 0,
+      "standard": "NGSS-5-ESS1-2",
+      "explain": "Earth rotates once a day, so the Sun appears low in the sky morning and evening and high near noon. A low Sun casts a long shadow."
+    },
+    {
+      "id": "g5_v36_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Ecosystems",
+      "difficulty": 5,
+      "prompt": "In a pond, algae are eaten by insect larvae, and the larvae are eaten by small fish. If a disease kills nearly all the larvae one summer, what will most likely happen?",
+      "options": [
+        "Algae decline and small fish increase.",
+        "Both algae and small fish increase fast.",
+        "Neither algae nor small fish are affected.",
+        "Algae increase and small fish decline."
+      ],
+      "correct": 3,
+      "standard": "NGSS-5-LS2-1",
+      "explain": "The larvae both eat algae and feed the fish. With few larvae, less algae is eaten so algae build up, and the fish lose their food supply."
+    },
+    {
+      "id": "g5_v36_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 2,
+      "prompt": "In the United States government, which branch decides what a law means when people disagree?",
+      "options": [
+        "the legislative branch",
+        "the judicial branch",
+        "the executive branch",
+        "the state branch"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "Courts make up the judicial branch. Judges interpret laws and apply them to cases. Congress writes laws and the president carries them out."
     }
   ]
 }
