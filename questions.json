@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "questions": [
     {
       "id": "prek_count_001",
@@ -102988,6 +102988,7 @@
       "subject": "reading",
       "topic": "Key Details",
       "difficulty": 2,
+      "type": "reading",
       "prompt": "What did Omar see on a log?",
       "passage": "Omar packed a snack for the hike. He put two pears and a bag of nuts in his backpack. On the trail he saw a chipmunk on a log. He kept walking until he reached the wide flat stone at the top.",
       "options": [
@@ -103006,6 +103007,7 @@
       "subject": "reading",
       "topic": "Main Topic",
       "difficulty": 3,
+      "type": "reading",
       "prompt": "What is this passage mostly about?",
       "passage": "Ms. Ruiz drives a snowplow. When snow falls at night, she gets up before the sun. Her truck pushes the snow to the side of the road. She spreads salt so the ice melts. By morning the buses can drive safely to school.",
       "options": [
@@ -103024,6 +103026,7 @@
       "subject": "reading",
       "topic": "Characters and Events",
       "difficulty": 2,
+      "type": "reading",
       "prompt": "Who helped Milo find his lunchbox?",
       "passage": "Milo could not find his lunchbox. He looked under the bed and behind the door. Then his sister Ida pointed at the kitchen table. The lunchbox was there the whole time.",
       "options": [
@@ -103332,6 +103335,7 @@
       "subject": "reading",
       "topic": "Main Idea",
       "difficulty": 3,
+      "type": "reading",
       "prompt": "What is the main idea of this passage?",
       "passage": "Cut across a tree trunk and you will see a pattern of rings. The tree adds one ring each year, and that ring is wide in a season with plenty of rain and narrow in a dry one. Scientists who study old logs can read those rings and describe the weather in a valley long before anyone wrote it down.",
       "options": [
@@ -103350,6 +103354,7 @@
       "subject": "reading",
       "topic": "Vocabulary in Context",
       "difficulty": 3,
+      "type": "reading",
       "prompt": "What does the word migrate mean as it is used in this passage?",
       "passage": "Monarch butterflies migrate each fall, traveling from as far north as Canada to a handful of mountain forests in central Mexico. No single butterfly makes the whole round trip. The insects that fly south in October are the great-grandchildren of the ones that flew north the previous spring.",
       "options": [
@@ -103368,6 +103373,7 @@
       "subject": "reading",
       "topic": "Inference",
       "difficulty": 3,
+      "type": "reading",
       "prompt": "What does Nadia's behavior suggest about her?",
       "passage": "Nadia checked the clock for the fourth time in ten minutes. Her flute case sat by the door, already packed. When her father finally called that the car was warm, she was down the stairs before he finished the sentence.",
       "options": [
@@ -103575,6 +103581,7 @@
       "subject": "reading",
       "topic": "Theme",
       "difficulty": 5,
+      "type": "reading",
       "prompt": "What is the theme of this passage?",
       "passage": "When the new boy, Tomas, mispronounced a word during read-aloud, two rows of the class laughed. Nell felt her face go hot; she had been the new one last year. She did not say anything then. At lunch she carried her tray past her usual table, sat down across from Tomas, and asked him what books he liked.",
       "options": [
