@@ -212,6 +212,27 @@ ARITH = [
 ]
 
 
+def rendering_contract(q):
+    from fractions import Fraction
+    errors = []
+    qid = q.get("id", "?")
+    if q.get("passage") and q.get("type") != "reading":
+        errors.append(("HIDDEN_PASSAGE", f"{qid} passage requires reading type"))
+    # Equivalent numeric distractors are unfair unless a form is explicitly requested.
+    if "simplest form" not in q.get("prompt", "").lower():
+        values = {}
+        for i, option in enumerate(q.get("options", [])):
+            if re.fullmatch(r"-?\d+(?:\.\d+)?(?:/\d+)?%?", option.strip()):
+                try:
+                    values[i] = Fraction(option.strip().rstrip("%")) / (100 if option.endswith("%") else 1)
+                except (ValueError, ZeroDivisionError):
+                    pass
+        key = q.get("correct")
+        if key in values and any(i != key and v == values[key] for i, v in values.items()):
+            errors.append(("EQUIVALENT_ANSWER", f"{qid} has a numeric option equal to the key"))
+    return errors
+
+
 def tier1_correctness(q):
     errs = []
     qid = q.get("id", "<no id>")
@@ -488,6 +509,7 @@ def main():
     # Tiers 1-2 apply to the whole bank, always.
     for q in qs:
         errors += tier1_correctness(q)
+        errors += rendering_contract(q)
         warnings += tier1_advisory(q)
         e, w = tier2_grade_fit(q, strict=args.strict and q.get("id") not in baseline_ids)
         errors += e
@@ -542,3 +564,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+
