@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "questions": [
     {
       "id": "prek_count_001",
@@ -103661,6 +103661,872 @@
       "correct": 2,
       "standard": "NYS-SS-5",
       "explain": "A river supplied drinking water, watered nearby fields, and carried boats, so settlements gathered along its banks."
+    },
+    {
+      "id": "g1_v39_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equal Shares",
+      "difficulty": 2,
+      "prompt": "Ken shares 1 whole apple equally with his sister. Each of them gets ___ of the apple.",
+      "options": [
+        "one third",
+        "one fourth",
+        "one half",
+        "the whole"
+      ],
+      "correct": 2,
+      "explain": "Sharing one whole equally between 2 people makes 2 equal parts, and each part is one half.",
+      "standard": "1.G.A.3"
+    },
+    {
+      "id": "g1_v39_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Ten More and Ten Less",
+      "difficulty": 2,
+      "prompt": "There are 85 books on a shelf. Ten books are taken off the shelf. How many books are left?",
+      "options": [
+        "75",
+        "95",
+        "84",
+        "80"
+      ],
+      "correct": 0,
+      "explain": "Taking away 10 lowers the tens digit by one: 85 books minus 10 books leaves 75 books.",
+      "standard": "1.NBT.C.5"
+    },
+    {
+      "id": "g1_v39_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Composing Shapes",
+      "difficulty": 2,
+      "prompt": "Which shape is made by joining two squares of the same size side by side?",
+      "options": [
+        "a trapezoid",
+        "a triangle",
+        "a circle",
+        "a rectangle"
+      ],
+      "correct": 3,
+      "explain": "Two equal squares pushed together make a longer four-sided shape with square corners, which is a rectangle.",
+      "standard": "1.G.A.2"
+    },
+    {
+      "id": "g1_v39_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Data",
+      "difficulty": 2,
+      "prompt": "A tally chart shows 6 votes for cats, 3 votes for dogs, and 5 votes for fish. Which animal got the most votes?",
+      "options": [
+        "dogs",
+        "cats",
+        "fish",
+        "birds"
+      ],
+      "correct": 1,
+      "explain": "Cats have 6 votes, fish have 5, and dogs have 3. Six is the largest count on the chart.",
+      "standard": "1.MD.C.4"
+    },
+    {
+      "id": "g1_v39_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Digit Addition with Regrouping",
+      "difficulty": 4,
+      "prompt": "Room 12 saves 47 bottle caps in June and 8 bottle caps in July. How many bottle caps is that in all?",
+      "options": [
+        "55",
+        "415",
+        "45",
+        "39"
+      ],
+      "correct": 0,
+      "explain": "7 ones and 8 ones make 15 ones, which is 1 ten and 5 ones. That new ten joins the 4 tens: 47 + 8 = 55.",
+      "standard": "1.NBT.C.4"
+    },
+    {
+      "id": "g1_v39_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equal Sign Meaning",
+      "difficulty": 4,
+      "prompt": "Which number goes in the blank so that both sides are equal?  6 + ___ = 4 + 9",
+      "options": [
+        "13",
+        "19",
+        "7",
+        "3"
+      ],
+      "correct": 2,
+      "explain": "The right side is 4 + 9 = 13. The left side has to equal 13 too, and 6 + 7 = 13.",
+      "standard": "1.OA.D.7"
+    },
+    {
+      "id": "g1_v39_007",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 4,
+      "prompt": "Kim has 4 tens and 12 ones. Lee has 5 tens and 3 ones. Who has the greater number?",
+      "options": [
+        "Kim, whose number is 52",
+        "Lee, whose number is 53",
+        "Kim, whose number is 412",
+        "They are equal at 52"
+      ],
+      "correct": 1,
+      "explain": "Kim has 40 + 12, which is 52. Lee has 50 + 3, which is 53. 53 is greater than 52.",
+      "standard": "1.NBT.B.3"
+    },
+    {
+      "id": "g1_v39_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Suffixes",
+      "difficulty": 3,
+      "prompt": "Read this sentence: The careless painter spilled the paint. What does careless mean?",
+      "options": [
+        "full of care",
+        "more careful",
+        "the best care",
+        "without care"
+      ],
+      "correct": 3,
+      "explain": "The ending -less means without, so careless means without care.",
+      "standard": "L.1.4.B"
+    },
+    {
+      "id": "g1_v39_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 3,
+      "prompt": "Sam did not just walk to the bus. He moved as fast as he could. Which word fits Sam best?",
+      "options": [
+        "strolled",
+        "wandered",
+        "paused",
+        "sprinted"
+      ],
+      "correct": 3,
+      "explain": "Sprinted means ran very fast. Strolled and wandered mean moving slowly, and paused means stopping.",
+      "standard": "L.1.5.D"
+    },
+    {
+      "id": "g1_v39_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Text Features",
+      "difficulty": 2,
+      "prompt": "In a book about animals, what does a heading at the top of a page tell you?",
+      "options": [
+        "who drew the pictures",
+        "what that part is about",
+        "when the book was made",
+        "how many pages there are"
+      ],
+      "correct": 1,
+      "explain": "A heading names the part of the book that comes after it, so it tells you what that part is about.",
+      "standard": "RI.1.5"
+    },
+    {
+      "id": "g1_v39_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Verbs",
+      "difficulty": 3,
+      "prompt": "Which sentence uses a verb that shows the action is happening right now?",
+      "options": [
+        "The bird is singing.",
+        "The bird sang loudly.",
+        "The bird will sing soon.",
+        "The bird sang last night."
+      ],
+      "correct": 0,
+      "explain": "Is singing shows an action going on now. Sang tells about the past, and will sing tells about later.",
+      "standard": "L.1.1.E"
+    },
+    {
+      "id": "g1_v39_012",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "What did Sam give his snowman?",
+      "options": [
+        "a blue hat",
+        "a green coat",
+        "a red scarf",
+        "a warm mitten"
+      ],
+      "correct": 2,
+      "explain": "The last sentence says Sam gave his snowman a red scarf.",
+      "standard": "RL.1.1",
+      "passage": "Sam put on his boots and walked outside into the snow. He rolled three big snowballs and stacked them up. Then he gave his snowman a red scarf.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v39_013",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 3,
+      "prompt": "According to the passage, why could people walk safely again?",
+      "options": [
+        "The ground stayed dry.",
+        "The salt melted the ice.",
+        "New ice covered the walk.",
+        "The truck blocked the path."
+      ],
+      "correct": 1,
+      "explain": "The passage says the salt made the ice melt, and after that people could walk safely.",
+      "standard": "RI.1.3",
+      "passage": "Ice on the sidewalk made it slippery. The city sent a truck to spread salt on the path. The salt made the ice melt. Soon people could walk safely again.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v39_014",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "prompt": "According to the passage, what do firefighters use to put out fires?",
+      "options": [
+        "a red ladder",
+        "a big shovel",
+        "a paper map",
+        "a long hose"
+      ],
+      "correct": 3,
+      "explain": "The passage says firefighters use a long hose to spray water on fires.",
+      "standard": "RI.1.1",
+      "passage": "Firefighters help keep people safe. They ride in a big red truck. They use a long hose to spray water on fires. They also teach kids how to stay safe at home.",
+      "type": "reading"
+    },
+    {
+      "id": "g1_v39_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 3,
+      "prompt": "A cat's whiskers are long, stiff hairs on its face. How do whiskers help a cat?",
+      "options": [
+        "They help the cat taste food.",
+        "They keep the cat's eyes shut.",
+        "They feel narrow spaces.",
+        "They make the cat's fur grow."
+      ],
+      "correct": 2,
+      "explain": "Whiskers touch the sides of an opening, so a cat can feel whether a space is wide enough.",
+      "standard": "1-LS1-1"
+    },
+    {
+      "id": "g1_v39_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Inherited Traits",
+      "difficulty": 2,
+      "prompt": "A young oak tree has the same shaped leaves as the big oak tree it grew from. What does this show?",
+      "options": [
+        "Young plants look like their parents.",
+        "Young plants pick their own leaf shape.",
+        "Leaves change shape in the winter.",
+        "Every tree in a forest looks the same."
+      ],
+      "correct": 0,
+      "explain": "Plants pass their traits to their young, so a young oak looks much like the oak it came from.",
+      "standard": "1-LS3-1"
+    },
+    {
+      "id": "g1_v39_017",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 3,
+      "prompt": "You cannot see anything in a room with no light at all. What must happen before you can see an object?",
+      "options": [
+        "Light must reach the object.",
+        "The object must be painted a bright color.",
+        "The object must make a loud sound.",
+        "The room must be completely quiet."
+      ],
+      "correct": 0,
+      "explain": "Objects can only be seen when light shines on them and bounces to your eyes.",
+      "standard": "1-PS4-2"
+    },
+    {
+      "id": "g1_v39_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 2,
+      "prompt": "A librarian, a bus driver, and a nurse all do jobs that ___.",
+      "options": [
+        "happen only at night",
+        "need no training",
+        "are done at home",
+        "help other people"
+      ],
+      "correct": 3,
+      "explain": "Each of these workers does something for other people in the community.",
+      "standard": "NYS-SS-1"
+    },
+    {
+      "id": "g1_v39_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Family History",
+      "difficulty": 2,
+      "prompt": "How can you find out what your grandparents' childhood was like?",
+      "options": [
+        "read tomorrow's news",
+        "ask them questions",
+        "look at a world map",
+        "watch the weather"
+      ],
+      "correct": 1,
+      "explain": "People who lived in the past can tell you about it, so asking your grandparents is the way to find out.",
+      "standard": "NYS-SS-1"
+    },
+    {
+      "id": "g1_v39_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 3,
+      "prompt": "Why must a family choose only some of the things they want at the store?",
+      "options": [
+        "Stores only sell what families truly need.",
+        "Every item in a store costs the same price.",
+        "There is not enough money for everything.",
+        "Families always want exactly one thing."
+      ],
+      "correct": 2,
+      "explain": "Money is limited, so a family has to decide which wants to spend it on.",
+      "standard": "NYS-SS-1"
+    },
+    {
+      "id": "g4_v39_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 3,
+      "prompt": "Which number has a 6 that is worth 60,000?",
+      "options": [
+        "436,921",
+        "693,421",
+        "364,921",
+        "149,236"
+      ],
+      "correct": 2,
+      "explain": "In 364,921 the 6 sits in the ten thousands place, so it stands for 60,000.",
+      "standard": "4.NBT.A.2"
+    },
+    {
+      "id": "g4_v39_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Rounding",
+      "difficulty": 3,
+      "prompt": "A town has 3,650 people. A reporter writes that about 4,000 people live there. To what place did the reporter round?",
+      "options": [
+        "the nearest hundred",
+        "the nearest thousand",
+        "the nearest ten",
+        "the nearest hundred thousand"
+      ],
+      "correct": 1,
+      "explain": "3,650 rounds to 4,000 only when you round to the thousands place; to the nearest hundred it would be 3,700.",
+      "standard": "4.NBT.A.3"
+    },
+    {
+      "id": "g4_v39_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 3,
+      "prompt": "Mrs. Lee can line up her chairs in rows of 4 with none left over, and also in rows of 6 with none left over. How many chairs could she have?",
+      "options": [
+        "20",
+        "18",
+        "14",
+        "24"
+      ],
+      "correct": 3,
+      "explain": "24 divides evenly by both: 24 = 4 x 6 and 24 = 6 x 4. 20 works only for rows of 4, and 18 only for rows of 6.",
+      "standard": "4.OA.B.4"
+    },
+    {
+      "id": "g4_v39_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Line Plots",
+      "difficulty": 4,
+      "prompt": "A line plot of pencil lengths shows three pencils at 4 1/2 inches, two at 5 inches, and one at 5 1/2 inches. What is the total length of the two 5-inch pencils and the 5 1/2-inch pencil?",
+      "options": [
+        "15 1/2 inches",
+        "10 1/2 inches",
+        "16 inches",
+        "13 1/2 inches"
+      ],
+      "correct": 0,
+      "explain": "Add the three lengths from the plot: 5 + 5 + 5 1/2 = 15 1/2 inches.",
+      "standard": "4.MD.B.4"
+    },
+    {
+      "id": "g4_v39_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 4,
+      "prompt": "A ribbon is 3 meters long. Kim cuts off 145 centimeters. How many centimeters of ribbon are left?",
+      "options": [
+        "255",
+        "145",
+        "445",
+        "155"
+      ],
+      "correct": 3,
+      "explain": "3 meters is 300 centimeters, and 300 - 145 = 155 centimeters left.",
+      "standard": "4.MD.A.2"
+    },
+    {
+      "id": "g4_v39_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Area and Perimeter",
+      "difficulty": 4,
+      "prompt": "A rectangular garden is 12 feet long and its perimeter is 34 feet. What is its area?",
+      "options": [
+        "60 square feet",
+        "34 square feet",
+        "24 square feet",
+        "144 square feet"
+      ],
+      "correct": 0,
+      "explain": "The two long sides use 24 feet of the perimeter, leaving 10 feet for two widths, so each width is 5 feet. Area is 12 x 5 = 60 square feet.",
+      "standard": "4.MD.A.3"
+    },
+    {
+      "id": "g4_v39_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A library has 6 shelves with 45 books on each shelf. Volunteers add 130 more books. How many books does the library have now?",
+      "options": [
+        "270",
+        "175",
+        "400",
+        "1,050"
+      ],
+      "correct": 2,
+      "explain": "First 6 x 45 = 270 books on the shelves, then 270 + 130 = 400 books in all.",
+      "standard": "4.OA.A.3"
+    },
+    {
+      "id": "g4_v39_008",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy and Speed",
+      "difficulty": 2,
+      "prompt": "Two identical carts roll across the floor. The faster cart pushes a block much farther. What does this show about the faster cart?",
+      "options": [
+        "It has less energy.",
+        "It has more energy.",
+        "It has more mass.",
+        "It has less mass."
+      ],
+      "correct": 1,
+      "explain": "A faster object carries more energy of motion, so it can do more work on the block it hits. The carts are identical, so their mass is the same.",
+      "standard": "NGSS-4-PS3-1"
+    },
+    {
+      "id": "g4_v39_009",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Erosion",
+      "difficulty": 3,
+      "prompt": "Which change would most slow down the erosion of a bare hillside?",
+      "options": [
+        "loosening the soil with a rake",
+        "planting grass on it",
+        "pouring more water on it",
+        "making the slope steeper"
+      ],
+      "correct": 1,
+      "explain": "Plant roots hold soil in place, so grass on the slope keeps rain from washing the soil away.",
+      "standard": "NGSS-4-ESS2-1"
+    },
+    {
+      "id": "g4_v39_010",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Fossils and Rock Layers",
+      "difficulty": 4,
+      "prompt": "In an undisturbed cliff, one layer of fossils sits below another layer of fossils. What does that tell scientists?",
+      "options": [
+        "The layers formed at once.",
+        "The upper layer is older.",
+        "The lower layer is older.",
+        "The cliff was built by people."
+      ],
+      "correct": 2,
+      "explain": "Sediment piles up from the bottom, so in rock that has not been disturbed the deeper layer was laid down first and is older.",
+      "standard": "NGSS-4-ESS1-1"
+    },
+    {
+      "id": "g4_v39_011",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Waves",
+      "difficulty": 3,
+      "prompt": "Two water waves pass a floating duck. The second wave lifts the duck higher than the first wave does. What is greater about the second wave?",
+      "options": [
+        "its amplitude",
+        "its wavelength",
+        "its direction",
+        "its speed"
+      ],
+      "correct": 0,
+      "explain": "Amplitude is the height of a wave, so the wave that lifts the duck higher has the greater amplitude.",
+      "standard": "NGSS-4-PS4-1"
+    },
+    {
+      "id": "g4_v39_012",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 2,
+      "prompt": "On a map of New York State, what does a star usually mark?",
+      "options": [
+        "the largest lake",
+        "the highest hill",
+        "a national park",
+        "the capital city"
+      ],
+      "correct": 3,
+      "explain": "Mapmakers use a star in the map key to mark a capital, so a star on a New York State map points to its capital city.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Geography of New York State)"
+    },
+    {
+      "id": "g4_v39_013",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Local Government",
+      "difficulty": 3,
+      "prompt": "Which job belongs to a city or town government rather than the national government?",
+      "options": [
+        "picking up trash on local streets",
+        "printing the country's paper money",
+        "signing treaties with other nations",
+        "commanding the national army"
+      ],
+      "correct": 0,
+      "explain": "Local governments run everyday services such as trash collection. Money, treaties, and the armed forces are national responsibilities.",
+      "standard": "NYS-SS-4"
+    },
+    {
+      "id": "g4_v39_014",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Immigration",
+      "difficulty": 3,
+      "prompt": "In the late 1800s, immigrants arriving at Ellis Island had to pass an inspection. What did that inspection mainly check?",
+      "options": [
+        "how much English they spoke",
+        "their health and names",
+        "which farm they wanted",
+        "how far they had sailed"
+      ],
+      "correct": 1,
+      "explain": "Inspectors gave arrivals a medical exam and recorded details such as name and occupation before letting them enter.",
+      "standard": "NYS-SS-4",
+      "source": "National Park Service - Ellis Island, immigration station history"
+    },
+    {
+      "id": "g4_v39_015",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Colonial NY",
+      "difficulty": 4,
+      "prompt": "The Dutch built their first New Netherland settlement at the mouth of the Hudson River. Why was that spot useful for trade?",
+      "options": [
+        "The river was frozen most of the year.",
+        "It was the coldest place on the coast.",
+        "No trees grew anywhere near it.",
+        "The harbor was deep and sheltered."
+      ],
+      "correct": 3,
+      "explain": "A deep, sheltered harbor let ocean ships dock safely, and the river carried goods inland from there.",
+      "standard": "NYS-SS-4",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Colonial and Revolutionary Period)"
+    },
+    {
+      "id": "g4_v39_016",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Modal Auxiliaries",
+      "difficulty": 3,
+      "prompt": "Which word best completes the sentence to show that something is possible but not certain? It ___ rain later.",
+      "options": [
+        "will",
+        "must",
+        "may",
+        "did"
+      ],
+      "correct": 2,
+      "explain": "May shows possibility. Will and must state something as certain, and did puts it in the past.",
+      "standard": "L.4.1.C"
+    },
+    {
+      "id": "g4_v39_017",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Adjective Order",
+      "difficulty": 3,
+      "prompt": "Which sentence puts the adjectives in the order English speakers normally use?",
+      "options": [
+        "She wore a blue long scarf.",
+        "She wore a scarf blue long.",
+        "She wore a long blue scarf.",
+        "She wore a blue scarf long."
+      ],
+      "correct": 2,
+      "explain": "In English a size word comes before a color word, so long comes before blue. The other choices reverse that order or push the adjectives behind the noun.",
+      "standard": "L.4.1.D"
+    },
+    {
+      "id": "g4_v39_018",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Idioms and Adages",
+      "difficulty": 2,
+      "prompt": "Before the test, Jordan said he had to hit the books. What does hit the books mean?",
+      "options": [
+        "read out loud",
+        "clean the shelf",
+        "hide the books",
+        "study hard"
+      ],
+      "correct": 3,
+      "explain": "Hit the books is an idiom that means to study, not to strike anything.",
+      "standard": "L.4.5.B"
+    },
+    {
+      "id": "g4_v39_019",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "prompt": "What pattern does the author use to present these two animals?",
+      "options": [
+        "by comparing two animals",
+        "by listing steps in order",
+        "by asking many questions",
+        "by solving one problem"
+      ],
+      "correct": 0,
+      "explain": "Each sentence sets a frog trait beside the matching toad trait, which is a compare-and-contrast pattern.",
+      "standard": "RI.4.5",
+      "passage": "Frogs and toads look alike, but they are not the same. A frog has smooth, wet skin and long legs for jumping. A toad has bumpy, dry skin and shorter legs for hopping. Frogs stay near ponds, while toads can live farther from water.",
+      "type": "reading"
+    },
+    {
+      "id": "g4_v39_020",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "prompt": "What does Nadia's experience show about getting better at something hard?",
+      "options": [
+        "Music is easier than other subjects.",
+        "Keep practicing after a setback.",
+        "Teachers should give shorter lessons.",
+        "Recitals happen only in the spring."
+      ],
+      "correct": 1,
+      "explain": "Nadia played badly, wanted to quit, went back anyway, and by spring played the piece perfectly.",
+      "standard": "RL.4.2",
+      "passage": "Nadia practiced the violin for months, but at the recital her fingers slipped and the notes came out sour. She wanted to quit. Her teacher only said, 'Come back Tuesday.' Nadia came back. By spring she played the same piece without a single mistake.",
+      "type": "reading"
+    },
+    {
+      "id": "g5_v39_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Coordinate Plane",
+      "difficulty": 3,
+      "prompt": "Which point lies on the y-axis of a coordinate grid?",
+      "options": [
+        "(5, 0)",
+        "(5, 5)",
+        "(2, 3)",
+        "(0, 5)"
+      ],
+      "correct": 3,
+      "explain": "Every point on the y-axis has an x-coordinate of 0, so (0, 5) sits on that axis.",
+      "standard": "5.G.A.1"
+    },
+    {
+      "id": "g5_v39_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Fractions as Division",
+      "difficulty": 4,
+      "prompt": "Five students share 4 sheets of poster paper equally. How much paper does each student get?",
+      "options": [
+        "5/4 of a sheet",
+        "1/5 of a sheet",
+        "4/5 of a sheet",
+        "1/4 of a sheet"
+      ],
+      "correct": 2,
+      "explain": "Sharing 4 sheets among 5 students means 4 divided by 5, which is the fraction 4/5 of a sheet each.",
+      "standard": "5.NF.B.3"
+    },
+    {
+      "id": "g5_v39_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Volume",
+      "difficulty": 4,
+      "prompt": "A box is 8 cm long, 5 cm wide, and 4 cm tall. A second box has the same volume but is 10 cm long and 8 cm wide. How tall is the second box?",
+      "options": [
+        "4 cm",
+        "2 cm",
+        "16 cm",
+        "20 cm"
+      ],
+      "correct": 1,
+      "explain": "The first box holds 8 x 5 x 4 = 160 cubic cm. The second box has a base of 10 x 8 = 80, and 160 divided by 80 gives a height of 2 cm.",
+      "standard": "5.MD.C.5"
+    },
+    {
+      "id": "g5_v39_004",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Line Plots",
+      "difficulty": 5,
+      "prompt": "A line plot shows four beakers holding 1/4 cup, 1/2 cup, 1/2 cup, and 3/4 cup of water. If all the water were shared equally among the four beakers, how much would each hold?",
+      "options": [
+        "1/2 cup",
+        "1/4 cup",
+        "3/4 cup",
+        "2 cups"
+      ],
+      "correct": 0,
+      "explain": "The four amounts add to 1/4 + 1/2 + 1/2 + 3/4 = 2 cups, and 2 cups shared among 4 beakers gives 1/2 cup each.",
+      "standard": "5.MD.B.2"
+    },
+    {
+      "id": "g5_v39_005",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Properties of Matter",
+      "difficulty": 4,
+      "prompt": "Two clear liquids look exactly the same in the glass. What is the best way to tell whether they are different substances?",
+      "options": [
+        "Compare their densities.",
+        "Pour them into the same size cup.",
+        "Look at them from farther away.",
+        "Ask which one was poured first."
+      ],
+      "correct": 0,
+      "explain": "Appearance alone cannot identify a substance, but a measurable property such as density can.",
+      "standard": "NGSS-5-PS1-3"
+    },
+    {
+      "id": "g5_v39_006",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Stars and Distance",
+      "difficulty": 3,
+      "prompt": "Star A and Star B give off the same amount of light, but Star A looks dimmer from Earth. What is the best explanation?",
+      "options": [
+        "Star A is much hotter.",
+        "Star A is farther away.",
+        "Star A is a newer star.",
+        "Star A gives off no heat."
+      ],
+      "correct": 1,
+      "explain": "Light spreads out as it travels, so of two equally bright stars the more distant one looks dimmer from Earth.",
+      "standard": "NGSS-5-ESS1-1"
+    },
+    {
+      "id": "g5_v39_007",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Civic Responsibility",
+      "difficulty": 2,
+      "prompt": "Which of these is something a United States citizen must do, not something a citizen may choose to do?",
+      "options": [
+        "vote in elections",
+        "join a club",
+        "obey the laws",
+        "write to a newspaper"
+      ],
+      "correct": 2,
+      "explain": "Obeying the law is required of everyone. Voting, joining groups, and writing to a newspaper are rights a citizen may choose to use.",
+      "standard": "NYS-SS-5"
+    },
+    {
+      "id": "g5_v39_008",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Immigration",
+      "difficulty": 4,
+      "prompt": "In the 1800s, millions of people left Europe for the United States. Which reason best explains why so many came?",
+      "options": [
+        "They wanted much colder winters.",
+        "They were sent by the government.",
+        "They planned to return in a week.",
+        "They hoped for work and freedom."
+      ],
+      "correct": 3,
+      "explain": "Most emigrants were pushed by hunger, poverty, or religious and political limits at home and pulled by jobs and freedoms in the United States.",
+      "standard": "NYS-SS-5",
+      "source": "Library of Congress - Immigration to the United States, 1840-1900"
+    },
+    {
+      "id": "g5_v39_009",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Idioms and Adages",
+      "difficulty": 2,
+      "prompt": "The coach admitted that the new play was a shot in the dark. What does a shot in the dark mean?",
+      "options": [
+        "a bright light",
+        "a wild guess",
+        "a loud noise",
+        "a fair trade"
+      ],
+      "correct": 1,
+      "explain": "A shot in the dark is an idiom for an attempt made with very little information to go on.",
+      "standard": "L.5.5.B"
+    },
+    {
+      "id": "g5_v39_010",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Evaluating Evidence",
+      "difficulty": 5,
+      "prompt": "Which detail is the strongest evidence for Ms. Ortiz's argument?",
+      "options": [
+        "the forty-school study",
+        "her son's morning mood",
+        "the school's start time",
+        "the plan she prefers"
+      ],
+      "correct": 0,
+      "explain": "A study of forty schools measures the outcome she claims. One child's mood is a single case, and the start time and her plan are the claim itself, not support for it.",
+      "standard": "RI.5.8",
+      "passage": "Ms. Ortiz argues that the school day should start at 9:00 instead of 8:00. She points to a study of forty middle schools where later start times raised attendance by six percent. She adds that her own son is grumpy every morning.",
+      "type": "reading"
     }
   ]
 }
