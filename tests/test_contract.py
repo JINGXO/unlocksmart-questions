@@ -25,8 +25,8 @@ class ContractTests(unittest.TestCase):
         self.assertEqual(v.rendering_contract(self.q), [])
     def test_release_contract(self):
         bank = json.loads((ROOT / 'questions.json').read_text())
-        self.assertEqual(bank['version'], 38)
-        self.assertEqual(len(bank['questions']), 5529)
+        self.assertEqual(bank['version'], 39)
+        self.assertEqual(len(bank['questions']), 5579)
         for q in bank['questions']:
             self.assertEqual(v.rendering_contract(q), [], q['id'])
 
