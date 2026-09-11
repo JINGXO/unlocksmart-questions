@@ -15,7 +15,7 @@ line of App Store or website copy.** "We'll be careful" is not a control.
 > `python3 validate.py --cards cards.json` exports the screenshot-safe pool so you can *find*
 > existing material rather than commission new material to fit a post.
 
-Last verified against `questions.json` v37 (5,529 questions) on 2026-09-08.
+Last verified against `questions.json` v39 (5,579 questions) on 2026-09-11.
 
 **On versions.** v22 was verified live on 2026-08-28 — `origin/main`, the raw URL the app fetches,
 the local copy, and the app's bundled fallback were byte-identical at 4,951 questions. The growth
@@ -33,15 +33,15 @@ The numbers below come from a strict word-boundary match over 34 NYC terms acros
 
 | Fact | Number | Approved public phrasing |
 |---|---|---|
-| Total questions | 5,529 (v37) | 「5000多道」 |
-| **NYC questions the kid actually sees** | **282** (v37) | **「280多道写纽约的题」** |
-| NYC questions incl. explanation text | 290 | *(internal only — do not publish)* |
-| Standards-coded (CCSS / NGSS / NY State) | 4,466 (v37) | 「4466道带标准代码」 |
-| Pre-K–G3 share of bank | 81.0% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
+| Total questions | 5,579 (v39) | 「5000多道」 |
+| **NYC questions the kid actually sees** | **284** (v39) | **「280多道写纽约的题」** |
+| NYC questions incl. explanation text | 292 | *(internal only — do not publish)* |
+| Standards-coded (CCSS / NGSS / NY State) | 4,516 (v39) | 「4516道带标准代码」 |
+| Pre-K–G3 share of bank | 80.7% | 「最合适5–9岁，K到三年级，题库八成在这个区间」 |
 | Chinese handwriting questions | **0 — disabled in v24** | ⛔ **do not claim at all** (see §7) |
 | Default earning rate | 3 questions × 5 min = 15 min | 「答对3题换15分钟」 |
 
-**NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 103 · reading 30 · math 21 · literacy 11 · science 6`.
+**NYC subject mix** (do not mis-lead on this): `ela 111 · social_studies 105 · reading 30 · math 21 · literacy 11 · science 6`.
 The subway word problem is the **thinnest** slice (21 questions), not the widest. Lead with
 五个区 / 纽约常识 / 纽约历史; treat the subway math problem as one nice example, not the category.
 
@@ -205,6 +205,17 @@ new item matches the term list, `g4_v37_019` (why New York City's harbor made it
 `social_studies` — the only slice of the subject mix that moved (102 → 103). Standards-coded rose
 4,416 → 4,466 because all 50 new questions carry a code. The Pre-K–G3 share fell 81.4% → 81.0%: 20 of
 the 50 landed inside that range (G1) and 30 outside it (G4/G5), so the tail grew faster than the head.
+
+**v38 (2026-09-08).** A correction release: 79 existing records changed, no additions or deletions. None of
+the §1 numbers moved.
+
+**v39 (2026-09-11).** The 50 new questions moved four of these numbers. NYC rose 282 → 284: exactly two new
+items match the term list, `g4_v39_018` (why the Hudson River route mattered to early settlers) and
+`g4_v39_019` (New Amsterdam becoming New York in 1664), both in `social_studies` — the only slice of the
+subject mix that moved (103 → 105). NYC incl. explanation text rose 290 → 292, the same two items.
+Standards-coded rose 4,466 → 4,516 because all 50 new questions carry a code. The Pre-K–G3 share fell
+81.0% → 80.7%: 20 of the 50 landed inside that range (G1) and 30 outside it (G4/G5), so the tail again grew
+faster than the head. Numbers produced by the §6 script above, not computed by hand.
 
 ---
 
