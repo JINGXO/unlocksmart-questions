@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "questions": [
     {
       "id": "prek_count_001",
@@ -103661,6 +103661,877 @@
       "correct": 2,
       "standard": "NYS-SS-5",
       "explain": "A river supplied drinking water, watered nearby fields, and carried boats, so settlements gathered along its banks."
+    },
+    {
+      "id": "g1_v39_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equal Sign",
+      "difficulty": 3,
+      "prompt": "8 + 5 = ___ + 6. What number belongs in the blank?",
+      "options": [
+        "3",
+        "7",
+        "9",
+        "19"
+      ],
+      "correct": 1,
+      "standard": "1.OA.D.7",
+      "explain": "8 and 5 make 13, so the other side has to make 13 too. 7 and 6 make 13, so 7 belongs in the blank."
+    },
+    {
+      "id": "g1_v39_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equal Shares",
+      "difficulty": 2,
+      "prompt": "Lin folds a square of paper into 4 parts that are all the same size. What is one of those parts called?",
+      "options": [
+        "a half",
+        "a third",
+        "a fourth",
+        "the whole"
+      ],
+      "correct": 2,
+      "standard": "1.G.A.3",
+      "explain": "Four equal parts make up the square, so each single part is one fourth of it."
+    },
+    {
+      "id": "g1_v39_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 2,
+      "prompt": "What is 80 - 30?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "110"
+      ],
+      "correct": 2,
+      "standard": "1.NBT.C.6",
+      "explain": "8 tens take away 3 tens leaves 5 tens, and 5 tens is 50."
+    },
+    {
+      "id": "g1_v39_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Graphs",
+      "difficulty": 3,
+      "prompt": "A weather chart shows 4 rainy days, 9 sunny days, and 5 cloudy days. How many days did the class record in all?",
+      "options": [
+        "9",
+        "14",
+        "18",
+        "19"
+      ],
+      "correct": 2,
+      "standard": "1.MD.C.4",
+      "explain": "Add all three parts. 4 and 9 make 13, and 13 and 5 make 18 days in all."
+    },
+    {
+      "id": "g1_v39_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A bus had 12 riders. 5 riders got off, and then 3 riders got on. How many riders are on the bus now?",
+      "options": [
+        "4",
+        "10",
+        "14",
+        "20"
+      ],
+      "correct": 1,
+      "standard": "1.OA.A.1",
+      "explain": "First take away the riders who left: 12 - 5 = 7. Then add the riders who got on: 7 + 3 = 10 riders."
+    },
+    {
+      "id": "g1_v39_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Shapes",
+      "difficulty": 3,
+      "prompt": "Which of these is always true of a rectangle?",
+      "options": [
+        "It has 4 square corners.",
+        "It has 4 sides the same length.",
+        "It is taller than it is wide.",
+        "It has one curved side."
+      ],
+      "correct": 0,
+      "standard": "1.G.A.1",
+      "explain": "Every rectangle has four square corners. Its sides do not have to be equal, and it may be wide or tall."
+    },
+    {
+      "id": "g1_v39_007",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "prompt": "Where did Rosa put her paper boat?",
+      "passage": "Rosa set her paper boat in the puddle by the curb. The wind pushed it to the far side. She ran around the puddle and caught the boat before it tipped over. Her boots were wet, but the boat was dry.",
+      "options": [
+        "in the fountain",
+        "in the sink",
+        "in the puddle",
+        "in a pond"
+      ],
+      "correct": 2,
+      "standard": "RL.1.1",
+      "explain": "The first sentence says Rosa set her paper boat in the puddle by the curb."
+    },
+    {
+      "id": "g1_v39_008",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Connections",
+      "difficulty": 3,
+      "type": "reading",
+      "prompt": "According to the passage, why do flowers need bees?",
+      "passage": "Bees drink nectar from flowers. As a bee drinks, yellow dust called pollen sticks to its fuzzy legs. The bee carries that pollen to the next flower it visits. Flowers need pollen to make seeds, and new plants grow from seeds.",
+      "options": [
+        "Bees carry pollen to them.",
+        "Bees dig holes in the dirt.",
+        "Bees make the petals bright.",
+        "Bees keep the flowers warm."
+      ],
+      "correct": 0,
+      "standard": "RI.1.3",
+      "explain": "The passage says pollen sticks to a bee and the bee carries it to the next flower, and that flowers need pollen to make seeds."
+    },
+    {
+      "id": "g1_v39_009",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Characters",
+      "difficulty": 3,
+      "type": "reading",
+      "prompt": "What did Milo do at the end?",
+      "passage": "Milo did not want to share the blue crayon. He held it tight while Ana waited beside him. Then he looked at her empty paper. He broke the crayon in two and gave her half.",
+      "options": [
+        "He kept the whole crayon.",
+        "He asked Ana for her paper.",
+        "He put the crayon away.",
+        "He shared half the crayon."
+      ],
+      "correct": 3,
+      "standard": "RL.1.3",
+      "explain": "Milo broke the crayon in two and gave one half to Ana, so in the end he shared it."
+    },
+    {
+      "id": "g1_v39_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Word Relationships",
+      "difficulty": 3,
+      "prompt": "The path was slippery after the rain. Which word means almost the same as slippery?",
+      "options": [
+        "rocky",
+        "slick",
+        "sandy",
+        "dusty"
+      ],
+      "correct": 1,
+      "standard": "L.1.5",
+      "explain": "A slippery path is slick, so feet can slide on it. Rocky, sandy, and dusty describe other kinds of paths."
+    },
+    {
+      "id": "g1_v39_011",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Verb Tenses",
+      "difficulty": 3,
+      "prompt": "Which sentence tells about something that will happen later?",
+      "options": [
+        "We will plant seeds tomorrow.",
+        "We planted those seeds last week.",
+        "We plant seeds every spring.",
+        "We are planting seeds now."
+      ],
+      "correct": 0,
+      "standard": "L.1.1.E",
+      "explain": "The word will shows the planting has not happened yet, and tomorrow tells when it comes."
+    },
+    {
+      "id": "g1_v39_012",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Sensory Words",
+      "difficulty": 3,
+      "prompt": "The rain tapped on the tin roof while the wind rattled the shutters. Which word tells the sound the rain made?",
+      "options": [
+        "rattled",
+        "shutters",
+        "wind",
+        "tapped"
+      ],
+      "correct": 3,
+      "standard": "RL.1.4",
+      "explain": "Tapped names what the rain did on the roof. Rattled tells what the wind did to the shutters."
+    },
+    {
+      "id": "g1_v39_013",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 2,
+      "prompt": "Nia has two red mittens. Which word in the sentence tells how many?",
+      "options": [
+        "two",
+        "red",
+        "mittens",
+        "has"
+      ],
+      "correct": 0,
+      "standard": "L.1.1.F",
+      "explain": "Two is a number word. It tells how many mittens Nia has, while red tells what color they are."
+    },
+    {
+      "id": "g1_v39_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant Structures",
+      "difficulty": 2,
+      "prompt": "A tree's roots spread out wide and grip the soil. How does that help the tree when the wind blows hard?",
+      "options": [
+        "The tree grows new leaves.",
+        "The tree stays standing.",
+        "The tree makes more shade.",
+        "The tree turns toward the sun."
+      ],
+      "correct": 1,
+      "standard": "1-LS1-1",
+      "explain": "Roots that spread wide and hold the soil anchor the tree, so a strong wind is far less likely to push it over."
+    },
+    {
+      "id": "g1_v39_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sky Patterns",
+      "difficulty": 3,
+      "prompt": "Lena watched the sun for a week. Each day it came up on one side of her house and went down on the other side. What can Lena say about the sun?",
+      "options": [
+        "It rises in a new place each day.",
+        "It only comes up in the summer.",
+        "It moves the same way each day.",
+        "It stays in one spot all day."
+      ],
+      "correct": 2,
+      "standard": "1-ESS1-1",
+      "explain": "The sun came up on the same side and went down on the same side every day. That repeating pattern is what Lena can count on."
+    },
+    {
+      "id": "g1_v39_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sending Signals",
+      "difficulty": 2,
+      "prompt": "A bike has a bell and a small light. How do the bell and the light help the rider?",
+      "options": [
+        "They send signals to other people.",
+        "They make the bike roll faster.",
+        "They keep the bike's tires full.",
+        "They hold the bike up when parked."
+      ],
+      "correct": 0,
+      "standard": "1-PS4-4",
+      "explain": "A bell makes a sound and a light gives off light. Both are ways to send a signal so other people know the bike is coming."
+    },
+    {
+      "id": "g1_v39_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Calendars and Time",
+      "difficulty": 2,
+      "prompt": "What does a calendar help people keep track of?",
+      "options": [
+        "how heavy things are",
+        "the sounds of words",
+        "how far places are",
+        "the days and months"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-G1",
+      "explain": "A calendar lays out the days of each week and the months of the year, so people can see when things happen."
+    },
+    {
+      "id": "g1_v39_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Homes and Places",
+      "difficulty": 2,
+      "prompt": "Why do families in very snowy places often build homes with steep roofs?",
+      "options": [
+        "Steep roofs are cheaper to paint.",
+        "Snow slides off a steep roof.",
+        "Steep roofs make houses warmer.",
+        "Steep roofs need no windows."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "Heavy snow can pile up and press down on a flat roof. A steep roof lets the snow slide off instead."
+    },
+    {
+      "id": "g1_v39_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 3,
+      "prompt": "What is one way a family long ago and a family today are the same?",
+      "options": [
+        "Both watch the same shows.",
+        "Both drive the same cars.",
+        "Both need food and a home.",
+        "Both use the same phones."
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-G1",
+      "explain": "Tools and homes have changed a great deal, but every family, then and now, needs food to eat and a place to live."
+    },
+    {
+      "id": "g1_v39_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Change Over Time",
+      "difficulty": 4,
+      "prompt": "Long ago, families in a town carried water home from a well. Today water comes through pipes to each house. What does this change show?",
+      "options": [
+        "The way people meet a need can change.",
+        "People stopped needing water long ago.",
+        "Wells were built after pipes were.",
+        "Only towns today use water."
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-G1",
+      "explain": "People still need water, just as they always did. What changed is how they get it: from a well long ago, from pipes today."
+    },
+    {
+      "id": "g4_v39_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 2,
+      "prompt": "Two lines in the same flat surface are drawn so that they never cross, no matter how far each one is extended. What are those lines called?",
+      "options": [
+        "intersecting lines",
+        "parallel lines",
+        "perpendicular lines",
+        "curved lines"
+      ],
+      "correct": 1,
+      "standard": "4.G.A.1",
+      "explain": "Parallel lines stay the same distance apart forever, so they never meet. Intersecting and perpendicular lines both cross."
+    },
+    {
+      "id": "g4_v39_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "A quarter is 25/100 of a dollar. Which decimal shows that same amount?",
+      "options": [
+        "0.025",
+        "2.5",
+        "25.0",
+        "0.25"
+      ],
+      "correct": 3,
+      "standard": "4.NF.C.6",
+      "explain": "25/100 is 25 hundredths, and the hundredths place is the second digit after the point, so it is written 0.25."
+    },
+    {
+      "id": "g4_v39_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement",
+      "difficulty": 3,
+      "prompt": "Mira's ribbon is 2 meters long. She cuts off 65 centimeters of it. How many centimeters of ribbon are left?",
+      "options": [
+        "63 centimeters",
+        "135 centimeters",
+        "145 centimeters",
+        "1,935 centimeters"
+      ],
+      "correct": 1,
+      "standard": "4.MD.A.2",
+      "explain": "2 meters is 200 centimeters. 200 - 65 = 135, so 135 centimeters of ribbon are left."
+    },
+    {
+      "id": "g4_v39_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Addition",
+      "difficulty": 3,
+      "prompt": "A library had 128,450 books and then added 9,675 more. How many books does the library have now?",
+      "options": [
+        "118,775",
+        "137,125",
+        "138,025",
+        "138,125"
+      ],
+      "correct": 3,
+      "standard": "4.NBT.B.4",
+      "explain": "Line the numbers up by place and add: 128,450 + 9,675 = 138,125 books."
+    },
+    {
+      "id": "g4_v39_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A ferry carries 48 cars on each trip. 300 cars are waiting to cross. How many trips are needed to carry all of them?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "12"
+      ],
+      "correct": 1,
+      "standard": "4.OA.A.3",
+      "explain": "300 divided by 48 is 6 with 12 cars left over. Those 12 cars still have to cross, so one more trip is needed: 7 trips in all."
+    },
+    {
+      "id": "g4_v39_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Digit Multiplication",
+      "difficulty": 4,
+      "prompt": "A farm packs 36 eggs into each tray and fills 125 trays. How many eggs is that in all?",
+      "options": [
+        "161",
+        "450",
+        "4,050",
+        "4,500"
+      ],
+      "correct": 3,
+      "standard": "4.NBT.B.5",
+      "explain": "36 × 125 is 36 × 100 plus 36 × 25, which is 3,600 + 900 = 4,500 eggs."
+    },
+    {
+      "id": "g4_v39_007",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Comparing Fractions",
+      "difficulty": 4,
+      "prompt": "Leo read 5/8 of a book. Nora read 3/5 of the same book. Which statement is true?",
+      "options": [
+        "Leo read more than Nora.",
+        "Nora read more than Leo.",
+        "They read the same amount.",
+        "Nora read twice as much as Leo."
+      ],
+      "correct": 0,
+      "standard": "4.NF.A.2",
+      "explain": "Use 40 as a common denominator: 5/8 is 25/40 and 3/5 is 24/40. 25/40 is the greater share, so Leo read more."
+    },
+    {
+      "id": "g4_v39_008",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "type": "reading",
+      "prompt": "Which pattern does the author use to describe the tide pool?",
+      "passage": "A tide pool looks calm, but it changes twice a day. At high tide, seawater covers the rocks and small fish swim in over them. At low tide, the water drains away and only a shallow pool is left behind. Crabs and snails that were hidden under the seaweed come out to feed in what remains.",
+      "options": [
+        "high tide first, then low tide",
+        "the animals from largest to smallest",
+        "a list of reasons to visit the shore",
+        "steps for reaching a rocky beach"
+      ],
+      "correct": 0,
+      "standard": "RI.4.5",
+      "explain": "The middle of the passage takes the two tides in order, telling what the pool is like at high tide and then what it is like at low tide."
+    },
+    {
+      "id": "g4_v39_009",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "prompt": "What is most likely true about Devon?",
+      "passage": "Devon checked the clipboard for the third time. His name was still at the bottom of the list. Around him the other swimmers pulled on their caps and joked about the water being cold. He tightened his goggles, loosened them, and tightened them again.",
+      "options": [
+        "He is bored with the long wait.",
+        "He is angry at the other swimmers.",
+        "He is nervous about his race.",
+        "He is proud of his fast time."
+      ],
+      "correct": 2,
+      "standard": "RL.4.1",
+      "explain": "Devon rereads a list that has not changed and cannot leave his goggles alone while everyone around him jokes. Those small repeated actions point to nerves."
+    },
+    {
+      "id": "g4_v39_010",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 4,
+      "type": "reading",
+      "prompt": "Which reason does the author give for keeping the library open?",
+      "passage": "The town should keep the old library open. Last year more than nine thousand visits were recorded there, most of them by families with young children. The building also holds the only free after-school tutoring program in the county. Closing it would save the town a small amount, but families would then drive forty minutes to the next library.",
+      "options": [
+        "It has more books than any other library.",
+        "It runs the county's only free tutoring.",
+        "It is the oldest building in the town.",
+        "It costs the town nothing to run."
+      ],
+      "correct": 1,
+      "standard": "RI.4.8",
+      "explain": "The passage names the after-school tutoring program as the only free one in the county, and offers that as a reason the building should stay open."
+    },
+    {
+      "id": "g4_v39_011",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 2,
+      "prompt": "The sturdy bridge held the heavy truck without shaking. What does the word sturdy mean in that sentence?",
+      "options": [
+        "strongly built",
+        "freshly painted",
+        "very crowded",
+        "badly cracked"
+      ],
+      "correct": 0,
+      "standard": "L.4.4.A",
+      "explain": "The bridge carried a heavy truck and did not shake. Something that holds up under that kind of weight is strongly built."
+    },
+    {
+      "id": "g4_v39_012",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Idioms",
+      "difficulty": 2,
+      "prompt": "The coach told the team to keep their chins up after the loss. What does keep their chins up mean?",
+      "options": [
+        "stand up tall",
+        "look at the sky",
+        "stay hopeful",
+        "speak more loudly"
+      ],
+      "correct": 2,
+      "standard": "L.4.5.B",
+      "explain": "Keep your chin up is an idiom. It has nothing to do with an actual chin: it means to stay hopeful when something goes wrong."
+    },
+    {
+      "id": "g4_v39_013",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Poetry Structure",
+      "difficulty": 3,
+      "prompt": "Why does a poet break a poem into stanzas?",
+      "options": [
+        "to make the poem rhyme more often",
+        "to show where the reader should shout",
+        "to fit the poem onto a single page",
+        "to group lines that belong together"
+      ],
+      "correct": 3,
+      "standard": "RL.4.5",
+      "explain": "A stanza gathers lines that work as one unit, the way a paragraph gathers sentences. The blank space marks where one part of the poem ends."
+    },
+    {
+      "id": "g4_v39_014",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Domain Vocabulary",
+      "difficulty": 3,
+      "prompt": "A history book says the colony imported most of its cloth. What does imported mean in that sentence?",
+      "options": [
+        "traded away to another country",
+        "brought in from another place",
+        "made in large amounts",
+        "woven from local wool"
+      ],
+      "correct": 1,
+      "standard": "L.4.6",
+      "explain": "To import is to bring goods in from somewhere else. A colony that imported its cloth did not make that cloth at home."
+    },
+    {
+      "id": "g4_v39_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Animal Senses",
+      "difficulty": 3,
+      "prompt": "A bat makes high squeaks while it flies at night. How does that help the bat find a moth?",
+      "options": [
+        "It follows the moth's warm scent trail.",
+        "It sees the moth's bright wings.",
+        "It listens for echoes off the moth.",
+        "It feels the wind from the moth."
+      ],
+      "correct": 2,
+      "standard": "NGSS-4-LS1-2",
+      "explain": "The squeaks bounce off objects and return as echoes. The bat's ears take in those echoes, and its brain uses them to place the moth in the dark."
+    },
+    {
+      "id": "g4_v39_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Information Transfer",
+      "difficulty": 3,
+      "prompt": "Morse code sends messages as patterns of long and short signals. Why can a pattern carry a message?",
+      "options": [
+        "Each pattern stands for a letter.",
+        "Long signals travel farther than short ones.",
+        "Short signals are louder than long ones.",
+        "Patterns make the wire carry more power."
+      ],
+      "correct": 0,
+      "standard": "NGSS-4-PS4-3",
+      "explain": "The sender and the receiver agree in advance on which pattern means which letter. Once a pattern has an agreed meaning, a string of them spells out words."
+    },
+    {
+      "id": "g4_v39_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Waves",
+      "difficulty": 4,
+      "prompt": "A boat bobs straight up and down as waves pass under it, but it does not travel to shore. What does that show about the wave?",
+      "options": [
+        "It pushes the water toward shore.",
+        "It carries energy, not the water.",
+        "It moves the boat along the surface.",
+        "It carries the boat to the beach."
+      ],
+      "correct": 1,
+      "standard": "NGSS-4-PS4-1",
+      "explain": "The water itself mostly rises and falls in place. What travels across the pond is the energy of the wave, which is why the boat bobs but stays put."
+    },
+    {
+      "id": "g4_v39_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 3,
+      "prompt": "The Hudson River runs from the Adirondack Mountains south to New York Harbor. Why was this route important to early settlers in New York?",
+      "options": [
+        "It kept the harbor from freezing.",
+        "It marked the state's western border.",
+        "It let boats carry goods inland.",
+        "It supplied the city's drinking water."
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-4",
+      "explain": "The river worked as a highway. Boats could move furs, grain, and lumber between the inland valleys and the harbor long before there were railroads.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.1 Geography of New York State)"
+    },
+    {
+      "id": "g4_v39_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY History",
+      "difficulty": 3,
+      "prompt": "The Dutch called their settlement at the southern tip of Manhattan New Amsterdam. What happened to that settlement in 1664?",
+      "options": [
+        "The English took it and renamed it.",
+        "The Dutch moved it up the Hudson.",
+        "A fire destroyed most of the docks.",
+        "The French bought it from the Dutch."
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "An English fleet sailed into the harbor in 1664 and the Dutch governor gave up the settlement without a fight. The English renamed it New York.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.3 Colonial and Revolutionary Periods in New York)"
+    },
+    {
+      "id": "g4_v39_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 4,
+      "prompt": "In the 1800s the Erie Canal let one barge carry wheat from Buffalo to Albany far more cheaply than a wagon could. What effect would you expect?",
+      "options": [
+        "Farmers near Buffalo stopped growing wheat.",
+        "Wagon trips to Albany became more common.",
+        "Buffalo lost most of its shipping trade.",
+        "Wheat got cheaper for buyers downstate."
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-4",
+      "explain": "When the cost of shipping drops, the price a buyer pays drops with it. Grain that once cost a fortune to haul overland could be sold downstate for much less.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.6 Westward Movement and Industrialization)"
+    },
+    {
+      "id": "g5_v39_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "prompt": "Which of these numbers is smaller than 4.507?",
+      "options": [
+        "4.057",
+        "4.51",
+        "4.57",
+        "4.705"
+      ],
+      "correct": 0,
+      "standard": "5.NBT.A.3",
+      "explain": "Compare digit by digit. 4.507 has 5 tenths while 4.057 has 0 tenths, so 4.057 is the smaller number. The other three are each greater than 4.507."
+    },
+    {
+      "id": "g5_v39_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Whole Numbers",
+      "difficulty": 3,
+      "prompt": "Four friends share 5 granola bars equally. How much does each friend get?",
+      "options": [
+        "4/5 of a bar",
+        "1 1/5 bars",
+        "1 1/4 bars",
+        "2 1/2 bars"
+      ],
+      "correct": 2,
+      "standard": "5.NF.B.3",
+      "explain": "Sharing 5 bars among 4 friends is 5 divided by 4, which is 5/4. As a mixed number that is 1 1/4 bars each."
+    },
+    {
+      "id": "g5_v39_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Expressions",
+      "difficulty": 4,
+      "prompt": "Which expression means: add 8 and 5, then multiply the sum by 3?",
+      "options": [
+        "3 × 8 + 5",
+        "3 × (8 + 5)",
+        "8 + 5 × 3",
+        "(8 + 5) ÷ 3"
+      ],
+      "correct": 1,
+      "standard": "5.OA.A.2",
+      "explain": "The sum has to be found first, so it goes inside parentheses: (8 + 5). Multiplying that sum by 3 gives 3 × (8 + 5). Without the parentheses the multiplication would happen first."
+    },
+    {
+      "id": "g5_v39_004",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "prompt": "What does the last sentence suggest about Priya?",
+      "passage": "Priya had rehearsed the speech eleven times in her room. Now, standing behind the curtain, she found that the first line had gone somewhere she could not reach. She looked down at the note card in her hand. The letters were there, exactly as she had written them, and they meant nothing at all.",
+      "options": [
+        "Her nerves have blocked her memory.",
+        "She has lost her note card backstage.",
+        "She wrote the speech in another language.",
+        "She never practiced the speech at all."
+      ],
+      "correct": 0,
+      "standard": "RL.5.1",
+      "explain": "She can see the words plainly, so neither a missing card nor an unfamiliar language is the trouble. Being unable to take in what is right in front of her is what panic does to memory."
+    },
+    {
+      "id": "g5_v39_005",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 5,
+      "type": "reading",
+      "prompt": "Which sentence best states the reasoning the author uses?",
+      "passage": "Cities should plant more street trees. A row of grown trees can lower the air temperature on a block by several degrees on a summer afternoon, which cuts the electricity a building spends on cooling. Tree roots also soak up stormwater that would otherwise rush into the sewers during heavy rain. Planting is not free, and young trees need watering for their first few years, but those costs are paid once while the benefits return every season.",
+      "options": [
+        "Street trees cost cities nothing to keep.",
+        "Cooling bills matter more than flood risk.",
+        "Young trees survive without any attention.",
+        "Long-term gains outweigh an early cost."
+      ],
+      "correct": 3,
+      "standard": "RI.5.8",
+      "explain": "The final sentence admits the cost and then answers it: planting is paid for once, while cooler air and lighter flooding come back year after year. That trade is the backbone of the argument."
+    },
+    {
+      "id": "g5_v39_006",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 4,
+      "prompt": "Her steps were slow and deliberate as she crossed the icy walk. What does deliberate mean in that sentence?",
+      "options": [
+        "quick and light",
+        "carefully chosen",
+        "loud and heavy",
+        "tired and clumsy"
+      ],
+      "correct": 1,
+      "standard": "L.5.4.A",
+      "explain": "She is crossing ice, so every step is thought about before she takes it. Deliberate describes an action done on purpose and with care."
+    },
+    {
+      "id": "g5_v39_007",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Story Structure",
+      "difficulty": 5,
+      "prompt": "A story tells one afternoon twice, first from the sister's side and then from the brother's. What does that structure let a reader do?",
+      "options": [
+        "find out which one is telling the truth",
+        "skip the second half of the story",
+        "compare how each one understood it",
+        "learn who the author likes better"
+      ],
+      "correct": 2,
+      "standard": "RL.5.5",
+      "explain": "Each telling carries only what one character noticed and felt. Setting the two side by side lets the reader see exactly where the two understandings part ways."
+    },
+    {
+      "id": "g5_v39_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Plant Growth",
+      "difficulty": 3,
+      "prompt": "As a tree grows from a seedling into a tall tree, where does most of its added material come from?",
+      "options": [
+        "the soil it stands in",
+        "the sunlight it takes in",
+        "the animals living on it",
+        "the air and water"
+      ],
+      "correct": 3,
+      "standard": "NGSS-5-LS1-1",
+      "explain": "Most of a tree's mass is built from carbon dioxide taken out of the air and from water pulled up by the roots. Sunlight supplies the energy for that building, and soil gives only small amounts of minerals."
+    },
+    {
+      "id": "g5_v39_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 2,
+      "prompt": "The Amazon River drains a wide rain forest in South America. Which of these is true of that region?",
+      "options": [
+        "It has cold, dry winters.",
+        "It gets heavy rain all year.",
+        "It stays covered in ice.",
+        "It has almost no plant life."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "A tropical rain forest lies near the equator, where warm, moist air rises and falls back as rain in every month of the year.",
+      "source": "NYS K-8 Social Studies Framework, Grade 5 (5.1 Western Hemisphere Geography)"
+    },
+    {
+      "id": "g5_v39_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 5,
+      "prompt": "A town council passes a local rule, and a court later finds that the rule conflicts with the state constitution. What happens to the rule, and why?",
+      "options": [
+        "It is struck down, because a constitution outranks it.",
+        "It stands, because a council speaks for the voters.",
+        "It stands until the next town election is held.",
+        "It is struck down, because every new local rule needs a court's approval."
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-5",
+      "explain": "A constitution sits above ordinary laws. When a local rule contradicts it, the rule loses its force, and the courts are the branch that makes that call.",
+      "source": "NYS K-8 Social Studies Framework, Grade 5 (5.7 Government)"
     }
   ]
 }
