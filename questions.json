@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "questions": [
     {
       "id": "prek_count_001",
@@ -103661,6 +103661,871 @@
       "correct": 2,
       "standard": "NYS-SS-5",
       "explain": "A river supplied drinking water, watered nearby fields, and carried boats, so settlements gathered along its banks."
+    },
+    {
+      "id": "g1_v39_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Missing Addend",
+      "difficulty": 2,
+      "prompt": "Maya has 13 stickers. She needs 20 stickers to fill her page. How many more stickers does she need?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "33"
+      ],
+      "correct": 2,
+      "standard": "1.OA.B.4",
+      "explain": "20 take away 13 leaves 7, so Maya still needs 7 more stickers."
+    },
+    {
+      "id": "g1_v39_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtraction",
+      "difficulty": 3,
+      "prompt": "A box had 15 crayons. Some were taken out, and 9 are left. How many crayons were taken out?",
+      "options": [
+        "24",
+        "7",
+        "6",
+        "5"
+      ],
+      "correct": 2,
+      "standard": "1.OA.A.1",
+      "explain": "Start with 15 and count back to 9. That is 6 crayons taken out, because 9 + 6 = 15."
+    },
+    {
+      "id": "g1_v39_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Place Value to 120",
+      "difficulty": 2,
+      "prompt": "Which number is the same as 10 + 10 + 10 + 10 + 2?",
+      "options": [
+        "52",
+        "402",
+        "42",
+        "14"
+      ],
+      "correct": 2,
+      "standard": "1.NBT.B.2",
+      "explain": "Four tens make 40, and 2 more ones make 42."
+    },
+    {
+      "id": "g1_v39_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Subtracting Multiples of Ten",
+      "difficulty": 3,
+      "prompt": "Mr. Lee had 80 pencils and gave 30 of them away. How many pencils does he have now?",
+      "options": [
+        "110",
+        "60",
+        "50",
+        "40"
+      ],
+      "correct": 2,
+      "standard": "1.NBT.C.6",
+      "explain": "8 tens take away 3 tens leaves 5 tens, and 5 tens is 50."
+    },
+    {
+      "id": "g1_v39_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Adding Within 100",
+      "difficulty": 4,
+      "prompt": "A jar had 48 buttons. Ms. Ruiz put in 9 more, and then took 1 out. How many buttons are in the jar now?",
+      "options": [
+        "56",
+        "58",
+        "40",
+        "57"
+      ],
+      "correct": 0,
+      "standard": "1.NBT.C.4",
+      "explain": "48 + 9 is 57, because 8 ones and 9 ones make a new ten and 7 ones. Taking 1 out leaves 56."
+    },
+    {
+      "id": "g1_v39_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "Nina has 6 marbles. Theo has 4 more marbles than Nina. How many marbles do they have altogether?",
+      "options": [
+        "10",
+        "16",
+        "12",
+        "4"
+      ],
+      "correct": 1,
+      "standard": "1.OA.A.1",
+      "explain": "Theo has 6 + 4 = 10 marbles. Put both piles together: 6 + 10 = 16 marbles."
+    },
+    {
+      "id": "g1_v39_007",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 2,
+      "prompt": "Which word means to walk in a slow, relaxed way?",
+      "options": [
+        "dash",
+        "stroll",
+        "sprint",
+        "leap"
+      ],
+      "correct": 1,
+      "standard": "L.1.5",
+      "explain": "Dash and sprint both mean to run fast, and leap means to jump. Only stroll describes slow, easy walking."
+    },
+    {
+      "id": "g1_v39_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Plural Nouns",
+      "difficulty": 2,
+      "prompt": "Which word is the correct plural of box?",
+      "options": [
+        "boxs",
+        "boxies",
+        "boxes",
+        "boxxes"
+      ],
+      "correct": 2,
+      "standard": "L.1.1",
+      "explain": "Words ending in x add -es to name more than one, so one box becomes two boxes."
+    },
+    {
+      "id": "g1_v39_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Word Parts",
+      "difficulty": 3,
+      "prompt": "Read the sentence: The sky was cloudless all day. What does cloudless mean?",
+      "options": [
+        "having no clouds",
+        "full of clouds",
+        "made of clouds",
+        "under the clouds"
+      ],
+      "correct": 0,
+      "standard": "L.1.4",
+      "explain": "The ending -less means without, so cloudless describes a sky with no clouds in it."
+    },
+    {
+      "id": "g1_v39_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "Read the sentence: The kitten slept under the warm blanket. Which word tells where the kitten slept?",
+      "options": [
+        "slept",
+        "warm",
+        "kitten",
+        "under"
+      ],
+      "correct": 3,
+      "standard": "L.1.1",
+      "explain": "Under is the word that points to the place. Slept tells what happened and kitten tells who."
+    },
+    {
+      "id": "g1_v39_011",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Tom and his sister Ana went to the pond. Ana brought a small net. Tom brought bread crumbs for the ducks. Six ducks swam over to eat.",
+      "prompt": "What did Tom bring to the pond?",
+      "options": [
+        "a small net",
+        "a toy boat",
+        "bread crumbs",
+        "a fishing pole"
+      ],
+      "correct": 2,
+      "standard": "RL.1.1",
+      "explain": "The story says Tom brought bread crumbs for the ducks. The net was Ana's."
+    },
+    {
+      "id": "g1_v39_012",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Ants live together in a nest under the ground. Some ants dig tunnels. Some ants look for food and carry it home. Others take care of the eggs. Each ant has a job to do.",
+      "prompt": "What is the main topic of the passage about ants?",
+      "options": [
+        "why ants like sweet food",
+        "how deep an ant nest is",
+        "how ants share the work",
+        "where ants go in winter"
+      ],
+      "correct": 2,
+      "standard": "RI.1.2",
+      "explain": "Each sentence names a different job an ant does, and the last line says every ant has a job."
+    },
+    {
+      "id": "g1_v39_013",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Sam poured seeds into the bird feeder and waited by the window, but no birds came. The next morning the feeder was empty. A squirrel sat on the fence, brushing bits of seed from its whiskers.",
+      "prompt": "Who most likely ate the seeds?",
+      "options": [
+        "the birds",
+        "the squirrel",
+        "Sam himself",
+        "a cat from next door"
+      ],
+      "correct": 1,
+      "standard": "RL.1.1",
+      "explain": "No birds ever came, and the next morning a squirrel is sitting nearby with bits of seed on its whiskers."
+    },
+    {
+      "id": "g1_v39_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Light",
+      "difficulty": 2,
+      "prompt": "A ship at sea sees a lighthouse blinking at night. What is the lighthouse using to send its message?",
+      "options": [
+        "water",
+        "light",
+        "wind",
+        "sand"
+      ],
+      "correct": 1,
+      "standard": "1-PS4-4",
+      "explain": "The lighthouse turns its lamp on and off so ships far away can see the signal."
+    },
+    {
+      "id": "g1_v39_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Parents and Offspring",
+      "difficulty": 3,
+      "prompt": "A mother dog has brown fur. Her puppy has brown fur with one white spot. Which statement about young animals and their parents is true?",
+      "options": [
+        "They always look exactly the same as each other.",
+        "They never look alike.",
+        "They look similar but not identical.",
+        "They look alike only after they grow up."
+      ],
+      "correct": 2,
+      "standard": "1-LS3-1",
+      "explain": "Young animals take after their parents, but small differences like a white spot show up too."
+    },
+    {
+      "id": "g1_v39_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Animal Structures",
+      "difficulty": 2,
+      "prompt": "Which body part helps a turtle stay safe from animals that hunt it?",
+      "options": [
+        "its wet eyes",
+        "its long neck",
+        "its hard shell",
+        "its flat tongue"
+      ],
+      "correct": 2,
+      "standard": "1-LS1-1",
+      "explain": "A turtle can pull itself inside its hard shell, which covers it like armor."
+    },
+    {
+      "id": "g1_v39_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Communities",
+      "difficulty": 2,
+      "prompt": "In which kind of community would you most likely find many tall apartment buildings close together?",
+      "options": [
+        "a city",
+        "a farm",
+        "a forest",
+        "a desert"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-G1",
+      "explain": "Cities fit a great many people into a small space, so homes are stacked up in tall buildings."
+    },
+    {
+      "id": "g1_v39_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 3,
+      "prompt": "Why does a classroom have a rule about raising your hand?",
+      "options": [
+        "so the room stays dark and quiet",
+        "so everyone gets a turn to speak",
+        "so the teacher can leave early",
+        "so nobody has to do any work"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "Taking turns means one voice at a time, so every child gets a chance to be heard."
+    },
+    {
+      "id": "g1_v39_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 2,
+      "prompt": "On a map, what does a compass rose show?",
+      "options": [
+        "how far things are",
+        "how many people live there",
+        "which way is north",
+        "what the weather is"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-G1",
+      "explain": "A compass rose marks north, south, east, and west so you know which way to go."
+    },
+    {
+      "id": "g1_v39_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 4,
+      "prompt": "Most people used to grow their own food on a farm near home. Today most people buy food at a store. What does this change show?",
+      "options": [
+        "people eat less food than before",
+        "farms no longer exist today",
+        "people stopped needing farms at all",
+        "people depend on others more now"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-G1",
+      "explain": "Buying food means someone else grew it, moved it, and sold it, so each family now relies on many more workers."
+    },
+    {
+      "id": "g4_v39_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Decimals",
+      "difficulty": 3,
+      "prompt": "Which decimal is greater than 0.6 but less than 0.75?",
+      "options": [
+        "0.7",
+        "0.55",
+        "0.8",
+        "0.06"
+      ],
+      "correct": 0,
+      "standard": "4.NF.C.7",
+      "explain": "Lined up by place value, 0.6 < 0.7 < 0.75, so only 0.7 fits between them."
+    },
+    {
+      "id": "g4_v39_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplying Fractions",
+      "difficulty": 3,
+      "prompt": "Mia bakes 3 batches of muffins. Each batch uses 3/4 cup of oats. How many cups of oats does she use in all?",
+      "options": [
+        "9/4 cups",
+        "6/4 cups",
+        "9/12 cups",
+        "12/4 cups"
+      ],
+      "correct": 0,
+      "standard": "4.NF.B.4",
+      "explain": "Three groups of 3/4 is 3 x 3/4 = 9/4 cups, the same amount as 2 and 1/4 cups."
+    },
+    {
+      "id": "g4_v39_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Fractions",
+      "difficulty": 5,
+      "prompt": "A painter used 5/8 of a can of paint on Monday and 1/8 of the can on Tuesday. What fraction of the can is left?",
+      "options": [
+        "2/8",
+        "6/8",
+        "3/8",
+        "4/8"
+      ],
+      "correct": 0,
+      "standard": "4.NF.B.3",
+      "explain": "5/8 + 1/8 = 6/8 used. A full can is 8/8, and 8/8 - 6/8 = 2/8 left."
+    },
+    {
+      "id": "g4_v39_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A school is taking 147 students on a trip. Each van holds 9 students. What is the smallest number of vans needed?",
+      "options": [
+        "16",
+        "18",
+        "15",
+        "17"
+      ],
+      "correct": 3,
+      "standard": "4.OA.A.3",
+      "explain": "147 divided by 9 is 16 with 3 left over. Those 3 students still need a ride, so 17 vans are needed."
+    },
+    {
+      "id": "g4_v39_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors and Multiples",
+      "difficulty": 3,
+      "prompt": "Which of these numbers is prime?",
+      "options": [
+        "21",
+        "27",
+        "33",
+        "29"
+      ],
+      "correct": 3,
+      "standard": "4.OA.B.4",
+      "explain": "21 = 3 x 7, 27 = 3 x 9, and 33 = 3 x 11. Only 29 has no factors besides 1 and itself."
+    },
+    {
+      "id": "g4_v39_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Geometry",
+      "difficulty": 2,
+      "prompt": "Which pair of lines will never meet, no matter how far they are extended?",
+      "options": [
+        "perpendicular lines",
+        "intersecting lines",
+        "curved lines",
+        "parallel lines"
+      ],
+      "correct": 3,
+      "standard": "4.G.A.1",
+      "explain": "Parallel lines stay exactly the same distance apart, so they never cross."
+    },
+    {
+      "id": "g4_v39_007",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Precise Word Choice",
+      "difficulty": 3,
+      "prompt": "Read the sentence: The hikers went slowly up the steep path. Which word would most precisely replace went?",
+      "options": [
+        "trudged",
+        "sprinted",
+        "glided",
+        "tumbled"
+      ],
+      "correct": 0,
+      "standard": "L.4.3",
+      "explain": "Trudged means to walk slowly with effort, which matches going up a steep path. The others describe fast or easy movement."
+    },
+    {
+      "id": "g4_v39_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "Read the sentence: The old car was a stubborn mule on cold mornings. What does the sentence mean?",
+      "options": [
+        "The car was pulled by animals.",
+        "The car was painted brown.",
+        "The car was very fast in winter.",
+        "The car was hard to start."
+      ],
+      "correct": 3,
+      "standard": "L.4.5",
+      "explain": "Comparing the car to a stubborn mule says it refused to go, which for a car means it would not start."
+    },
+    {
+      "id": "g4_v39_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Punctuating Dialogue",
+      "difficulty": 4,
+      "prompt": "Which sentence punctuates the quotation correctly?",
+      "options": [
+        "\"Please bring your notebook\" said Ms. Ortiz.",
+        "\"Please bring your notebook, said Ms. Ortiz.\"",
+        "\"Please bring your notebook.\" said Ms. Ortiz.",
+        "\"Please bring your notebook,\" said Ms. Ortiz."
+      ],
+      "correct": 3,
+      "standard": "L.4.2",
+      "explain": "A comma goes inside the closing quotation mark before the speaker tag, and the tag itself is outside the quotation."
+    },
+    {
+      "id": "g4_v39_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Grammar",
+      "difficulty": 3,
+      "prompt": "Which sentence uses their, there, or they're correctly?",
+      "options": [
+        "The students left there coats in the hall.",
+        "The students left they're coats in the hall.",
+        "The students left thier coats in the hall.",
+        "The students left their coats in the hall."
+      ],
+      "correct": 3,
+      "standard": "L.4.1",
+      "explain": "Their shows ownership of the coats. There names a place, and they're is short for they are."
+    },
+    {
+      "id": "g4_v39_011",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Main Idea",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Years ago the trees along Oakdale's main street were taken out to widen the road. Summer sidewalks there grew so hot that shops stood empty by noon. The town has since planted two rows of young maples. Store owners say afternoon business has picked up as the shade has filled in.",
+      "prompt": "Which sentence best states the main idea of the passage about Oakdale's main street?",
+      "options": [
+        "Maple trees grow faster than most other trees.",
+        "Widening a road always improves a town.",
+        "Shoppers prefer to buy things in the morning.",
+        "Shade trees helped a shopping street recover."
+      ],
+      "correct": 3,
+      "standard": "RI.4.2",
+      "explain": "The passage moves from the trees being removed, to hot sidewalks and lost customers, to business picking up once new shade filled in."
+    },
+    {
+      "id": "g4_v39_012",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Reasons and Evidence",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Our town should keep the library open on Sundays. Last year the library counted 4,000 Saturday visits, more than on any weekday. A survey found that 6 out of 10 families said Sunday was the only day everyone in the family was free. Staying open one more day would cost the town about as much as one week of snow plowing.",
+      "prompt": "Which detail best supports the claim that families need a Sunday option?",
+      "options": [
+        "the count of Saturday library visits",
+        "the claim that the library should open",
+        "the survey about families' only free day",
+        "the comparison with the cost of snow plowing"
+      ],
+      "correct": 2,
+      "standard": "RI.4.8",
+      "explain": "Only the survey speaks to when families are free. The visit count and the cost figure argue for other parts of the case."
+    },
+    {
+      "id": "g4_v39_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Character",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Devon had practiced the solo for weeks, but on stage his hands went cold. He looked out at the dark rows of seats and forgot the first note. Then he found his grandmother's face in the third row. She nodded once. Devon took a breath and began.",
+      "prompt": "What helped Devon start playing?",
+      "options": [
+        "seeing his grandmother nod",
+        "hearing the crowd clap loudly",
+        "reading the notes on a page",
+        "counting the rows of seats"
+      ],
+      "correct": 0,
+      "standard": "RL.4.3",
+      "explain": "Devon was stuck until he found his grandmother's face and she nodded; right after that he began."
+    },
+    {
+      "id": "g4_v39_014",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Transfer",
+      "difficulty": 3,
+      "prompt": "A rolling marble hits a marble that is sitting still, and the still marble starts to move. What happened to the energy of the rolling marble?",
+      "options": [
+        "It disappeared completely.",
+        "It turned into more marbles.",
+        "It stayed only with the first marble.",
+        "Some moved to the other marble."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-PS3-3",
+      "explain": "In a collision some of the moving object's energy is passed to the object it hits, which is why the still marble starts moving."
+    },
+    {
+      "id": "g4_v39_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Information Transfer",
+      "difficulty": 2,
+      "prompt": "Morse code sends messages as short and long sounds in different patterns. What do the patterns stand for?",
+      "options": [
+        "colors",
+        "letters",
+        "distances",
+        "temperatures"
+      ],
+      "correct": 1,
+      "standard": "NGSS-4-PS4-3",
+      "explain": "Each pattern of short and long sounds is agreed to mean one letter, so patterns in a row spell out words."
+    },
+    {
+      "id": "g4_v39_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Rock Layers",
+      "difficulty": 4,
+      "prompt": "A cliff shows flat layers of rock stacked one on top of another. What can scientists tell about the bottom layer?",
+      "options": [
+        "It formed first.",
+        "It formed last.",
+        "It formed at the same time as the top.",
+        "It never formed from sediment."
+      ],
+      "correct": 0,
+      "standard": "NGSS-4-ESS1-1",
+      "explain": "Layers pile up from the bottom, so the lowest layer was already there before the ones above it."
+    },
+    {
+      "id": "g4_v39_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Waves",
+      "difficulty": 4,
+      "prompt": "A boat bobs up and down as waves pass under it, but it does not travel toward shore. What does this show?",
+      "options": [
+        "Waves push all objects to the shore.",
+        "Waves move energy, not the boat.",
+        "Waves are made only by boats.",
+        "Waves stop when they reach a boat."
+      ],
+      "correct": 1,
+      "standard": "NGSS-4-PS4-1",
+      "explain": "The water and the boat mostly move up and down in place while the energy of the wave keeps going."
+    },
+    {
+      "id": "g4_v39_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Civic Participation",
+      "difficulty": 3,
+      "prompt": "People in a town disagree about where to build a new park. Which action is the best way for citizens to be heard?",
+      "options": [
+        "move to another town",
+        "wait for someone else to decide",
+        "stop reading the news",
+        "speak at a town meeting"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-4",
+      "explain": "Town meetings exist so residents can give their views directly to the people who make the decision."
+    },
+    {
+      "id": "g4_v39_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 2,
+      "prompt": "The Hudson River begins in the Adirondack Mountains and flows south. Which body of water does it empty into?",
+      "options": [
+        "the Atlantic Ocean",
+        "Lake Ontario",
+        "the Gulf of Mexico",
+        "Lake Champlain"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "The Hudson runs south the length of the state and reaches the sea at New York Harbor, on the Atlantic.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.1 Geography of New York State)"
+    },
+    {
+      "id": "g4_v39_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 4,
+      "prompt": "A town's only bakery closes, so bread must be trucked in from 50 miles away. What most likely happens to the price of bread in that town?",
+      "options": [
+        "It goes down.",
+        "It goes up.",
+        "It stays exactly the same.",
+        "It drops to zero."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-4",
+      "explain": "Trucking the bread in adds cost to every loaf, and that added cost is usually passed on to shoppers."
+    },
+    {
+      "id": "g5_v39_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 4,
+      "prompt": "What is the value of 24 ÷ (3 + 3) × 5?",
+      "options": [
+        "55",
+        "4",
+        "120",
+        "20"
+      ],
+      "correct": 3,
+      "standard": "5.OA.A.1",
+      "explain": "Do the parentheses first: 3 + 3 = 6. Then work left to right: 24 ÷ 6 = 4, and 4 × 5 = 20."
+    },
+    {
+      "id": "g5_v39_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Dividing Fractions",
+      "difficulty": 5,
+      "prompt": "A 1/2-pound bag of trail mix is shared equally among 3 hikers. How much does each hiker get?",
+      "options": [
+        "1/6 pound",
+        "1/5 pound",
+        "3/2 pounds",
+        "2/3 pound"
+      ],
+      "correct": 0,
+      "standard": "5.NF.B.7",
+      "explain": "Cutting a half into 3 equal parts makes sixths, so 1/2 divided by 3 is 1/6 pound for each hiker."
+    },
+    {
+      "id": "g5_v39_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 4,
+      "prompt": "The number 7,200 is 100 times as large as which number?",
+      "options": [
+        "720",
+        "7.2",
+        "72",
+        "720,000"
+      ],
+      "correct": 2,
+      "standard": "5.NBT.A.2",
+      "explain": "Multiplying by 100 shifts every digit two places left, so undoing it shifts them two places right: 7,200 becomes 72."
+    },
+    {
+      "id": "g5_v39_004",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 3,
+      "prompt": "Read the sentence: After three rainy weekends in a row, Jonah said the trip was a lost cause. What does a lost cause mean?",
+      "options": [
+        "something that was misplaced",
+        "a reason someone forgot",
+        "something not worth trying",
+        "a cause people marched for"
+      ],
+      "correct": 2,
+      "standard": "L.5.5",
+      "explain": "A lost cause is an expression for an effort with no real chance of working out."
+    },
+    {
+      "id": "g5_v39_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Vocabulary in Context",
+      "difficulty": 2,
+      "prompt": "Read the sentence: The hikers had to traverse a wide, rocky field before reaching the trail. What does traverse mean?",
+      "options": [
+        "climb",
+        "cross",
+        "avoid",
+        "build"
+      ],
+      "correct": 1,
+      "standard": "L.5.4",
+      "explain": "They had to get from one side of the field to the other before the trail, so traverse means cross."
+    },
+    {
+      "id": "g5_v39_006",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Plant Growth",
+      "difficulty": 4,
+      "prompt": "A tree grows from a small seedling into a large trunk. Where does most of the tree's new material come from?",
+      "options": [
+        "air and water",
+        "soil that the roots eat",
+        "sunlight turning into wood",
+        "rocks broken up by roots"
+      ],
+      "correct": 0,
+      "standard": "NGSS-5-LS1-1",
+      "explain": "A tree builds wood mostly out of carbon dioxide taken from the air and out of water, not out of soil being used up."
+    },
+    {
+      "id": "g5_v39_007",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Gravity",
+      "difficulty": 3,
+      "prompt": "A ball is thrown straight up and comes back down. In which direction does Earth's gravity pull the ball?",
+      "options": [
+        "toward Earth's center",
+        "toward the Sun",
+        "sideways to the east",
+        "away from Earth's surface"
+      ],
+      "correct": 0,
+      "standard": "NGSS-5-PS2-1",
+      "explain": "Gravity on Earth always pulls objects down, which means straight toward the center of the planet."
+    },
+    {
+      "id": "g5_v39_008",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 5,
+      "type": "reading",
+      "passage": "Mira read the letter twice, then folded it into a small square and slid it under the loose board by her bed. At dinner she answered every question with one word. When her father asked about the mail, she said the box had been empty.",
+      "prompt": "What can the reader tell about Mira?",
+      "options": [
+        "She never received any letter.",
+        "She is hiding what the letter said.",
+        "She is excited to share her news.",
+        "She has forgotten about the letter."
+      ],
+      "correct": 1,
+      "standard": "RL.5.1",
+      "explain": "She hides the letter under a loose board, gives one-word answers, and tells her father the mailbox was empty."
+    },
+    {
+      "id": "g5_v39_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 5,
+      "prompt": "One town grew where three rivers meet. A second town grew beside a gold mine that ran out after twenty years. Which town most likely has more people today?",
+      "options": [
+        "the mine town, because gold sold well",
+        "the river town, because trade continued",
+        "both towns, because they started together",
+        "neither town, because towns always shrink"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "Rivers keep carrying goods and travelers year after year, while a mine stops drawing people once the ore is gone."
+    },
+    {
+      "id": "g5_v39_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Geography",
+      "difficulty": 2,
+      "prompt": "Which mountain range runs along the western edge of South America?",
+      "options": [
+        "the Alps",
+        "the Andes",
+        "the Rockies",
+        "the Urals"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-5",
+      "explain": "The Andes stretch down the whole Pacific side of South America, through countries such as Peru and Chile."
     }
   ]
 }
