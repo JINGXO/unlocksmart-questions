@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "questions": [
     {
       "id": "prek_count_001",
@@ -104526,6 +104526,878 @@
       "correct": 1,
       "standard": "NYS-SS-5",
       "explain": "The Andes stretch down the whole Pacific side of South America, through countries such as Peru and Chile."
+    },
+    {
+      "id": "g1_v40_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equal Shares",
+      "difficulty": 2,
+      "prompt": "Mia cuts a sandwich into 2 equal pieces. What is one of those pieces called?",
+      "options": [
+        "a half",
+        "a fourth",
+        "a third",
+        "a whole"
+      ],
+      "correct": 0,
+      "standard": "1.G.A.3",
+      "explain": "Two equal pieces means the sandwich was cut in half, so each piece is a half."
+    },
+    {
+      "id": "g1_v40_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Make a Ten",
+      "difficulty": 3,
+      "prompt": "Lena adds 8 + 7 by making a ten first. She takes 2 from the 7 to fill up the 8. Which sum does she finish with?",
+      "options": [
+        "10 + 5",
+        "10 + 7",
+        "8 + 5",
+        "10 + 2"
+      ],
+      "correct": 0,
+      "standard": "1.OA.C.6",
+      "explain": "Moving 2 over turns the 8 into 10 and leaves 5 behind, so 8 + 7 becomes 10 + 5."
+    },
+    {
+      "id": "g1_v40_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Telling Time to the Half-Hour",
+      "difficulty": 4,
+      "prompt": "A game of tag started at 2:00 and ended at 2:30. Then the class read for 30 more minutes. What time did reading end?",
+      "options": [
+        "3:00",
+        "2:30",
+        "3:30",
+        "2:00"
+      ],
+      "correct": 0,
+      "standard": "1.MD.B.3",
+      "explain": "The game ran from 2:00 to 2:30. Thirty minutes of reading after 2:30 brings the class to 3:00."
+    },
+    {
+      "id": "g1_v40_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 2,
+      "prompt": "9 children voted for pizza and 4 voted for soup. How many children voted in all?",
+      "options": [
+        "5",
+        "14",
+        "13",
+        "12"
+      ],
+      "correct": 2,
+      "standard": "1.OA.A.1",
+      "explain": "Put the two groups together: 9 + 4 = 13 children voted."
+    },
+    {
+      "id": "g1_v40_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Two-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "Ava had 15 crayons. She gave 4 to Ben and then found 3 more in her desk. How many crayons does Ava have now?",
+      "options": [
+        "8",
+        "14",
+        "22",
+        "11"
+      ],
+      "correct": 1,
+      "standard": "1.OA.A.1",
+      "explain": "First 15 - 4 = 11 crayons after giving some away. Then 11 + 3 = 14 crayons after she finds more."
+    },
+    {
+      "id": "g1_v40_006",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Plural Nouns",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the correct plural word?",
+      "options": [
+        "I see three foxs.",
+        "I see three foxes.",
+        "I see three foxies.",
+        "I see three fox."
+      ],
+      "correct": 1,
+      "standard": "L.1.1.C",
+      "explain": "A noun ending in x adds -es to name more than one, so one fox becomes three foxes."
+    },
+    {
+      "id": "g1_v40_007",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Adjectives",
+      "difficulty": 3,
+      "prompt": "Read this sentence: Ben ate a juicy apple. Which word describes the apple?",
+      "options": [
+        "ate",
+        "Ben",
+        "apple",
+        "juicy"
+      ],
+      "correct": 3,
+      "standard": "L.1.1.F",
+      "explain": "Juicy tells what the apple was like, so juicy is the describing word."
+    },
+    {
+      "id": "g1_v40_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Word Categories",
+      "difficulty": 2,
+      "prompt": "Robin, sparrow, and crow all belong to which group?",
+      "options": [
+        "birds",
+        "fish",
+        "trees",
+        "boats"
+      ],
+      "correct": 0,
+      "standard": "L.1.5.A",
+      "explain": "A robin, a sparrow, and a crow are all kinds of birds."
+    },
+    {
+      "id": "g1_v40_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Pronouns",
+      "difficulty": 3,
+      "prompt": "Which word can take the place of Grandpa in this sentence: Grandpa planted a small tree.",
+      "options": [
+        "They",
+        "It",
+        "We",
+        "He"
+      ],
+      "correct": 3,
+      "standard": "L.1.1.D",
+      "explain": "Grandpa is one person being talked about, so the word that stands in for him is He."
+    },
+    {
+      "id": "g1_v40_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 3,
+      "prompt": "Which word shows the loudest way of speaking?",
+      "options": [
+        "whispered",
+        "shouted",
+        "said",
+        "mumbled"
+      ],
+      "correct": 1,
+      "standard": "L.1.5.D",
+      "explain": "Whispered and mumbled are quiet, and said is ordinary, so shouted is the loudest of the four."
+    },
+    {
+      "id": "g1_v40_011",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Sam lost his blue mitten on the way to school. He looked under his desk. He looked in his backpack. At the end of the day, the teacher held up a blue mitten. Sam smiled.",
+      "prompt": "Where was the mitten at the end of the day?",
+      "options": [
+        "still in his backpack",
+        "under Sam's desk",
+        "back at Sam's house",
+        "with the teacher"
+      ],
+      "correct": 3,
+      "standard": "RL.1.1",
+      "explain": "The story says that at the end of the day the teacher held up a blue mitten."
+    },
+    {
+      "id": "g1_v40_012",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Main Topic",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Bees visit flowers to drink sweet nectar. Yellow dust called pollen sticks to their legs. When a bee flies to the next flower, some pollen rubs off. That pollen helps new seeds grow.",
+      "prompt": "What is the main topic of the passage about bees?",
+      "options": [
+        "why bees build nests inside tall trees",
+        "what color most garden flowers are",
+        "how far a bee flies in one day",
+        "how bees help flowers make seeds"
+      ],
+      "correct": 3,
+      "standard": "RI.1.2",
+      "explain": "Every sentence follows the pollen from one flower to the next, ending with new seeds growing."
+    },
+    {
+      "id": "g1_v40_013",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Inference",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Tess put on her raincoat and boots. She pulled her wagon to the garden. She filled it with wet leaves. By the time she finished, her cheeks were cold and pink.",
+      "prompt": "What kind of weather was it in the story?",
+      "options": [
+        "hot and sunny",
+        "snowy and windy",
+        "warm and dry",
+        "cold and rainy"
+      ],
+      "correct": 3,
+      "standard": "RL.1.3",
+      "explain": "The raincoat, the boots, and the wet leaves point to rain, and her cold cheeks point to cold."
+    },
+    {
+      "id": "g1_v40_014",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 2,
+      "prompt": "You hum a tune with your fingers resting on your throat. What do you feel?",
+      "options": [
+        "a cold spot",
+        "nothing at all",
+        "a soft shaking",
+        "a bright light"
+      ],
+      "correct": 2,
+      "standard": "1-PS4-1",
+      "explain": "Sound is made by something moving back and forth, and your throat shakes while you hum."
+    },
+    {
+      "id": "g1_v40_015",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Inherited Traits",
+      "difficulty": 2,
+      "prompt": "A young sunflower grows from the seed of a tall sunflower. How will the young plant most likely look?",
+      "options": [
+        "much like its parent, but not exactly",
+        "exactly the same as its parent",
+        "nothing at all like its parent",
+        "like a completely different kind of plant"
+      ],
+      "correct": 0,
+      "standard": "1-LS3-1",
+      "explain": "Young plants take after the plant they came from, but each one is a little different."
+    },
+    {
+      "id": "g1_v40_016",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 3,
+      "prompt": "Some groups of stars can be seen in the winter sky but not in the summer sky. What does this show?",
+      "options": [
+        "the stars move to a different galaxy",
+        "those stars burn out every summer",
+        "summer nights have no stars at all",
+        "the night sky changes in a pattern"
+      ],
+      "correct": 3,
+      "standard": "1-ESS1-1",
+      "explain": "The same star groups come back season after season, so the change follows a pattern you can predict."
+    },
+    {
+      "id": "g1_v40_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 2,
+      "prompt": "Why does a town build a park that everyone in the town may use?",
+      "options": [
+        "so only one family can play there",
+        "so the town can sell it for money",
+        "so people can share one big space",
+        "so children stay inside their homes"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-G1",
+      "explain": "A park costs more than one family could pay, so the town builds one place that everybody shares."
+    },
+    {
+      "id": "g1_v40_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Goods and Services",
+      "difficulty": 3,
+      "prompt": "A dentist cleans your teeth. This work is an example of what?",
+      "options": [
+        "a good",
+        "a factory",
+        "a machine",
+        "a service"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-G1",
+      "explain": "A service is work one person does for another, while a good is an object you can hold."
+    },
+    {
+      "id": "g1_v40_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Rules and Citizenship",
+      "difficulty": 2,
+      "prompt": "A class wants to pick one book to read together. What is a fair way for the whole class to decide?",
+      "options": [
+        "let the tallest child pick",
+        "let everyone vote on it",
+        "let nobody read a book",
+        "let the first child in line pick"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "Voting gives every child the same say, which is what makes the choice a fair one."
+    },
+    {
+      "id": "g1_v40_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Civics",
+      "difficulty": 2,
+      "prompt": "Two neighbors both want to use the same small garden plot. What is the best way to settle it?",
+      "options": [
+        "take the whole plot when nobody looks",
+        "talk it over and share the space",
+        "stop speaking to each other",
+        "pull up the other one's plants"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "Talking and sharing solves the problem so both neighbors get to use the garden."
+    },
+    {
+      "id": "g4_v40_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Place Value",
+      "difficulty": 2,
+      "prompt": "Which comparison of whole numbers is true?",
+      "options": [
+        "46,203 > 46,230",
+        "46,203 < 46,230",
+        "46,203 = 46,230",
+        "46,230 < 46,203"
+      ],
+      "correct": 1,
+      "standard": "4.NBT.A.2",
+      "explain": "Both numbers match through the hundreds place. In the tens place 0 is less than 3, so 46,203 < 46,230."
+    },
+    {
+      "id": "g4_v40_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Line Plots",
+      "difficulty": 3,
+      "prompt": "A line plot shows 3 plants at 2 inches, 5 plants at 3 inches, and 2 plants at 4 inches. How many plants were measured in all?",
+      "options": [
+        "10",
+        "9",
+        "3",
+        "29"
+      ],
+      "correct": 0,
+      "standard": "4.MD.B.4",
+      "explain": "Add the number of plants at each mark, not the heights: 3 + 5 + 2 = 10 plants."
+    },
+    {
+      "id": "g4_v40_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 4,
+      "prompt": "A class read 1,248 pages in 6 weeks, reading the same number of pages each week. How many pages was that each week?",
+      "options": [
+        "28",
+        "218",
+        "208",
+        "1,242"
+      ],
+      "correct": 2,
+      "standard": "4.NBT.B.6",
+      "explain": "Share the pages equally across the weeks: 1,248 divided by 6 is 208 pages a week."
+    },
+    {
+      "id": "g4_v40_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison",
+      "difficulty": 3,
+      "prompt": "A library has 84 picture books and 6 times as many chapter books. How many chapter books does the library have?",
+      "options": [
+        "90",
+        "14",
+        "504",
+        "540"
+      ],
+      "correct": 2,
+      "standard": "4.OA.A.2",
+      "explain": "Six times as many means multiply: 84 x 6 = 504 chapter books."
+    },
+    {
+      "id": "g4_v40_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multi-Step Word Problems",
+      "difficulty": 4,
+      "prompt": "A farm stand put out 8 crates holding 24 peaches each. It sold 150 peaches by noon. How many peaches were left?",
+      "options": [
+        "32",
+        "342",
+        "42",
+        "192"
+      ],
+      "correct": 2,
+      "standard": "4.OA.A.3",
+      "explain": "First 8 x 24 = 192 peaches put out. Then 192 - 150 = 42 peaches left."
+    },
+    {
+      "id": "g4_v40_006",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Division with Remainders",
+      "difficulty": 4,
+      "prompt": "A school needs to bus 234 students. Each bus holds 40 students. How many buses does the school need?",
+      "options": [
+        "6",
+        "5",
+        "34",
+        "7"
+      ],
+      "correct": 0,
+      "standard": "4.OA.A.3",
+      "explain": "234 divided by 40 is 5 with 34 left over, and those 34 students still need a bus, so the school needs 6 buses."
+    },
+    {
+      "id": "g4_v40_007",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The Latin root spect means to look. What does the word inspect most likely mean?",
+      "options": [
+        "to look away from",
+        "to look closely at",
+        "to look for the first time",
+        "to look at again"
+      ],
+      "correct": 1,
+      "standard": "L.4.4.B",
+      "explain": "Inspect joins in- with spect, so it means to look into something closely, the way a mechanic inspects an engine."
+    },
+    {
+      "id": "g4_v40_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Modal Auxiliaries",
+      "difficulty": 3,
+      "prompt": "Choose the word that shows something is only possible, not certain: We ____ go to the lake if the rain stops.",
+      "options": [
+        "must",
+        "will",
+        "might",
+        "always"
+      ],
+      "correct": 2,
+      "standard": "L.4.1.C",
+      "explain": "Might leaves the trip uncertain. Must and will state it as settled, and always describes a habit."
+    },
+    {
+      "id": "g4_v40_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Figurative Language",
+      "difficulty": 4,
+      "prompt": "Read the sentence: After the storm the garden was a battlefield of broken stems. What does this metaphor suggest?",
+      "options": [
+        "The garden was badly torn up.",
+        "The garden was guarded by soldiers.",
+        "The garden was planted in neat rows.",
+        "The garden was larger than before."
+      ],
+      "correct": 0,
+      "standard": "L.4.5.A",
+      "explain": "Calling the garden a battlefield compares it to ground left wrecked after a fight, so the plants were ruined."
+    },
+    {
+      "id": "g4_v40_010",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Frequently Confused Words",
+      "difficulty": 2,
+      "prompt": "Choose the correct word: The puppy chased ____ tail across the yard.",
+      "options": [
+        "it's",
+        "its'",
+        "its",
+        "it is"
+      ],
+      "correct": 2,
+      "standard": "L.4.1.G",
+      "explain": "The sentence needs the possessive its. The spelling it's is short for it is, which would not fit here."
+    },
+    {
+      "id": "g4_v40_011",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Reasons and Evidence",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "The town council wants to add a bike lane on Mill Street. Supporters point out that the street already carries 300 bicycles on a summer Saturday, more than any other road in town. They note that three of the town's four schools sit within a half mile of Mill Street. Critics answer that the street would lose eleven parking spaces.",
+      "prompt": "Which detail does the passage give as evidence that many people already bike on Mill Street?",
+      "options": [
+        "the number of schools within a half mile of the street",
+        "the number of parking spaces lost",
+        "the count of bicycles on a summer Saturday",
+        "the town council's plan to add a lane"
+      ],
+      "correct": 2,
+      "standard": "RI.4.8",
+      "explain": "Only the bicycle count measures how much the street is already used by riders. The schools, the parking, and the plan support other parts of the argument."
+    },
+    {
+      "id": "g4_v40_012",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Nadia's science fair volcano collapsed an hour before judging. She had no baking soda left and no time to rebuild. She set the broken model on the table, taped a card beside it that read 'What went wrong, and why,' and listed the four mistakes she had found. The judges spent longer at her table than at any other.",
+      "prompt": "What is the theme of this story?",
+      "options": [
+        "It is always best to finish a project long before it is due.",
+        "Science fairs are judged unfairly most of the time.",
+        "Volcano models are the hardest projects to build.",
+        "Honest work can turn a failure into something useful."
+      ],
+      "correct": 3,
+      "standard": "RL.4.2",
+      "explain": "Nadia could not fix the model, so she explained her mistakes instead, and that honest account is what held the judges."
+    },
+    {
+      "id": "g4_v40_013",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Marcus woke before dawn to help at his uncle's bakery. His job was to shape the rolls. By six o'clock his arms ached, but the front window was full of trays. The first customer, a woman in a bus driver's coat, bought six of them.",
+      "prompt": "What was Marcus's job at the bakery?",
+      "options": [
+        "to shape the rolls",
+        "to run the front register",
+        "to sweep the bakery floor",
+        "to drive the delivery van"
+      ],
+      "correct": 0,
+      "standard": "RL.4.1",
+      "explain": "The second sentence states directly that his job was to shape the rolls."
+    },
+    {
+      "id": "g4_v40_014",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Explaining Procedures and Concepts",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "To make maple syrup, a farmer drills a small hole in a sugar maple and hangs a bucket. Cold nights and warm days push clear sap up the tree and out the hole. The sap is almost all water, so the farmer boils it for hours. It takes about forty gallons of sap to make one gallon of syrup.",
+      "prompt": "Why must the farmer boil the sap for hours?",
+      "options": [
+        "to remove most of the water in it",
+        "to warm the sap before it is drunk",
+        "to make the bucket easier to clean",
+        "to keep the sap from freezing hard"
+      ],
+      "correct": 0,
+      "standard": "RI.4.3",
+      "explain": "The passage says the sap is almost all water, and boiling drives that water off until thick syrup is left."
+    },
+    {
+      "id": "g4_v40_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Senses and Information",
+      "difficulty": 3,
+      "prompt": "An owl's eyes take in light at night and send signals to its brain. What does the owl's brain do with those signals?",
+      "options": [
+        "It stores them away without ever using them.",
+        "It turns them back into light again.",
+        "It sends them out to other owls nearby.",
+        "It makes sense of them so the owl can act."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-LS1-2",
+      "explain": "Sense organs gather information and send it to the brain, which reads it and decides what the animal does next."
+    },
+    {
+      "id": "g4_v40_016",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "How do a bird's hollow bones help it survive?",
+      "options": [
+        "They help the bird hear very tiny sounds.",
+        "They keep the bird warm in winter.",
+        "They help the bird taste its food.",
+        "They make the bird lighter for flying."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-LS1-1",
+      "explain": "Hollow bones weigh less than solid ones, so a bird needs less effort to get into the air and stay there."
+    },
+    {
+      "id": "g4_v40_017",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Energy Sources",
+      "difficulty": 4,
+      "prompt": "Two towns each build a power plant. One burns coal and one uses wind. Which statement about the two plants is true?",
+      "options": [
+        "The wind plant uses a resource that is replaced naturally.",
+        "The coal plant uses a resource that is replaced naturally.",
+        "Both plants use resources that will never run out.",
+        "Neither plant uses a resource found in nature."
+      ],
+      "correct": 0,
+      "standard": "NGSS-4-ESS3-1",
+      "explain": "Wind keeps blowing no matter how much is used, while coal took millions of years to form and is not replaced."
+    },
+    {
+      "id": "g4_v40_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "NY Geography",
+      "difficulty": 3,
+      "prompt": "Which of these is a physical feature of New York State rather than something people built?",
+      "options": [
+        "the New York State Thruway",
+        "the Erie Canal",
+        "the Adirondack Mountains",
+        "the Brooklyn Bridge"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-4",
+      "explain": "The Adirondacks are landforms shaped by nature. The Thruway, the canal, and the bridge were all built by people.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.1 Geography of New York State)"
+    },
+    {
+      "id": "g4_v40_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Native Peoples of New York",
+      "difficulty": 4,
+      "prompt": "The Haudenosaunee built longhouses, and several related families shared one longhouse. What does that tell us about how they lived?",
+      "options": [
+        "Each person needed a separate house of their own.",
+        "Families lived and worked together in groups.",
+        "They moved to a new place every night.",
+        "They had no way to store their food."
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-4",
+      "explain": "Sharing one long building meant related families cooked, worked, and raised children side by side.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.2 Native American Groups and the Environment)"
+    },
+    {
+      "id": "g4_v40_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Economics",
+      "difficulty": 3,
+      "prompt": "A New York apple farm ships most of its fruit to other states. What is this an example of?",
+      "options": [
+        "import",
+        "export",
+        "tariff",
+        "barter"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-4",
+      "explain": "Goods sent out of a place to be sold somewhere else are exports. Goods brought in are imports.",
+      "source": "NYS K-8 Social Studies Framework, Grade 4 (4.6 Government and Economics)"
+    },
+    {
+      "id": "g5_v40_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Powers of Ten",
+      "difficulty": 2,
+      "prompt": "What is 4.6 x 1000?",
+      "options": [
+        "4600",
+        "46",
+        "460",
+        "46000"
+      ],
+      "correct": 0,
+      "standard": "5.NBT.A.2",
+      "explain": "Multiplying by 1000 moves each digit three places to the left, so 4.6 becomes 4600."
+    },
+    {
+      "id": "g5_v40_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Writing Expressions",
+      "difficulty": 3,
+      "prompt": "Which expression means: add 8 and 7, then multiply the result by 4?",
+      "options": [
+        "4 x 8 + 7",
+        "4 x (8 + 7)",
+        "8 + 7 x 4",
+        "(8 + 7) + 4"
+      ],
+      "correct": 1,
+      "standard": "5.OA.A.2",
+      "explain": "The parentheses make the addition happen first, so 8 + 7 = 15 is then multiplied by 4."
+    },
+    {
+      "id": "g5_v40_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Order of Operations",
+      "difficulty": 5,
+      "prompt": "Evaluate: 6 x [20 - (3 + 5 x 2)]",
+      "options": [
+        "24",
+        "7",
+        "107",
+        "42"
+      ],
+      "correct": 3,
+      "standard": "5.OA.A.1",
+      "explain": "Work the innermost grouping first: 5 x 2 = 10, then 3 + 10 = 13. Next 20 - 13 = 7. Finally 6 x 7 = 42."
+    },
+    {
+      "id": "g5_v40_004",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 4,
+      "prompt": "The word benevolent contains the root bene, meaning good. What does benevolent most likely describe?",
+      "options": [
+        "someone who is always in a hurry",
+        "someone who dislikes company",
+        "someone who never tells the truth",
+        "someone who wishes others well"
+      ],
+      "correct": 3,
+      "standard": "L.5.4.B",
+      "explain": "Bene carries the sense of good, so a benevolent person is one who means well toward other people."
+    },
+    {
+      "id": "g5_v40_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Correlative Conjunctions",
+      "difficulty": 3,
+      "prompt": "Which sentence uses correlative conjunctions correctly?",
+      "options": [
+        "Either the cat nor the dog would come inside this evening.",
+        "Neither the cat nor the dog would come inside today.",
+        "Neither the cat or the dog would come inside today.",
+        "Both the cat or the dog would come inside today."
+      ],
+      "correct": 1,
+      "standard": "L.5.1.E",
+      "explain": "Correlative conjunctions come in fixed pairs, and neither always pairs with nor."
+    },
+    {
+      "id": "g5_v40_006",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Evaluating Evidence",
+      "difficulty": 5,
+      "type": "reading",
+      "passage": "An ad for SunBrite lamps claims the lamps help plants grow up to three times faster. The company tested twelve tomato seedlings under its lamps and twelve on a shaded windowsill. The lamp plants did grow taller. The ad does not say how much light the windowsill plants received, or whether the two groups were watered the same amount.",
+      "prompt": "Why is the ad's claim hard to trust?",
+      "options": [
+        "Tomato plants do not grow the same way as other kinds of plants.",
+        "Other things besides the lamp could explain the difference.",
+        "Twelve plants is more than a company needs to test.",
+        "The ad does not say what the lamps cost to buy."
+      ],
+      "correct": 1,
+      "standard": "RI.5.8",
+      "explain": "Light and water were not kept the same for both groups, so the extra height cannot be pinned on the lamp alone."
+    },
+    {
+      "id": "g5_v40_007",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Theme",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Every spring Ivan's grandfather planted a row of walnut trees along the fence. Ivan asked why he bothered, since walnuts take thirty years to bear. His grandfather handed him a shovel and said the trees they ate from had been planted by someone he never met. Ivan dug the next hole without asking again.",
+      "prompt": "Which sentence best states the theme of the story?",
+      "options": [
+        "People plant for those who come after them.",
+        "Walnut trees are difficult to grow from seed.",
+        "Children should not question their grandparents.",
+        "Farming takes more patience than other work."
+      ],
+      "correct": 0,
+      "standard": "RL.5.2",
+      "explain": "The grandfather points out that he eats from trees a stranger planted, and Ivan keeps digging once he understands."
+    },
+    {
+      "id": "g5_v40_008",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Conservation of Matter",
+      "difficulty": 4,
+      "prompt": "A sealed jar holding a candle and air is weighed. The candle burns out and the jar is weighed again. What happens to the total mass?",
+      "options": [
+        "It goes down a little.",
+        "It goes up a little.",
+        "It stays the same.",
+        "It drops to nearly zero."
+      ],
+      "correct": 2,
+      "standard": "NGSS-5-PS1-2",
+      "explain": "Nothing can enter or leave a sealed jar, so the matter only changes form and the total mass stays the same."
+    },
+    {
+      "id": "g5_v40_009",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Earth Systems",
+      "difficulty": 2,
+      "prompt": "Moving stream water carries soil and small rocks downstream. Which two Earth systems interact in this event?",
+      "options": [
+        "the hydrosphere and the atmosphere",
+        "the atmosphere and the biosphere",
+        "the hydrosphere and the geosphere",
+        "the biosphere and the geosphere"
+      ],
+      "correct": 2,
+      "standard": "NGSS-5-ESS2-1",
+      "explain": "The stream water is the hydrosphere, and the soil and rock it moves are the geosphere."
+    },
+    {
+      "id": "g5_v40_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Government",
+      "difficulty": 5,
+      "prompt": "Congress passes a law and the President signs it. Later a court rules that the law goes against the Constitution and cannot be used. Which principle does this show?",
+      "options": [
+        "popular sovereignty",
+        "federalism",
+        "checks and balances",
+        "free enterprise"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-5",
+      "explain": "Each branch can limit the others, and a court striking down a law is the judicial branch checking the other two.",
+      "source": "NYS K-8 Social Studies Framework, Grade 5 (5.7 Civic Ideals and Practices)"
     }
   ]
 }
