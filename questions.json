@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "questions": [
     {
       "id": "prek_count_001",
@@ -104526,6 +104526,872 @@
       "correct": 1,
       "standard": "NYS-SS-5",
       "explain": "The Andes stretch down the whole Pacific side of South America, through countries such as Peru and Chile."
+    },
+    {
+      "id": "g1_v40_001",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Equal Shares",
+      "difficulty": 2,
+      "prompt": "Lena folds a sheet of paper into 4 equal parts. What is each part called?",
+      "options": [
+        "a half",
+        "a third",
+        "a fourth",
+        "the whole sheet"
+      ],
+      "correct": 2,
+      "standard": "1.G.A.3",
+      "explain": "Four equal parts means each part is one fourth of the sheet."
+    },
+    {
+      "id": "g1_v40_002",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Ten More and Ten Less",
+      "difficulty": 2,
+      "prompt": "What number is 10 more than 47?",
+      "options": [
+        "37",
+        "48",
+        "46",
+        "57"
+      ],
+      "correct": 3,
+      "standard": "1.NBT.C.5",
+      "explain": "Adding 10 keeps the ones digit the same and raises the tens digit by one, so 47 becomes 57."
+    },
+    {
+      "id": "g1_v40_003",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Fact Families",
+      "difficulty": 3,
+      "prompt": "Amy knows that 7 + 5 = 12. Which fact belongs to the same fact family?",
+      "options": [
+        "12 + 5 = 17",
+        "12 - 5 = 7",
+        "7 - 5 = 2",
+        "5 + 12 = 17"
+      ],
+      "correct": 1,
+      "standard": "1.OA.B.4",
+      "explain": "A fact family uses the same three numbers, so 7 + 5 = 12 turns around into 12 - 5 = 7."
+    },
+    {
+      "id": "g1_v40_004",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Word Problem",
+      "difficulty": 4,
+      "prompt": "Ben had 15 stickers. He gave 6 to Ana, then found 4 more. How many stickers does Ben have now?",
+      "options": [
+        "25",
+        "9",
+        "13",
+        "5"
+      ],
+      "correct": 2,
+      "standard": "1.OA.A.1",
+      "explain": "First 15 - 6 = 9, and then 9 + 4 = 13."
+    },
+    {
+      "id": "g1_v40_005",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Comparing Numbers",
+      "difficulty": 4,
+      "prompt": "Sam's number has 4 tens and 8 ones. Mia's number has 8 tens and 4 ones. Whose number is greater?",
+      "options": [
+        "Mia's number",
+        "Sam's number",
+        "They are equal.",
+        "You cannot tell."
+      ],
+      "correct": 0,
+      "standard": "1.NBT.B.3",
+      "explain": "Sam has 48 and Mia has 84. Both use the digits 4 and 8, but 84 has more tens, so Mia's number is greater."
+    },
+    {
+      "id": "g1_v40_006",
+      "grade": "g1",
+      "subject": "math",
+      "topic": "Unknown Addends and Equations",
+      "difficulty": 3,
+      "prompt": "What number makes this true?  14 - ___ = 6",
+      "options": [
+        "20",
+        "7",
+        "6",
+        "8"
+      ],
+      "correct": 3,
+      "standard": "1.OA.D.8",
+      "explain": "Taking 8 away from 14 leaves 6, so 8 is the missing number."
+    },
+    {
+      "id": "g1_v40_007",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Grammar - Plural Nouns",
+      "difficulty": 2,
+      "prompt": "Which sentence uses the verb correctly?",
+      "options": [
+        "The dogs barks at the mail truck.",
+        "The dogs bark at the mail truck.",
+        "The dog bark at the mail truck.",
+        "The dogs barking at the mail truck."
+      ],
+      "correct": 1,
+      "standard": "L.1.1.C",
+      "explain": "A plural subject like dogs takes the plain verb bark."
+    },
+    {
+      "id": "g1_v40_008",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Shades of Meaning",
+      "difficulty": 3,
+      "prompt": "Ana walked all day. Which word means MORE tired than tired?",
+      "options": [
+        "exhausted",
+        "a little sleepy",
+        "rested",
+        "wide awake"
+      ],
+      "correct": 0,
+      "standard": "L.1.5.D",
+      "explain": "Exhausted means very tired, more tired than just tired."
+    },
+    {
+      "id": "g1_v40_009",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Punctuation",
+      "difficulty": 2,
+      "prompt": "Which one uses the right end mark and the right first letter?",
+      "options": [
+        "Where is my blue hat.",
+        "Where is my blue hat",
+        "where is my blue hat?",
+        "Where is my blue hat?"
+      ],
+      "correct": 3,
+      "standard": "L.1.2.B",
+      "explain": "A question that starts with Where ends with a question mark, and the first word takes a capital letter."
+    },
+    {
+      "id": "g1_v40_010",
+      "grade": "g1",
+      "subject": "ela",
+      "topic": "Prefixes",
+      "difficulty": 3,
+      "prompt": "The old ladder was unsafe. What does unsafe mean?",
+      "options": [
+        "very safe",
+        "not safe",
+        "safe again",
+        "safe before"
+      ],
+      "correct": 1,
+      "standard": "L.1.4.B",
+      "explain": "The prefix un- means not, so unsafe means not safe."
+    },
+    {
+      "id": "g1_v40_011",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Plant and Animal Structures",
+      "difficulty": 2,
+      "prompt": "How do a plant's roots help it stay alive?",
+      "options": [
+        "They make seeds fall.",
+        "They color the flowers.",
+        "They take in water.",
+        "They keep insects away."
+      ],
+      "correct": 2,
+      "standard": "1-LS1-1",
+      "explain": "Roots reach down into the soil and pull in the water the plant needs."
+    },
+    {
+      "id": "g1_v40_012",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Sound",
+      "difficulty": 3,
+      "prompt": "A drum makes a loud sound. What is the drum head doing?",
+      "options": [
+        "vibrating",
+        "cooling down",
+        "standing still",
+        "getting wet"
+      ],
+      "correct": 0,
+      "standard": "1-PS4-1",
+      "explain": "Sound comes from something moving quickly back and forth, and that fast back-and-forth is called vibrating."
+    },
+    {
+      "id": "g1_v40_013",
+      "grade": "g1",
+      "subject": "science",
+      "topic": "Patterns in the Sky",
+      "difficulty": 2,
+      "prompt": "Which one of these do we see in the sky only in the daytime?",
+      "options": [
+        "the Moon",
+        "the Sun",
+        "the stars",
+        "a dark sky"
+      ],
+      "correct": 1,
+      "standard": "1-ESS1-1",
+      "explain": "The Sun lights the daytime sky. At night it has set, so we see the Moon and the stars instead."
+    },
+    {
+      "id": "g1_v40_014",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Key Details",
+      "difficulty": 2,
+      "type": "reading",
+      "passage": "Sam packed his red backpack for the trip. He put in two apples, a water bottle, and his blue hat. Then he waited by the door for Grandma.",
+      "prompt": "How many apples did Sam pack?",
+      "options": [
+        "one",
+        "three",
+        "none",
+        "two"
+      ],
+      "correct": 3,
+      "standard": "RL.1.1",
+      "explain": "The story says he put in two apples."
+    },
+    {
+      "id": "g1_v40_015",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Cause and Effect",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Rain fell all morning. The soccer field turned to mud, so the coach moved practice into the gym. The team dribbled between orange cones on the wooden floor.",
+      "prompt": "Why did the coach move practice into the gym?",
+      "options": [
+        "The field was muddy.",
+        "The gym was closer.",
+        "The cones were orange.",
+        "The team liked wood floors."
+      ],
+      "correct": 0,
+      "standard": "RI.1.3",
+      "explain": "Rain turned the field to mud, and that is when the coach moved practice inside."
+    },
+    {
+      "id": "g1_v40_016",
+      "grade": "g1",
+      "subject": "reading",
+      "topic": "Text Features",
+      "difficulty": 2,
+      "prompt": "A book about frogs has a heading that says What Frogs Eat. What will that part of the book tell you?",
+      "options": [
+        "where frogs sleep",
+        "how frogs jump",
+        "the food frogs eat",
+        "the color of frogs"
+      ],
+      "correct": 2,
+      "standard": "RI.1.5",
+      "explain": "A heading names what the part under it is about, and this heading names frog food."
+    },
+    {
+      "id": "g1_v40_017",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "US Symbols",
+      "difficulty": 2,
+      "prompt": "The American flag has 13 stripes. What do those stripes stand for?",
+      "options": [
+        "the first 13 presidents",
+        "the first 13 colonies",
+        "13 famous rivers",
+        "13 national holidays"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-G1",
+      "explain": "The 13 stripes stand for the 13 colonies that first joined together to form the country."
+    },
+    {
+      "id": "g1_v40_018",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Maps and Globes",
+      "difficulty": 2,
+      "prompt": "On a globe, what does the color blue usually show?",
+      "options": [
+        "water",
+        "forests",
+        "deserts",
+        "mountains"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-G1",
+      "explain": "Mapmakers color the oceans, lakes, and rivers blue, and they color the land green and brown."
+    },
+    {
+      "id": "g1_v40_019",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Community Helpers",
+      "difficulty": 3,
+      "prompt": "A pipe under the kitchen sink is leaking. Which community worker should the family call?",
+      "options": [
+        "a librarian",
+        "a mail carrier",
+        "a crossing guard",
+        "a plumber"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-G1",
+      "explain": "Plumbers work on the pipes that carry water into a home and back out again."
+    },
+    {
+      "id": "g1_v40_020",
+      "grade": "g1",
+      "subject": "social_studies",
+      "topic": "Long Ago and Today",
+      "difficulty": 4,
+      "prompt": "Long ago, families kept milk cold in a box with a block of ice. What change meant they no longer needed the ice?",
+      "options": [
+        "People stopped drinking milk.",
+        "Ice began to cost less.",
+        "People got refrigerators.",
+        "Boxes were made of wood."
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-G1",
+      "explain": "A refrigerator makes its own cold, so a family no longer had to buy a block of ice each week."
+    },
+    {
+      "id": "g4_v40_001",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Line Plots",
+      "difficulty": 3,
+      "prompt": "A line plot of ribbon lengths has marks at 1/8, 3/8, and 5/8 of a foot. How much longer is the longest ribbon than the shortest one?",
+      "options": [
+        "6/8 foot",
+        "4/8 foot",
+        "2/8 foot",
+        "5/8 foot"
+      ],
+      "correct": 1,
+      "standard": "4.MD.B.4",
+      "explain": "The longest is 5/8 foot and the shortest is 1/8 foot, and 5/8 - 1/8 = 4/8 of a foot."
+    },
+    {
+      "id": "g4_v40_002",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Area and Perimeter",
+      "difficulty": 4,
+      "prompt": "A rectangular garden is 12 meters long and 7 meters wide. Fencing costs $3 for each meter. What does it cost to fence all the way around?",
+      "options": [
+        "$114",
+        "$252",
+        "$57",
+        "$38"
+      ],
+      "correct": 0,
+      "standard": "4.MD.A.3",
+      "explain": "The perimeter is 12 + 7 + 12 + 7 = 38 meters, and 38 x $3 = $114."
+    },
+    {
+      "id": "g4_v40_003",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Measurement Conversions",
+      "difficulty": 2,
+      "prompt": "How many grams are in 4 kilograms?",
+      "options": [
+        "400",
+        "40,000",
+        "4,000",
+        "40"
+      ],
+      "correct": 2,
+      "standard": "4.MD.A.1",
+      "explain": "One kilogram is 1,000 grams, so 4 kilograms is 4 x 1,000 = 4,000 grams."
+    },
+    {
+      "id": "g4_v40_004",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Factors",
+      "difficulty": 4,
+      "prompt": "How many different factor pairs does 48 have?",
+      "options": [
+        "4",
+        "6",
+        "10",
+        "5"
+      ],
+      "correct": 3,
+      "standard": "4.OA.B.4",
+      "explain": "The pairs are 1 x 48, 2 x 24, 3 x 16, 4 x 12, and 6 x 8, so the 10 factors of 48 make 5 pairs."
+    },
+    {
+      "id": "g4_v40_005",
+      "grade": "g4",
+      "subject": "math",
+      "topic": "Multiplicative Comparison",
+      "difficulty": 4,
+      "prompt": "A library has 8 shelves of poetry. It has 6 times as many shelves of fiction. How many more fiction shelves than poetry shelves are there?",
+      "options": [
+        "48",
+        "40",
+        "14",
+        "6"
+      ],
+      "correct": 1,
+      "standard": "4.OA.A.2",
+      "explain": "Fiction fills 8 x 6 = 48 shelves, and 48 - 8 = 40 more than poetry."
+    },
+    {
+      "id": "g4_v40_006",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Relative Pronouns and Adverbs",
+      "difficulty": 3,
+      "prompt": "Which word best completes the sentence?  That is the summer ___ we learned to swim.",
+      "options": [
+        "where",
+        "which",
+        "when",
+        "whose"
+      ],
+      "correct": 2,
+      "standard": "L.4.1.A",
+      "explain": "When is the relative adverb that points back to a time. Where points to a place, and whose shows belonging."
+    },
+    {
+      "id": "g4_v40_007",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Greek and Latin Roots",
+      "difficulty": 3,
+      "prompt": "The root aud means hear. What is an audience?",
+      "options": [
+        "people who listen",
+        "a loud machine",
+        "a written speech",
+        "a large stage room"
+      ],
+      "correct": 0,
+      "standard": "L.4.4.B",
+      "explain": "Audience carries the root aud, so it names the people who hear something."
+    },
+    {
+      "id": "g4_v40_008",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Run-on Sentences",
+      "difficulty": 4,
+      "prompt": "Which choice fixes this run-on?  We packed the tent it started to rain.",
+      "options": [
+        "We packed the tent it started to rain soon.",
+        "We packed the tent, it started to rain.",
+        "We packed, the tent it started to rain.",
+        "We packed the tent, and it started to rain."
+      ],
+      "correct": 3,
+      "standard": "L.4.1.F",
+      "explain": "Two complete thoughts need a comma plus a joining word such as and. A comma on its own still leaves a run-on."
+    },
+    {
+      "id": "g4_v40_009",
+      "grade": "g4",
+      "subject": "ela",
+      "topic": "Frequently Confused Words",
+      "difficulty": 2,
+      "prompt": "Choose the sentence with the correct word.",
+      "options": [
+        "The cat licked it's paw.",
+        "The cat licked its paw.",
+        "The cat licked its' paw.",
+        "The cat licked it is paw."
+      ],
+      "correct": 1,
+      "standard": "L.4.1.G",
+      "explain": "Its shows belonging. It's is short for it is, and its' is not a word at all."
+    },
+    {
+      "id": "g4_v40_010",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Structure",
+      "difficulty": 3,
+      "type": "reading",
+      "passage": "Glaciers move in slow stages. First, snow piles up season after season. Next, the weight presses the lower layers into dense ice. Then gravity pulls the whole mass downhill, a few centimeters a day. Finally, the ice reaches warmer ground and melts, dropping the rocks it carried.",
+      "prompt": "How is this passage organized?",
+      "options": [
+        "in order of stages",
+        "by comparing two places",
+        "as a list of causes",
+        "by asking questions"
+      ],
+      "correct": 0,
+      "standard": "RI.4.5",
+      "explain": "The words First, Next, Then, and Finally mark one stage after another in time."
+    },
+    {
+      "id": "g4_v40_011",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Text Evidence",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "The town moved its farmers market from the parking lot to the shaded park green. Vendors reported that fruit stayed firm through the afternoon and that fewer crates had to be thrown out at closing. Shoppers stayed longer too, and three vendors added a second table by August.",
+      "prompt": "Which detail from the passage best supports the idea that the move helped vendors waste less food?",
+      "options": [
+        "Shoppers stayed longer.",
+        "Three vendors added a second table.",
+        "Fewer crates had to be thrown out.",
+        "The market moved to the shaded park green."
+      ],
+      "correct": 2,
+      "standard": "RI.4.1",
+      "explain": "Crates thrown out at closing are wasted food, so fewer of them is the direct evidence of food saved."
+    },
+    {
+      "id": "g4_v40_012",
+      "grade": "g4",
+      "subject": "reading",
+      "topic": "Compare and Contrast",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Maya's journal: My hands shook as I stepped onto the ice, and the cold went right through my mittens. The park report: On January 8, the rink opened to 240 skaters, and staff recorded the ice at four inches thick.",
+      "prompt": "How is Maya's journal different from the park report?",
+      "options": [
+        "It tells how she felt.",
+        "It gives more numbers.",
+        "It was written later on.",
+        "It names the rink staff."
+      ],
+      "correct": 0,
+      "standard": "RI.4.6",
+      "explain": "A firsthand account shares the writer's own feelings, while the report lists only dates and measurements."
+    },
+    {
+      "id": "g4_v40_013",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Electricity",
+      "difficulty": 3,
+      "prompt": "A bulb lights when a battery, wires, and the bulb form a closed loop. What happens if one wire is disconnected?",
+      "options": [
+        "The bulb gets brighter.",
+        "The bulb goes out.",
+        "The battery gets warmer.",
+        "The bulb blinks slowly."
+      ],
+      "correct": 1,
+      "standard": "NGSS-4-PS3-2",
+      "explain": "An electric current needs a complete path. Break the loop anywhere and the energy stops reaching the bulb."
+    },
+    {
+      "id": "g4_v40_014",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Fossils and Rock Layers",
+      "difficulty": 4,
+      "prompt": "A cliff shows a layer of sea-shell fossils underneath a layer of desert sand. What does this most likely tell scientists?",
+      "options": [
+        "The shells were blown in by wind.",
+        "The sand is older than the shells.",
+        "The cliff has never changed.",
+        "The area was once underwater."
+      ],
+      "correct": 3,
+      "standard": "NGSS-4-ESS1-1",
+      "explain": "Lower layers form first, so sea-shell fossils under the sand mean water covered the area before the desert did."
+    },
+    {
+      "id": "g4_v40_015",
+      "grade": "g4",
+      "subject": "science",
+      "topic": "Waves",
+      "difficulty": 3,
+      "prompt": "A toy boat floats on a pond. A wave passes under it. What does the boat mostly do?",
+      "options": [
+        "It sinks to the bottom.",
+        "It races to the shore.",
+        "It bobs up and down.",
+        "It stops moving at all."
+      ],
+      "correct": 2,
+      "standard": "NGSS-4-PS4-1",
+      "explain": "A wave carries energy through the water, so the boat rises and falls close to the same spot as the wave goes by."
+    },
+    {
+      "id": "g4_v40_016",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Colonial NY",
+      "difficulty": 3,
+      "prompt": "Dutch settlers built a colony town on Manhattan Island in the 1620s. What did they name it?",
+      "options": [
+        "Massachusetts Bay",
+        "New Amsterdam",
+        "New Haven",
+        "Plymouth"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-4",
+      "explain": "The Dutch named their town New Amsterdam. The English renamed it after taking control in 1664.",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (4.3 Colonial and Revolutionary Period)"
+    },
+    {
+      "id": "g4_v40_017",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Civic Participation",
+      "difficulty": 3,
+      "prompt": "Residents want a crosswalk near their school. Which action is most likely to get the town board to act?",
+      "options": [
+        "speak at a town board meeting",
+        "wait for the next school year",
+        "paint lines on the road at night",
+        "tell only their close friends"
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-4",
+      "explain": "A town board hears residents at its public meetings, which is how people ask local government to change something.",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Civic Participation)"
+    },
+    {
+      "id": "g4_v40_018",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Immigration",
+      "difficulty": 4,
+      "prompt": "For many years, people arriving in New York by ship first stopped at Ellis Island. Why did they have to stop there?",
+      "options": [
+        "to find a job on the island",
+        "to buy a ticket for the ship",
+        "to be checked before entering",
+        "because no bridges reached the city"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-4",
+      "explain": "Ellis Island held the federal inspection station, where officials checked each arriving passenger's papers and health.",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (4.7 Immigration and Migration)"
+    },
+    {
+      "id": "g4_v40_019",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Local Government",
+      "difficulty": 2,
+      "prompt": "Which job belongs to a town's local government?",
+      "options": [
+        "printing dollar bills",
+        "signing treaties",
+        "running the army",
+        "fixing town roads"
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-4",
+      "explain": "Local government takes care of local services such as roads. Money, treaties, and the army are federal jobs.",
+      "source": "New York State K-8 Social Studies Framework, Grade 4 (Local Government)"
+    },
+    {
+      "id": "g4_v40_020",
+      "grade": "g4",
+      "subject": "social_studies",
+      "topic": "Maps",
+      "difficulty": 2,
+      "prompt": "A map's scale shows that 1 inch stands for 20 miles. What is a scale used for?",
+      "options": [
+        "to name the state capital",
+        "to measure real distance",
+        "to show the map's age",
+        "to count the roads drawn"
+      ],
+      "correct": 1,
+      "standard": "NYS-SS-4",
+      "explain": "A scale turns a distance you measure on the map into the matching distance on the ground."
+    },
+    {
+      "id": "g5_v40_001",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Powers of Ten",
+      "difficulty": 3,
+      "prompt": "What is 250 divided by 1,000?",
+      "options": [
+        "0.25",
+        "2.5",
+        "0.025",
+        "25"
+      ],
+      "correct": 0,
+      "standard": "5.NBT.A.2",
+      "explain": "Dividing by 1,000 shifts every digit three places to the right, so 250 becomes 0.25."
+    },
+    {
+      "id": "g5_v40_002",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Line Plots",
+      "difficulty": 4,
+      "prompt": "A line plot shows four beakers holding 1/4 L, 1/2 L, 1/2 L, and 3/4 L of water. If the water is shared equally among the four beakers, how much is in each one?",
+      "options": [
+        "1/4 L",
+        "3/4 L",
+        "1/2 L",
+        "2 L"
+      ],
+      "correct": 2,
+      "standard": "5.MD.B.2",
+      "explain": "The beakers hold 1/4 + 1/2 + 1/2 + 3/4 = 2 liters in all, and 2 divided by 4 is 1/2 liter each."
+    },
+    {
+      "id": "g5_v40_003",
+      "grade": "g5",
+      "subject": "math",
+      "topic": "Division",
+      "difficulty": 5,
+      "prompt": "A crate holds exactly 24 boxes. A warehouse has 8,380 boxes to pack. How many full crates can be packed, and how many boxes are left over?",
+      "options": [
+        "348 crates, 28 boxes left",
+        "349 crates, 0 boxes left",
+        "350 crates, 4 boxes left",
+        "349 crates, 4 boxes left"
+      ],
+      "correct": 3,
+      "standard": "5.NBT.B.6",
+      "explain": "24 x 349 = 8,376, and 8,380 - 8,376 = 4, so 349 crates fill up and 4 boxes are left over."
+    },
+    {
+      "id": "g5_v40_004",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Verb Tenses",
+      "difficulty": 3,
+      "prompt": "Which sentence shows an action that was already finished before another past action?",
+      "options": [
+        "She has left before the rain began.",
+        "She had left before the rain began.",
+        "She leaves before the rain began.",
+        "She will leave before the rain began."
+      ],
+      "correct": 1,
+      "standard": "L.5.1.C",
+      "explain": "The past perfect, had left, marks the action that finished first, before the second past action began."
+    },
+    {
+      "id": "g5_v40_005",
+      "grade": "g5",
+      "subject": "ela",
+      "topic": "Homographs",
+      "difficulty": 2,
+      "prompt": "Read this sentence: The desert wind dried our canteens. What does desert mean here?",
+      "options": [
+        "a dry region",
+        "to abandon",
+        "a sweet course",
+        "to run away"
+      ],
+      "correct": 0,
+      "standard": "L.5.4.A",
+      "explain": "Here desert is a noun naming dry land. The verb desert, meaning to abandon, is stressed on its second syllable."
+    },
+    {
+      "id": "g5_v40_006",
+      "grade": "g5",
+      "subject": "reading",
+      "topic": "Evaluating Evidence",
+      "difficulty": 4,
+      "type": "reading",
+      "passage": "Our district should keep the late bus. Last spring, 214 students used it at least twice a week, and 61 of them had no other ride home. Coaches reported that attendance at after-school practice fell by a third during the two weeks the bus was out for repairs.",
+      "prompt": "Which evidence most directly supports the claim that students depend on the late bus?",
+      "options": [
+        "The bus was out for repairs.",
+        "Coaches reported on practice.",
+        "Sixty-one riders had no other ride.",
+        "The claim appears in the first line."
+      ],
+      "correct": 2,
+      "standard": "RI.5.8",
+      "explain": "Students with no other way home cannot get there without the bus, which shows dependence directly."
+    },
+    {
+      "id": "g5_v40_007",
+      "grade": "g5",
+      "subject": "science",
+      "topic": "Gravity",
+      "difficulty": 4,
+      "prompt": "A student standing in Australia drops a ball. Which way does the ball fall?",
+      "options": [
+        "toward the North Pole",
+        "toward Earth's center",
+        "away from Earth",
+        "sideways to the east"
+      ],
+      "correct": 1,
+      "standard": "NGSS-5-PS2-1",
+      "explain": "Earth pulls every object toward its center, so down points toward the center no matter where on the globe you stand."
+    },
+    {
+      "id": "g5_v40_008",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Articles of Confederation",
+      "difficulty": 5,
+      "prompt": "Under the Articles of Confederation, Congress could ask the states for money but could not collect taxes itself. What problem did this create?",
+      "options": [
+        "States could not trade with each other.",
+        "Congress had too many members.",
+        "States lost the power to make laws.",
+        "Congress could not pay its debts."
+      ],
+      "correct": 3,
+      "standard": "NYS-SS-5",
+      "explain": "States often sent little or nothing, so Congress had no steady income and fell behind on what it owed."
+    },
+    {
+      "id": "g5_v40_009",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Civic Responsibility",
+      "difficulty": 2,
+      "prompt": "Which of these is a responsibility of a United States citizen rather than a right?",
+      "options": [
+        "speaking freely",
+        "practicing a religion",
+        "serving on a jury",
+        "gathering peacefully"
+      ],
+      "correct": 2,
+      "standard": "NYS-SS-5",
+      "explain": "Speech, religion, and assembly are rights protected by the First Amendment. Jury service is a duty citizens are called to perform."
+    },
+    {
+      "id": "g5_v40_010",
+      "grade": "g5",
+      "subject": "social_studies",
+      "topic": "Constitutional Convention",
+      "difficulty": 5,
+      "prompt": "At the Constitutional Convention, small states wanted every state to have equal votes and large states wanted votes based on population. How was that disagreement settled?",
+      "options": [
+        "Congress was given two houses.",
+        "Small states were given more votes.",
+        "The states voted on it each year.",
+        "Population counts were dropped."
+      ],
+      "correct": 0,
+      "standard": "NYS-SS-5",
+      "explain": "The Great Compromise created the Senate, where each state has two votes, and the House, where seats depend on population."
     }
   ]
 }
